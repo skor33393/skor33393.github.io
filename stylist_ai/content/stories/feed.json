@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "stylist-notes-2026-10-v5-web-v1",
+  "revision": "stylist-notes-2026-10-v6-web-v1",
   "subtitle": "Style knowledge for your everyday wardrobe.",
   "defaultLocale": "en",
   "cacheTTLSeconds": 900,
@@ -957,95 +957,126 @@
       "stylistId": "elena-rossi",
       "cover": {
         "id": "launch-2026-10-shoe-switch-cover",
-        "revision": "1-web-jpeg-v1",
-        "url": "https://bestme.mobi/stylist_ai/content/stories/media/shoe-switch-cover-d1ea478daf5f810d.jpg",
+        "revision": "3-web-jpeg-v1",
+        "url": "https://bestme.mobi/stylist_ai/content/stories/media/shoe-switch-cover-151342d4e5439f28.jpg",
         "mimeType": "image/jpeg",
-        "sha256": "d1ea478daf5f810de2440993bb6208166e0731fdbb12027d7a0bee96b812b9f0"
+        "sha256": "151342d4e5439f283bfcdec1ac96cc884a90d5d33b7c8fc69c111ace3f6d3e68"
       },
       "priority": 93,
       "posts": [
         {
           "id": "shoe-switch-1",
-          "revision": "2",
+          "revision": "3",
           "type": "image",
           "media": {
             "id": "launch-2026-10-shoe-switch-1",
-            "revision": "1-web-jpeg-v1",
-            "url": "https://bestme.mobi/stylist_ai/content/stories/media/shoe-switch-1-9c296205a85c5e43.jpg",
+            "revision": "3-web-jpeg-v1",
+            "url": "https://bestme.mobi/stylist_ai/content/stories/media/shoe-switch-1-07d7228eb6f57f81.jpg",
             "mimeType": "image/jpeg",
-            "sha256": "9c296205a85c5e4309a271e4b9325f0397fb444e33f977559517f27b696753d3"
+            "sha256": "07d7228eb6f57f81bb60111a1a270fb4bcb3f18b19e0a2e0e96600486c56615b"
           },
           "durationSeconds": 15,
           "allowSave": false,
-          "alternativeText": "The same beige dress with dark flats or light trainers; a handbag offers a second accent.",
+          "alternativeText": "Two matching full-length views of a woman in an ivory midi dress: black ballet flats on the left and white trainers on the right.",
           "content": {
-            "eyebrow": "STYLE NOTE 08 · THE IDEA",
-            "title": "Your outfit has another side",
-            "body": "Keep your clothes and try a different shoe mood. Swap a delicate flat for a trainer, or a sporty shoe for a loafer. Notice how the outfit changes.",
-            "backgroundHex": "#3E332D"
+            "eyebrow": "CHANGE THE FINISH",
+            "title": "One dress.\nTwo moods.",
+            "body": "Keep the dress. Compare a delicate flat with a simple trainer. The shoe changes the feeling without changing the outfit.",
+            "backgroundHex": "#F4EEE4",
+            "presentation": {
+              "layout": "comparison",
+              "labels": [
+                "Soft flat",
+                "Sporty trainer"
+              ],
+              "imageFit": "contain"
+            }
           }
         },
         {
           "id": "shoe-switch-2",
-          "revision": "1",
+          "revision": "3",
           "type": "image",
           "media": {
             "id": "launch-2026-10-shoe-switch-2",
-            "revision": "1-web-jpeg-v1",
-            "url": "https://bestme.mobi/stylist_ai/content/stories/media/shoe-switch-2-7033a2d8942eedcc.jpg",
+            "revision": "3-web-jpeg-v1",
+            "url": "https://bestme.mobi/stylist_ai/content/stories/media/shoe-switch-2-ddac6916eb46aa86.jpg",
             "mimeType": "image/jpeg",
-            "sha256": "7033a2d8942eedcc24b9b9fc74ae3e3eb46c1b27988d7cc38068acb9e35ae9c8"
+            "sha256": "ddac6916eb46aa86e6ff7bfe2efa17152719b2dcdea1371bb8922688b5ee909f"
           },
           "durationSeconds": 15,
           "allowSave": false,
-          "alternativeText": "The same beige dress with dark flats or light trainers; a handbag offers a second accent.",
+          "alternativeText": "Side view of a woman stepping in an ivory midi dress and white trainers; her full shoes and clear hem are visible.",
           "content": {
-            "eyebrow": "STYLE NOTE 08 · TRY IT",
-            "title": "Keep the clothes. Swap the mood.",
-            "body": "Try a flowing dress with trainers, or relaxed trousers with a sleek flat. Choose shoes you can comfortably wear for your actual day.",
-            "backgroundHex": "#3E332D"
+            "eyebrow": "MAKE IT WEARABLE",
+            "title": "Check the hem\nwith the shoe.",
+            "body": "Walk a few steps in the pair you chose. The hem should clear the floor and let you move easily. Comfort is part of the styling.",
+            "backgroundHex": "#F4EEE4",
+            "presentation": {
+              "layout": "magazine",
+              "labels": [
+                "Hem clears floor",
+                "Easy steps"
+              ]
+            }
           }
         },
         {
           "id": "shoe-switch-3",
-          "revision": "1",
+          "revision": "3",
           "type": "image",
           "media": {
             "id": "launch-2026-10-shoe-switch-3",
-            "revision": "1-web-jpeg-v1",
-            "url": "https://bestme.mobi/stylist_ai/content/stories/media/shoe-switch-3-59ce85b6d398b826.jpg",
+            "revision": "3-web-jpeg-v1",
+            "url": "https://bestme.mobi/stylist_ai/content/stories/media/shoe-switch-3-da36dd443c2d3b11.jpg",
             "mimeType": "image/jpeg",
-            "sha256": "59ce85b6d398b8261a7781ffdabc78f042cb51cbedb853d57d2d75c31dafd849"
+            "sha256": "da36dd443c2d3b1123e8c37fc2a207c325273720ef8521363e18655eafa86d9c"
           },
           "durationSeconds": 15,
           "allowSave": false,
-          "alternativeText": "A single illustrated outfit with three detail prompts.",
+          "alternativeText": "Ivory dress arranged beside forest-green loafers and a matching small green leather bag.",
           "content": {
-            "eyebrow": "STYLE NOTE 08 · MAKE IT YOURS",
-            "title": "Make it feel intentional",
-            "body": "Repeat a shoe colour in a small accessory, or let the shoe be the only contrast. Photograph both versions to see what you like.",
-            "backgroundHex": "#3E332D"
+            "eyebrow": "CONNECT TWO DETAILS",
+            "title": "Echo the\nshoe colour.",
+            "body": "A small bag can repeat the colour of your shoes. Here, forest green links the two pieces while the dress stays quiet.",
+            "backgroundHex": "#F4EEE4",
+            "presentation": {
+              "layout": "flatlay",
+              "labels": [
+                "Forest-green shoes",
+                "Matching small bag"
+              ],
+              "imageFit": "contain"
+            }
           }
         },
         {
           "id": "shoe-switch-4",
-          "revision": "2",
+          "revision": "3",
           "type": "image",
           "media": {
             "id": "launch-2026-10-shoe-switch-4",
-            "revision": "1-web-jpeg-v1",
-            "url": "https://bestme.mobi/stylist_ai/content/stories/media/shoe-switch-4-b4d9e0d93a15cedf.jpg",
+            "revision": "3-web-jpeg-v1",
+            "url": "https://bestme.mobi/stylist_ai/content/stories/media/shoe-switch-4-0d88cdd1df0cf376.jpg",
             "mimeType": "image/jpeg",
-            "sha256": "b4d9e0d93a15cedf03dc0afd01254ff7245a940b1d8717d00d5dc007e39fdc20"
+            "sha256": "0d88cdd1df0cf376e459ff1695f0b009cf51eaa018d0f6f8281f9e37c6f0da1f"
           },
           "durationSeconds": 15,
           "allowSave": false,
-          "alternativeText": "An illustrated outfit beside three prompts: choose from your closet, change one detail, take a photo.",
+          "alternativeText": "Two identical tee-and-jeans flat lays; only the shoes change from white trainers to burgundy ballet flats.",
           "content": {
-            "eyebrow": "YOUR TURN",
-            "title": "A no-shopping challenge",
-            "body": "Pick an outfit you wear on repeat. Try the least expected comfortable shoes you already own. Keep the combination if it feels like you.",
-            "backgroundHex": "#3E332D"
+            "eyebrow": "YOUR CLOSET EXPERIMENT",
+            "title": "Try the pair\nyou overlook.",
+            "body": "Take a tee-and-jeans outfit you wear often. Try a flat you already own instead of trainers. Keep the version that suits your day.",
+            "backgroundHex": "#F4EEE4",
+            "presentation": {
+              "layout": "comparison",
+              "labels": [
+                "White trainer",
+                "Burgundy flat"
+              ],
+              "imageFit": "contain"
+            }
           }
         }
       ]
@@ -1057,95 +1088,135 @@
       "stylistId": "hana-park",
       "cover": {
         "id": "launch-2026-10-oversized-cover",
-        "revision": "1-web-jpeg-v1",
-        "url": "https://bestme.mobi/stylist_ai/content/stories/media/oversized-cover-8f706433ea5a7062.jpg",
+        "revision": "3-web-jpeg-v1",
+        "url": "https://bestme.mobi/stylist_ai/content/stories/media/oversized-cover-57ae88b17e86accb.jpg",
         "mimeType": "image/jpeg",
-        "sha256": "8f706433ea5a706212aba64d57846ffb0645cc0a5196ad81375758ef30170c35"
+        "sha256": "57ae88b17e86accb39fd21aa8d3f7a03d6722d6cc9610477d749fe24f65e052f"
       },
       "priority": 92,
       "posts": [
         {
           "id": "oversized-1",
-          "revision": "1",
+          "revision": "3",
           "type": "image",
           "media": {
             "id": "launch-2026-10-oversized-1",
-            "revision": "1-web-jpeg-v1",
-            "url": "https://bestme.mobi/stylist_ai/content/stories/media/oversized-1-29771dcfa3a2ff04.jpg",
+            "revision": "3-web-jpeg-v1",
+            "url": "https://bestme.mobi/stylist_ai/content/stories/media/oversized-1-0e00b62626940412.jpg",
             "mimeType": "image/jpeg",
-            "sha256": "29771dcfa3a2ff043d5c88f7aa238e084e0175d2f799422ec47b9b0cf3ea3652"
+            "sha256": "0e00b62626940412044ff37bea726816643d5c51124f5f4e49e380f90fef98ee"
           },
           "durationSeconds": 15,
           "allowSave": false,
-          "alternativeText": "A roomy green jacket and beige trousers are compared with a simpler green top and beige trousers.",
+          "alternativeText": "Full-length woman wearing a roomy olive jacket, white tee, straight ecru trousers and brown loafers.",
           "content": {
-            "eyebrow": "STYLE NOTE 09 · THE IDEA",
-            "title": "Oversized, on purpose",
-            "body": "If you want to try a roomier shape, start with one piece. You can enjoy volume without following a rule about your body.",
-            "backgroundHex": "#2D3733"
+            "eyebrow": "EXPLORE THE SHAPE",
+            "title": "Roomy,\nwith intention.",
+            "body": "Start with one generous layer over a familiar base. A roomy jacket and straight trousers let you try volume without changing everything.",
+            "backgroundHex": "#F4EEE4",
+            "presentation": {
+              "layout": "magazine",
+              "labels": [
+                "Roomy jacket",
+                "Familiar base"
+              ]
+            }
           }
         },
         {
           "id": "oversized-2",
-          "revision": "1",
+          "revision": "3",
           "type": "image",
           "media": {
             "id": "launch-2026-10-oversized-2",
-            "revision": "1-web-jpeg-v1",
-            "url": "https://bestme.mobi/stylist_ai/content/stories/media/oversized-2-145d4c6aa60ea7ff.jpg",
+            "revision": "3-web-jpeg-v1",
+            "url": "https://bestme.mobi/stylist_ai/content/stories/media/oversized-2-d4cbee08af834213.jpg",
             "mimeType": "image/jpeg",
-            "sha256": "145d4c6aa60ea7ff65218f8915bf2e4137e9c367696ec04afaef63aaf9b3bb9b"
+            "sha256": "d4cbee08af834213b2a825fe3db77f2bdc1b45bba48f45a1dd66fe11a28ecacf"
           },
           "durationSeconds": 15,
           "allowSave": false,
-          "alternativeText": "A roomy green jacket and beige trousers are compared with a simpler green top and beige trousers.",
+          "alternativeText": "Two full-length outfits: roomy olive jacket with straight trousers, and a closer ivory top with wide olive trousers.",
           "content": {
-            "eyebrow": "STYLE NOTE 09 · TRY IT",
-            "title": "Choose where to add room",
-            "body": "Try a generous jacket over a simple base, or wide trousers with a closer top. This makes it easier to see which shape you enjoy.",
-            "backgroundHex": "#2D3733"
+            "eyebrow": "COMPARE THE SILHOUETTES",
+            "title": "Pick where\nto add room.",
+            "body": "Try volume on top, then below. Compare a roomy jacket with wide trousers. Neither is a rule—choose the shape you enjoy wearing.",
+            "backgroundHex": "#F4EEE4",
+            "presentation": {
+              "layout": "comparison",
+              "labels": [
+                "Room on top",
+                "Room below"
+              ],
+              "imageFit": "contain"
+            }
           }
         },
         {
           "id": "oversized-3",
-          "revision": "1",
+          "revision": "3",
           "type": "image",
           "media": {
             "id": "launch-2026-10-oversized-3",
-            "revision": "1-web-jpeg-v1",
-            "url": "https://bestme.mobi/stylist_ai/content/stories/media/oversized-3-df0ab0ab2b46dc8a.jpg",
+            "revision": "3-web-jpeg-v1",
+            "url": "https://bestme.mobi/stylist_ai/content/stories/media/oversized-3-c52d047673b38fda.jpg",
             "mimeType": "image/jpeg",
-            "sha256": "df0ab0ab2b46dc8ac25510df2bf781c67e080e75876aac50df23622615d1b9dc"
+            "sha256": "c52d047673b38fda13b7638503f2bc82580896639476df8a040a693aecfd4f08"
           },
           "durationSeconds": 15,
           "allowSave": false,
-          "alternativeText": "A single illustrated outfit with three detail prompts.",
+          "alternativeText": "Close view of rolled olive jacket cuffs ending above the wrists, with both hands unobstructed.",
           "content": {
-            "eyebrow": "STYLE NOTE 09 · MAKE IT YOURS",
-            "title": "Keep the practical checks",
-            "body": "Raise your arms and sit down. Check that sleeves leave your hands free and trouser hems clear the ground in your chosen shoes.",
-            "backgroundHex": "#2D3733"
+            "eyebrow": "A SMALL PRACTICAL FIX",
+            "title": "Let your\nhands be free.",
+            "body": "Turn back a long cuff, then reach and bend your arms. Keep the relaxed sleeve while giving your hands room to work.",
+            "backgroundHex": "#F4EEE4",
+            "presentation": {
+              "layout": "editorial",
+              "labels": [
+                "Turned-back cuff",
+                "Hands free"
+              ],
+              "labelPositions": [
+                {
+                  "x": 0.25,
+                  "y": 0.31
+                },
+                {
+                  "x": 0.76,
+                  "y": 0.55
+                }
+              ]
+            }
           }
         },
         {
           "id": "oversized-4",
-          "revision": "2",
+          "revision": "3",
           "type": "image",
           "media": {
             "id": "launch-2026-10-oversized-4",
-            "revision": "1-web-jpeg-v1",
-            "url": "https://bestme.mobi/stylist_ai/content/stories/media/oversized-4-8d8489a428df9833.jpg",
+            "revision": "3-web-jpeg-v1",
+            "url": "https://bestme.mobi/stylist_ai/content/stories/media/oversized-4-b920e9c6a047ad1e.jpg",
             "mimeType": "image/jpeg",
-            "sha256": "8d8489a428df983340dd611e470b0278ba718d962c5f51d6bed0bb241450a840"
+            "sha256": "b920e9c6a047ad1ea3cdc9277e286bc6611b66a45baa97c2efba21e503f3fe94"
           },
           "durationSeconds": 15,
           "allowSave": false,
-          "alternativeText": "An illustrated outfit beside three prompts: choose from your closet, change one detail, take a photo.",
+          "alternativeText": "Low side view of wide olive trouser hems clearing the floor above chocolate loafers.",
           "content": {
-            "eyebrow": "YOUR TURN",
-            "title": "Try the one-piece test",
-            "body": "Wear one oversized piece with two familiar items. Take a photo, then try the other silhouette. Choose comfort and the mood you like.",
-            "backgroundHex": "#2D3733"
+            "eyebrow": "CHECK BEFORE YOU GO",
+            "title": "Keep the hem\noff the ground.",
+            "body": "Check wide trousers in the shoes you will actually wear. If the fabric catches under your heel, try a shorter hem or a different pair.",
+            "backgroundHex": "#F4EEE4",
+            "presentation": {
+              "layout": "flatlay",
+              "labels": [
+                "Clear hem",
+                "Everyday shoes"
+              ],
+              "imageFit": "contain"
+            }
           }
         }
       ]
@@ -1157,95 +1228,135 @@
       "stylistId": "priya-shah",
       "cover": {
         "id": "launch-2026-10-inspiration-cover",
-        "revision": "1-web-jpeg-v1",
-        "url": "https://bestme.mobi/stylist_ai/content/stories/media/inspiration-cover-df9490828c3f98ee.jpg",
+        "revision": "3-web-jpeg-v1",
+        "url": "https://bestme.mobi/stylist_ai/content/stories/media/inspiration-cover-f71e45d3056ee670.jpg",
         "mimeType": "image/jpeg",
-        "sha256": "df9490828c3f98ee910a45862b452c7163973138e95b4de3a60357ac18fde447"
+        "sha256": "f71e45d3056ee67026d2b3b536858a768cb9f6aa0423248d919faeb299c08d35"
       },
       "priority": 91,
       "posts": [
         {
           "id": "inspiration-1",
-          "revision": "1",
+          "revision": "3",
           "type": "image",
           "media": {
             "id": "launch-2026-10-inspiration-1",
-            "revision": "1-web-jpeg-v1",
-            "url": "https://bestme.mobi/stylist_ai/content/stories/media/inspiration-1-4517cdd627e0b662.jpg",
+            "revision": "3-web-jpeg-v1",
+            "url": "https://bestme.mobi/stylist_ai/content/stories/media/inspiration-1-cffa07c77bb14846.jpg",
             "mimeType": "image/jpeg",
-            "sha256": "4517cdd627e0b662519d9d2ff464076a1b17dc7d6f52745bb76fc041c58b42bf"
+            "sha256": "cffa07c77bb14846593034e1c317d349cfdef8260e6ac44f55d56c0c58b54740"
           },
           "durationSeconds": 15,
           "allowSave": false,
-          "alternativeText": "A light top and navy trousers with dark flats, compared with a taupe top and navy trousers; both have a small handbag.",
+          "alternativeText": "Woman in cream cardigan, relaxed navy trousers and chocolate loafers against pale stone.",
           "content": {
-            "eyebrow": "STYLE NOTE 10 · THE IDEA",
-            "title": "Save the idea, then wear it",
-            "body": "An inspiration photo is a styling prompt. Identify what you enjoy about it before searching for the exact clothes.",
-            "backgroundHex": "#362A35"
+            "eyebrow": "THREE THINGS TO NOTICE",
+            "title": "Find the idea\nin the outfit.",
+            "body": "Look for colour, shape, and mood. Here: cream with navy, relaxed trousers, and a polished flat. You can recreate the idea with different pieces.",
+            "backgroundHex": "#F4EEE4",
+            "presentation": {
+              "layout": "magazine",
+              "labels": [
+                "Cream + navy",
+                "Relaxed shape"
+              ]
+            }
           }
         },
         {
           "id": "inspiration-2",
-          "revision": "1",
+          "revision": "3",
           "type": "image",
           "media": {
             "id": "launch-2026-10-inspiration-2",
-            "revision": "1-web-jpeg-v1",
-            "url": "https://bestme.mobi/stylist_ai/content/stories/media/inspiration-2-e73293bf7abb4931.jpg",
+            "revision": "3-web-jpeg-v1",
+            "url": "https://bestme.mobi/stylist_ai/content/stories/media/inspiration-2-f3634e200e09ec40.jpg",
             "mimeType": "image/jpeg",
-            "sha256": "e73293bf7abb4931acf6edd6c8ec5fae202fe4c0a331df472348b850331123c3"
+            "sha256": "f3634e200e09ec400a34805a60ed0bcc4bf7cf7690e61f6e08fe34bd8f18cc5b"
           },
           "durationSeconds": 15,
           "allowSave": false,
-          "alternativeText": "A light top and navy trousers with dark flats, compared with a taupe top and navy trousers; both have a small handbag.",
+          "alternativeText": "Cream knit, navy relaxed trousers and chocolate loafers arranged as a complete outfit on ivory paper.",
           "content": {
-            "eyebrow": "STYLE NOTE 10 · TRY IT",
-            "title": "Notice three ingredients",
-            "body": "Look for a colour relationship, a silhouette and a mood. For example: cream with navy, relaxed trousers, and a polished finish.",
-            "backgroundHex": "#362A35"
+            "eyebrow": "MAKE IT SIMPLE",
+            "title": "Read the\noutfit recipe.",
+            "body": "Separate the idea into pieces: a light top, dark relaxed trousers, and a neat shoe. These ingredients are easier to reuse than an exact look.",
+            "backgroundHex": "#F4EEE4",
+            "presentation": {
+              "layout": "flatlay",
+              "labels": [
+                "Light over dark",
+                "A polished finish"
+              ],
+              "imageFit": "contain"
+            }
           }
         },
         {
           "id": "inspiration-3",
-          "revision": "1",
+          "revision": "3",
           "type": "image",
           "media": {
             "id": "launch-2026-10-inspiration-3",
-            "revision": "1-web-jpeg-v1",
-            "url": "https://bestme.mobi/stylist_ai/content/stories/media/inspiration-3-3c1b0a73656daa24.jpg",
+            "revision": "3-web-jpeg-v1",
+            "url": "https://bestme.mobi/stylist_ai/content/stories/media/inspiration-3-aadc6ddd669b1414.jpg",
             "mimeType": "image/jpeg",
-            "sha256": "3c1b0a73656daa247d71b54c5d4278acd7d14045662a0bac31028b93adf8e117"
+            "sha256": "aadc6ddd669b1414b52a5257037002194e2fa95b4c20b2944accb666df153cfe"
           },
           "durationSeconds": 15,
           "allowSave": false,
-          "alternativeText": "A single illustrated outfit with three detail prompts.",
+          "alternativeText": "Two matching navy-trouser outfits; cream blazer on the left, cream cardigan on the right.",
           "content": {
-            "eyebrow": "STYLE NOTE 10 · MAKE IT YOURS",
-            "title": "Translate with what you own",
-            "body": "Use a cardigan instead of a blazer if it creates the feeling you want. Your proportions, climate and day can guide the substitutions.",
-            "backgroundHex": "#362A35"
+            "eyebrow": "TRANSLATE THE FEELING",
+            "title": "Same idea.\nYour version.",
+            "body": "A cream cardigan can take the place of a cream blazer. Keep the navy trousers and neat shoes, and choose the layer that fits your day.",
+            "backgroundHex": "#F4EEE4",
+            "presentation": {
+              "layout": "comparison",
+              "labels": [
+                "Cream blazer",
+                "Soft cardigan"
+              ],
+              "imageFit": "contain"
+            }
           }
         },
         {
           "id": "inspiration-4",
-          "revision": "2",
+          "revision": "3",
           "type": "image",
           "media": {
             "id": "launch-2026-10-inspiration-4",
-            "revision": "1-web-jpeg-v1",
-            "url": "https://bestme.mobi/stylist_ai/content/stories/media/inspiration-4-0dd701f25f13002d.jpg",
+            "revision": "3-web-jpeg-v1",
+            "url": "https://bestme.mobi/stylist_ai/content/stories/media/inspiration-4-fb2db95afd5f682a.jpg",
             "mimeType": "image/jpeg",
-            "sha256": "0dd701f25f13002d3ceed366a8f6800c86c2ea50384bab5fa7dbac374271d261"
+            "sha256": "fb2db95afd5f682a3f5c7c3aea3b30d042d79b14c9ffae7345c8fbce7ff0fac4"
           },
           "durationSeconds": 15,
           "allowSave": false,
-          "alternativeText": "An illustrated outfit beside three prompts: choose from your closet, change one detail, take a photo.",
+          "alternativeText": "Cream cardigan and navy trousers hung together above chocolate loafers, ready for the next day.",
           "content": {
-            "eyebrow": "YOUR TURN",
-            "title": "Make one saved photo useful",
-            "body": "Choose a saved outfit. Write its three ingredients. Build your version from your wardrobe and photograph the result for later.",
-            "backgroundHex": "#362A35"
+            "eyebrow": "SAVE WHAT WORKS",
+            "title": "Make tomorrow\neasier.",
+            "body": "Try your version, then take a photo for yourself. Keep the pieces together so the next time you get dressed, you have a look ready to repeat.",
+            "backgroundHex": "#F4EEE4",
+            "presentation": {
+              "layout": "editorial",
+              "labels": [
+                "Chosen pieces",
+                "Ready to repeat"
+              ],
+              "labelPositions": [
+                {
+                  "x": 0.77,
+                  "y": 0.29
+                },
+                {
+                  "x": 0.77,
+                  "y": 0.57
+                }
+              ]
+            }
           }
         }
       ]
