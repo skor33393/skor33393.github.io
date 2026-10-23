@@ -9,7 +9,8 @@ This is a static English-language resource library for Pelvic Gym for iPhone, Ap
 - `_pelvic_gym/content/*.json`: article source, metadata, FAQs, source citations and related links.
 - `_pelvic_gym/build.py`: standard-library Python static generator and shared page templates.
 - `pelvic_gym/assets/site.css`: responsive styles.
-- `pelvic_gym/assets/site.js`: local article search/filter, print control, progress indicator, and dormant analytics hooks.
+- `pelvic_gym/assets/site.js`: local article search/filter, print control, progress indicator, and consent-gated Analytics events.
+- `pelvic_gym/assets/analytics.js`: Google tag loading, consent, withdrawal and URL minimization.
 - `pelvic_gym/`: generated HTML and optimized production assets; commit these for GitHub Pages.
 - `_pelvic_gym/`: source and maintenance documentation, excluded by GitHub Pages' standard Jekyll handling of underscore-prefixed directories.
 
@@ -19,6 +20,8 @@ Run:
 python3 _pelvic_gym/build.py
 python3 _pelvic_gym/tools/validate.py
 node --check pelvic_gym/assets/site.js
+node --check pelvic_gym/assets/analytics.js
+node _pelvic_gym/tools/test-analytics.cjs
 ```
 
 Build before committing content/template changes. Add new article slugs to `ORDER` in the generator. Keep categories consistent with `CATEGORIES`. Update publication/modification dates only for actual publication or material edits. The initial content date is October 24, 2026 (Dubai).
@@ -29,7 +32,7 @@ The validator checks generated page counts, internal links and anchors, canonica
 
 Inspect changes and commit only production pages/assets, reusable tooling and source. Push the reviewed commit to the existing Pages publishing branch, `master`, without force-pushing. If the remote advanced, fetch and integrate its changes before pushing. Wait for the GitHub Pages deployment to complete, then verify live responses for all sitemap URLs and the new asset paths.
 
-No credentials are stored in this repository. Use the already-configured `github-skor33393` SSH host alias. Do not add analytics keys, access tokens, machine paths, temporary QA files or generated screenshots to commits.
+No credentials are stored in this repository. Use the already-configured `github-skor33393` SSH host alias. Do not add private API keys, access tokens, machine paths, temporary QA files or generated screenshots to commits.
 
 ## Editorial standards
 
@@ -39,4 +42,4 @@ App Store badges are Apple's official unaltered artwork. The lifestyle image is 
 
 ## Search and measurement
 
-See [SEO strategy and competitor observations](SEO-STRATEGY.md) and [analytics options and activation](ANALYTICS.md). Search Console verification and website analytics are not active: the owner said they have no analytics account yet. The site must not imply that visitor numbers or installs are already being measured.
+See [SEO strategy and competitor observations](SEO-STRATEGY.md) and [analytics options and activation](ANALYTICS.md). Google Analytics is configured for consenting visitors using the journal web stream in the existing Pelvic Gym property. See ANALYTICS.md for identifiers, consent behavior and reports. Search Console verification is separate and remains outstanding. App Store clicks must not be reported as installations.
