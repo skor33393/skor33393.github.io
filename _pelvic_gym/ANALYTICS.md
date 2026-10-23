@@ -25,7 +25,7 @@ The existing personal Google Cloud sign-in could provision a web stream through 
 
 Enhanced measurement is off for this web stream. Search terms, form interactions, automatic outbound clicks and duplicate scroll events are not enabled. Google may still collect normal automatic events such as session starts and user engagement.
 
-The property also contains app traffic. In website reports or Explorations, use **Stream ID = 16191980837**, the journal stream name, or **Platform = web**. Do not report the property's combined app-plus-web user count as journal visitors.
+The property also contains app traffic. A saved comparison named **Pelvic Gym Journal** (`16192026927`) selects only the journal stream. Apply it through **Add comparison** in reports. In Explorations, use **Stream ID = 16191980837**, the journal stream name, or **Platform = web**. Do not report the property's combined app-plus-web user count as journal visitors.
 
 ## Where to look
 
@@ -54,6 +54,8 @@ The [website privacy notice](https://bestme.mobi/pelvic_gym/privacy/) describes 
 ## Maintenance and validation
 
 Run `node _pelvic_gym/tools/test-analytics.cjs`, `node --check pelvic_gym/assets/analytics.js`, `node --check pelvic_gym/assets/site.js`, then rebuild and run the HTML validator. Browser-check decline, opt-in, a repeat visit, withdrawal, mobile layout, and a real page view plus App Store click in Realtime after deployment. Do not simulate installations or purchases to verify website events.
+
+Deployment checks on October 24, 2026 passed for all 53 checked public URLs. Google's installation test confirmed the tag was detected on the live journal. Live browser checks confirmed no Google tag before consent or after withdrawal, and exactly one after consent. Test page views, an article scroll and an App Store click were performed; their receipt in Realtime was not yet visible at the initial check. Google's [setup guidance](https://support.google.com/analytics/answer/9304153) notes that initial collection can take up to 30 minutes. Do not confuse installation detection with confirmation of received events.
 
 Future changes to tracking require matching privacy text. Keep the consent script before `site.js` in the shared template. Google Analytics measurement IDs are public identifiers; access tokens and API secrets must never be added to frontend code.
 
