@@ -46,8 +46,10 @@
   const api = window.stylistAnalytics = {status: dryRun ? 'test' : 'loading'};
   if (dryRun) api.events = recorded;
   function event(name, params = {}) {
-    if (stopped) return;
     const payload = {...base, ...params};
+    // Independent destinations share one definition of each interaction.
+    window.dispatchEvent(new CustomEvent('stylist:analytics', {detail: {name, params: payload}}));
+    if (stopped) return;
     if (dryRun) { recorded.push({name, params: payload}); return; }
     if (send) send(name, payload);
     else if (queue.length < 150) queue.push([name, payload]);
@@ -145,7 +147,6 @@
     });
   }
   function resume() {
-    if (stopped) return;
     lastTick = performance.now();
     if (!timer) timer = setInterval(tick, 250);
     tick();
@@ -185,7 +186,6 @@
     } catch (_) {
       // Tracking is optional infrastructure; its failure must never break the page or CTA.
       api.status = 'unavailable'; stopped = true; queue.length = 0;
-      clearInterval(timer); timer = null;
     }
   })();
 })();
