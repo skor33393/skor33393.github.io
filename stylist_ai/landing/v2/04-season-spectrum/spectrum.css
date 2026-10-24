@@ -44,8 +44,11 @@
 .spectrum .download-dock { background: #fff; border-color: var(--line); color: var(--ink); box-shadow: 0 -6px 22px #29212705; }
 .spectrum .dock-copy span { color: #81777d; }
 .spectrum .dock-copy strong { font: 22px/1.15 Georgia, serif; letter-spacing: -.5px; }
-.spectrum .dock-copy .dock-stars { display: flex; gap: 3px; color: #ff617a; line-height: 0; }
-.spectrum .dock-stars svg { width: 13px; height: 13px; fill: currentColor; }
+.spectrum .dock-copy { gap: 3px; }
+.spectrum .dock-copy .dock-rating { display: flex; align-items: center; gap: 7px; color: var(--ink); line-height: 1; }
+.spectrum .dock-stars { width: 96px; height: 18px; flex-shrink: 0; }
+.spectrum .dock-score { font-size: 15px; font-weight: 500; letter-spacing: -.4px; }
+.spectrum .dock-copy .dock-rating-label { font-size: 8px; line-height: 1.2; }
 .spectrum .feature-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 .spectrum .makeup-divider { position: absolute; top: 0; bottom: 0; left: 50%; width: 1.5px; transform: translateX(-50%); background: linear-gradient(transparent, #fff 7%, #fff 93%, transparent); box-shadow: 0 0 5px #29212735; pointer-events: none; }
 .spectrum .makeup-label { position: absolute; top: 12px; background: #ffffffed; color: var(--ink); padding: 5px 8px; border: 1px solid #ffffffb3; border-radius: 20px; font-size: 9px; line-height: 1; }
