@@ -47,6 +47,9 @@
 .spectrum .closing { background: #fff0f2; color: var(--ink); border: 1px solid var(--line); }
 .spectrum .download-dock { background: #fff; border-color: var(--line); color: var(--ink); box-shadow: 0 -6px 22px #29212705; }
 .spectrum .dock-copy span { color: #81777d; }
+.spectrum .dock-copy strong { font: 22px/1.15 Georgia, serif; letter-spacing: -.5px; }
+.spectrum .dock-copy .dock-stars { display: flex; gap: 3px; color: #ff617a; line-height: 0; }
+.spectrum .dock-stars svg { width: 13px; height: 13px; fill: currentColor; }
 /* Small, direct links keep the new tools discoverable without crowding the hero. */
 .spectrum .feature-shortcuts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
 .spectrum .feature-shortcuts a { display: flex; align-items: center; justify-content: center; gap: 8px; min-height: 44px; font-size: 11px; border-bottom: 1px solid var(--line); }
@@ -70,10 +73,10 @@
 .spectrum .look-rating strong small { font-size: 14px; color: #81777d; margin-left: 2px; }
 .spectrum #rate-look .feature-image img { object-position: 55% center; }
 .spectrum #outfit-match .feature-copy h3 { font-size: 24px; }
-.spectrum .combo-section { margin: 28px 0 32px; scroll-margin-top: 24px; }
+.spectrum .combo-section { margin: 0 0 22px; padding: 32px; background: var(--surface); border: 1px solid var(--line); border-radius: 20px; scroll-margin-top: 24px; }
 .spectrum .combo-heading { display: flex; justify-content: space-between; align-items: end; gap: 20px; }
 .spectrum .combo-heading .micro { color: #81777d; font-size: 8px; }
-.spectrum .combo-heading h3 { font: 35px/1.2 Georgia, serif; letter-spacing: -.9px; margin-top: 9px; }
+.spectrum .combo-heading h3 { font: 32px/1.2 Lexend, sans-serif; letter-spacing: -1.2px; margin-top: 9px; }
 .spectrum .combo-season { background: #fff0f2; color: #a64c65; font-size: 10px; padding: 7px 11px; border-radius: 20px; white-space: nowrap; }
 .spectrum .combo-description { font-size: 12px; color: #71656c; margin: 12px 0 18px; max-width: 620px; }
 .spectrum .combo-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
@@ -111,10 +114,10 @@
   .spectrum .look-rating strong small { font-size: 12px; }
   .spectrum .rating-star { font-size: 31px; }
   .spectrum #outfit-match .feature-copy h3 { font-size: 22px; }
-  .spectrum .combo-section { margin: 28px 0; }
+  .spectrum .combo-section { margin: 0 0 16px; padding: 23px; border-radius: 15px; }
   .spectrum .combo-heading { display: block; }
   .spectrum .combo-heading .micro { font-size: 6px; letter-spacing: .9px; }
-  .spectrum .combo-heading h3 { font-size: 29px; margin-top: 7px; }
+  .spectrum .combo-heading h3 { font-size: 26px; margin-top: 7px; }
   .spectrum .combo-season { display: inline-block; margin-top: 10px; font-size: 8px; padding: 5px 9px; }
   .spectrum .combo-description { font-size: 11px; margin: 10px 0 15px; line-height: 1.65; }
   .spectrum .combo-grid { grid-template-columns: none; grid-auto-flow: column; grid-auto-columns: calc((100% - 34px) / 2); gap: 10px; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: thin; scrollbar-color: #e5bbc6 transparent; padding-bottom: 9px; }
@@ -122,7 +125,7 @@
   .spectrum .combo-garments { height: 176px; }
   .spectrum .combo-pair { margin: 0 0 8px; }
   .spectrum .combo-pair i { width: 12px; height: 12px; }
-  .spectrum .combo-card h4 { font-size: 19px; }
+  .spectrum .combo-card h4 { font-size: 17px; }
   .spectrum .combo-shades { font-size: 8px; margin-top: 6px; }
   .spectrum .combo-action { font-size: 8px; gap: 5px; min-height: 34px; }
 }
@@ -135,7 +138,7 @@
   .spectrum .match-overlay strong { font-size: 18px; }
   .spectrum .match-overlay small { font-size: 7px; }
   .spectrum .combo-garments { height: 150px; }
-  .spectrum .combo-card h4 { font-size: 17px; }
+  .spectrum .combo-card h4 { font-size: 16px; }
 }
 @media (max-width: 760px) and (max-height: 700px) {
   .spectrum .hero-intro > p { font-size: 10px; margin-top: 7px; }
