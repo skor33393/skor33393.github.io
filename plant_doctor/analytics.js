@@ -4,7 +4,7 @@
   const variant=document.body.dataset.variant,problem=document.body.dataset.problem;
   const local=['localhost','127.0.0.1'].includes(location.hostname);
   const dry=local&&q.get('analytics_test')==='1';
-  const prod=location.hostname==='bestme.mobi'&&location.pathname.startsWith('/plant_doctor/');
+  const prod=location.hostname==='bestme.mobi'&&['/plant_doctor/','/plant_ai/'].some(path=>location.pathname.startsWith(path));
   const preview=q.get('preview')==='1'||window.top!==window.self;
   const api=window.plantAnalytics={status:'disabled',events:[],track:()=>{}};
   let optedOut=false;try{optedOut=localStorage.getItem('plant_analytics_opt_out')==='1'}catch(_){}
