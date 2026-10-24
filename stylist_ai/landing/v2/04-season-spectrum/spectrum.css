@@ -27,18 +27,14 @@
 .spectrum .color-halo .face-photo { height: 100%; width: 100%; border-color: #fff; background: #f4f3ef; }
 .spectrum .face-photo img { width: 100%; height: 100%; left: 0; top: 0; object-fit: cover; object-position: 50% 38%; }
 .spectrum .face-photo .mesh { opacity: .88; }
-.spectrum .season-result strong { color: #a64c65; }
-.spectrum .season-result .micro { color: #6d6268; }
-.spectrum .traits { flex-wrap: wrap; }
-.spectrum .traits span { border-color: var(--line); background: #fff9fa; }
+.spectrum .season-result strong { color: #a64c65; font-size: 50px; line-height: .98; margin: 0 0 14px; }
+.spectrum .traits { flex-wrap: wrap; gap: 6px; }
+.spectrum .traits span { border-color: var(--line); background: #fff9fa; font-size: 10px; padding: 4px 8px; }
 .spectrum .palette { grid-template-columns: repeat(8, minmax(0, 1fr)); }
 .spectrum .hero-palette { background: #fff; border: 1px solid var(--line); }
 .spectrum .season-tabs button { color: var(--ink); border-color: var(--line); background: #fff; }
 .spectrum .season-tabs button[aria-pressed=true] { color: #9f425c; background: #fff0f2; border-color: #ff617a; }
 .spectrum .sample-disclaimer { color: #71656c; }
-.spectrum .feature-nav { padding-top: 8px; }
-.spectrum .feature-nav a { border-radius: 16px; }
-.spectrum .feature-nav a:hover { border-color: #ff617a; }
 .spectrum .feature-image-icon { color: var(--ink); background: #fff; }
 .spectrum .number, .spectrum .feature-copy > a { color: #a64c65; }
 .spectrum .passport-feature-art { background: #fff0f2; }
@@ -50,11 +46,6 @@
 .spectrum .dock-copy strong { font: 22px/1.15 Georgia, serif; letter-spacing: -.5px; }
 .spectrum .dock-copy .dock-stars { display: flex; gap: 3px; color: #ff617a; line-height: 0; }
 .spectrum .dock-stars svg { width: 13px; height: 13px; fill: currentColor; }
-/* Small, direct links keep the new tools discoverable without crowding the hero. */
-.spectrum .feature-shortcuts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
-.spectrum .feature-shortcuts a { display: flex; align-items: center; justify-content: center; gap: 8px; min-height: 44px; font-size: 11px; border-bottom: 1px solid var(--line); }
-.spectrum .feature-shortcuts svg { width: 18px; height: 18px; flex-shrink: 0; color: #a64c65; }
-.spectrum .feature-shortcuts a:hover { border-color: var(--accent); color: #a64c65; }
 .spectrum .feature-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 .spectrum .makeup-divider { position: absolute; top: 0; bottom: 0; left: 50%; width: 1.5px; transform: translateX(-50%); background: linear-gradient(transparent, #fff 7%, #fff 93%, transparent); box-shadow: 0 0 5px #29212735; pointer-events: none; }
 .spectrum .makeup-label { position: absolute; top: 12px; background: #ffffffed; color: var(--ink); padding: 5px 8px; border: 1px solid #ffffffb3; border-radius: 20px; font-size: 9px; line-height: 1; }
@@ -80,12 +71,10 @@
   .spectrum .result-card { height: 292px; }
   .spectrum .color-halo { padding: 9px; }
   .spectrum .spectrum-pair { gap: 15px; }
-  .spectrum .traits { font-size: 7px; gap: 4px; }
-  .spectrum .feature-nav a { min-height: 83px; font-size: 9px; }
+  .spectrum .season-result strong { font-size: 38px; margin: 0 0 10px; }
+  .spectrum .traits { gap: 5px; }
+  .spectrum .traits span { font-size: 8px; padding: 4px 7px; }
   .spectrum .sample-disclaimer { font-size: 7px; }
-  .spectrum .feature-shortcuts { gap: 5px; }
-  .spectrum .feature-shortcuts a { font-size: 9px; gap: 5px; }
-  .spectrum .feature-shortcuts svg { width: 15px; height: 15px; }
   .spectrum .feature-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .spectrum .makeup-label { font-size: 7px; top: 9px; padding: 4px 7px; }
   .spectrum .makeup-label.before { left: 9px; }
@@ -102,8 +91,6 @@
   .spectrum #outfit-match .feature-copy h3 { font-size: 22px; }
 }
 @media (max-width: 360px) {
-  .spectrum .feature-shortcuts a { font-size: 8px; gap: 4px; }
-  .spectrum .feature-shortcuts svg { width: 13px; height: 13px; }
   .spectrum #outfit-match .feature-copy h3 { font-size: 20px; }
   .spectrum .match-overlay { gap: 5px; padding: 7px 6px; }
   .spectrum .match-overlay svg { width: 24px; height: 24px; }
@@ -113,14 +100,15 @@
 @media (max-width: 760px) and (max-height: 700px) {
   .spectrum .hero-intro > p { font-size: 10px; margin-top: 7px; }
   .spectrum .result-card { height: 245px; }
-  .spectrum .feature-nav a { min-height: 73px; font-size: 8px; }
-  .spectrum .traits { font-size: 6px; }
+  .spectrum .season-result strong { font-size: 32px; margin-bottom: 8px; }
+  .spectrum .traits span { font-size: 7px; padding: 3px 6px; }
   .spectrum .sample-disclaimer { font-size: 6px; }
 }
 @media (max-width: 760px) and (max-height: 600px) {
   .spectrum .hero-intro > p { display: block; font-size: 9px; line-height: 1.5; margin-top: 6px; }
   .spectrum .result-card { height: 224px; }
-  .spectrum .feature-nav a { min-height: 67px; font-size: 7px; }
-  .spectrum .traits span { font-size: 6px; }
+  .spectrum .season-result strong { font-size: 28px; margin-bottom: 7px; }
+  .spectrum .traits { gap: 4px; }
+  .spectrum .traits span { font-size: 6px; padding: 2px 5px; }
   .spectrum .sample-disclaimer { font-size: 5px; }
 }
