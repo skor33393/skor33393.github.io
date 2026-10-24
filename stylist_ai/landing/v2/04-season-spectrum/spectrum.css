@@ -1,0 +1,68 @@
+/* StylistDesign tokens from the native app; this sheet affects version 04 only. */
+.spectrum {
+  --bg: #fffbfa;
+  --ink: #292127;
+  --muted: #81777d;
+  --accent: #ff617a;
+  --line: #ede3e5;
+  --surface: #fff;
+  --soft: #fff0f2;
+}
+.spectrum h1 em { color: #a64c65; }
+.spectrum .hero-intro > p { color: #6d6268; }
+.spectrum .result-card {
+  background: radial-gradient(ellipse at 0 0, #ffe5ed 0, transparent 65%), #fff;
+  border: 1px solid var(--line);
+  color: var(--ink);
+  box-shadow: 0 8px 28px #4a263405;
+}
+.spectrum .color-halo {
+  background: conic-gradient(#f25a8d 0deg 45deg, #9c1f50 45deg 90deg, #7f3c7d 90deg 135deg, #4e1c60 135deg 180deg, #17a59d 180deg 225deg, #3ab3d1 225deg 270deg, #3c55a5 270deg 315deg, #003a6e 315deg 360deg);
+  padding: 10px;
+}
+.spectrum .color-halo .face-photo { border-color: #fff; background: #f4f3ef; }
+.spectrum .face-photo img { width: 100%; height: 100%; left: 0; top: 0; object-fit: cover; object-position: 50% 38%; }
+.spectrum .face-photo .mesh { opacity: .88; }
+.spectrum .season-result strong { color: #a64c65; }
+.spectrum .season-result .micro { color: #6d6268; }
+.spectrum .traits { flex-wrap: wrap; }
+.spectrum .traits span { border-color: var(--line); background: #fff9fa; }
+.spectrum .palette { grid-template-columns: repeat(8, minmax(0, 1fr)); }
+.spectrum .hero-palette { background: #fff; border: 1px solid var(--line); }
+.spectrum .season-tabs button { color: var(--ink); border-color: var(--line); background: #fff; }
+.spectrum .season-tabs button[aria-pressed=true] { color: #9f425c; background: #fff0f2; border-color: #ff617a; }
+.spectrum .sample-disclaimer { color: #71656c; }
+.spectrum .feature-nav { padding-top: 8px; }
+.spectrum .feature-nav a { border-radius: 16px; }
+.spectrum .feature-nav a:hover { border-color: #ff617a; }
+.spectrum .feature-image-icon { color: var(--ink); background: #fff; }
+.spectrum .number, .spectrum .feature-copy > a { color: #a64c65; }
+.spectrum .passport-feature-art { background: #fff0f2; }
+.spectrum .passport-feature-art strong { color: #a64c65; }
+.spectrum .passport-feature-art .palette { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px 7px; }
+.spectrum .closing { background: #fff0f2; color: var(--ink); border: 1px solid var(--line); }
+.spectrum .download-dock { background: #fff; border-color: var(--line); color: var(--ink); box-shadow: 0 -6px 22px #29212705; }
+.spectrum .dock-copy span { color: #81777d; }
+@media (max-width: 760px) {
+  .spectrum .hero-intro > p { max-width: 355px; font-size: 11px; line-height: 1.6; }
+  .spectrum .result-card { height: 292px; }
+  .spectrum .color-halo { padding: 9px; }
+  .spectrum .spectrum-pair { gap: 15px; }
+  .spectrum .traits { font-size: 7px; gap: 4px; }
+  .spectrum .feature-nav a { min-height: 83px; font-size: 9px; }
+  .spectrum .sample-disclaimer { font-size: 7px; }
+}
+@media (max-width: 760px) and (max-height: 700px) {
+  .spectrum .hero-intro > p { font-size: 10px; margin-top: 7px; }
+  .spectrum .result-card { height: 245px; }
+  .spectrum .feature-nav a { min-height: 73px; font-size: 8px; }
+  .spectrum .traits { font-size: 6px; }
+  .spectrum .sample-disclaimer { font-size: 6px; }
+}
+@media (max-width: 760px) and (max-height: 600px) {
+  .spectrum .hero-intro > p { display: block; font-size: 9px; line-height: 1.5; margin-top: 6px; }
+  .spectrum .result-card { height: 224px; }
+  .spectrum .feature-nav a { min-height: 67px; font-size: 7px; }
+  .spectrum .traits span { font-size: 6px; }
+  .spectrum .sample-disclaimer { font-size: 5px; }
+}
