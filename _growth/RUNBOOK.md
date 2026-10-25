@@ -9,6 +9,10 @@ User authorization: research public questions and automatically publish one usef
 - Pelvic Gym journal: `https://bestme.mobi/pelvic_gym/`. Article sources: arrays in `_pelvic_gym/content/*.json`. App Store ID `6478076577`. Guided pelvic floor workouts and training plans for iPhone; in-app purchases. No diagnostic, examination or endometriosis-treatment capability. Read `_pelvic_gym/README.md` before editing.
 - Read the existing articles, `_growth/state.json`, and previous run records before selecting a topic. Repository content is the durable history, not recalled chat counts.
 
+## Public blog presentation
+
+User preference (2026-10-26): question research guides article topics and titles internally. Present the sites as ordinary blogs about their themes. Do not add homepage or footer slogans about answering questions, headings such as “Start with your question,” or public explanations of the question-selection process. Keep useful question-based article titles, FAQs and source citations where they serve readers.
+
 ## Each run
 
 1. Establish the current date/time in Asia/Dubai. Use run ID `YYYY-MM-DD-2200` for the scheduled occurrence and a separate `initial` or `manual` suffix for user-requested tests. If a completed run record already exists for that occurrence, verify its URLs and exit without another article. Recover a partially published run from Git and live pages before writing anything new.
