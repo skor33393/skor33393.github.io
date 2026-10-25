@@ -9,6 +9,10 @@ User authorization: research public questions and automatically publish five use
 - Pelvic Gym journal: `https://bestme.mobi/pelvic_gym/`. Article sources: arrays in `_pelvic_gym/content/*.json`. App Store ID `6478076577`. Guided pelvic floor workouts and training plans for iPhone; in-app purchases. No diagnostic, examination or endometriosis-treatment capability. Read `_pelvic_gym/README.md` before editing.
 - Read the existing articles, `_growth/state.json`, and previous run records before selecting a topic. Repository content is the durable history, not recalled chat counts.
 
+## Protected advertising destination
+
+User instruction (2026-10-26): active ads use the Stylist AI landing page. Do not modify `stylist_ai/index.html`, anything under `stylist_ai/landing/`, or assets shared with those pages. Blog SEO work must stay in the blog and its own assets. Search Console verification on the separate BestMe root page is permitted.
+
 ## Public blog presentation
 
 User preference (2026-10-26): question research guides article topics and titles internally. Present the sites as ordinary blogs about their themes. Do not add homepage or footer slogans about answering questions, headings such as “Start with your question,” or public explanations of the question-selection process. Keep useful question-based article titles, FAQs and authoritative factual source citations where they serve readers. User preference (2026-10-26): Reddit and other forum discussions are inspiration only. Never link or mention those discussions in public articles, sources, JSON-LD, cards or marketing copy. Keep question URLs and engagement evidence in internal run records; show those links only if the user explicitly asks to inspect them. Keep “Our approach” out of the Stylist AI main navigation. Every page on both blogs includes Apple’s native Safari Smart App Banner metadata with its own app’s App Store ID; preserve this in the shared page templates and future articles.
