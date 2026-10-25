@@ -12,7 +12,7 @@
     {
       "id": "why-the-disagreement",
       "title": "Why can the same person get different seasons?",
-      "html": "<p>A recent <a href=\"https://www.reddit.com/r/autumns/comments/1xbdxdw/type_me/\">Reddit discussion about conflicting Summer and Autumn suggestions</a> captures the problem: collecting more opinions can leave you less certain. That conversation inspired this guide. It is not a diagnosis of the person in the photos, and their images are not reproduced here.</p><p>Start by checking whether people are judging the same evidence. A warm indoor selfie, a shaded outdoor photo, and a picture with lipstick are different comparisons. <a href=\"https://www.adobe.com/creativecloud/photography/technique/white-balance.html\">Adobe’s explanation of white balance</a> shows why lighting and camera processing can shift colors throughout an image. A warmer-looking photo does not, by itself, establish a warmer season.</p><p>There is also a difference between asking “Which seasonal label fits?” and “Which of these tops do I prefer on myself?” For your next purchase, the second question may be easier to answer.</p>"
+      "html": "<p>Conflicting Summer and Autumn suggestions can make a simple clothing decision feel complicated. Start by checking whether the comparisons use the same evidence, then focus on the fabrics you enjoy wearing.</p><p>Start by checking whether people are judging the same evidence. A warm indoor selfie, a shaded outdoor photo, and a picture with lipstick are different comparisons. <a href=\"https://www.adobe.com/creativecloud/photography/technique/white-balance.html\">Adobe’s explanation of white balance</a> shows why lighting and camera processing can shift colors throughout an image. A warmer-looking photo does not, by itself, establish a warmer season.</p><p>There is also a difference between asking “Which seasonal label fits?” and “Which of these tops do I prefer on myself?” For your next purchase, the second question may be easier to answer.</p>"
     },
     {
       "id": "the-difference",
@@ -41,17 +41,31 @@
     }
   ],
   "faqs": [
-    {"question":"Can I be both Soft Summer and Soft Autumn?","answer":"These are neighboring labels within a styling framework. You may enjoy colors associated with both. You can use a mixed set of favorites without proving that you belong equally to two categories."},
-    {"question":"Does brown hair and blue eyes mean Soft Summer?","answer":"That description alone is not enough for a reliable wardrobe decision. Compare the actual garments under consistent conditions rather than assigning a season from two feature names."},
-    {"question":"Can an app settle a disagreement?","answer":"An app can offer a suggested profile and a palette to explore. It cannot guarantee agreement with every analyst or compensate perfectly for every photo and lighting condition."}
+    {
+      "question": "Can I be both Soft Summer and Soft Autumn?",
+      "answer": "These are neighboring labels within a styling framework. You may enjoy colors associated with both. You can use a mixed set of favorites without proving that you belong equally to two categories."
+    },
+    {
+      "question": "Does brown hair and blue eyes mean Soft Summer?",
+      "answer": "That description alone is not enough for a reliable wardrobe decision. Compare the actual garments under consistent conditions rather than assigning a season from two feature names."
+    },
+    {
+      "question": "Can an app settle a disagreement?",
+      "answer": "An app can offer a suggested profile and a palette to explore. It cannot guarantee agreement with every analyst or compensate perfectly for every photo and lighting condition."
+    }
   ],
   "sources": [
-    {"title":"The question that inspired this guide: conflicting Summer and Autumn suggestions on Reddit","url":"https://www.reddit.com/r/autumns/comments/1xbdxdw/type_me/"},
-    {"title":"The Concept Wardrobe: Soft Summer / Soft Autumn comparison","url":"https://theconceptwardrobe.com/soft-summer-vs-soft-autumn-what-is-the-difference"},
-    {"title":"Adobe: Understanding white balance in photography","url":"https://www.adobe.com/creativecloud/photography/technique/white-balance.html"}
+    {
+      "title": "The Concept Wardrobe: Soft Summer / Soft Autumn comparison",
+      "url": "https://theconceptwardrobe.com/soft-summer-vs-soft-autumn-what-is-the-difference"
+    },
+    {
+      "title": "Adobe: Understanding white balance in photography",
+      "url": "https://www.adobe.com/creativecloud/photography/technique/white-balance.html"
+    }
   ],
-  "ctaTitle":"Put your colors to work.",
-  "ctaText":"Explore your suggested season, keep a palette close, and compare colors while you shop with Stylist AI for iPhone.",
-  "keyword":"soft summer or soft autumn",
-  "sourcesChecked":"2026-10-26"
+  "ctaTitle": "Put your colors to work.",
+  "ctaText": "Explore your suggested season, keep a palette close, and compare colors while you shop with Stylist AI for iPhone.",
+  "keyword": "soft summer or soft autumn",
+  "sourcesChecked": "2026-10-26"
 }

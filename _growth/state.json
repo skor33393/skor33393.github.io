@@ -4,7 +4,8 @@
   "schedule_local": "22:00 daily",
   "last_successful_scan": "2026-10-25T21:52:30.752314+00:00",
   "runs": {
-    "2026-10-26-initial": "completed"
+    "2026-10-26-initial": "completed",
+    "2026-10-26-stylist-expansion": "deployment_pending"
   },
   "articles": {
     "stylist_ai": [
@@ -26,5 +27,11 @@
       }
     ]
   },
-  "automation_id": "daily-seo-for-stylist-ai-and-pelvic-gym"
+  "automation_id": "daily-seo-for-stylist-ai-and-pelvic-gym",
+  "daily_targets": {
+    "stylist_ai": 5,
+    "pelvic_gym": 5
+  },
+  "public_forum_links": false,
+  "illustration_stop_threshold_bytes": 800000000
 }

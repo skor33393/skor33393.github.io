@@ -1,0 +1,66 @@
+{
+  "slug": "build-a-wardrobe-color-palette",
+  "title": "How to build a wardrobe color palette you will actually use",
+  "seoTitle": "How to Build a Practical Wardrobe Color Palette | Stylist AI",
+  "description": "Build a wardrobe color palette from clothes you already wear. Find useful base colors, add favorite accents, and check new purchases without rigid color rules.",
+  "category": "Wardrobe colors",
+  "datePublished": "2026-10-26",
+  "dateModified": "2026-10-26",
+  "sortOrder": 5,
+  "excerpt": "Start with your worn outfits, not an empty shopping list. Your palette should make those outfits easier to repeat.",
+  "quickAnswer": "Choose a wardrobe palette by looking at complete outfits you already enjoy. Identify recurring base colors, then add a few favorites that connect to those clothes. Test combinations with your actual shoes and outerwear. Keep the palette flexible enough for an occasional special piece and for shades you can realistically find.",
+  "sections": [
+    {
+      "id": "audit",
+      "title": "Start with five outfits you actually wear",
+      "html": "<p>Take out five outfits from normal life: work, errands, social plans or whatever fills your week. Include shoes, layers and bags. If they are all from one occasion, add an outfit from another part of your routine before drawing conclusions.</p><p>Write the colors of the large pieces and the smaller details separately. You may discover that denim and navy already support most outfits, while pink appears repeatedly in tops. That is a useful starting palette, even if it looks nothing like the wardrobe you saved on a mood board.</p>"
+    },
+    {
+      "id": "roles",
+      "title": "Give colors a job",
+      "html": "<p>Instead of choosing a fixed number of approved shades, organize your existing colors by how you use them:</p><ul><li><strong>Base colors:</strong> The colors in trousers, skirts, jackets or other pieces you repeat frequently.</li><li><strong>Favorite partners:</strong> Colors you enjoy with those bases in tops, dresses or layers.</li><li><strong>Small accents:</strong> Colors you prefer in shoes, bags, scarves or printed details.</li><li><strong>Occasional exceptions:</strong> Pieces you love for a particular outfit, even if they do not coordinate with everything.</li></ul><p>A color can do more than one job. Red might be a small accent in work outfits and the base of a favorite weekend dress. The categories describe use; they are not restrictions.</p>"
+    },
+    {
+      "id": "example",
+      "title": "A worked example",
+      "html": "<p>Imagine your reliable clothes are indigo jeans, charcoal trousers, a cream shirt and a chocolate jacket. You also repeatedly wear a teal knit and a rose blouse. Start with those six colors instead of introducing a new neutral just because a capsule-wardrobe checklist recommends it.</p><p>Try the teal knit with both bottoms and the jacket. Then try the rose blouse the same way. Add your usual shoes. If one combination needs adjustment, note the specific problem: perhaps the blouse’s shape is awkward under the jacket, while its color works well.</p><p>That distinction matters. A color palette cannot resolve an uncomfortable waistband, unsuitable fabric or sleeve that does not fit under your coat.</p>"
+    },
+    {
+      "id": "new-purchases",
+      "title": "Use an outfit check for new purchases",
+      "html": "<p>Before buying a garment, name a complete outfit you can make with it immediately. For an everyday piece, try finding another combination you would realistically repeat. For a special-occasion item, one well-planned outfit may be enough.</p><p>If it requires new shoes, a new bag and a new jacket, decide whether you want that larger project. A “perfect palette match” can still be an impractical purchase. Conversely, a different shade may be useful if you like it with the clothes you own.</p>"
+    },
+    {
+      "id": "availability",
+      "title": "When your favorite shade disappears from shops",
+      "html": "<p>Keep the role flexible. If your favorite plum top wears out and the current options are berry or aubergine, compare those alternatives with your base pieces. You are looking for a useful relationship, not an exact screen swatch.</p><p>Try our <a href=\"/stylist_ai/blog/how-to-find-colorful-clothes/\">colorful-clothing search guide</a> for shade vocabulary and more specific searches. Revisit your palette when your clothes or daily needs change, rather than discarding useful pieces at the start of every season.</p>"
+    },
+    {
+      "id": "seasonal-palette",
+      "title": "Where seasonal color analysis fits",
+      "html": "<p>A seasonal palette can suggest colors to test, but a wardrobe palette also reflects your preferences, activities and existing clothes. You can use part of a suggested season while keeping a favorite outside it.</p><p>If your wardrobe currently relies on black and you want a different base, explore <a href=\"/stylist_ai/blog/black-wardrobe-alternatives/\">alternative neutrals</a> before choosing your next purchase.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How many colors should a wardrobe palette contain?",
+      "answer": "There is no required number. Start with the colors in several outfits you wear, then add only what helps you make more useful combinations."
+    },
+    {
+      "question": "Does every item need to match every other item?",
+      "answer": "No. Focus on complete outfits you will wear. A coherent wardrobe can include separate work and weekend combinations, as well as occasional statement pieces."
+    }
+  ],
+  "sources": [],
+  "sourceNote": "Outfit examples and decision exercises are our styling suggestions, not measured rules about attractiveness.",
+  "ctaTitle": "Keep your color ideas close.",
+  "ctaText": "Explore a suggested personal palette and color combinations in Stylist AI, and use them alongside your own list of favorite outfits.",
+  "keyword": "how to build a practical wardrobe color palette",
+  "sourcesChecked": "2026-10-26",
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/illustrations/build-a-wardrobe-color-palette.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Illustrated wardrobe pieces in indigo, charcoal, cream, chocolate, teal and rose with matching swatches."
+  }
+}

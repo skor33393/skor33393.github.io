@@ -1,0 +1,443 @@
+{
+  "run_id": "2026-10-26-stylist-expansion",
+  "observed_at": "2026-10-25T22:56:07.382393+00:00",
+  "timezone": "Asia/Dubai",
+  "status": "deployment_pending",
+  "request": "Manual expansion: ten distinct original Stylist AI articles based on well-discussed Reddit questions, with relevant illustrations. Daily target increased to five per app.",
+  "window": {
+    "start": "2019-04-29",
+    "end": "2026-10-26",
+    "reason": "Evergreen popularity-led manual batch, separate from the daily freshness-led scan; limited research sample, not a claim of Reddit-wide top ten."
+  },
+  "source_access": {
+    "reddit": "Nine selected questions verified in live public post DOM; one explicit olive-skin question verified through the web reader with search-snapshot engagement. No forum actions performed.",
+    "quora": "Not part of this Reddit-specific manual batch",
+    "google": "Web search used for question discovery and factual supporting references; no keyword volume or ranking claims."
+  },
+  "candidates": [
+    {
+      "slug": "black-wardrobe-alternatives",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/bish4t/is_anyone_else_burned_out_on_black/",
+      "question": "Is anyone else burned out on black?",
+      "score": 887,
+      "comments": 343,
+      "posted_at": "2019-04-29T17:52:21.719000+0000",
+      "observed_at": "2026-10-25T22:36:40.851Z",
+      "evidence": "Live Reddit post DOM in dedicated headed Chrome session",
+      "app": "stylist_ai",
+      "platform": "reddit",
+      "views": null,
+      "decision": "selected",
+      "reason": "887 votes and 343 comments; much more visible attention than the sampled smaller wearing-black question. Distinct practical neutral alternatives intent."
+    },
+    {
+      "slug": "unexpected-outfit-color-combinations",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/ejrtfm/what_are_your_favorite_color_combinations_that/",
+      "question": "What are your favorite color combinations that look unexpectedly good with each other?",
+      "score": 700,
+      "comments": 220,
+      "posted_at": "2020-01-04T04:40:59.626000+0000",
+      "observed_at": "2026-10-25T22:36:42.930Z",
+      "evidence": "Live Reddit post DOM in dedicated headed Chrome session",
+      "app": "stylist_ai",
+      "platform": "reddit",
+      "views": null,
+      "decision": "selected",
+      "reason": "700 votes and 220 comments, versus 136 and 23 votes on sampled similar pairing questions; selected broad practical color-combination intent."
+    },
+    {
+      "slug": "is-professional-color-analysis-worth-it",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/jtnfai/has_consulting_a_stylist_really_been_a_revelation/",
+      "question": "Has consulting a stylist really been a revelation to you?",
+      "score": 616,
+      "comments": 115,
+      "posted_at": "2020-11-13T20:16:47.256000+0000",
+      "observed_at": "2026-10-25T22:36:44.300Z",
+      "evidence": "Live Reddit post DOM in dedicated headed Chrome session",
+      "app": "stylist_ai",
+      "platform": "reddit",
+      "views": null,
+      "decision": "selected",
+      "reason": "616 votes and 115 comments, versus 14 and 16 on narrower sampled consultation-value questions; answer distinguishes color analysis from broader styling."
+    },
+    {
+      "slug": "how-to-find-colorful-clothes",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1jfakq6/where_are_the_colors/",
+      "question": "Where are the Colors?",
+      "score": 486,
+      "comments": 149,
+      "posted_at": "2025-03-19T23:05:31.819000+0000",
+      "observed_at": "2026-10-25T22:36:46.050Z",
+      "evidence": "Live Reddit post DOM in dedicated headed Chrome session",
+      "app": "stylist_ai",
+      "platform": "reddit",
+      "views": null,
+      "decision": "selected",
+      "reason": "486 live votes and 149 comments; clear shopping concern about color plus garment shape. Offers search methods rather than unverified current retailer stock."
+    },
+    {
+      "slug": "gold-or-silver-jewelry",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1tvizde/gold_or_silver/",
+      "question": "Gold or silver?",
+      "score": 352,
+      "comments": 307,
+      "posted_at": "2026-06-03T08:21:51.508000+0000",
+      "observed_at": "2026-10-25T22:36:47.733Z",
+      "evidence": "Live Reddit post DOM in dedicated headed Chrome session",
+      "app": "stylist_ai",
+      "platform": "reddit",
+      "views": null,
+      "decision": "selected",
+      "reason": "352 votes and 307 comments, versus 34 and 42 votes on sampled other metal-comparison questions. General practical guide; no typing of the photographed person."
+    },
+    {
+      "slug": "build-a-wardrobe-color-palette",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1nc3x2b/developing_a_color_palette_for_your_wardrobe/",
+      "question": "Developing a color palette for your wardrobe",
+      "score": 342,
+      "comments": 78,
+      "posted_at": "2025-09-08T23:54:28.889000+0000",
+      "observed_at": "2026-10-25T22:36:49.273Z",
+      "evidence": "Live Reddit post DOM in dedicated headed Chrome session",
+      "app": "stylist_ai",
+      "platform": "reddit",
+      "views": null,
+      "decision": "selected",
+      "reason": "342 votes and 78 comments, versus 145 votes on another wardrobe-palette question. Distinct coordination and shopping-planning intent."
+    },
+    {
+      "slug": "hate-your-color-season-palette",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1eqw5s7/i_hate_my_color_analysis_is_there_any_way_to/",
+      "question": "I hate my color analysis 😭😭 is there any way to change it?",
+      "score": 263,
+      "comments": 234,
+      "posted_at": "2024-08-13T02:04:16.219000+0000",
+      "observed_at": "2026-10-25T22:36:52.446Z",
+      "evidence": "Live Reddit post DOM in dedicated headed Chrome session",
+      "app": "stylist_ai",
+      "platform": "reddit",
+      "views": null,
+      "decision": "selected",
+      "reason": "263 votes and 234 comments, versus 16 votes on a narrower disliked-palette-color question. Addresses preferences without encouraging appearance changes."
+    },
+    {
+      "slug": "mix-patterns-and-prints",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/ya4mry/what_are_your_favourite_patterns_and_prints/",
+      "question": "What are your favourite patterns and prints?",
+      "score": 196,
+      "comments": 99,
+      "posted_at": "2022-10-21T21:01:15.415000+0000",
+      "observed_at": "2026-10-25T22:36:53.951Z",
+      "evidence": "Live Reddit post DOM in dedicated headed Chrome session",
+      "app": "stylist_ai",
+      "platform": "reddit",
+      "views": null,
+      "decision": "selected",
+      "reason": "196 votes and 99 comments, versus 156 votes on another print question. Distinct extension from plain colors into prints."
+    },
+    {
+      "slug": "season-neutrals-do-not-suit-me",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1rr8h3y/pro_typed_as_true_autumn/",
+      "question": "pro typed as true autumn :(",
+      "score": 90,
+      "comments": 133,
+      "posted_at": "2026-03-11T22:20:50.906000+0000",
+      "observed_at": "2026-10-25T22:36:55.366Z",
+      "evidence": "Live Reddit post DOM in dedicated headed Chrome session",
+      "app": "stylist_ai",
+      "platform": "reddit",
+      "views": null,
+      "decision": "selected",
+      "reason": "90 votes and 133 comments; focused question about a recommended neutral that feels unhelpful, distinct from general dislike of black or a whole palette."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "reddit",
+      "slug": "olive-skin-color-analysis",
+      "question": "Which color season am I? Fair olive skin has me confused",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1neejom/which_color_season_am_i_fair_olive_skin_has_me/",
+      "score": 44,
+      "comments": null,
+      "views": null,
+      "posted_at": "2025-09-11",
+      "observed_at": "2026-10-25T22:56:07.382393+00:00",
+      "evidence": "Web-search snapshot: 44 votes; original question opened in web reader. Live headed-browser retry unavailable. Not a live vote count.",
+      "decision": "selected",
+      "reason": "Explicit practical olive-skin confusion question, 44 search-snapshot votes versus 38, 18 and 12 on sampled comparable questions. Popular explanatory post (285 live votes) corroborates interest but is not used as the question."
+    },
+    {
+      "slug": "olive-skin-color-analysis",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/166gk29/why_olive_skin_tone_is_confusing/",
+      "question": "Why olive skin tone is confusing",
+      "score": 285,
+      "comments": 61,
+      "posted_at": "2023-08-31T16:58:40.655000+0000",
+      "observed_at": "2026-10-25T22:36:50.837Z",
+      "evidence": "Live Reddit post DOM in dedicated headed Chrome session",
+      "app": "stylist_ai",
+      "platform": "reddit",
+      "views": null,
+      "decision": "excluded",
+      "reason": "Popular explanatory post; replaced with an explicit olive-skin season question. Supporting demand evidence only."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "reddit",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1e2v6q4/",
+      "score": 136,
+      "comments": null,
+      "posted_at": null,
+      "observed_at": "2026-10-25T22:56:07.382393+00:00",
+      "evidence": "Web-search snapshot, not live engagement",
+      "decision": "not_selected",
+      "reason": "Same color-combination intent; lower visible attention"
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "reddit",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1fy05jr/color_combinations/",
+      "score": 23,
+      "comments": null,
+      "posted_at": null,
+      "observed_at": "2026-10-25T22:56:07.382393+00:00",
+      "evidence": "Web-search snapshot, not live engagement",
+      "decision": "not_selected",
+      "reason": "Same color-combination intent; lower visible attention"
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "reddit",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/dknzi7/do_you_have_a_color_palette_for_your_wardrobe/",
+      "score": 145,
+      "comments": null,
+      "posted_at": null,
+      "observed_at": "2026-10-25T22:56:07.382393+00:00",
+      "evidence": "Web-search snapshot, not live engagement",
+      "decision": "not_selected",
+      "reason": "Same wardrobe-palette intent; lower visible attention"
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "reddit",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1w79b05/silver_or_gold/",
+      "score": 34,
+      "comments": null,
+      "posted_at": null,
+      "observed_at": "2026-10-25T22:56:07.382393+00:00",
+      "evidence": "Web-search snapshot, not live engagement",
+      "decision": "not_selected",
+      "reason": "Same jewelry intent; lower visible attention"
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "reddit",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1sehqgb/silver_or_gold/",
+      "score": 42,
+      "comments": null,
+      "posted_at": null,
+      "observed_at": "2026-10-25T22:56:07.382393+00:00",
+      "evidence": "Web-search snapshot, not live engagement",
+      "decision": "not_selected",
+      "reason": "Same jewelry intent; lower visible attention"
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "reddit",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/12krcx0/",
+      "score": 14,
+      "comments": null,
+      "posted_at": null,
+      "observed_at": "2026-10-25T22:56:07.382393+00:00",
+      "evidence": "Web-search snapshot, not live engagement",
+      "decision": "not_selected",
+      "reason": "Same consultation-value intent; lower visible attention"
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "reddit",
+      "question_url": "https://www.reddit.com/r/capsulewardrobe/comments/1utopgo/worth_doing_a_color_analysis_and_how_to_do_it/",
+      "score": 16,
+      "comments": null,
+      "posted_at": null,
+      "observed_at": "2026-10-25T22:56:07.382393+00:00",
+      "evidence": "Web-search snapshot, not live engagement",
+      "decision": "not_selected",
+      "reason": "Same consultation-value intent; lower visible attention"
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "reddit",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1ck1j81/",
+      "score": 156,
+      "comments": null,
+      "posted_at": null,
+      "observed_at": "2026-10-25T22:56:07.382393+00:00",
+      "evidence": "Web-search snapshot, not live engagement",
+      "decision": "not_selected",
+      "reason": "Similar print intent; lower visible attention"
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "reddit",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/18j26da/",
+      "score": 38,
+      "comments": null,
+      "posted_at": null,
+      "observed_at": "2026-10-25T22:56:07.382393+00:00",
+      "evidence": "Web-search snapshot, not live engagement",
+      "decision": "not_selected",
+      "reason": "Same olive-skin confusion intent; lower visible attention"
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "reddit",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1ifo6aw/people_with_olive_undertones_whats_your_season/",
+      "score": 18,
+      "comments": null,
+      "posted_at": null,
+      "observed_at": "2026-10-25T22:56:07.382393+00:00",
+      "evidence": "Web-search snapshot, not live engagement",
+      "decision": "not_selected",
+      "reason": "Similar olive-skin season intent; lower visible attention"
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "reddit",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1l8il3c/",
+      "score": 12,
+      "comments": null,
+      "posted_at": null,
+      "observed_at": "2026-10-25T22:56:07.382393+00:00",
+      "evidence": "Web-search snapshot, not live engagement",
+      "decision": "not_selected",
+      "reason": "Similar mixed-season intent; lower visible attention"
+    }
+  ],
+  "publications": [
+    {
+      "app": "stylist_ai",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/bish4t/is_anyone_else_burned_out_on_black/",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/black-wardrobe-alternatives/",
+      "action": "new",
+      "status": "deployment_pending",
+      "reason": "887 votes and 343 comments; much more visible attention than the sampled smaller wearing-black question. Distinct practical neutral alternatives intent."
+    },
+    {
+      "app": "stylist_ai",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/ejrtfm/what_are_your_favorite_color_combinations_that/",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/unexpected-outfit-color-combinations/",
+      "action": "new",
+      "status": "deployment_pending",
+      "reason": "700 votes and 220 comments, versus 136 and 23 votes on sampled similar pairing questions; selected broad practical color-combination intent."
+    },
+    {
+      "app": "stylist_ai",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/jtnfai/has_consulting_a_stylist_really_been_a_revelation/",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/is-professional-color-analysis-worth-it/",
+      "action": "new",
+      "status": "deployment_pending",
+      "reason": "616 votes and 115 comments, versus 14 and 16 on narrower sampled consultation-value questions; answer distinguishes color analysis from broader styling."
+    },
+    {
+      "app": "stylist_ai",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1jfakq6/where_are_the_colors/",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/how-to-find-colorful-clothes/",
+      "action": "new",
+      "status": "deployment_pending",
+      "reason": "486 live votes and 149 comments; clear shopping concern about color plus garment shape. Offers search methods rather than unverified current retailer stock."
+    },
+    {
+      "app": "stylist_ai",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1tvizde/gold_or_silver/",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/gold-or-silver-jewelry/",
+      "action": "new",
+      "status": "deployment_pending",
+      "reason": "352 votes and 307 comments, versus 34 and 42 votes on sampled other metal-comparison questions. General practical guide; no typing of the photographed person."
+    },
+    {
+      "app": "stylist_ai",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1nc3x2b/developing_a_color_palette_for_your_wardrobe/",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/build-a-wardrobe-color-palette/",
+      "action": "new",
+      "status": "deployment_pending",
+      "reason": "342 votes and 78 comments, versus 145 votes on another wardrobe-palette question. Distinct coordination and shopping-planning intent."
+    },
+    {
+      "app": "stylist_ai",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1eqw5s7/i_hate_my_color_analysis_is_there_any_way_to/",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/hate-your-color-season-palette/",
+      "action": "new",
+      "status": "deployment_pending",
+      "reason": "263 votes and 234 comments, versus 16 votes on a narrower disliked-palette-color question. Addresses preferences without encouraging appearance changes."
+    },
+    {
+      "app": "stylist_ai",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/ya4mry/what_are_your_favourite_patterns_and_prints/",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/mix-patterns-and-prints/",
+      "action": "new",
+      "status": "deployment_pending",
+      "reason": "196 votes and 99 comments, versus 156 votes on another print question. Distinct extension from plain colors into prints."
+    },
+    {
+      "app": "stylist_ai",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1rr8h3y/pro_typed_as_true_autumn/",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/season-neutrals-do-not-suit-me/",
+      "action": "new",
+      "status": "deployment_pending",
+      "reason": "90 votes and 133 comments; focused question about a recommended neutral that feels unhelpful, distinct from general dislike of black or a whole palette."
+    },
+    {
+      "app": "stylist_ai",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1neejom/which_color_season_am_i_fair_olive_skin_has_me/",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/olive-skin-color-analysis/",
+      "action": "new",
+      "status": "deployment_pending",
+      "reason": "Explicit practical olive-skin confusion question, 44 search-snapshot votes versus 38, 18 and 12 on sampled comparable questions. Popular explanatory post (285 live votes) corroborates interest but is not used as the question."
+    }
+  ],
+  "additional_updates": [
+    {
+      "article_url": "https://bestme.mobi/stylist_ai/blog/soft-summer-or-soft-autumn/",
+      "action": "remove public forum citation and inspiration framing"
+    },
+    {
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-therapy-endometriosis/",
+      "action": "remove public forum citation and inspiration framing; retain clinical references"
+    }
+  ],
+  "editorial_preferences": {
+    "public_forum_links": false,
+    "forum_references": "Internal research only; show discussion links only on explicit request",
+    "illustrations": "Ten original topic-specific generated images, compressed WebP, original PNG masters outside publishing repository"
+  },
+  "illustration_bytes": 1434244,
+  "capacity": {
+    "measurement": "Working files excluding Git/runtime/build caches; includes source and research files normally excluded by Jekyll, so this overestimates the static payload. Git object storage is measured separately.",
+    "working_file_bytes": 34853258,
+    "git_object_bytes": 53834752,
+    "published_site_limit_bytes": 1000000000,
+    "illustration_stop_threshold_bytes": 800000000,
+    "can_add_illustrations": true,
+    "remaining_to_site_limit_bytes": 965146742,
+    "reference": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
+  },
+  "automation": {
+    "id": "daily-seo-for-stylist-ai-and-pelvic-gym",
+    "status": "ACTIVE",
+    "local_time": "22:00",
+    "timezone": "Asia/Dubai",
+    "articles_per_app": 5,
+    "requires": "Computer awake and Codex running",
+    "illustration_stop_threshold_bytes": 800000000
+  },
+  "validation": {
+    "static": "52 pages passed metadata, links, dates, schemas, sitemaps, correct app IDs, native Smart App Banner and no public forum-link checks.",
+    "browser": "Illustrated card grid and representative 390px article layouts visually inspected; FAQ expansion verified.",
+    "analytics": "Both existing consent/analytics test suites passed; no tracking changes."
+  },
+  "limitations": [
+    "Engagement can change; one selected question uses a dated search snapshot rather than a live count.",
+    "Selection favors distinct actionable questions in a limited sample, not the highest score across all of Reddit.",
+    "Live publication is pending; indexing, rankings and installs are not established."
+  ]
+}

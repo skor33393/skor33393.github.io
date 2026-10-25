@@ -1,0 +1,96 @@
+{
+  "created": "2026-10-26",
+  "notes": "Original AI-generated editorial illustrations. Production copies encoded as WebP; original PNGs retained outside the publishing repository.",
+  "illustrations": [
+    {
+      "slug": "black-wardrobe-alternatives",
+      "mode": "built-in image_gen",
+      "prompt": "Use case: illustration-story. Asset type: editorial cover illustration for the Stylist AI fashion and color journal. Create one refined, original wide landscape 3:2 illustration, approximately 1536x1024. Style: sophisticated hand-painted gouache and cut-paper collage, tactile paper grain and believable woven fabric textures, gently dimensional objects, restrained soft shadows, warm ivory background #fcf8f3, generous breathing room, clean legible composition at thumbnail size. Contemporary fashion magazine art direction, elegant and warm, not a cartoon infographic. No text, letters, numbers, logos, watermarks, interface elements, charts, borders, or Reddit references. No real people, faces, or photographs. Show the following subject clearly: A thoughtfully arranged flat lay of four wardrobe staples: navy tailored trousers, a chocolate brown cropped jacket, an olive green knit, and a stone-colored loafer, with a small black leather bag kept at the edge. A coherent capsule of alternative neutrals, uncluttered and beautifully composed.",
+      "asset": "stylist_ai/blog/assets/illustrations/black-wardrobe-alternatives.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 98028
+    },
+    {
+      "slug": "unexpected-outfit-color-combinations",
+      "mode": "built-in image_gen",
+      "prompt": "Use case: illustration-story. Asset type: editorial cover illustration for the Stylist AI fashion and color journal. Create one refined, original wide landscape 3:2 illustration, approximately 1536x1024. Style: sophisticated hand-painted gouache and cut-paper collage, tactile paper grain and believable woven fabric textures, gently dimensional objects, restrained soft shadows, warm ivory background #fcf8f3, generous breathing room, clean legible composition at thumbnail size. Contemporary fashion magazine art direction, elegant and warm, not a cartoon infographic. No text, letters, numbers, logos, watermarks, interface elements, charts, borders, or Reddit references. No real people, faces, or photographs. Show the following subject clearly: Three clearly separated mini outfit pairings laid out as a balanced editorial triptych without divider lines: cobalt blue blouse beside chocolate brown trousers; lavender knit beside olive skirt; peach shirt beside burgundy trousers. The actual clothing colors are central. Sculptural folds, six garments total, no accessories clutter.",
+      "asset": "stylist_ai/blog/assets/illustrations/unexpected-outfit-color-combinations.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 81048
+    },
+    {
+      "slug": "is-professional-color-analysis-worth-it",
+      "mode": "built-in image_gen",
+      "prompt": "Use case: illustration-story. Asset type: editorial cover illustration for the Stylist AI fashion and color journal. Create one refined, original wide landscape 3:2 illustration, approximately 1536x1024. Style: sophisticated hand-painted gouache and cut-paper collage, tactile paper grain and believable woven fabric textures, gently dimensional objects, restrained soft shadows, warm ivory background #fcf8f3, generous breathing room, clean legible composition at thumbnail size. Contemporary fashion magazine art direction, elegant and warm, not a cartoon infographic. No text, letters, numbers, logos, watermarks, interface elements, charts, borders, or Reddit references. No real people, faces, or photographs. Show the following subject clearly: A color consultation tabletop still life: a freestanding elegant round mirror reflecting only warm neutral light, several rich fabric drapes folded in an open fan, an open blank ivory notebook with a simple pencil, and a small wooden clothes hanger. Calm, considered in-person styling consultation, no people or writing.",
+      "asset": "stylist_ai/blog/assets/illustrations/is-professional-color-analysis-worth-it.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 138520
+    },
+    {
+      "slug": "how-to-find-colorful-clothes",
+      "mode": "built-in image_gen",
+      "prompt": "Use case: illustration-story. Asset type: editorial cover illustration for the Stylist AI fashion and color journal. Create one refined, original wide landscape 3:2 illustration, approximately 1536x1024. Style: sophisticated hand-painted gouache and cut-paper collage, tactile paper grain and believable woven fabric textures, gently dimensional objects, restrained soft shadows, warm ivory background #fcf8f3, generous breathing room, clean legible composition at thumbnail size. Contemporary fashion magazine art direction, elegant and warm, not a cartoon infographic. No text, letters, numbers, logos, watermarks, interface elements, charts, borders, or Reddit references. No real people, faces, or photographs. Show the following subject clearly: A beautiful small clothing rail displaying varied colorful garments: cobalt pleated midi skirt, lilac structured cardigan, tomato-red tailored trousers and emerald wrap dress with sleeves. Garments have distinct interesting silhouettes, hangers spaced generously. An empty cream shopping tote below, bright clothes against a quiet ivory room.",
+      "asset": "stylist_ai/blog/assets/illustrations/how-to-find-colorful-clothes.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 128580
+    },
+    {
+      "slug": "gold-or-silver-jewelry",
+      "mode": "built-in image_gen",
+      "prompt": "Use case: illustration-story. Asset type: editorial cover illustration for the Stylist AI fashion and color journal. Create one refined, original wide landscape 3:2 illustration, approximately 1536x1024. Style: sophisticated hand-painted gouache and cut-paper collage, tactile paper grain and believable woven fabric textures, gently dimensional objects, restrained soft shadows, warm ivory background #fcf8f3, generous breathing room, clean legible composition at thumbnail size. Contemporary fashion magazine art direction, elegant and warm, not a cartoon infographic. No text, letters, numbers, logos, watermarks, interface elements, charts, borders, or Reddit references. No real people, faces, or photographs. Show the following subject clearly: A balanced jewelry comparison still life on softly folded ivory linen: one pair of warm yellow-gold medium hoop earrings on the left and one identical-size pair of cool silver hoop earrings on the right. Two delicate chains curve gently below their matching earrings. Polished and brushed highlights, equal visual prominence, no skin or hands, elegant fashion editorial.",
+      "asset": "stylist_ai/blog/assets/illustrations/gold-or-silver-jewelry.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 153888
+    },
+    {
+      "slug": "build-a-wardrobe-color-palette",
+      "mode": "built-in image_gen",
+      "prompt": "Use case: illustration-story. Asset type: editorial cover illustration for the Stylist AI fashion and color journal. Create one refined, original wide landscape 3:2 illustration, approximately 1536x1024. Style: sophisticated hand-painted gouache and cut-paper collage, tactile paper grain and believable woven fabric textures, gently dimensional objects, restrained soft shadows, warm ivory background #fcf8f3, generous breathing room, clean legible composition at thumbnail size. Contemporary fashion magazine art direction, elegant and warm, not a cartoon infographic. No text, letters, numbers, logos, watermarks, interface elements, charts, borders, or Reddit references. No real people, faces, or photographs. Show the following subject clearly: An organized capsule wardrobe flat lay: indigo jeans, charcoal trousers, cream shirt, chocolate jacket, teal knit and rose blouse, arranged as six neatly overlapping textile silhouettes with a small fan of six matching color swatches nearby. Clear thoughtful visual rhythm, useful clothing palette, no labels or text.",
+      "asset": "stylist_ai/blog/assets/illustrations/build-a-wardrobe-color-palette.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 134506
+    },
+    {
+      "slug": "olive-skin-color-analysis",
+      "mode": "built-in image_gen",
+      "prompt": "Use case: illustration-story. Asset type: editorial cover illustration for the Stylist AI fashion and color journal. Create one refined, original wide landscape 3:2 illustration, approximately 1536x1024. Style: sophisticated hand-painted gouache and cut-paper collage, tactile paper grain and believable woven fabric textures, gently dimensional objects, restrained soft shadows, warm ivory background #fcf8f3, generous breathing room, clean legible composition at thumbnail size. Contemporary fashion magazine art direction, elegant and warm, not a cartoon infographic. No text, letters, numbers, logos, watermarks, interface elements, charts, borders, or Reddit references. No real people, faces, or photographs. Show the following subject clearly: An editorial color-comparison still life beside a softly lit window: paired real-looking fabric drapes in deep blue and pale blue, muted sage and vivid teal, warm brown and cool taupe. A small plain standing mirror reflects only soft light. The same fabric families shown in different depth and saturation, no skin, face, personal color diagnosis, text or arrows.",
+      "asset": "stylist_ai/blog/assets/illustrations/olive-skin-color-analysis.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 204828
+    },
+    {
+      "slug": "hate-your-color-season-palette",
+      "mode": "built-in image_gen",
+      "prompt": "Use case: illustration-story. Asset type: editorial cover illustration for the Stylist AI fashion and color journal. Create one refined, original wide landscape 3:2 illustration, approximately 1536x1024. Style: sophisticated hand-painted gouache and cut-paper collage, tactile paper grain and believable woven fabric textures, gently dimensional objects, restrained soft shadows, warm ivory background #fcf8f3, generous breathing room, clean legible composition at thumbnail size. Contemporary fashion magazine art direction, elegant and warm, not a cartoon infographic. No text, letters, numbers, logos, watermarks, interface elements, charts, borders, or Reddit references. No real people, faces, or photographs. Show the following subject clearly: A joyful personal-style still life: an open wardrobe with a loved rust jacket and golden accessories in front, beside a loosely arranged fan of cool rose, lavender and blue swatches. Both warm clothing and cool suggestions coexist harmoniously, with one rose scarf draped casually over the jacket. A visual about freedom to choose, no crossed-out colors, no people.",
+      "asset": "stylist_ai/blog/assets/illustrations/hate-your-color-season-palette.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 151340
+    },
+    {
+      "slug": "mix-patterns-and-prints",
+      "mode": "built-in image_gen",
+      "prompt": "Use case: illustration-story. Asset type: editorial cover illustration for the Stylist AI fashion and color journal. Create one refined, original wide landscape 3:2 illustration, approximately 1536x1024. Style: sophisticated hand-painted gouache and cut-paper collage, tactile paper grain and believable woven fabric textures, gently dimensional objects, restrained soft shadows, warm ivory background #fcf8f3, generous breathing room, clean legible composition at thumbnail size. Contemporary fashion magazine art direction, elegant and warm, not a cartoon infographic. No text, letters, numbers, logos, watermarks, interface elements, charts, borders, or Reddit references. No real people, faces, or photographs. Show the following subject clearly: An elegant arrangement of three textile garments and one scarf: fine blue-and-ivory striped shirt, larger blue botanical-print scarf, cream-and-brown small-check skirt, and a navy blouse with tiny ivory dots. Carefully crafted believable patterns with distinct scales, draped folds, a harmonious editorial flat lay, no writing.",
+      "asset": "stylist_ai/blog/assets/illustrations/mix-patterns-and-prints.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 206752
+    },
+    {
+      "slug": "season-neutrals-do-not-suit-me",
+      "mode": "built-in image_gen",
+      "prompt": "Use case: illustration-story. Asset type: editorial cover illustration for the Stylist AI fashion and color journal. Create one refined, original wide landscape 3:2 illustration, approximately 1536x1024. Style: sophisticated hand-painted gouache and cut-paper collage, tactile paper grain and believable woven fabric textures, gently dimensional objects, restrained soft shadows, warm ivory background #fcf8f3, generous breathing room, clean legible composition at thumbnail size. Contemporary fashion magazine art direction, elegant and warm, not a cartoon infographic. No text, letters, numbers, logos, watermarks, interface elements, charts, borders, or Reddit references. No real people, faces, or photographs. Show the following subject clearly: Three distinct neutral knit sweaters presented as an airy clothing flat lay: a small folded camel sweater off to one side, with deep chocolate brown and olive green sweaters more open in the center, accompanied by a soft off-white scarf. Visual choice among warm wardrobe neutrals, refined texture and balanced negative space, no arrows or judgments.",
+      "asset": "stylist_ai/blog/assets/illustrations/season-neutrals-do-not-suit-me.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 136754
+    }
+  ]
+}

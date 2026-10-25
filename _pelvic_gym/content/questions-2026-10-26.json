@@ -19,7 +19,7 @@
       {
         "id": "what-therapy-can-address",
         "title": "What can pelvic floor therapy actually address?",
-        "html": "<p>This question appeared in a recent <a href=\"https://www.reddit.com/r/Endo/comments/1x4gwlr/pelvic_floor_therapy/\">Reddit discussion about pelvic floor therapy and endometriosis</a>. Replies described different experiences. That makes it a useful question to answer, but personal reports do not establish which treatment will help you.</p><p><a href=\"https://www.cuh.nhs.uk/patient-information/alternative-ways-of-managing-pain-associated-with-endometriosis/\">Cambridge University Hospitals explains</a> that muscles and joints can contribute to persistent endometriosis-associated pain. Pelvic floor muscles may become tense and painful, with effects on intercourse, bladder or bowel function. A pelvic health physiotherapist can assess that part of the picture and discuss suitable movement or relaxation work.</p><p>The distinction matters: supporting a painful muscle system is not the same as curing the underlying condition. The <a href=\"https://www.nhs.uk/conditions/endometriosis/\">NHS endometriosis guide</a> describes medical assessment and treatments such as medicines and surgery. Physiotherapy should fit alongside that care, with expectations agreed individually.</p>"
+        "html": "<p>Pelvic floor therapy may help with muscle or movement problems that occur alongside endometriosis. Whether it is suitable depends on an individual assessment of your symptoms and needs.</p><p><a href=\"https://www.cuh.nhs.uk/patient-information/alternative-ways-of-managing-pain-associated-with-endometriosis/\">Cambridge University Hospitals explains</a> that muscles and joints can contribute to persistent endometriosis-associated pain. Pelvic floor muscles may become tense and painful, with effects on intercourse, bladder or bowel function. A pelvic health physiotherapist can assess that part of the picture and discuss suitable movement or relaxation work.</p><p>The distinction matters: supporting a painful muscle system is not the same as curing the underlying condition. The <a href=\"https://www.nhs.uk/conditions/endometriosis/\">NHS endometriosis guide</a> describes medical assessment and treatments such as medicines and surgery. Physiotherapy should fit alongside that care, with expectations agreed individually.</p>"
       },
       {
         "id": "not-automatically-kegels",
@@ -48,20 +48,47 @@
       }
     ],
     "faqs": [
-      {"question":"Does pelvic floor therapy cure endometriosis?","answer":"No. It may address associated muscle or movement problems, but it does not remove endometriosis or replace medical treatment."},
-      {"question":"How many sessions will I need?","answer":"There is no universal number. Ask what goals you are working toward, when progress will be reviewed, and what would prompt a change in the plan."},
-      {"question":"Should I do Kegels while waiting for therapy?","answer":"Do not start or intensify strengthening simply because you have pelvic pain. Ask a healthcare professional whether it is appropriate, especially if contracting makes symptoms worse."}
+      {
+        "question": "Does pelvic floor therapy cure endometriosis?",
+        "answer": "No. It may address associated muscle or movement problems, but it does not remove endometriosis or replace medical treatment."
+      },
+      {
+        "question": "How many sessions will I need?",
+        "answer": "There is no universal number. Ask what goals you are working toward, when progress will be reviewed, and what would prompt a change in the plan."
+      },
+      {
+        "question": "Should I do Kegels while waiting for therapy?",
+        "answer": "Do not start or intensify strengthening simply because you have pelvic pain. Ask a healthcare professional whether it is appropriate, especially if contracting makes symptoms worse."
+      }
     ],
     "sources": [
-      {"title":"Cambridge University Hospitals: Managing pain associated with endometriosis","url":"https://www.cuh.nhs.uk/patient-information/alternative-ways-of-managing-pain-associated-with-endometriosis/"},
-      {"title":"NHS: Endometriosis","url":"https://www.nhs.uk/conditions/endometriosis/"},
-      {"title":"NIDDK: Kegel exercises","url":"https://www.niddk.nih.gov/health-information/urologic-diseases/kegel-exercises"},
-      {"title":"University Hospitals Sussex: Your pelvic health physiotherapy appointment","url":"https://www.uhsussex.nhs.uk/resources/your-pelvic-health-physiotherapy-appointment/"},
-      {"title":"NHS: Pelvic pain and when to seek help","url":"https://www.nhs.uk/symptoms/pelvic-pain/"}
+      {
+        "title": "Cambridge University Hospitals: Managing pain associated with endometriosis",
+        "url": "https://www.cuh.nhs.uk/patient-information/alternative-ways-of-managing-pain-associated-with-endometriosis/"
+      },
+      {
+        "title": "NHS: Endometriosis",
+        "url": "https://www.nhs.uk/conditions/endometriosis/"
+      },
+      {
+        "title": "NIDDK: Kegel exercises",
+        "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/kegel-exercises"
+      },
+      {
+        "title": "University Hospitals Sussex: Your pelvic health physiotherapy appointment",
+        "url": "https://www.uhsussex.nhs.uk/resources/your-pelvic-health-physiotherapy-appointment/"
+      },
+      {
+        "title": "NHS: Pelvic pain and when to seek help",
+        "url": "https://www.nhs.uk/symptoms/pelvic-pain/"
+      }
     ],
-    "related": ["pelvic-floor-therapy-what-to-expect", "tight-vs-weak-pelvic-floor", "pelvic-floor-relaxation"],
+    "related": [
+      "pelvic-floor-therapy-what-to-expect",
+      "tight-vs-weak-pelvic-floor",
+      "pelvic-floor-relaxation"
+    ],
     "cta": "assessment",
-    "keyword": "pelvic floor therapy endometriosis",
-    "researchNote": "New topic found in a public Reddit question dated 2026-10-12. Search snapshot on 2026-10-26 showed +14 votes. Primary clinical sources checked 2026-10-26. No Reddit anecdote used as medical evidence."
+    "keyword": "pelvic floor therapy endometriosis"
   }
 ]

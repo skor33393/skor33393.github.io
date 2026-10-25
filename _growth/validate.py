@@ -34,6 +34,9 @@ for section,app in [('pelvic_gym','6478076577'),('stylist_ai/blog','6739435502')
     pages={p:Page(p.read_text()) for p in (ROOT/section).rglob('*.html')}
     for path,p in pages.items():
         rel='/'+str(path.relative_to(ROOT)).replace('index.html','')
+        raw=path.read_text().lower()
+        check(not any(domain in raw for domain in ['reddit.com','redd.it','quora.com']),rel+': forum research must not appear in public output')
+        check(raw.count('name="apple-itunes-app" content="app-id='+app+'"')==1,rel+': Smart App Banner')
         check(p.h1==1,rel+': H1 count')
         check(0<len(p.title)<=85,rel+': title')
         check(len(p.desc)==1 and 100<=len(p.desc[0])<=175,rel+': description')
@@ -68,7 +71,7 @@ for folder,base in [('_stylist_ai/content','stylist_ai/blog'),('_pelvic_gym/cont
             check(modified>=published,a['slug']+': modification predates publication')
             check(schemas[0]['datePublished'].startswith(published),a['slug']+': publication mismatch')
             check(schemas[0]['dateModified'].startswith(modified),a['slug']+': modification mismatch')
-        check(bool(a['sources']),a['slug']+': missing sources')
+        check(bool(a['sources']) or (folder=='_stylist_ai/content' and bool(a.get('sourceNote'))),a['slug']+': factual sources or original-styling note required')
 locs=[x.text for x in ET.parse(ROOT/'sitemap.xml').findall('.//s:loc',ns)]
 check('https://bestme.mobi/pelvic_gym/sitemap.xml' in locs and 'https://bestme.mobi/stylist_ai/blog/sitemap.xml' in locs,'Shared sitemap missing a journal')
 check((ROOT/'CNAME').read_text().strip()=='bestme.mobi','Domain changed')
