@@ -30,7 +30,10 @@
     script.onload=()=>api.status='ready';script.onerror=()=>api.status='blocked';document.head.appendChild(script);api.status='loading';
   }else api.status='test';
   function event(name,params={}){
-    const payload={...base,...params};
+    // Explicit event fields only. Never forward form values or arbitrary error payloads.
+    const allowed=new Set(['store','placement','feature','scroll_percent','visible_ms','features_seen','destination','transport_type','feature_visible_ms','engaged_seconds','tap_target','store_clicks','error_type','form_started','submission_pending']);
+    const clean=Object.fromEntries(Object.entries(params).filter(([key,value])=>allowed.has(key)&&!(typeof value==='string'&&value.includes('@'))));
+    const payload={...base,...clean};
     if(dry)api.events.push({name,params:payload});else gtag('event',name,payload);
   }
   api.track=event;
@@ -64,7 +67,7 @@
     if(button){
       clicks++;
       const store=button.dataset.store||'not_selected';
-      const params={store,placement:button.dataset.placement,feature:card?.dataset.feature||cards.find(c=>c.entered!==null)?.feature||'hero',scroll_percent:depth(),visible_ms:Math.round(visibleMs),features_seen:cards.filter(c=>c.seen).length,destination:'coming_soon',transport_type:'beacon'};
+      const params={store,placement:button.dataset.placement,feature:card?.dataset.feature||cards.find(c=>c.entered!==null)?.feature||'hero',scroll_percent:depth(),visible_ms:Math.round(visibleMs),features_seen:cards.filter(c=>c.seen).length,destination:'launch_waitlist',transport_type:'beacon'};
       event('plant_cta_click',params);
       if(store!=='not_selected'){event('plant_store_click',params);if(!intent){intent=true;event('plant_download_intent',params)}}
       else event('plant_care_plan_intent',params);

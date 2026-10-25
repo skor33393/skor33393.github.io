@@ -6,6 +6,7 @@
     trigger=button;
     if(dialog && !dialog.open){
       dialog.showModal();
+      dialog.dispatchEvent(new CustomEvent('waitlist:open',{detail:{placement:button.dataset.placement,store:button.dataset.store||'not_selected',feature:button.closest('[data-feature]')?.dataset.feature||'hero'}}));
       window.plantAnalytics?.track('plant_coming_soon_view',{placement:button.dataset.placement,store:button.dataset.store||'not_selected'});
     }
   }));
