@@ -1,0 +1,32 @@
+{
+  "date_local": "2026-10-26",
+  "timezone": "Asia/Dubai",
+  "status": "completed",
+  "search_console": {
+    "root_verified": true,
+    "blog_properties_verified": [
+      "https://bestme.mobi/stylist_ai/blog/",
+      "https://bestme.mobi/pelvic_gym/"
+    ],
+    "sitemaps_processed": {
+      "root_index": true,
+      "stylist_ai_urls": 14,
+      "pelvic_gym_urls": 38
+    },
+    "homepage_indexing_requests_accepted": 2,
+    "performance_data": "processing"
+  },
+  "analytics_reports": "separate saved blog-path reports verified for both apps; private baseline outside repo",
+  "seo_commit": "ec753f8",
+  "live_checks": {
+    "passed": 70,
+    "failed": 0
+  },
+  "protected_ad_files_sha256_unchanged": 199,
+  "changes": [
+    "root ownership verification tag",
+    "blog related reading for all 11 Stylist guides",
+    "main-pages sitemap added without editing landing pages",
+    "daily workflow protects ad landing pages and shared assets"
+  ]
+}

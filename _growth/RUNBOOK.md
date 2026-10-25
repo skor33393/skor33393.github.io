@@ -49,3 +49,5 @@ User preference (2026-10-26): question research guides article topics and titles
 ## Measurement and limits
 
 Pelvic Gym keeps its existing opt-in Analytics stream. Stylist AI journal uses the existing Stylist AI public measurement ID `G-W5SLGWMJ48` with separate consent storage and journal-scoped cookies; filter reports by `/stylist_ai/blog/` to separate it from the landing page. `app_store_click` is a store click, not an install. UTMs do not establish App Store install attribution. Search Console verification/submission is separate; do not invent search performance or indexing results. The scheduler is a Codex local heartbeat, so the computer must be awake and the app running for local files and SSH access.
+
+Search Console and dedicated blog visitor reports were configured on 2026-10-26. Read `_growth/MEASUREMENT.md` before interpreting search performance or analytics; private visitor baselines and report links stay outside the public publishing repository. Preserve the root verification meta tag and the protected advertising destination. Use actual query evidence to improve existing answers when sufficient data becomes available.
