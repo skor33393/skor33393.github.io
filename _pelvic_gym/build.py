@@ -123,9 +123,12 @@ def build_sitemap():
     ns='http://www.sitemaps.org/schemas/sitemap/0.9'
     ET.register_namespace('',ns)
     paths=[BASE+'/']+[url(a) for a in ARTICLES]+[category_url(c) for c in CATEGORIES]+[BASE+'/about/',BASE+'/privacy/']
+    page_dates={url(a):a.get('dateModified',a.get('datePublished',DATE)) for a in ARTICLES}
+    page_dates.update({category_url(c):max((page_dates[url(a)] for a in ARTICLES if a['category']==c),default=DATE) for c in CATEGORIES})
+    page_dates.update({BASE+'/':LATEST,BASE+'/about/':DATE,BASE+'/privacy/':DATE})
     root=ET.Element('{'+ns+'}urlset')
     for path in paths:
-        node=ET.SubElement(root,'{'+ns+'}url');ET.SubElement(node,'{'+ns+'}loc').text=ORIGIN+path;ET.SubElement(node,'{'+ns+'}lastmod').text=next((a.get('dateModified',a.get('datePublished',DATE)) for a in ARTICLES if url(a)==path), DATE if path in [BASE+'/about/',BASE+'/privacy/'] else LATEST)
+        node=ET.SubElement(root,'{'+ns+'}url');ET.SubElement(node,'{'+ns+'}loc').text=ORIGIN+path;ET.SubElement(node,'{'+ns+'}lastmod').text=page_dates[path]
     save(BASE+'/sitemap.xml',ET.tostring(root,encoding='unicode',xml_declaration=True))
     # Preserve other top-level sitemap entries if this shared domain adds them later.
     top=ROOT/'sitemap.xml'

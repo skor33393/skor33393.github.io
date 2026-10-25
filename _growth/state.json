@@ -2,9 +2,9 @@
   "schema_version": 1,
   "timezone": "Asia/Dubai",
   "schedule_local": "22:00 daily",
-  "last_successful_scan": null,
+  "last_successful_scan": "2026-10-25T21:52:30.752314+00:00",
   "runs": {
-    "2026-10-26-initial": "ready_to_publish"
+    "2026-10-26-initial": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -12,7 +12,8 @@
         "question_url": "https://www.reddit.com/r/autumns/comments/1xbdxdw/type_me/",
         "article_url": "https://bestme.mobi/stylist_ai/blog/soft-summer-or-soft-autumn/",
         "run_id": "2026-10-26-initial",
-        "status": "ready"
+        "status": "published",
+        "verified_at": "2026-10-25T21:55:33.020461+00:00"
       }
     ],
     "pelvic_gym": [
@@ -20,8 +21,10 @@
         "question_url": "https://www.reddit.com/r/Endo/comments/1x4gwlr/pelvic_floor_therapy/",
         "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-therapy-endometriosis/",
         "run_id": "2026-10-26-initial",
-        "status": "ready"
+        "status": "published",
+        "verified_at": "2026-10-25T21:55:33.020461+00:00"
       }
     ]
-  }
+  },
+  "automation_id": "daily-seo-for-stylist-ai-and-pelvic-gym"
 }

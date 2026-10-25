@@ -2,7 +2,7 @@
   "run_id": "2026-10-26-initial",
   "observed_at": "2026-10-25T21:52:30.752314+00:00",
   "timezone": "Asia/Dubai",
-  "status": "ready_to_publish",
+  "status": "completed",
   "window": {
     "start": "2026-09-26",
     "end": "2026-10-26",
@@ -147,16 +147,18 @@
       "question_url": "https://www.reddit.com/r/autumns/comments/1xbdxdw/type_me/",
       "article_url": "https://bestme.mobi/stylist_ai/blog/soft-summer-or-soft-autumn/",
       "action": "new",
-      "status": "ready",
-      "reason": "9 visible question votes versus 7 on the other current season-typing question; direct conflicting Summer/Autumn intent also appears in Google related questions."
+      "status": "published",
+      "reason": "9 visible question votes versus 7 on the other current season-typing question; direct conflicting Summer/Autumn intent also appears in Google related questions.",
+      "verified_at": "2026-10-25T21:55:33.020461+00:00"
     },
     {
       "app": "pelvic_gym",
       "question_url": "https://www.reddit.com/r/Endo/comments/1x4gwlr/pelvic_floor_therapy/",
       "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-therapy-endometriosis/",
       "action": "new",
-      "status": "ready",
-      "reason": "14 visible question votes, highest among the opened, relevant and nonduplicate questions in this initial sample (alternatives 9, 4, 2, 1). Distinct endometriosis intent is not covered by the general first-appointment guide."
+      "status": "published",
+      "reason": "14 visible question votes, highest among the opened, relevant and nonduplicate questions in this initial sample (alternatives 9, 4, 2, 1). Distinct endometriosis intent is not covered by the general first-appointment guide.",
+      "verified_at": "2026-10-25T21:55:33.020461+00:00"
     }
   ],
   "validation": {
@@ -170,5 +172,22 @@
     "Google related questions are existing search-intent signals; no new publication date or search volume inferred.",
     "Quora could not be scanned beyond the access attempt.",
     "Indexing, rankings and app installs have not been measured."
-  ]
+  ],
+  "published_commit": "d550f7c7bf04cb17af873d30f6055b1df92d368f",
+  "deployment": {
+    "status": "success",
+    "url": "https://github.com/skor33393/skor33393.github.io/actions/runs/40237593572",
+    "verified_at": "2026-10-25T21:55:33.020461+00:00",
+    "live_checked": 48,
+    "live_passed": 48
+  },
+  "automation": {
+    "id": "daily-seo-for-stylist-ai-and-pelvic-gym",
+    "status": "ACTIVE",
+    "local_time": "22:00",
+    "timezone": "Asia/Dubai",
+    "next_scheduled_local": "2026-10-26T22:00:00+04:00",
+    "host_timezone_verified": "Asia/Dubai",
+    "requires": "Computer awake and Codex running"
+  }
 }
