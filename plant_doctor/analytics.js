@@ -35,6 +35,8 @@
     const clean=Object.fromEntries(Object.entries(params).filter(([key,value])=>allowed.has(key)&&!(typeof value==='string'&&value.includes('@'))));
     const payload={...base,...clean};
     if(dry)api.events.push({name,params:payload});else gtag('event',name,payload);
+    // TikTok uses its standard Lead event only for a confirmed waitlist save.
+    try{window.plantTikTok?.track(name,clean)}catch(_){}
   }
   api.track=event;
   const milestones=new Set(),engagement=new Set();let active=!document.hidden,last=performance.now(),visibleMs=0,maxDepth=0,clicks=0,timer=null;
