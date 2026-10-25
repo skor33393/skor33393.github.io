@@ -5,7 +5,7 @@
   "last_successful_scan": "2026-10-25T21:52:30.752314+00:00",
   "runs": {
     "2026-10-26-initial": "completed",
-    "2026-10-26-stylist-expansion": "deployment_pending"
+    "2026-10-26-stylist-expansion": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -15,6 +15,76 @@
         "run_id": "2026-10-26-initial",
         "status": "published",
         "verified_at": "2026-10-25T21:55:33.020461+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/bish4t/is_anyone_else_burned_out_on_black/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/black-wardrobe-alternatives/",
+        "run_id": "2026-10-26-stylist-expansion",
+        "status": "published",
+        "verified_at": "2026-10-25T22:59:46.957071+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/ejrtfm/what_are_your_favorite_color_combinations_that/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/unexpected-outfit-color-combinations/",
+        "run_id": "2026-10-26-stylist-expansion",
+        "status": "published",
+        "verified_at": "2026-10-25T22:59:46.957071+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/jtnfai/has_consulting_a_stylist_really_been_a_revelation/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/is-professional-color-analysis-worth-it/",
+        "run_id": "2026-10-26-stylist-expansion",
+        "status": "published",
+        "verified_at": "2026-10-25T22:59:46.957071+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1jfakq6/where_are_the_colors/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/how-to-find-colorful-clothes/",
+        "run_id": "2026-10-26-stylist-expansion",
+        "status": "published",
+        "verified_at": "2026-10-25T22:59:46.957071+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1tvizde/gold_or_silver/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/gold-or-silver-jewelry/",
+        "run_id": "2026-10-26-stylist-expansion",
+        "status": "published",
+        "verified_at": "2026-10-25T22:59:46.957071+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1nc3x2b/developing_a_color_palette_for_your_wardrobe/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/build-a-wardrobe-color-palette/",
+        "run_id": "2026-10-26-stylist-expansion",
+        "status": "published",
+        "verified_at": "2026-10-25T22:59:46.957071+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1eqw5s7/i_hate_my_color_analysis_is_there_any_way_to/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/hate-your-color-season-palette/",
+        "run_id": "2026-10-26-stylist-expansion",
+        "status": "published",
+        "verified_at": "2026-10-25T22:59:46.957071+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/ya4mry/what_are_your_favourite_patterns_and_prints/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/mix-patterns-and-prints/",
+        "run_id": "2026-10-26-stylist-expansion",
+        "status": "published",
+        "verified_at": "2026-10-25T22:59:46.957071+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1rr8h3y/pro_typed_as_true_autumn/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/season-neutrals-do-not-suit-me/",
+        "run_id": "2026-10-26-stylist-expansion",
+        "status": "published",
+        "verified_at": "2026-10-25T22:59:46.957071+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1neejom/which_color_season_am_i_fair_olive_skin_has_me/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/olive-skin-color-analysis/",
+        "run_id": "2026-10-26-stylist-expansion",
+        "status": "published",
+        "verified_at": "2026-10-25T22:59:46.957071+00:00"
       }
     ],
     "pelvic_gym": [
@@ -33,5 +103,7 @@
     "pelvic_gym": 5
   },
   "public_forum_links": false,
-  "illustration_stop_threshold_bytes": 800000000
+  "illustration_stop_threshold_bytes": 800000000,
+  "last_manual_scan": "2026-10-25T22:56:07.382393+00:00",
+  "last_manual_publication_verified_at": "2026-10-25T22:59:46.957071+00:00"
 }

@@ -2,7 +2,7 @@
   "run_id": "2026-10-26-stylist-expansion",
   "observed_at": "2026-10-25T22:56:07.382393+00:00",
   "timezone": "Asia/Dubai",
-  "status": "deployment_pending",
+  "status": "completed",
   "request": "Manual expansion: ten distinct original Stylist AI articles based on well-discussed Reddit questions, with relevant illustrations. Daily target increased to five per app.",
   "window": {
     "start": "2019-04-29",
@@ -319,80 +319,90 @@
       "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/bish4t/is_anyone_else_burned_out_on_black/",
       "article_url": "https://bestme.mobi/stylist_ai/blog/black-wardrobe-alternatives/",
       "action": "new",
-      "status": "deployment_pending",
-      "reason": "887 votes and 343 comments; much more visible attention than the sampled smaller wearing-black question. Distinct practical neutral alternatives intent."
+      "status": "published",
+      "reason": "887 votes and 343 comments; much more visible attention than the sampled smaller wearing-black question. Distinct practical neutral alternatives intent.",
+      "verified_at": "2026-10-25T22:59:46.957071+00:00"
     },
     {
       "app": "stylist_ai",
       "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/ejrtfm/what_are_your_favorite_color_combinations_that/",
       "article_url": "https://bestme.mobi/stylist_ai/blog/unexpected-outfit-color-combinations/",
       "action": "new",
-      "status": "deployment_pending",
-      "reason": "700 votes and 220 comments, versus 136 and 23 votes on sampled similar pairing questions; selected broad practical color-combination intent."
+      "status": "published",
+      "reason": "700 votes and 220 comments, versus 136 and 23 votes on sampled similar pairing questions; selected broad practical color-combination intent.",
+      "verified_at": "2026-10-25T22:59:46.957071+00:00"
     },
     {
       "app": "stylist_ai",
       "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/jtnfai/has_consulting_a_stylist_really_been_a_revelation/",
       "article_url": "https://bestme.mobi/stylist_ai/blog/is-professional-color-analysis-worth-it/",
       "action": "new",
-      "status": "deployment_pending",
-      "reason": "616 votes and 115 comments, versus 14 and 16 on narrower sampled consultation-value questions; answer distinguishes color analysis from broader styling."
+      "status": "published",
+      "reason": "616 votes and 115 comments, versus 14 and 16 on narrower sampled consultation-value questions; answer distinguishes color analysis from broader styling.",
+      "verified_at": "2026-10-25T22:59:46.957071+00:00"
     },
     {
       "app": "stylist_ai",
       "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1jfakq6/where_are_the_colors/",
       "article_url": "https://bestme.mobi/stylist_ai/blog/how-to-find-colorful-clothes/",
       "action": "new",
-      "status": "deployment_pending",
-      "reason": "486 live votes and 149 comments; clear shopping concern about color plus garment shape. Offers search methods rather than unverified current retailer stock."
+      "status": "published",
+      "reason": "486 live votes and 149 comments; clear shopping concern about color plus garment shape. Offers search methods rather than unverified current retailer stock.",
+      "verified_at": "2026-10-25T22:59:46.957071+00:00"
     },
     {
       "app": "stylist_ai",
       "question_url": "https://www.reddit.com/r/coloranalysis/comments/1tvizde/gold_or_silver/",
       "article_url": "https://bestme.mobi/stylist_ai/blog/gold-or-silver-jewelry/",
       "action": "new",
-      "status": "deployment_pending",
-      "reason": "352 votes and 307 comments, versus 34 and 42 votes on sampled other metal-comparison questions. General practical guide; no typing of the photographed person."
+      "status": "published",
+      "reason": "352 votes and 307 comments, versus 34 and 42 votes on sampled other metal-comparison questions. General practical guide; no typing of the photographed person.",
+      "verified_at": "2026-10-25T22:59:46.957071+00:00"
     },
     {
       "app": "stylist_ai",
       "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1nc3x2b/developing_a_color_palette_for_your_wardrobe/",
       "article_url": "https://bestme.mobi/stylist_ai/blog/build-a-wardrobe-color-palette/",
       "action": "new",
-      "status": "deployment_pending",
-      "reason": "342 votes and 78 comments, versus 145 votes on another wardrobe-palette question. Distinct coordination and shopping-planning intent."
+      "status": "published",
+      "reason": "342 votes and 78 comments, versus 145 votes on another wardrobe-palette question. Distinct coordination and shopping-planning intent.",
+      "verified_at": "2026-10-25T22:59:46.957071+00:00"
     },
     {
       "app": "stylist_ai",
       "question_url": "https://www.reddit.com/r/coloranalysis/comments/1eqw5s7/i_hate_my_color_analysis_is_there_any_way_to/",
       "article_url": "https://bestme.mobi/stylist_ai/blog/hate-your-color-season-palette/",
       "action": "new",
-      "status": "deployment_pending",
-      "reason": "263 votes and 234 comments, versus 16 votes on a narrower disliked-palette-color question. Addresses preferences without encouraging appearance changes."
+      "status": "published",
+      "reason": "263 votes and 234 comments, versus 16 votes on a narrower disliked-palette-color question. Addresses preferences without encouraging appearance changes.",
+      "verified_at": "2026-10-25T22:59:46.957071+00:00"
     },
     {
       "app": "stylist_ai",
       "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/ya4mry/what_are_your_favourite_patterns_and_prints/",
       "article_url": "https://bestme.mobi/stylist_ai/blog/mix-patterns-and-prints/",
       "action": "new",
-      "status": "deployment_pending",
-      "reason": "196 votes and 99 comments, versus 156 votes on another print question. Distinct extension from plain colors into prints."
+      "status": "published",
+      "reason": "196 votes and 99 comments, versus 156 votes on another print question. Distinct extension from plain colors into prints.",
+      "verified_at": "2026-10-25T22:59:46.957071+00:00"
     },
     {
       "app": "stylist_ai",
       "question_url": "https://www.reddit.com/r/coloranalysis/comments/1rr8h3y/pro_typed_as_true_autumn/",
       "article_url": "https://bestme.mobi/stylist_ai/blog/season-neutrals-do-not-suit-me/",
       "action": "new",
-      "status": "deployment_pending",
-      "reason": "90 votes and 133 comments; focused question about a recommended neutral that feels unhelpful, distinct from general dislike of black or a whole palette."
+      "status": "published",
+      "reason": "90 votes and 133 comments; focused question about a recommended neutral that feels unhelpful, distinct from general dislike of black or a whole palette.",
+      "verified_at": "2026-10-25T22:59:46.957071+00:00"
     },
     {
       "app": "stylist_ai",
       "question_url": "https://www.reddit.com/r/coloranalysis/comments/1neejom/which_color_season_am_i_fair_olive_skin_has_me/",
       "article_url": "https://bestme.mobi/stylist_ai/blog/olive-skin-color-analysis/",
       "action": "new",
-      "status": "deployment_pending",
-      "reason": "Explicit practical olive-skin confusion question, 44 search-snapshot votes versus 38, 18 and 12 on sampled comparable questions. Popular explanatory post (285 live votes) corroborates interest but is not used as the question."
+      "status": "published",
+      "reason": "Explicit practical olive-skin confusion question, 44 search-snapshot votes versus 38, 18 and 12 on sampled comparable questions. Popular explanatory post (285 live votes) corroborates interest but is not used as the question.",
+      "verified_at": "2026-10-25T22:59:46.957071+00:00"
     }
   ],
   "additional_updates": [
@@ -413,12 +423,12 @@
   "illustration_bytes": 1434244,
   "capacity": {
     "measurement": "Working files excluding Git/runtime/build caches; includes source and research files normally excluded by Jekyll, so this overestimates the static payload. Git object storage is measured separately.",
-    "working_file_bytes": 34853258,
-    "git_object_bytes": 53834752,
+    "working_file_bytes": 34874931,
+    "git_object_bytes": 55616512,
     "published_site_limit_bytes": 1000000000,
     "illustration_stop_threshold_bytes": 800000000,
     "can_add_illustrations": true,
-    "remaining_to_site_limit_bytes": 965146742,
+    "remaining_to_site_limit_bytes": 965125069,
     "reference": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
   },
   "automation": {
@@ -438,6 +448,14 @@
   "limitations": [
     "Engagement can change; one selected question uses a dated search snapshot rather than a live count.",
     "Selection favors distinct actionable questions in a limited sample, not the highest score across all of Reddit.",
-    "Live publication is pending; indexing, rankings and installs are not established."
-  ]
+    "Publication verified; indexing, rankings and installs have not been measured."
+  ],
+  "published_commit": "b48546dab263a9ecff6cfaadcc0ec88795c18420",
+  "deployment": {
+    "status": "success",
+    "url": "https://github.com/skor33393/skor33393.github.io/actions/runs/40242580455",
+    "verified_at": "2026-10-25T22:59:46.957071+00:00",
+    "live_checked": 69,
+    "live_passed": 69
+  }
 }
