@@ -8,7 +8,7 @@ import xml.etree.ElementTree as ET
 import json,re
 ROOT=Path(__file__).resolve().parents[1]
 ns={'s':'http://www.sitemaps.org/schemas/sitemap/0.9'}
-urls=['https://bestme.mobi/','https://bestme.mobi/stylist_ai/','https://bestme.mobi/robots.txt','https://bestme.mobi/sitemap.xml']
+urls=['https://bestme.mobi/','https://bestme.mobi/stylist_ai/','https://bestme.mobi/robots.txt','https://bestme.mobi/sitemap.xml','https://bestme.mobi/main-sitemap.xml']
 for section in ['pelvic_gym','stylist_ai/blog']:
     urls.append('https://bestme.mobi/'+section+'/sitemap.xml')
     urls.extend(x.text for x in ET.parse(ROOT/section/'sitemap.xml').findall('.//s:loc',ns))

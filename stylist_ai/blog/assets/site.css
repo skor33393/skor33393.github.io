@@ -2,3 +2,5 @@
 
 /* Article-specific illustrations preserve the complete generated composition. */
 .card-art.illustrated{padding:0;aspect-ratio:3/2}.card-art.illustrated img{display:block;width:100%;height:auto}.article-illustration{margin:30px 0 0}.article-illustration img{display:block;width:100%;height:auto;border-radius:16px}
+
+.related{padding:64px 0 80px;border-top:1px solid #ddd8d0}.related>h2{font-size:clamp(28px,4vw,42px);margin-bottom:32px}

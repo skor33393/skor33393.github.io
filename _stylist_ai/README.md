@@ -11,3 +11,7 @@ Analytics uses the existing Stylist AI web stream, public measurement ID `G-W5SL
 Public posts must not link or mention Reddit/Quora discussions; they are internal topic inspiration only. Keep original question URLs in `_growth/runs/`. Retain authoritative factual/clinical references. Create relevant original illustrations for new articles. Daily target: five distinct articles per app at 22:00 Asia/Dubai.
 
 Optional `illustration` fields are `src`, `alt`, `width`, and `height`. The cover appears on the article, its card, and in social/Article metadata. New images are compressed WebP; generation prompts are recorded in `illustration-prompts.json`. Check `_growth/check_capacity.py` before adding images. At 800 MB projected working files or Git objects, omit further illustrations and continue text publication. Keep original PNG masters outside the repository.
+
+Articles may specify a `related` array of existing article slugs. Use two genuinely useful next reads; the generator validates these links and displays their cards at the end.
+
+Active advertising protection (2026-10-26): do not edit `stylist_ai/index.html`, `stylist_ai/landing/`, or shared landing assets. Changes here must stay inside the blog and its own assets.
