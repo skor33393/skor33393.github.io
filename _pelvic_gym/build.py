@@ -3,6 +3,7 @@
 from pathlib import Path
 from html import escape
 import json, math, re, xml.etree.ElementTree as ET
+from datetime import date
 
 ROOT = Path(__file__).resolve().parents[1]
 BASE = '/pelvic_gym'
@@ -15,8 +16,11 @@ for source in sorted((ROOT / '_pelvic_gym/content').glob('*.json')):
     ARTICLES.extend(json.loads(source.read_text()))
 ORDER = ['pelvic-floor-exercises-for-women','how-to-do-kegel-exercises','leaking-urine-when-coughing','postpartum-pelvic-floor-recovery','tight-vs-weak-pelvic-floor','how-often-to-do-kegels','how-long-do-kegels-take-to-work','pelvic-floor-exercises-menopause','kegel-exercise-mistakes','pelvic-floor-relaxation']
 ORDER += ['pelvic-floor-therapy-what-to-expect', 'pelvic-floor-exercises-after-c-section', 'pelvic-floor-exercises-during-pregnancy', 'running-and-pelvic-floor', 'pelvic-floor-and-constipation', 'bladder-training-vs-kegels', 'urinary-urgency-in-women', 'pelvic-organ-prolapse-exercise', 'painful-sex-and-pelvic-floor', 'peeing-at-night-women', 'kegel-exercises-lying-sitting-standing', 'slow-and-fast-kegel-exercises', 'bladder-diary-for-women', 'kegel-app-vs-biofeedback-trainer', 'kegel-weights-and-trainers', 'yoga-pilates-and-pelvic-floor', 'pelvic-floor-exercises-after-hysterectomy', 'pelvic-floor-and-heavy-lifting', 'breathing-during-kegel-exercises', 'bladder-habits-water-caffeine']
+ORDER += [a['slug'] for a in ARTICLES if a['slug'] not in ORDER]
 BY_SLUG = {a['slug']:a for a in ARTICLES}
-ARTICLES.sort(key=lambda a: ORDER.index(a['slug']))
+ARTICLES.sort(key=lambda a: (-int(a.get('datePublished', DATE).replace('-', '')), ORDER.index(a['slug'])))
+LATEST = max(a.get('dateModified', a.get('datePublished', DATE)) for a in ARTICLES)
+def display_date(value): return date.fromisoformat(value).strftime('%B %d, %Y').replace(' 0', ' ')
 
 CATEGORIES = {
     'Getting started': {'slug':'getting-started','title':'Get to know your pelvic floor.','seo':'Pelvic Floor & Kegel Exercise Guides for Beginners | Pelvic Gym','description':'Learn how to find your pelvic floor, practice Kegels, understand exercise positions and choose suitable support with these practical beginner guides.','intro':'Start with the movement, then explore the questions that help you choose a suitable routine. These guides explain technique, training tools, and what professional support can offer.'},
@@ -89,12 +93,15 @@ def build_home():
 
 def build_article(a):
     path=url(a)
+    published=a.get('datePublished', DATE)
+    modified=a.get('dateModified', published)
+    checked=a.get('sourcesChecked', DATE)
     toc=''.join(f'<a href="#{e(s["id"])}">{e(s["title"])}</a>' for s in a['sections'])
     sections=''.join(f'<section aria-labelledby="{e(s["id"])}"><h2 id="{e(s["id"])}">{e(s["title"])}</h2>{s["html"]}</section>' for s in a['sections'])
     faqs=''.join(f'<details class="faq-item"><summary>{e(f["question"])}</summary><p>{e(f["answer"])}</p></details>' for f in a['faqs'])
     sources=''.join(f'<li><a href="{e(s["url"])}">{e(s["title"])}</a></li>' for s in a['sources'])
-    body=f'''<div class="reading-progress" aria-hidden="true"></div><main id="main" class="wrap"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="{BASE}/">Pelvic Gym</a><span aria-hidden="true">/</span><a href="{BASE}/#guides">Articles</a><span aria-hidden="true">/</span><a href="{category_url(a['category'])}">{e(a['category'])}</a></nav><header class="article-header"><p class="eyebrow coral-text">{e(a['category'])} / A Pelvic Gym guide</p><h1>{e(a['title'])}</h1><p class="article-dek">{e(a['excerpt'])}</p><div class="byline"><span>By <a href="{BASE}/about/">Pelvic Gym</a></span><time datetime="{DATE}">{DISPLAY_DATE}</time><span>{minutes(a)} min read</span><button class="print-btn" type="button" data-print>Print this guide</button></div><p class="review-note">Educational content · <a href="{BASE}/about/">Our editorial standards</a> · Sources linked below</p></header><div class="article-layout"><article class="article-body"><div class="quick-answer"><h2>The short answer</h2><p>{e(a['quickAnswer'])}</p></div><div class="takeaways"><h2>What to take away</h2><ul>{''.join('<li>'+e(t)+'</li>' for t in a['takeaways'])}</ul></div>{sections}<section aria-labelledby="common-questions"><h2 id="common-questions">Common questions</h2>{faqs}</section>{cta(a)}<section aria-labelledby="sources"><h2 id="sources">Sources &amp; further reading</h2><p class="source-list">The guidance above draws on these public health and clinical resources, consulted October 24, 2026. Sources support general education; they have not reviewed or endorsed Pelvic Gym.</p><ol class="source-list">{sources}</ol></section><p class="article-end">Published by the developer of Pelvic Gym. This article is educational and cannot tell you which treatment is right for you. <a href="{BASE}/about/">How we create our articles</a> · <a href="mailto:contact@bestme.mobi?subject=Article%20correction">Suggest a correction</a></p></article><aside class="toc" aria-label="On this page"><p class="eyebrow">In this guide</p><a href="#main">The short answer</a>{toc}<a href="#common-questions">Common questions</a><a href="#sources">Sources &amp; further reading</a><div class="sidebar-note">Your symptoms deserve individual care. If you’re unsure about your technique or what your muscles need, a pelvic health professional can help.</div></aside></div><section class="related" aria-labelledby="related-heading"><p class="eyebrow">Keep exploring</p><h2 id="related-heading">A helpful next read.</h2><div class="cards">{''.join(card(BY_SLUG[s]) for s in a['related'] if s in BY_SLUG and s!=a['slug'])}</div></section></main>'''
-    schemas=[{'@context':'https://schema.org','@type':'Article','headline':a['title'],'description':a['description'],'image':[ORIGIN+BASE+'/assets/editorial-social.jpg'],'datePublished':DATE+'T00:00:00+04:00','dateModified':DATE+'T00:00:00+04:00','author':{'@type':'Organization','name':'Pelvic Gym','url':ORIGIN+BASE+'/about/'},'publisher':{'@id':ORIGIN+BASE+'/#publisher'},'mainEntityOfPage':{'@type':'WebPage','@id':ORIGIN+path},'articleSection':a['category'],'inLanguage':'en','citation':[s['url'] for s in a['sources']]},{'@context':'https://schema.org','@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'Pelvic Gym','item':ORIGIN+BASE+'/'},{'@type':'ListItem','position':2,'name':a['category'],'item':ORIGIN+category_url(a['category'])},{'@type':'ListItem','position':3,'name':a['title'],'item':ORIGIN+path}]}]
+    body=f'''<div class="reading-progress" aria-hidden="true"></div><main id="main" class="wrap"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="{BASE}/">Pelvic Gym</a><span aria-hidden="true">/</span><a href="{BASE}/#guides">Articles</a><span aria-hidden="true">/</span><a href="{category_url(a['category'])}">{e(a['category'])}</a></nav><header class="article-header"><p class="eyebrow coral-text">{e(a['category'])} / A Pelvic Gym guide</p><h1>{e(a['title'])}</h1><p class="article-dek">{e(a['excerpt'])}</p><div class="byline"><span>By <a href="{BASE}/about/">Pelvic Gym</a></span><time datetime="{published}">{display_date(published)}</time><span>{minutes(a)} min read</span><button class="print-btn" type="button" data-print>Print this guide</button></div><p class="review-note">Educational content · <a href="{BASE}/about/">Our editorial standards</a> · Sources linked below</p></header><div class="article-layout"><article class="article-body"><div class="quick-answer"><h2>The short answer</h2><p>{e(a['quickAnswer'])}</p></div><div class="takeaways"><h2>What to take away</h2><ul>{''.join('<li>'+e(t)+'</li>' for t in a['takeaways'])}</ul></div>{sections}<section aria-labelledby="common-questions"><h2 id="common-questions">Common questions</h2>{faqs}</section>{cta(a)}<section aria-labelledby="sources"><h2 id="sources">Sources &amp; further reading</h2><p class="source-list">The guidance above draws on these public health and clinical resources, consulted {display_date(checked)}. Sources support general education; they have not reviewed or endorsed Pelvic Gym.</p><ol class="source-list">{sources}</ol></section><p class="article-end">Published by the developer of Pelvic Gym. This article is educational and cannot tell you which treatment is right for you. <a href="{BASE}/about/">How we create our articles</a> · <a href="mailto:contact@bestme.mobi?subject=Article%20correction">Suggest a correction</a></p></article><aside class="toc" aria-label="On this page"><p class="eyebrow">In this guide</p><a href="#main">The short answer</a>{toc}<a href="#common-questions">Common questions</a><a href="#sources">Sources &amp; further reading</a><div class="sidebar-note">Your symptoms deserve individual care. If you’re unsure about your technique or what your muscles need, a pelvic health professional can help.</div></aside></div><section class="related" aria-labelledby="related-heading"><p class="eyebrow">Keep exploring</p><h2 id="related-heading">A helpful next read.</h2><div class="cards">{''.join(card(BY_SLUG[s]) for s in a['related'] if s in BY_SLUG and s!=a['slug'])}</div></section></main>'''
+    schemas=[{'@context':'https://schema.org','@type':'Article','headline':a['title'],'description':a['description'],'image':[ORIGIN+BASE+'/assets/editorial-social.jpg'],'datePublished':published+'T00:00:00+04:00','dateModified':modified+'T00:00:00+04:00','author':{'@type':'Organization','name':'Pelvic Gym','url':ORIGIN+BASE+'/about/'},'publisher':{'@id':ORIGIN+BASE+'/#publisher'},'mainEntityOfPage':{'@type':'WebPage','@id':ORIGIN+path},'articleSection':a['category'],'inLanguage':'en','citation':[s['url'] for s in a['sources']]},{'@context':'https://schema.org','@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'Pelvic Gym','item':ORIGIN+BASE+'/'},{'@type':'ListItem','position':2,'name':a['category'],'item':ORIGIN+category_url(a['category'])},{'@type':'ListItem','position':3,'name':a['title'],'item':ORIGIN+path}]}]
     save(path+'index.html',page_shell(a['seoTitle'],a['description'],path,body,page=a['slug'],schemas=schemas,article=True))
 
 def build_information():
@@ -118,7 +125,7 @@ def build_sitemap():
     paths=[BASE+'/']+[url(a) for a in ARTICLES]+[category_url(c) for c in CATEGORIES]+[BASE+'/about/',BASE+'/privacy/']
     root=ET.Element('{'+ns+'}urlset')
     for path in paths:
-        node=ET.SubElement(root,'{'+ns+'}url');ET.SubElement(node,'{'+ns+'}loc').text=ORIGIN+path;ET.SubElement(node,'{'+ns+'}lastmod').text=DATE
+        node=ET.SubElement(root,'{'+ns+'}url');ET.SubElement(node,'{'+ns+'}loc').text=ORIGIN+path;ET.SubElement(node,'{'+ns+'}lastmod').text=next((a.get('dateModified',a.get('datePublished',DATE)) for a in ARTICLES if url(a)==path), DATE if path in [BASE+'/about/',BASE+'/privacy/'] else LATEST)
     save(BASE+'/sitemap.xml',ET.tostring(root,encoding='unicode',xml_declaration=True))
     # Preserve other top-level sitemap entries if this shared domain adds them later.
     top=ROOT/'sitemap.xml'
@@ -134,9 +141,9 @@ def build_sitemap():
         if node is not None and node.text==loc:
             last=child.find('{'+ns+'}lastmod')
             if last is None: last=ET.SubElement(child,'{'+ns+'}lastmod')
-            last.text=DATE;found=True
+            last.text=LATEST;found=True
     if not found:
-        node=ET.SubElement(index,'{'+ns+'}sitemap');ET.SubElement(node,'{'+ns+'}loc').text=loc;ET.SubElement(node,'{'+ns+'}lastmod').text=DATE
+        node=ET.SubElement(index,'{'+ns+'}sitemap');ET.SubElement(node,'{'+ns+'}loc').text=loc;ET.SubElement(node,'{'+ns+'}lastmod').text=LATEST
     top.write_text(ET.tostring(index,encoding='unicode',xml_declaration=True))
     robots=ROOT/'robots.txt'
     text=robots.read_text() if robots.exists() else 'User-agent: *\nAllow: /\n'

@@ -1,0 +1,174 @@
+{
+  "run_id": "2026-10-26-initial",
+  "observed_at": "2026-10-25T21:52:30.752314+00:00",
+  "timezone": "Asia/Dubai",
+  "status": "ready_to_publish",
+  "window": {
+    "start": "2026-09-26",
+    "end": "2026-10-26",
+    "reason": "Initial 30-day baseline; no prior daily scan. Search is a limited public sample, not an exhaustive census."
+  },
+  "source_access": {
+    "reddit": "Question text opened; engagement numbers from dated web-search snapshots, not API/live counts. Comment totals unavailable.",
+    "quora": "Search attempted for both themes; blocked by robots.txt. No questions or engagement invented.",
+    "google": "Actual Google results inspected in browser; People also ask and related searches recorded below. No keyword volume access."
+  },
+  "google_questions": {
+    "stylist_ai": [
+      "How do I know if I'm soft autumn or soft Summer?",
+      "Can I be both soft Summer and soft autumn?",
+      "What skin undertone is a soft Summer?",
+      "What colors should I avoid if I'm a Soft Autumn?"
+    ],
+    "pelvic_gym": [
+      "What are some ways to relieve endometriosis pain?",
+      "What is the newest treatment for endometriosis?",
+      "How to relieve hip pain from endometriosis?",
+      "How to reduce endometriosis inflammation?"
+    ]
+  },
+  "google_queries": [
+    "soft summer or soft autumn color analysis",
+    "can pelvic floor therapy help endometriosis pain"
+  ],
+  "candidates": [
+    {
+      "app": "stylist_ai",
+      "question": "Type me \u2014 conflicting Summer versus Autumn opinions",
+      "url": "https://www.reddit.com/r/autumns/comments/1xbdxdw/type_me/",
+      "platform": "reddit",
+      "posted_date_reported": "2026-10-21",
+      "observed_question_votes": 9,
+      "comments": null,
+      "views": null,
+      "engagement_evidence": "web search snapshot on 2026-10-26; not live API",
+      "decision": "selected"
+    },
+    {
+      "app": "stylist_ai",
+      "question": "What\u2019s my season? Draped in all 12",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1x1rbk8/whats_my_season_draped_in_all_12_need_help/",
+      "platform": "reddit",
+      "posted_date_reported": "2026-10-09",
+      "observed_question_votes": 7,
+      "comments": null,
+      "views": null,
+      "engagement_evidence": "web search snapshot on 2026-10-26; not live API",
+      "decision": "less visible attention"
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Same question, added missing photos",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1x1tcc8/whats_my_season_draped_in_all_12_need_help/",
+      "platform": "reddit",
+      "posted_date_reported": "2026-10-09",
+      "observed_question_votes": 7,
+      "comments": null,
+      "views": null,
+      "engagement_evidence": "web search snapshot on 2026-10-26; not live API",
+      "decision": "duplicate of preceding source question"
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Help me find my season pt.3",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1wazrjg/help_me_find_my_season_pt3/",
+      "platform": "reddit",
+      "posted_date_reported": "2026-09-08",
+      "observed_question_votes": 25,
+      "comments": null,
+      "views": null,
+      "engagement_evidence": "web search snapshot on 2026-10-26; not live API",
+      "decision": "excluded: outside 30-day baseline"
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Pelvic floor therapy for endometriosis symptoms",
+      "url": "https://www.reddit.com/r/Endo/comments/1x4gwlr/pelvic_floor_therapy/",
+      "platform": "reddit",
+      "posted_date_reported": "2026-10-12",
+      "observed_question_votes": 14,
+      "comments": null,
+      "views": null,
+      "engagement_evidence": "web search snapshot on 2026-10-26; not live API",
+      "decision": "selected"
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "No health insurance: can someone share their pelvic floor therapy?",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xa7myy/i_have_no_health_insurancebenefits_right_now/",
+      "platform": "reddit",
+      "posted_date_reported": "2026-10-19",
+      "observed_question_votes": 9,
+      "comments": null,
+      "views": null,
+      "engagement_evidence": "web search snapshot on 2026-10-26; not live API",
+      "decision": "less visible attention; would need individualized-care framing"
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Pelvic floor exercises outside Kegels",
+      "url": "https://www.reddit.com/r/PelvicOrganProlapse/comments/1x2bmyt/pelvic_floor_exercises/",
+      "platform": "reddit",
+      "posted_date_reported": "2026-10-10",
+      "observed_question_votes": 4,
+      "comments": null,
+      "views": null,
+      "engagement_evidence": "web search snapshot on 2026-10-26; not live API",
+      "decision": "less attention; overlaps existing prolapse guide"
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Pelvic floor therapy involving other body areas",
+      "url": "https://www.reddit.com/r/WomensPelvicHealth/comments/1x4oj9k/pelvic_floor_therapy/",
+      "platform": "reddit",
+      "posted_date_reported": "2026-10-13",
+      "observed_question_votes": 2,
+      "comments": null,
+      "views": null,
+      "engagement_evidence": "web search snapshot on 2026-10-26; not live API",
+      "decision": "less attention; overlaps existing therapy guide"
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Cannot hold Kegel longer than one or two seconds",
+      "url": "https://www.reddit.com/r/WomensHealth/comments/1wyk132/pelvic_floor_exercises_kegels_help/",
+      "platform": "reddit",
+      "posted_date_reported": "2026-10-05",
+      "observed_question_votes": 1,
+      "comments": null,
+      "views": null,
+      "engagement_evidence": "web search snapshot on 2026-10-26; not live API",
+      "decision": "less attention; overlaps technique and slow/fast guides"
+    }
+  ],
+  "publications": [
+    {
+      "app": "stylist_ai",
+      "question_url": "https://www.reddit.com/r/autumns/comments/1xbdxdw/type_me/",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/soft-summer-or-soft-autumn/",
+      "action": "new",
+      "status": "ready",
+      "reason": "9 visible question votes versus 7 on the other current season-typing question; direct conflicting Summer/Autumn intent also appears in Google related questions."
+    },
+    {
+      "app": "pelvic_gym",
+      "question_url": "https://www.reddit.com/r/Endo/comments/1x4gwlr/pelvic_floor_therapy/",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-therapy-endometriosis/",
+      "action": "new",
+      "status": "ready",
+      "reason": "14 visible question votes, highest among the opened, relevant and nonduplicate questions in this initial sample (alternatives 9, 4, 2, 1). Distinct endometriosis intent is not covered by the general first-appointment guide."
+    }
+  ],
+  "validation": {
+    "static": "42 pages passed: 38 Pelvic Gym and 4 Stylist AI, metadata, internal links, schemas, dates, both sitemap entries and App Store IDs.",
+    "browser": "Desktop journal and 390px iframe previews of both articles and Stylist journal visually inspected.",
+    "analytics": "Both consent tests passed; local previews send no Google Analytics.",
+    "app_store": "Both official Apple lookup records verified: Stylist AI: Color Analysis (6739435502), Pelvic Gym: Kegel Trainer (6478076577)."
+  },
+  "limitations": [
+    "Votes can change and search snapshots may be stale. Absolute dates here are as reported in search results; cached Reddit relative ages differed.",
+    "Google related questions are existing search-intent signals; no new publication date or search volume inferred.",
+    "Quora could not be scanned beyond the access attempt.",
+    "Indexing, rankings and app installs have not been measured."
+  ]
+}
