@@ -11,7 +11,7 @@ User authorization: research public questions and automatically publish one usef
 
 ## Public blog presentation
 
-User preference (2026-10-26): question research guides article topics and titles internally. Present the sites as ordinary blogs about their themes. Do not add homepage or footer slogans about answering questions, headings such as “Start with your question,” or public explanations of the question-selection process. Keep useful question-based article titles, FAQs and source citations where they serve readers.
+User preference (2026-10-26): question research guides article topics and titles internally. Present the sites as ordinary blogs about their themes. Do not add homepage or footer slogans about answering questions, headings such as “Start with your question,” or public explanations of the question-selection process. Keep useful question-based article titles, FAQs and source citations where they serve readers. Keep “Our approach” out of the Stylist AI main navigation.
 
 ## Each run
 
