@@ -37,8 +37,8 @@
     if (crypto.randomUUID) return crypto.randomUUID();
     return Array.from(crypto.getRandomValues(new Uint8Array(16)), n => n.toString(16).padStart(2, '0')).join('');
   }
-  function track(detail) {
-    const name = names[detail?.name];
+  function emit(detail, override) {
+    const name = override || names[detail?.name];
     if (!name || optedOut()) return;
     const source = detail.params || {}, properties = {};
     for (const key of ['feature', 'placement', 'tap_target', 'season', 'previous_season', 'landing_variant', 'browser_context']) {
@@ -47,6 +47,8 @@
     for (const key of ['scroll_percent', 'features_seen', 'engaged_seconds']) {
       if (Number.isInteger(source[key]) && source[key] >= 0 && source[key] <= 1000) properties[key] = source[key];
     }
+    // For this campaign, Lead explicitly means App Store intent, not a signup or install.
+    if (name === 'Lead') properties.conversion_type = 'app_store_click';
     const event = {
       event: name, event_id: eventId(), event_time: Math.floor(Date.now() / 1000),
       page: {url: source.page_location || 'https://bestme.mobi/stylist_ai/', referrer: source.page_referrer || ''},
@@ -68,6 +70,15 @@
       if (attempt === 0 && !document.hidden) setTimeout(() => { if (!optedOut()) deliver(1); }, 800);
     });
     deliver(0);
+  }
+  let leadSent = false;
+  function track(detail) {
+    if (optedOut()) return;
+    emit(detail);
+    if (detail?.name === 'landing_store_click' && !leadSent) {
+      leadSent = true;
+      emit(detail, 'Lead');
+    }
   }
   // Install the provided official Pixel bootstrap, with tracking events emitted centrally below.
   if (!test) {
