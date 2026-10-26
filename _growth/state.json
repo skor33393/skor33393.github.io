@@ -2,11 +2,11 @@
   "schema_version": 1,
   "timezone": "Asia/Dubai",
   "schedule_local": "22:00 daily",
-  "last_successful_scan": "2026-10-25T21:52:30.752314+00:00",
+  "last_successful_scan": "2026-10-26T18:24:11.308751+00:00",
   "runs": {
     "2026-10-26-initial": "completed",
     "2026-10-26-stylist-expansion": "completed",
-    "2026-10-26-2200": "deployment_pending"
+    "2026-10-26-2200": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -86,6 +86,41 @@
         "run_id": "2026-10-26-stylist-expansion",
         "status": "published",
         "verified_at": "2026-10-25T22:59:46.957071+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xfx2nv/could_you_help_me_figure_out_my_color_season_im/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/color-analysis-photo-lighting/",
+        "run_id": "2026-10-26-2200",
+        "status": "published",
+        "verified_at": "2026-10-26T18:31:16.081515+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xdquga/people_act_like_deep_autumns_dont_exist/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/deep-autumn-outfit-ideas/",
+        "run_id": "2026-10-26-2200",
+        "status": "published",
+        "verified_at": "2026-10-26T18:31:16.081515+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xc3bd2/please_help_type_me/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/gray-hair-wardrobe-colors/",
+        "run_id": "2026-10-26-2200",
+        "status": "published",
+        "verified_at": "2026-10-26T18:31:16.081515+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xc1qi8/deep_bright_drapes/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/color-depth-vs-brightness/",
+        "run_id": "2026-10-26-2200",
+        "status": "published",
+        "verified_at": "2026-10-26T18:31:16.081515+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1x9zjs2/type_me_to_help_me_figure_out_what_unnatural_hair/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/choosing-unnatural-hair-color/",
+        "run_id": "2026-10-26-2200",
+        "status": "published",
+        "verified_at": "2026-10-26T18:31:16.081515+00:00"
       }
     ],
     "pelvic_gym": [
@@ -95,6 +130,41 @@
         "run_id": "2026-10-26-initial",
         "status": "published",
         "verified_at": "2026-10-25T21:55:33.020461+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/WomensPelvicHealth/comments/1xcrlep/pelvic_floor_and_periods/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/painful-periods-pelvic-floor/",
+        "run_id": "2026-10-26-2200",
+        "status": "published",
+        "verified_at": "2026-10-26T18:31:16.081515+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/ladycyclists/comments/1x2qsvg/pelvic_organ_prolapse/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/cycling-with-pelvic-organ-prolapse/",
+        "run_id": "2026-10-26-2200",
+        "status": "published",
+        "verified_at": "2026-10-26T18:31:16.081515+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/WomensHealth/comments/1wt8s2l/i_30f_feel_lots_of_pressure_between_my_legs/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-heaviness-pressure/",
+        "run_id": "2026-10-26-2200",
+        "status": "published",
+        "verified_at": "2026-10-26T18:31:16.081515+00:00"
+      },
+      {
+        "question_url": "https://www.google.com/search?q=pelvic+floor+questions+women",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/",
+        "run_id": "2026-10-26-2200",
+        "status": "updated",
+        "verified_at": "2026-10-26T18:31:16.081515+00:00"
+      },
+      {
+        "question_url": "https://www.google.com/search?q=pelvic+floor+questions+women",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/tight-vs-weak-pelvic-floor/",
+        "run_id": "2026-10-26-2200",
+        "status": "updated",
+        "verified_at": "2026-10-26T18:31:16.081515+00:00"
       }
     ]
   },

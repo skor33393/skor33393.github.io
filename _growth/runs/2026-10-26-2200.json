@@ -1,7 +1,7 @@
 {
   "run_id": "2026-10-26-2200",
   "kind": "scheduled",
-  "status": "deployment_pending",
+  "status": "completed",
   "started_at": "2026-10-26T18:02:30+00:00",
   "timezone": "Asia/Dubai",
   "scheduled_local": "2026-10-26T22:00:00+04:00",
@@ -358,7 +358,16 @@
     }
   },
   "deployment": {
-    "status": "ready_to_push",
-    "base_commit": "cd259d83fd2f46744ec701a71dce3adb84a48f7e"
+    "status": "verified",
+    "base_commit": "cd259d83fd2f46744ec701a71dce3adb84a48f7e",
+    "commit": "e44c0702cce3e8e194273e1758d2ded4591685be",
+    "action_url": "https://github.com/skor33393/skor33393.github.io/actions/runs/40377768380",
+    "action_conclusion": "success",
+    "verified_at": "2026-10-26T18:31:16.081515+00:00",
+    "live_checks": {
+      "checked": 87,
+      "passed": 87,
+      "failed": []
+    }
   }
 }
