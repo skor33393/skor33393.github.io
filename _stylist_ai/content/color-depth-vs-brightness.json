@@ -1,0 +1,70 @@
+{
+  "slug": "color-depth-vs-brightness",
+  "title": "Color depth vs. brightness: how to compare clothes",
+  "seoTitle": "Color depth vs. brightness: how to compare clothes | Stylist AI",
+  "description": "Separate dark from vivid and contrast from saturation when comparing clothes. Use simple fabric pairs to make color analysis more useful for everyday outfits.",
+  "category": "Color analysis",
+  "datePublished": "2026-10-26",
+  "dateModified": "2026-10-26",
+  "sourcesChecked": "2026-10-26",
+  "excerpt": "A dark color is not necessarily a bright color, and a high-contrast outfit does not have to be vivid.",
+  "quickAnswer": "Depth means how light or dark a color looks. In seasonal styling, brightness usually refers to how clear or vivid it is, while contrast is the difference between colors placed together. Compare these separately before deciding that one successful garment proves a season.",
+  "sections": [
+    {
+      "id": "terms",
+      "title": "Three different questions",
+      "html": "<p><a href=\"https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/seasonal-color-analysis-which-color-season-are-you\">The Concept Wardrobe’s framework distinguishes value, contrast and chroma</a>. Here is a practical translation for your wardrobe:</p><ul><li><strong>Depth or value:</strong> Is the fabric light, medium or dark?</li><li><strong>Brightness or intensity:</strong> Does it look clear and vivid, or grayed and muted? Everyday use of the word “bright” can also mean light, so clarify what you mean.</li><li><strong>Contrast:</strong> How different are the colors next to each other, for example a pale top against dark trousers?</li></ul><p>Warm versus cool is another comparison. Changing several qualities at once can make it difficult to understand why you prefer a particular top.</p>"
+    },
+    {
+      "id": "pairs",
+      "title": "Choose a pair that answers one question",
+      "html": "<p>For a depth comparison, start with two fabrics in a similar color family and with a similar finish, such as a medium blue and a deeper blue. For an intensity comparison, try a grayed teal and a clearer teal at roughly similar depth. The pairs will not be laboratory-perfect; simply note obvious differences.</p><p>Hold each near your face in the same setup. Ask which you prefer and whether the preference repeats in the mirror. Avoid comparing a pale beige knit with a vivid fuchsia satin blouse and calling the result a pure warm-versus-cool test.</p><p>If your wardrobe does not contain a useful pair, do not buy one just for the experiment. You can record “several things changed” and keep the preference without claiming an explanation.</p>"
+    },
+    {
+      "id": "contrast",
+      "title": "Change outfit contrast while keeping the top",
+      "html": "<p>Wear one familiar top with light trousers, then dark trousers. Or keep the outfit and add a lighter collar or scarf. This lets you explore the overall arrangement without replacing every color.</p><p>A charcoal-and-ivory outfit can have a strong light-dark difference without vivid hues. A green-and-blue outfit can use more saturated colors with a smaller light-dark difference. These are two different styling choices, and you can like both.</p><p>Look at the whole outfit from a normal distance. Cropping down to individual facial shadows can distract from the actual decision: would you enjoy wearing this combination?</p>"
+    },
+    {
+      "id": "record",
+      "title": "Record preferences without overclaiming",
+      "html": "<p>Use a short note with three columns: what changed, what you preferred and what remains uncertain. For example: “Medium blue versus navy, similar shirts; prefer navy; fabric thickness also differs.” That is enough to guide a purchase.</p><p>One deep shade does not prove that you need every deep shade. Likewise, one dull-looking photograph does not prove that muted colors are unsuitable. If the entire image changes color when you swap a drape, check our <a href=\"/stylist_ai/blog/color-analysis-photo-lighting/\">photo setup guide</a> before interpreting it.</p>"
+    },
+    {
+      "id": "apply",
+      "title": "Use the distinctions while shopping",
+      "html": "<p>If a top feels almost right, ask for a version that is darker, lighter, clearer or more muted instead of searching only by seasonal label. Retail color names are broad; compare the garments you can actually buy.</p><p>Stylist AI can help you explore palettes and camera-based color comparisons, but a result is still a styling suggestion. Use these terms to understand your preference and build outfits around it, rather than chasing a single number or a perfect label.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does high contrast mean I need neon colors?",
+      "answer": "No. Contrast describes a difference between colors; vividness describes the intensity of an individual color. A black-and-white outfit can be high contrast without neon."
+    },
+    {
+      "question": "Is deep the same as warm?",
+      "answer": "No. Lightness and darkness are a separate comparison from warm and cool direction. Test the specific fabrics rather than joining the terms together."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Concept Wardrobe: Color dimensions",
+      "url": "https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/seasonal-color-analysis-which-color-season-are-you"
+    }
+  ],
+  "related": [
+    "deep-autumn-outfit-ideas",
+    "soft-summer-or-soft-autumn"
+  ],
+  "sortOrder": 22,
+  "keyword": "Color depth vs. brightness: how to compare clothes",
+  "sourceNote": "The wardrobe comparisons and outfit ideas are our editorial suggestions, not validated personal diagnostic tests.",
+  "ctaTitle": "Explore colors you want to wear.",
+  "ctaText": "Use Stylist AI for a suggested seasonal palette, color combinations and camera-based color comparison. Bring your own preferences to every choice.",
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/illustrations/color-depth-vs-brightness.webp",
+    "alt": "Illustration of folded blue fabrics at several depths beside muted and vivid teal fabrics",
+    "width": 1200,
+    "height": 800
+  }
+}

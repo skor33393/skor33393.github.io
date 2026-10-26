@@ -201,6 +201,11 @@
         "html": "<p>Pain during sex can involve hormonal tissue changes, skin conditions, infection, endometriosis, muscle problems or several factors together. Assessment helps distinguish these possibilities. <a href=\"https://www.yourpelvicfloor.org/conditions/dyspareunia/\">The International Urogynecological Association explains causes of painful sex.</a></p><p>This matters when an online exercise appears to fit your symptoms perfectly. A matching description is a starting point for a conversation, not proof of a cause. Tell a clinician about symptoms such as burning, unusual discharge or bleeding, instead of quietly treating everything as muscle tension.</p><p>For the same reason, a product’s “strength score” should not become your diagnosis. Ask what is being measured, what it cannot tell you and whether the result changes the care plan.</p>"
       },
       {
+        "id": "screening-vs-diagnosis",
+        "title": "What can a pelvic floor questionnaire actually tell you?",
+        "html": "<p>A symptom questionnaire can organize what you are experiencing and how much it affects your life. It does not replace a clinical explanation of the cause. Do not use a count of symptoms to prescribe yourself strengthening or relaxation.</p><p><a href=\"https://my.clevelandclinic.org/health/diseases/22870-hypertonic-pelvic-floor\">Cleveland Clinic’s diagnostic overview</a> describes history-taking and examination, with additional tests chosen for the problem being investigated. There is no single online quiz result that substitutes for this process.</p><p>For an appointment, separate three notes: <strong>the symptom</strong> (“I need to rush to the toilet”), <strong>the impact</strong> (“I avoid my usual journey”), and <strong>your question</strong> (“How will you check what is causing it?”). Keeping these separate helps avoid treating a guessed muscle label as a confirmed finding.</p><p>If a device or worksheet gives a score, ask what it measures, what a change means and whether it changes treatment. If the answer is unclear, keep the score as a discussion point rather than increasing exercise intensity. This section was checked on October 26, 2026.</p>"
+      },
+      {
         "id": "assessment",
         "title": "What to ask at a pelvic health appointment",
         "html": "<p>A clinician can review your symptoms and assess pelvic floor function; a physical examination may be part of diagnosing hypertonicity. Treatment often involves pelvic floor physical therapy tailored to the findings. <a href=\"https://my.clevelandclinic.org/health/diseases/22870-hypertonic-pelvic-floor\">Cleveland Clinic outlines diagnosis and treatment.</a></p><p>You can ask these questions before agreeing to an examination:</p><ul><li>What are you looking for, and how will it help?</li><li>Can you explain each step before it happens?</li><li>What are my options if I am uncomfortable?</li><li>Does my plan focus on releasing, strengthening, coordination or another issue?</li></ul><p>Ask for a clear stopping rule for home practice. Knowing what to do if an exercise increases pain is as useful as knowing how many repetitions to attempt.</p>"
@@ -224,6 +229,10 @@
       {
         "question": "Can I diagnose a tight pelvic floor with a finger test?",
         "answer": "A self-check cannot reliably identify the cause of symptoms or decide your treatment. You do not need to perform an internal test before asking for help. Describe your symptoms and discuss assessment options."
+      },
+      {
+        "question": "What is a pelvic floor test for women?",
+        "answer": "It can refer to a symptom questionnaire, an examination of muscle function or a specific bladder or bowel investigation. Ask which is being proposed, what question it answers and whether its result would change your care."
       }
     ],
     "sources": [
@@ -259,7 +268,9 @@
     ],
     "cta": "assessment",
     "keyword": "tight vs weak pelvic floor",
-    "researchNote": "Researched 2026-10-24. Search intent: differentiating muscle tension and weakness without self-diagnosis. Overlap and assessment emphasized; no internal self-exam, forceful stretch or strengthening CTA for pain."
+    "researchNote": "Researched 2026-10-24. Search intent: differentiating muscle tension and weakness without self-diagnosis. Overlap and assessment emphasized; no internal self-exam, forceful stretch or strengthening CTA for pain.",
+    "datePublished": "2026-10-24",
+    "dateModified": "2026-10-26"
   },
   {
     "slug": "pelvic-floor-exercises-menopause",

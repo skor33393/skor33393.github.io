@@ -1,0 +1,70 @@
+{
+  "slug": "color-analysis-photo-lighting",
+  "title": "How to take better photos for color analysis",
+  "seoTitle": "How to take better photos for color analysis | Stylist AI",
+  "description": "Get more useful color analysis photos with consistent light, simple fabric comparisons and a checklist for spotting camera color shifts before drawing conclusions.",
+  "category": "Color analysis",
+  "datePublished": "2026-10-26",
+  "dateModified": "2026-10-26",
+  "sourcesChecked": "2026-10-26",
+  "excerpt": "If every photo seems to suggest a different season, check the setup before changing your wardrobe.",
+  "quickAnswer": "Use one soft, even light source, keep your camera and background steady, and compare real fabrics without filters. Check whether the background changes color between shots. Consistency makes comparisons more useful, but a selfie still cannot guarantee a definitive seasonal label.",
+  "sections": [
+    {
+      "id": "light",
+      "title": "Start with one light source",
+      "html": "<p>Stand or sit facing a window with gentle daylight rather than a beam of direct sun. Switch off nearby colored or warm lamps for this comparison. You do not need a particular compass direction or an expensive ring light; aim for a face that is evenly lit and a setup you can repeat.</p><p><a href=\"https://www.adobe.com/creativecloud/photography/technique/white-balance.html\">Adobe explains that white balance affects every color in an image</a>, and that mixed light sources can create different casts across the same photograph. A yellow-looking indoor picture is therefore not proof of a warm undertone.</p><p>If half your face is bright and the other half is in shadow, move yourself or the camera before choosing more fabrics. Keep this practical: you are making a wardrobe comparison, not trying to remove every natural feature of your face.</p>"
+    },
+    {
+      "id": "setup",
+      "title": "Keep a small setup consistent",
+      "html": "<ol><li>Choose a plain, unobtrusive background and put the phone in a stable position.</li><li>Use the same camera, distance and framing for every picture. Keep the face and fabric comfortably in frame.</li><li>Turn off beauty filters and color effects. Avoid editing each picture separately to make it look nicer.</li><li>For a comparison of your coloring, remove color cosmetics if you are comfortable doing so. For an outfit decision with your usual makeup, keep that makeup the same throughout.</li><li>Start with two or three plain fabrics you already own. Photograph them in one short session before the light changes noticeably.</li></ol><p>A small repeatable set is easier to interpret than twenty pictures from holidays, cars and different rooms.</p>"
+    },
+    {
+      "id": "camera-check",
+      "title": "Check the background before judging your skin",
+      "html": "<p>Swap the fabric and look at an unchanged part of the scene, such as the wall. If it suddenly looks warmer, cooler, brighter or darker, the pictures are not a clean comparison. Camera processing or lighting may have changed alongside the garment.</p><p>Retake the pair and compare in the mirror too. If your camera offers manual controls that you already understand, consistent settings may help; simply locking focus or exposure does not guarantee fixed white balance on every phone. Do not turn a camera setting into a promise of accurate seasonal typing.</p><p>Keep an uncertain pair marked uncertain. You can prefer one sweater without deciding why, and you can postpone a purchase if the evidence keeps changing.</p>"
+    },
+    {
+      "id": "real-vs-digital",
+      "title": "What digital drapes can and cannot show",
+      "html": "<p>A colored frame added around one selfie can help you imagine combinations. It does not reproduce the way different real fabrics reflect light near your face. Treat it as a brainstorming aid and check a promising shade with an actual garment when possible.</p><p>Try to compare one feature at a time. A pale peach versus a deep navy changes both depth and color family, so a preference does not isolate warmth. Our <a href=\"/stylist_ai/blog/color-depth-vs-brightness/\">depth and brightness guide</a> gives a clearer starting exercise.</p>"
+    },
+    {
+      "id": "use-results",
+      "title": "Turn the result into one clothing decision",
+      "html": "<p>Write down the garments, the setup and which you would choose to wear. A useful note might be: “Blue and peach knits, same window, prefer blue with my usual jeans.” Repeat only if the decision still matters.</p><p>You can use Stylist AI to explore a suggested seasonal profile and compare clothing colors. The same photo limits apply to an app. Keep the suggestion alongside what you enjoy in person, and avoid replacing a whole wardrobe on the strength of one upload.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is natural light always accurate?",
+      "answer": "No. Daylight changes with weather, time and surroundings. Even lighting and a consistent setup help comparisons; they do not make a phone image a calibrated measurement."
+    },
+    {
+      "question": "Do I need to buy drapes?",
+      "answer": "Start with plain clothes or fabrics you already own. Make a small useful comparison before spending money on equipment."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Adobe: White balance and consistent lighting",
+      "url": "https://www.adobe.com/creativecloud/photography/technique/white-balance.html"
+    }
+  ],
+  "related": [
+    "soft-summer-or-soft-autumn",
+    "color-depth-vs-brightness"
+  ],
+  "sortOrder": 25,
+  "keyword": "How to take better photos for color analysis",
+  "sourceNote": "The wardrobe comparisons and outfit ideas are our editorial suggestions, not validated personal diagnostic tests.",
+  "ctaTitle": "Explore colors you want to wear.",
+  "ctaText": "Use Stylist AI for a suggested seasonal palette, color combinations and camera-based color comparison. Bring your own preferences to every choice.",
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/illustrations/color-analysis-photo-lighting.webp",
+    "alt": "Illustration of a woman comparing blue fabric beside a window with a phone on a tripod",
+    "width": 1200,
+    "height": 800
+  }
+}

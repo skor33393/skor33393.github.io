@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "color-analysis-photo-lighting",
+    "app": "stylist_ai",
+    "prompt": "Use case: illustration-story. Asset type: fashion journal cover, landscape 3:2. Original sophisticated hand-painted editorial illustration, soft gouache and colored pencil, cream paper background, warm restrained palette, tactile fabric details. A woman seated beside a softly lit window holding a muted blue fabric near her shoulders, a phone on a small tripod in front of her, uncluttered neutral room. Show the setup side-on, no phone interface detail. Balanced readable composition, full-bleed artwork, no borders, no words, no lettering, no logos, no watermark. This is illustrative styling art, not a color diagnostic diagram.",
+    "tool": "built-in image_gen",
+    "production_size": [
+      1200,
+      800
+    ]
+  },
+  {
+    "slug": "gray-hair-wardrobe-colors",
+    "app": "stylist_ai",
+    "prompt": "Use case: illustration-story. Asset type: fashion journal cover, landscape 3:2. Original sophisticated hand-painted editorial illustration, soft gouache and colored pencil, cream paper background, warm restrained palette, tactile fabric details. A stylish adult woman with naturally silver gray bob hair choosing between a plum cardigan and a teal scarf at a small clothing rail. Relaxed everyday elegance. Balanced readable composition, full-bleed artwork, no borders, no words, no lettering, no logos, no watermark. This is illustrative styling art, not a color diagnostic diagram.",
+    "tool": "built-in image_gen",
+    "production_size": [
+      1200,
+      800
+    ]
+  },
+  {
+    "slug": "deep-autumn-outfit-ideas",
+    "app": "stylist_ai",
+    "prompt": "Use case: illustration-story. Asset type: fashion journal cover, landscape 3:2. Original sophisticated hand-painted editorial illustration, soft gouache and colored pencil, cream paper background, warm restrained palette, tactile fabric details. An editorial flat lay of three rich colored clothing combinations: espresso trousers with aubergine knit, forest green jacket with warm ivory tee, dark indigo jeans with deep teal shirt. Include simple tan shoes. No people. Balanced readable composition, full-bleed artwork, no borders, no words, no lettering, no logos, no watermark. This is illustrative styling art, not a color diagnostic diagram.",
+    "tool": "built-in image_gen",
+    "production_size": [
+      1200,
+      800
+    ]
+  },
+  {
+    "slug": "color-depth-vs-brightness",
+    "app": "stylist_ai",
+    "prompt": "Use case: illustration-story. Asset type: original blog article cover, landscape 3:2. Sophisticated hand-painted gouache editorial illustration on cream paper with colored pencil detail, sage and warm coral accents. Two groupings of folded fabric squares on a creative studio table: one group in pale blue, medium blue, and navy showing lightness; another in grayish teal and vivid teal showing saturation. A loosely folded shirt nearby. No text, no arrows, no diagram labels. Balanced clear composition, full-bleed artwork, no text, no logos, no watermark. Fictional editorial scene, not a testimonial or clinical demonstration.",
+    "tool": "built-in image_gen",
+    "production_size": [
+      1200,
+      800
+    ]
+  },
+  {
+    "slug": "choosing-unnatural-hair-color",
+    "app": "stylist_ai",
+    "prompt": "Use case: illustration-story. Asset type: original blog article cover, landscape 3:2. Sophisticated hand-painted gouache editorial illustration on cream paper with colored pencil detail, sage and warm coral accents. An adult woman seen from behind seated at a vanity considering removable rose, lavender and deep plum hair swatches laid beside a mirror, with a scarf and a plain shirt hanging nearby. Her own hair is brown; no salon chemical procedure. Balanced clear composition, full-bleed artwork, no text, no logos, no watermark. Fictional editorial scene, not a testimonial or clinical demonstration.",
+    "tool": "built-in image_gen",
+    "production_size": [
+      1200,
+      800
+    ]
+  },
+  {
+    "slug": "cycling-with-pelvic-organ-prolapse",
+    "app": "pelvic_gym",
+    "prompt": "Use case: illustration-story. Asset type: original blog article cover, landscape 3:2. Sophisticated hand-painted gouache editorial illustration on cream paper with colored pencil detail, sage and warm coral accents. A fully clothed adult woman standing comfortably beside a city bicycle on a quiet flat park path, helmet hanging from the handlebar, a calm planning pause before a ride. No exercise instruction or medical symbolism. Balanced clear composition, full-bleed artwork, no text, no logos, no watermark. Fictional editorial scene, not a testimonial or clinical demonstration.",
+    "tool": "built-in image_gen",
+    "production_size": [
+      1200,
+      800
+    ]
+  },
+  {
+    "slug": "pelvic-heaviness-pressure",
+    "app": "pelvic_gym",
+    "prompt": "Use case: illustration-story. Asset type: original women's health journal cover, landscape 3:2. Sophisticated gouache editorial artwork with colored pencil texture on warm cream paper, soft sage and terracotta accents. A fully clothed adult woman sitting comfortably at a kitchen table writing brief notes for a health appointment, a plain notebook and cup of tea, calm supportive domestic scene. No visible writing. Respectful, reassuring, uncluttered. No words, no logos, no watermark, no anatomy or exercise demonstration. Fictional editorial illustration, not a patient testimonial.",
+    "tool": "built-in image_gen",
+    "production_size": [
+      1200,
+      800
+    ]
+  },
+  {
+    "slug": "painful-periods-pelvic-floor",
+    "app": "pelvic_gym",
+    "prompt": "Use case: illustration-story. Asset type: original women's health journal cover, landscape 3:2. Sophisticated gouache editorial artwork with colored pencil texture on warm cream paper, soft sage and terracotta accents. A fully clothed adult woman resting on a sofa with a wrapped warm water bottle over her lower abdomen, a folded blanket and small calendar on a side table, soft daylight. A quiet self-care scene without a dramatic pain pose. Respectful, reassuring, uncluttered. No words, no logos, no watermark, no anatomy or exercise demonstration. Fictional editorial illustration, not a patient testimonial.",
+    "tool": "built-in image_gen",
+    "production_size": [
+      1200,
+      800
+    ]
+  }
+]

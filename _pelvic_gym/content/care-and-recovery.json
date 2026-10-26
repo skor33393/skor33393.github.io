@@ -29,6 +29,11 @@
         "html": "<p>The assessment depends on your concern. It may look at movement and the painful area; a vaginal or rectal examination may be proposed to assess pelvic floor function. <a href=\"https://www.imperial.nhs.uk/-/media/website/patient-information-leaflets/physiotherapy/welcome-to-pelvic-health-physiotherapy.pdf?rev=d665b7189141454f94930927ced4d7e3&sc_lang=en\">Imperial College Healthcare describes this individualized process</a>.</p><p>Before agreeing, ask what the examination will assess and how the result would change treatment. You can say, “Please explain each step before you do it,” or “I would like to discuss the examination today and decide later.” Tell the clinician if a particular position, touch or past experience makes you apprehensive; you can choose how much detail to share.</p><p>Sussex's <a href=\"https://www.uhsussex.nhs.uk/resources/your-pelvic-health-physiotherapy-appointment/\">appointment information</a> states that an internal examination is optional and that a chaperone can be provided. Ask your clinic about these arrangements. You can withdraw consent and ask to stop.</p>"
       },
       {
+        "id": "questions-to-take",
+        "title": "A decision sheet to take to your therapist",
+        "html": "<p>Use this short sheet to turn the conversation into decisions you understand. Write the answers in your own words; it is a preparation tool, not a medical questionnaire.</p><table><thead><tr><th>Ask</th><th>Leave knowing</th></tr></thead><tbody><tr><td>What will this examination help you assess?</td><td>What information it adds and how it could affect my plan.</td></tr><tr><td>What can we do if I prefer to defer an internal examination?</td><td>Which parts of assessment or treatment can proceed and what remains uncertain.</td></tr><tr><td>What is my home practice meant to change?</td><td>A practical goal, the movement and the dose.</td></tr><tr><td>What should I do if symptoms increase?</td><td>My stopping rule and contact route.</td></tr><tr><td>How will we review progress?</td><td>What to record and when to arrange follow-up.</td></tr></tbody></table><p><a href=\"https://www.uhsussex.nhs.uk/resources/your-pelvic-health-physiotherapy-appointment/\">University Hospitals Sussex’s appointment information</a> states that patients can still receive treatment if they decline an internal examination, and that consent is also sought before students observe or participate. Ask your own service about its arrangements. Agreeing to attend an appointment does not require you to agree to every proposed step.</p><p>This section was added after checking the Sussex information on October 26, 2026.</p>"
+      },
+      {
         "id": "treatment",
         "title": "Therapy is more than a list of Kegels",
         "html": "<p>Your plan might include movement practice, education, lifestyle advice or other techniques selected for your findings. <a href=\"https://www.imperial.nhs.uk/-/media/website/patient-information-leaflets/physiotherapy/welcome-to-pelvic-health-physiotherapy.pdf?rev=d665b7189141454f94930927ced4d7e3&sc_lang=en\">Imperial's patient guide</a> describes several treatment approaches rather than one standard routine. Read <a href=\"/pelvic_gym/articles/tight-vs-weak-pelvic-floor/\">why tightness and weakness are different questions</a> if you are expecting strengthening automatically.</p><p>Ask your therapist to connect each instruction to your goal. “This is intended to help with the leak during lifting” is easier to use than collecting exercises without knowing their purpose. If the plan is too complicated to fit around work or caring responsibilities, say so before leaving.</p>"
@@ -47,6 +52,10 @@
       {
         "question": "Should I cancel if I am on my period?",
         "answer": "Some pelvic health services can still see you during your period. Check your clinic’s policy and your own comfort rather than assuming cancellation is necessary."
+      },
+      {
+        "question": "What if I agree to talk but am not ready for an internal examination?",
+        "answer": "Say that at the start. Ask what can be assessed now, what would remain uncertain and whether you can revisit the decision later. Discuss your own service’s options without feeling you must decide before receiving an explanation."
       }
     ],
     "sources": [
@@ -74,7 +83,9 @@
     ],
     "cta": "assessment",
     "keyword": "pelvic floor therapy what to expect",
-    "researchNote": "Sources checked 2026-10-24. First-visit preparation and consent intent; local clinic processes clearly identified as examples, not universal service guarantees."
+    "researchNote": "Sources checked 2026-10-24. First-visit preparation and consent intent; local clinic processes clearly identified as examples, not universal service guarantees.",
+    "datePublished": "2026-10-24",
+    "dateModified": "2026-10-26"
   },
   {
     "slug": "pelvic-floor-exercises-after-c-section",

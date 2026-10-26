@@ -1,0 +1,70 @@
+{
+  "slug": "choosing-unnatural-hair-color",
+  "title": "How to choose an unusual hair color you will enjoy",
+  "seoTitle": "How to choose an unusual hair color you will enjoy | Stylist AI",
+  "description": "Considering pink, purple, blue or green hair? Compare depth, intensity and everyday outfits before choosing a shade, with clear limits for digital previews.",
+  "category": "Color analysis",
+  "datePublished": "2026-10-26",
+  "dateModified": "2026-10-26",
+  "sourcesChecked": "2026-10-26",
+  "excerpt": "Start with the effect you want and a manageable shortlist, rather than finding one supposedly perfect color.",
+  "quickAnswer": "Choose a color family you genuinely like, then compare a few lighter, deeper or softer versions with your usual clothes. Try a removable preview before committing. A seasonal palette can inspire choices, but it cannot predict a dye result or decide how much maintenance suits you.",
+  "sections": [
+    {
+      "id": "effect",
+      "title": "Decide what you want the color to do",
+      "html": "<p>Do you want a small change that blends into everyday outfits, or a color that becomes the main feature of your look? Both are valid. Write that goal before collecting pictures, because a subtle dusty rose and a vivid pink answer different briefs.</p><p>Choose two color families you enjoy. Within each, pick a softer, clearer or deeper version to compare. This keeps the decision smaller than scrolling through every possible shade and waiting for one to feel universally flattering.</p><p>You can use a seasonal palette as inspiration without restricting yourself to it. Unusual hair color is often a deliberate expression of taste, not an attempt to reproduce natural coloring.</p>"
+    },
+    {
+      "id": "preview",
+      "title": "Preview a direction without treating it as a forecast",
+      "html": "<p>Try a wig, removable hair piece or a swatch held near your hairline. A scarf in a similar color can help you imagine the broad effect, although fabric is not a realistic preview of dyed hair. Keep the same light and clothes for each comparison.</p><p>A digital edit can help you decide whether you enjoy a direction. It cannot show exactly how a salon formula will look on your hair. Save it as a conversation starter, and avoid presenting an edited picture as a guaranteed result.</p><p>Compare your shortlist with three ordinary outfits, including one you wear often. A shade that delights you with a dramatic look may need different styling from the clothes you actually use every day.</p>"
+    },
+    {
+      "id": "brief",
+      "title": "Take a clear brief to your colorist",
+      "html": "<p>Bring two or three references and explain what you like in each: depth, mutedness, placement or the amount of color. Also bring an example you do not want. “This smoky lavender, but not this pale icy finish” gives a clearer direction than a season name alone.</p><p>Ask how your current color and previous treatments affect the options, what the likely maintenance involves, what fading may look like and what changing your mind would require. Ask whether a smaller placement could help you explore the idea. Those practical answers matter as much as the initial shade.</p>"
+    },
+    {
+      "id": "safety",
+      "title": "Keep color choice separate from product safety",
+      "html": "<p><a href=\"https://www.fda.gov/cosmetics/cosmetic-products/hair-dyes\">FDA guidance on hair dyes</a> advises following the product instructions and performing the instructed skin test before every use. A previous uneventful use does not guarantee that you cannot react later, and a negative skin test does not eliminate all risk. Do not use hair dye on eyebrows or eyelashes.</p><p>A palette app cannot assess allergies, scalp health or whether a chemical process is suitable for your hair. Discuss those questions with the appropriate professional and follow the product’s safety instructions.</p>"
+    },
+    {
+      "id": "wardrobe",
+      "title": "Build around the color you choose",
+      "html": "<p>Once you have a shade you enjoy, keep familiar outfit foundations and adjust one accent at a time. You might repeat a related color in a scarf, choose a quiet neutral, or enjoy a deliberate contrast. You do not need to buy a new wardrobe to justify a hair change.</p><p>Stylist AI offers seasonal palettes and outfit color combinations to explore. Use it for clothing ideas around your new look; it is not a hair dye formula, safety assessment or guarantee of a salon outcome.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Must unusual hair match my seasonal palette?",
+      "answer": "No. A palette can suggest directions, but you can choose a color for self-expression. Compare how much contrast and intensity you enjoy in everyday outfits."
+    },
+    {
+      "question": "Can a selfie tell me the exact dye shade to buy?",
+      "answer": "No. A photo-based suggestion cannot account for all the factors that affect a dye result. Use reference images to discuss possibilities with a colorist."
+    }
+  ],
+  "sources": [
+    {
+      "title": "FDA: Hair dye precautions",
+      "url": "https://www.fda.gov/cosmetics/cosmetic-products/hair-dyes"
+    }
+  ],
+  "related": [
+    "color-depth-vs-brightness",
+    "hate-your-color-season-palette"
+  ],
+  "sortOrder": 21,
+  "keyword": "How to choose an unusual hair color you will enjoy",
+  "sourceNote": "The wardrobe comparisons and outfit ideas are our editorial suggestions, not validated personal diagnostic tests.",
+  "ctaTitle": "Explore colors you want to wear.",
+  "ctaText": "Use Stylist AI for a suggested seasonal palette, color combinations and camera-based color comparison. Bring your own preferences to every choice.",
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/illustrations/choosing-unnatural-hair-color.webp",
+    "alt": "Illustration of a woman considering pink, lavender and plum removable hair swatches at a mirror",
+    "width": 1200,
+    "height": 800
+  }
+}

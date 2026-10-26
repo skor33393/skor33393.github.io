@@ -13,9 +13,13 @@ for section in ['pelvic_gym','stylist_ai/blog']:
     urls.append('https://bestme.mobi/'+section+'/sitemap.xml')
     urls.extend(x.text for x in ET.parse(ROOT/section/'sitemap.xml').findall('.//s:loc',ns))
 urls.append('https://bestme.mobi/stylist_ai/blog/assets/site.css')
-for source in (ROOT/'_stylist_ai/content').glob('*.json'):
-    cover=json.loads(source.read_text()).get('illustration')
-    if cover:urls.append('https://bestme.mobi'+cover['src'])
+urls.append('https://bestme.mobi/pelvic_gym/assets/site.css')
+for app in ['stylist_ai','pelvic_gym']:
+    for source in (ROOT/('_'+app)/'content').glob('*.json'):
+        articles=json.loads(source.read_text())
+        for article in articles if isinstance(articles,list) else [articles]:
+            cover=article.get('illustration')
+            if cover:urls.append('https://bestme.mobi'+cover['src'])
 urls=list(dict.fromkeys(urls))
 def check(url):
     assert urlsplit(url).hostname=='bestme.mobi'

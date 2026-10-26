@@ -13,3 +13,9 @@
 
 /* Optional analytics controls. */
 .privacy-choices{font:inherit;font-size:14px;color:var(--ink);background:none;border:0;padding:0;text-align:left;text-decoration:underline;cursor:pointer}.consent-panel{position:fixed;z-index:100;left:24px;right:24px;bottom:24px;max-width:1000px;margin:auto;padding:22px 26px;background:#fffefa;border:1px solid #d2d5c9;border-radius:12px;box-shadow:0 8px 40px #23382e22;display:flex;align-items:center;gap:28px}.consent-panel[hidden]{display:none}.consent-panel h2{font:600 18px/1.4 var(--sans);margin:0 0 7px}.consent-panel p{font-size:14px;line-height:1.6;margin:0;max-width:580px}.consent-panel p a{text-decoration:underline}.consent-actions{display:flex;gap:10px;flex-shrink:0}.consent-actions .btn{font-size:13px;padding:13px 18px;white-space:nowrap}.consent-actions .outline{background:#fffefa;color:var(--ink);border:1px solid #657268}@media(max-width:720px){.consent-panel{left:12px;right:12px;bottom:12px;padding:18px;display:block}.consent-actions{margin-top:14px}.consent-actions .btn{flex:1;justify-content:center}}@media print{.consent-panel,.privacy-choices{display:none!important}}
+
+/* Article-specific editorial covers; existing decorative cards remain unchanged. */
+.card-visual img{display:block;width:100%;height:100%;object-fit:cover}
+.article-illustration{margin:30px 0 0;max-width:900px}
+.article-illustration img{display:block;width:100%;height:auto;border-radius:18px}
+.article-illustration figcaption{font-size:12px;line-height:1.5;color:#6f6d65;margin-top:8px}

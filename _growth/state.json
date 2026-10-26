@@ -5,7 +5,8 @@
   "last_successful_scan": "2026-10-25T21:52:30.752314+00:00",
   "runs": {
     "2026-10-26-initial": "completed",
-    "2026-10-26-stylist-expansion": "completed"
+    "2026-10-26-stylist-expansion": "completed",
+    "2026-10-26-2200": "deployment_pending"
   },
   "articles": {
     "stylist_ai": [
