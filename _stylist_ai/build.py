@@ -53,7 +53,8 @@ def article(a):
     faqs=''.join(f'<details><summary>{e(f["question"])}</summary><p>{e(f["answer"])}</p></details>' for f in a.get('faqs',[]))
     sources=''.join(f'<li><a href="{e(s["url"])}">{e(s["title"])}</a></li>' for s in a['sources'])
     source_note=a.get('sourceNote','The comparison worksheet is our practical suggestion; seasonal categories are a styling framework.')
-    sources_block=f'<section id="sources"><h2>Sources &amp; further reading</h2><p>Sources checked {display(a["sourcesChecked"])}. {e(source_note)} Sources have not endorsed this article or our app.</p><ul class="sources">{sources}</ul></section>' if sources else ''
+    source_check_note=a.get('sourceCheckNote', f'Sources checked {display(a["sourcesChecked"])}.')
+    sources_block=f'<section id="sources"><h2>Sources &amp; further reading</h2><p>{e(source_check_note)} {e(source_note)} Sources have not endorsed this article or our app.</p><ul class="sources">{sources}</ul></section>' if sources else ''
     sources_toc='<a href="#sources">Sources</a>' if sources else ''
     related=a.get('related',[])
     assert len(set(related))==len(related) and all(slug in BY_SLUG and slug!=a['slug'] for slug in related), 'Invalid related articles: '+a['slug']

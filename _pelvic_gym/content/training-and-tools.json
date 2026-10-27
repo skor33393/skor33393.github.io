@@ -345,6 +345,11 @@
         "html": "<p>Gym sessions are only part of the picture. Caring for a child, moving stock at work or carrying laundry may matter more to your day. Make a short list of the three lifting tasks you cannot easily avoid and discuss those first.</p><p>For each task, identify what can realistically change: load size, carrying distance, lifting height, equipment or help from another person. If you have a temporary lifting restriction, ask for examples relevant to those tasks and a review date. “Avoid heavy lifting” needs translating into instructions you can use at home.</p>"
       },
       {
+        "id": "exercise-list",
+        "title": "Which exercises should I avoid if I am worried about tightness?",
+        "html": "<p>There is no exercise-name list that can diagnose what your pelvic floor tolerates. A squat, deadlift or abdominal exercise can involve different loads, positions and effort. If you already have pain or trouble relaxing, ask for an assessment before adding a pelvic floor squeeze to every repetition.</p><p>The <a href=\"https://www.pelvicfloorfirst.org.au/data/files/The_pelvic_floor_and_resistance_exercises.pdf\">Pelvic Floor First resistance guide</a> discusses reducing load, limiting fatigue, allowing rest and avoiding breath-holding. These are options for an individualized programme, not proof that one substitution will treat an overactive pelvic floor.</p><table><thead><tr><th>Situation</th><th>Useful next step</th></tr></thead><tbody><tr><td>Concern but no symptoms</td><td>Discuss technique and progression with a qualified trainer; follow any medical restrictions.</td></tr><tr><td>Pain, leakage or pressure with a movement</td><td>Pause that provoking task and arrange advice on suitable modifications.</td></tr><tr><td>Symptoms continue after the session</td><td>Record the duration and arrange a clinical review.</td></tr><tr><td>Recent surgery or childbirth restrictions</td><td>Use the individual return-to-activity plan rather than a generic exercise list.</td></tr></tbody></table><p>For the review, bring the actual exercise, load, repetitions and symptom timing. Ask which single change to try and when to reassess. Do not repeatedly test your heaviest lift to see whether symptoms return.</p>"
+      },
+      {
         "id": "help",
         "title": "When to get assessed",
         "html": "<p>Persistent leakage, pain or a vaginal bulge or pressure should be discussed with a healthcare professional. The lifting study's authors specifically recommend specialist assessment for pelvic floor symptoms in exercisers. You do not need to wait until you stop all activity.</p><p>Bring both your symptom notes and your training goals. Ask what you can continue, what to modify and how progression will be reviewed. Our guides to <a href=\"/pelvic_gym/articles/pelvic-organ-prolapse-exercise/\">exercise with prolapse</a> and <a href=\"/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/\">pelvic health physiotherapy</a> can help prepare that conversation.</p>"
@@ -358,6 +363,10 @@
       {
         "question": "Should I stop all strength training if I leak?",
         "answer": "Arrange assessment and discuss changes to the activity that triggers symptoms. A symptom does not by itself tell you which exercises you must stop permanently."
+      },
+      {
+        "question": "Should I keep my pelvic floor squeezed throughout a workout?",
+        "answer": "Do not add a continuous squeeze as a general protective rule. Ask a clinician about any contraction cue, its timing and the release, especially if you have pain or difficulty relaxing."
       }
     ],
     "sources": [
@@ -381,7 +390,9 @@
     ],
     "cta": "assessment",
     "keyword": "pelvic floor heavy lifting",
-    "researchNote": "Exercise-risk and symptom-adaptation intent. Primary crossover trial and professional guidance checked 2026-10-24. Explicitly limits extrapolation beyond young nulliparous experienced lifters; no blanket weight limit or promise of safety."
+    "researchNote": "Exercise-risk and symptom-adaptation intent. Primary crossover trial and professional guidance checked 2026-10-24. Explicitly limits extrapolation beyond young nulliparous experienced lifters; no blanket weight limit or promise of safety. New decision-support section checked 2026-10-27 against its linked primary sources; original publication and earlier source-check scope retained.",
+    "dateModified": "2026-10-27",
+    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. Sources supporting the new decision-support section were checked October 27, 2026."
   },
   {
     "slug": "breathing-during-kegel-exercises",

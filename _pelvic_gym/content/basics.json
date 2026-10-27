@@ -120,6 +120,11 @@
         "html": "<p>Imagining that you are preventing urine flow can help explain which muscles are involved. Actually stopping and restarting urine is different. Do not practice this way: it can interfere with normal bladder emptying. <a href=\"https://www.leedsth.nhs.uk/patients/resources/pelvic-floor-muscle-exercises-and-bladder-advice/\">Leeds Teaching Hospitals</a> explicitly advises against using midstream stopping as an exercise.</p><p>Keep the cue and the practice separate. If bathroom trips are your reminder, wait until you have finished, then use a different place for your planned practice. There is no need to repeatedly test your strength on the toilet.</p>"
       },
       {
+        "id": "check-feedback",
+        "title": "What can confirm that I am doing the exercise correctly?",
+        "html": "<p>Use the movement checklist above to describe your attempt, then ask for feedback if the direction or release remains unclear. <a href=\"https://www.cuh.nhs.uk/patient-information/pelvic-floor-exercises-in-women-frequently-asked-questions/\">Cambridge University Hospitals</a> describes an inward lift while avoiding breath-holding and unnecessary leg or buttock tightening. Meeting a timer target does not demonstrate those features.</p><table><thead><tr><th>What you observe</th><th>What to ask or do</th></tr></thead><tbody><tr><td>I can hold for the count but cannot notice the release.</td><td>Ask to have relaxation checked before adding repetitions.</td></tr><tr><td>I am unsure whether I lift or push down.</td><td>Ask a trained clinician to explain and check the direction.</td></tr><tr><td>I mainly notice thigh or buttock effort.</td><td>Describe this compensation and ask for a simpler cue or position.</td></tr><tr><td>The exercise causes pain.</td><td>Stop the practice and seek advice rather than forcing the hold.</td></tr></tbody></table><p>A timer can structure practice once you have an appropriate plan. It cannot feel muscle tension or verify a contraction. If a clinician suggests biofeedback, ask what the device measures and how the result will guide your treatment. Our <a href=\"/pelvic_gym/articles/kegel-app-vs-biofeedback-trainer/\">app-versus-biofeedback guide</a> explains the distinction.</p><p>You do not need a longer streak to justify asking for a technique check. Bring one clear uncertainty and your current instructions to the appointment.</p>"
+      },
+      {
         "id": "uncertain",
         "title": "If you cannot tell whether it is working",
         "html": "<p>Ask a pelvic health physiotherapist or another appropriately trained clinician to check. You can say: “I would like to know whether I am lifting and fully relaxing, and what dose fits me.” An assessment may include an examination with your consent; you can ask what is proposed and discuss alternatives. <a href=\"https://www.kingstonandrichmond.nhs.uk/services/service-search-z/physiotherapy-msk-richmond\">Kingston and Richmond NHS</a> explains this consent-based approach.</p><p>Stop if practice causes pain. You do not need to earn a review by completing several weeks of uncomfortable exercise. If you are ready to troubleshoot a specific habit, read <a href=\"/pelvic_gym/articles/kegel-exercise-mistakes/\">common Kegel exercise mistakes</a>.</p>"
@@ -133,6 +138,10 @@
       {
         "question": "Do I need to insert a finger to learn?",
         "answer": "No. You can begin with verbal movement cues and ask a professional for guidance. Any intimate assessment should be explained and carried out only with your consent."
+      },
+      {
+        "question": "Does completing every timer interval mean my Kegels are correct?",
+        "answer": "No. Timing does not verify the direction of the contraction, the release or whether strengthening is suitable. Ask for a technique check if those points remain unclear."
       }
     ],
     "sources": [
@@ -172,7 +181,9 @@
     ],
     "cta": "routine",
     "keyword": "how to do kegel exercises",
-    "researchNote": "Technique intent. Primary NHS/NICE sources checked 2026-10-24. Movement guidance separated from personalized treatment dose; no self-diagnosis test."
+    "researchNote": "Technique intent. Primary NHS/NICE sources checked 2026-10-24. Movement guidance separated from personalized treatment dose; no self-diagnosis test. New decision-support section checked 2026-10-27 against its linked primary sources; original publication and earlier source-check scope retained.",
+    "dateModified": "2026-10-27",
+    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. Sources supporting the new decision-support section were checked October 27, 2026."
   },
   {
     "slug": "how-often-to-do-kegels",

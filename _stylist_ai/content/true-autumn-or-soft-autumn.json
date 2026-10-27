@@ -1,0 +1,75 @@
+{
+  "slug": "true-autumn-or-soft-autumn",
+  "title": "True Autumn or Soft Autumn? Compare the colors",
+  "seoTitle": "True Autumn or Soft Autumn? Compare the colors | Stylist AI",
+  "description": "Compare True Autumn and Soft Autumn with actual clothes, clear color differences and a small outfit trial, without treating hair or eye color as a verdict.",
+  "category": "Color analysis",
+  "datePublished": "2026-10-27",
+  "dateModified": "2026-10-27",
+  "sourcesChecked": "2026-10-27",
+  "sortOrder": 0,
+  "excerpt": "A practical comparison of warm, richer colors and gentler, more muted alternatives.",
+  "quickAnswer": "In a common 12-season framework, True Autumn puts warmth first and softness second; Soft Autumn puts softness first with a warmer lean. Compare several real fabrics in similar lighting, then use the combinations you prefer. A single eye, hair or jewelry photo cannot settle the choice, and you can borrow useful colors from both palettes.",
+  "sections": [
+    {
+      "id": "difference",
+      "title": "What is the difference?",
+      "html": "<p>The Concept Wardrobe describes <a href=\"https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/true-autumn-a-comprehensive-guide\">True Autumn</a> as primarily warm and secondarily muted, while <a href=\"https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/soft-autumn-a-comprehensive-guide\">Soft Autumn</a> is primarily muted and secondarily warm. Both belong to the Autumn family in that system. The distinction is a matter of emphasis, not “bright versus dull.”</p><table><thead><tr><th>Compare</th><th>True Autumn direction</th><th>Soft Autumn direction</th></tr></thead><tbody><tr><td>Main emphasis</td><td>Warmth</td><td>Softness</td></tr><tr><td>Useful clothing trial</td><td>Richer terracotta and warm olive</td><td>Dustier peach and gentle sage</td></tr><tr><td>What to keep similar</td><td colspan=\"2\">Garment size, fabric, lighting and approximate lightness</td></tr></tbody></table><p>The clothing examples are starting ideas, not standardized diagnostic swatches. Check which system your analyst uses before comparing names: a label from a different system may not describe the same palette.</p>"
+    },
+    {
+      "id": "fabrics",
+      "title": "Use clothes you already own",
+      "html": "<p>Choose two or three pairs of tops, scarves or fabric pieces. A useful first pair might be a richer warm terracotta beside a dustier warm peach; another might compare warm olive with a softer sage. Try to keep each pair reasonably close in lightness. Comparing a pale scarf with a near-black coat changes too many things at once.</p><p>Retail color names are only a starting point. One shop’s sage may be much cooler or brighter than another’s. If you have a physical swatch from an appointment, compare the actual garment with it rather than assuming the name guarantees a match.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "Make the comparison repeatable",
+      "html": "<ol><li>Use the same position, mirror and steady light for both fabrics.</li><li>Keep the amount of fabric near your face similar. Compare one piece at a time.</li><li>Write a plain preference: “I like this warmer green” or “the softer peach feels more like me.”</li><li>Repeat with another color family before drawing a broader conclusion.</li><li>Try the preferred piece with the trousers, jacket and shoes you would actually wear.</li></ol><p>If photographs disagree with the mirror or change noticeably between shots, use our <a href=\"/stylist_ai/blog/color-analysis-photo-lighting/\">photo-lighting checklist</a>. Do not increase the number of selfies until the lighting problem is resolved.</p>"
+    },
+    {
+      "id": "overlap",
+      "title": "If you like some colors from each",
+      "html": "<p>You can build a useful outfit before deciding on a final label. Try warm brown trousers with a softer peach top, or a muted olive jacket with a richer terracotta scarf. These are our outfit suggestions; you can adjust them to your taste and existing wardrobe.</p><p>Keep three notes: the colors you enjoy near your face, a neutral that connects your outfits, and one accent you want to try. Those notes can be more useful on a shopping trip than forcing every garment into one category. If a paid analysis left you uncertain, bring the actual garments and ask what the recommendation changes in practice.</p>"
+    },
+    {
+      "id": "avoid-shortcuts",
+      "title": "Avoid changing your appearance to settle the label",
+      "html": "<p>Do not dye your hair, replace your jewelry or buy a complete capsule just to make one category feel more convincing. Eye and hair descriptions can be examples within a styling system; they are not a substitute for comparing the clothing options you need.</p><p>If you are deciding between warmer and cooler muted palettes instead, see <a href=\"/stylist_ai/blog/soft-summer-or-soft-autumn/\">Soft Summer versus Soft Autumn</a>. If you already like the deeper Autumn direction, our <a href=\"/stylist_ai/blog/deep-autumn-outfit-ideas/\">Deep Autumn outfit ideas</a> offer another practical starting point.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is True Autumn the same as bright Autumn?",
+      "answer": "In the framework discussed here, True Autumn is warm and muted. Richness is not the same as high brightness; check what a specific analyst means by their labels."
+    },
+    {
+      "question": "Can I wear Soft Autumn colors if I was typed True Autumn?",
+      "answer": "Yes. Try the actual garment and keep combinations you enjoy. A palette can guide experimentation without making other colors off limits."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Concept Wardrobe: True Autumn framework",
+      "url": "https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/true-autumn-a-comprehensive-guide"
+    },
+    {
+      "title": "The Concept Wardrobe: Soft Autumn framework",
+      "url": "https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/soft-autumn-a-comprehensive-guide"
+    }
+  ],
+  "sourceNote": "Outfit comparisons and examples are our styling suggestions, not validated tests or measured rules about attractiveness.",
+  "related": [
+    "soft-summer-or-soft-autumn",
+    "deep-autumn-outfit-ideas",
+    "color-depth-vs-brightness"
+  ],
+  "keyword": "true autumn or soft autumn? compare the colors",
+  "ctaTitle": "Turn the comparison into outfit ideas.",
+  "ctaText": "Explore your suggested seasonal palette and color combinations in Stylist AI, then try the options with clothes you already own.",
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/illustrations/true-autumn-or-soft-autumn.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Illustrated wardrobe groups comparing muted sage and peach with richer terracotta, mustard and olive."
+  }
+}

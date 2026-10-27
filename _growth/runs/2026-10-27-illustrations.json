@@ -1,0 +1,26 @@
+{
+  "run_id": "2026-10-27-2200",
+  "method": "built-in image_gen",
+  "production_directory": "stylist_ai/blog/assets/illustrations",
+  "master_location": "outside publishing repository in Codex generated_images",
+  "images": [
+    {
+      "slug": "true-autumn-or-soft-autumn",
+      "prompt": "Use case: illustration-story. Asset type: original editorial blog cover, landscape 3:2. Elegant hand-painted gouache illustration on warm ivory paper. Two small coordinated wardrobe groupings on wooden hangers: on left a softly muted warm sage knit, dusty peach scarf and light taupe trousers; on right a richer warm terracotta knit, mustard scarf and olive trousers. Below them two small fabric swatch fans echo their respective colors. This illustrates comparing Soft Autumn and True Autumn without assigning people categories. Gentle texture, refined fashion editorial composition, muted warm light, ample margins. No people, text, labels, logos, watermarks or UI.",
+      "production_path": "stylist_ai/blog/assets/illustrations/true-autumn-or-soft-autumn.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 111306,
+      "review": "Visually inspected cover pair; content matches subjects, no text, logos, personal photos or UI."
+    },
+    {
+      "slug": "warm-or-cool-hair-color",
+      "prompt": "Use case: illustration-story. Asset type: original editorial blog cover, landscape 3:2. Refined hand-painted gouache illustration on ivory paper of a salon consultation tabletop: three realistic hair sample locks in warm golden brown, neutral medium brown and cool ash brown, arranged with small matching fabric swatches. Include a simple handheld mirror and closed salon notebook. This illustrates comparing hair tone separately from lightness, not a before-after transformation. Subtle shadows, warm neutral calm editorial styling, attractive precise shapes and visible hair texture, generous margins. No people, faces, text, labels, logos, watermarks or app interface.",
+      "production_path": "stylist_ai/blog/assets/illustrations/warm-or-cool-hair-color.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 153126,
+      "review": "Visually inspected cover pair; content matches subjects, no text, logos, personal photos or UI."
+    }
+  ]
+}

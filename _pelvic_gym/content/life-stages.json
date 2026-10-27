@@ -398,6 +398,11 @@
         "html": "<p>Choose one reminder that feels neutral and practical, such as “comfortable breath.” Keep it somewhere you are likely to notice without interrupting your day.</p><p>Pick one natural pause, such as finishing a work call. Notice your breathing, let unnecessary gripping soften and continue with your day. There is no need to monitor the pelvic floor constantly. If you are also following a prescribed strengthening program, ask how relaxation should fit around it rather than replacing or expanding the plan yourself.</p>"
       },
       {
+        "id": "unexpected-sensation",
+        "title": "What if breathing practice causes a spasm or discomfort?",
+        "html": "<p>A new twitch, vibration or spasm during breathing is not a reliable sign that the exercise is releasing tension, nor does it identify a particular diagnosis. Stop the deliberate exercise and return to your ordinary breathing. Do not take bigger breaths, push downward or repeat the movement to chase a release.</p><p>For a review, note the position, whether you were inhaling or exhaling, whether you were deliberately pushing, and whether the sensation settled when you stopped. Describe pain, urinary changes or other accompanying symptoms too. Ask the clinician who gave you the practice whether to adjust it or pause it until assessed.</p><p><a href=\"https://www.nhsfife.org/services/all-services/physiotherapy/pelvic-health-physiotherapy/pelvic-pain/\">NHS Fife’s breathing guidance</a> uses a comfortable position and allows the pelvic floor to soften during inhalation. It does not require a dramatic sensation. If attention to the area increases discomfort or distress, ask for another way to work toward your goal.</p><p>Persistent or recurring pain needs medical advice. For severe or worsening pelvic pain, or pain with faintness or heavy bleeding, seek emergency care; <a href=\"https://www.nhs.uk/symptoms/pelvic-pain/\">NHS guidance gives the full warning signs</a>. An app workout is not the next step for unexplained painful spasms.</p>"
+      },
+      {
         "id": "assessment",
         "title": "When breathing practice is not enough",
         "html": "<p>Pelvic pain has many potential causes, and NHS Fife advises checking with a doctor to rule out other explanations. Physiotherapy may include relaxation teaching and other individualized approaches. <a href=\"https://www.nhsfife.org/services/all-services/patient-advice/overactive-pelvic-floor-muscles/\">Read its guidance on overactive pelvic floor muscles.</a></p><p>Book an assessment for persistent pain, painful sex or difficulty emptying. Seek emergency medical care now for severe or worsening pelvic pain, fainting, or heavy vaginal bleeding. Pelvic pain with fever, blood in urine or difficulty passing urine needs urgent medical advice. <a href=\"https://www.nhs.uk/symptoms/pelvic-pain/\">NHS pelvic pain guidance explains warning signs.</a></p><p>This is a gentle educational practice, not a diagnosis or treatment promise. The right next step for painful symptoms is professional assessment, even if a few breaths temporarily make you feel more comfortable.</p>"
@@ -411,6 +416,10 @@
       {
         "question": "Can relaxation replace all pelvic floor strengthening?",
         "answer": "Not automatically. Your plan depends on the problem being treated. Some people need help with release, others with strength or coordination, and some need a combination. Discuss changes to an existing program with your clinician."
+      },
+      {
+        "question": "Does a twitch during breathing prove my pelvic floor is releasing?",
+        "answer": "No. The sensation alone cannot confirm that. Pause if it is uncomfortable or unexpected, and discuss repeated symptoms with your clinician rather than trying to make the twitch happen again."
       }
     ],
     "sources": [
@@ -438,6 +447,8 @@
     ],
     "cta": "assessment",
     "keyword": "pelvic floor relaxation",
-    "researchNote": "Researched 2026-10-24. Search intent: safe relaxation and breathing. Uses gentle release without bearing down, breath holding, self-internal treatment or forceful stretches. Assessment CTA for pain; source-derived paraphrases kept brief across the five-article set."
+    "researchNote": "Researched 2026-10-24. Search intent: safe relaxation and breathing. Uses gentle release without bearing down, breath holding, self-internal treatment or forceful stretches. Assessment CTA for pain; source-derived paraphrases kept brief across the five-article set. New decision-support section checked 2026-10-27 against its linked primary sources; original publication and earlier source-check scope retained.",
+    "dateModified": "2026-10-27",
+    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. Sources supporting the new decision-support section were checked October 27, 2026."
   }
 ]

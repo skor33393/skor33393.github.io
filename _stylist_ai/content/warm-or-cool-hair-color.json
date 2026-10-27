@@ -1,0 +1,71 @@
+{
+  "slug": "warm-or-cool-hair-color",
+  "title": "Warm or cool hair color? Separate tone from depth",
+  "seoTitle": "Warm or cool hair color? Separate tone from depth | Stylist AI",
+  "description": "Choosing between warm, neutral and cool hair color? Compare tone and depth separately, prepare a salon brief and keep maintenance and hair condition in the decision.",
+  "category": "Personal style",
+  "datePublished": "2026-10-27",
+  "dateModified": "2026-10-27",
+  "sourcesChecked": "2026-10-27",
+  "sortOrder": 0,
+  "excerpt": "A clearer way to choose your next hair color without relying on one seasonal label.",
+  "quickAnswer": "Separate two decisions: how light or dark you want your hair, and how golden, neutral or ashy you want the tone to look. Compare references of similar depth, check them with familiar clothing, and discuss what is achievable with a colorist. A childhood hair color or a seasonal label does not require you to keep a particular shade.",
+  "sections": [
+    {
+      "id": "tone-depth",
+      "title": "Ask two smaller questions",
+      "html": "<p>“Should I go cooler?” and “Should I go darker?” are different questions. A light golden reference and a dark ash-brown reference change both at once. If you prefer the second, you still do not know whether it was the depth, the tone or the whole hairstyle that appealed.</p><p>Choose one starting depth, such as the medium brown you already have. Then collect a warmer, a more neutral and a cooler-looking reference around that depth. Use references as descriptions of the look you want, not promises of an exact result on your own hair.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "Compare without committing to dye",
+      "html": "<p>Look at your current hair in steady daylight alongside a few familiar tops. Notice whether your concern is the overall color, lighter ends, the root contrast or the way it looks with one outfit. Write the concern narrowly; “I want less contrast between the roots and ends” is a different brief from “I want a cooler brown everywhere.”</p><p>A colorist’s sample locks or a wig can help you picture a direction. A digital preview can be another sketch, but it cannot establish the eventual dye result. Keep your usual hairstyle and makeup in mind so the reference represents how you normally get dressed.</p><p>For photographs, compare similar lighting and avoid filters. Our <a href=\"/stylist_ai/blog/color-analysis-photo-lighting/\">photo guide</a> explains how to reduce distracting differences. Old summer and winter photographs are useful memories, but a poor controlled comparison if everything else has changed too.</p>"
+    },
+    {
+      "id": "brief",
+      "title": "Take a concrete brief to the salon",
+      "html": "<p>Bring two examples you like and one that shows what you want to avoid. Explain the distinction rather than simply asking for “my correct season.” For example: “I like this depth, but I would prefer a less golden finish. I want the roots to remain easy to maintain.”</p><ul><li>What can we reasonably achieve from my current color and hair condition?</li><li>Would you change tone, depth, placement of highlights, or some combination?</li><li>How might the color look as it fades or grows out?</li><li>What maintenance and cost would the proposed result involve?</li><li>Is a smaller change a sensible first step?</li></ul><p>The answers help you choose a service you can maintain. Follow the product and salon’s testing and safety instructions rather than treating a blog comparison as coloring advice.</p>"
+    },
+    {
+      "id": "condition",
+      "title": "Keep hair condition in the decision",
+      "html": "<p>The <a href=\"https://www.aad.org/public/diseases/hair-loss/insider/stop-damage\">American Academy of Dermatology’s hair-care guidance</a> advises allowing more time between color touch-ups and protecting hair in the sun, including with a wide-brimmed hat. Intentional sun exposure is not the hair-lightening method we recommend.</p><p>Discuss processing history honestly with your colorist. A shade you like on a screen may require a process you do not want to repeat. Choosing a lower-maintenance direction, keeping your existing color or waiting are all valid outcomes.</p>"
+    },
+    {
+      "id": "wardrobe",
+      "title": "Reconnect the choice to your wardrobe",
+      "html": "<p>Before changing several things, make three outfits around your current hair: a favorite neutral, a color you already love, and one new palette suggestion. If only one garment feels unhelpful, you may prefer changing the outfit rather than your hair.</p><p>After a hair-color change, repeat that small trial before replacing clothes. A new preference does not mean every old outfit is wrong. For bolder colors, use the separate <a href=\"/stylist_ai/blog/choosing-unnatural-hair-color/\">fantasy hair-color guide</a>; for growing out gray, see <a href=\"/stylist_ai/blog/gray-hair-wardrobe-colors/\">wardrobe colors with gray hair</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does being blonde as a child mean I should be blonde now?",
+      "answer": "It does not decide your current styling preference, maintenance needs or what a colorist can achieve. Use current references and the look you want now."
+    },
+    {
+      "question": "Can Stylist AI tell a salon which hair dye formula to use?",
+      "answer": "No. Use its suggested palette and clothing color combinations for outfit ideas. Hair dye formulation and processing require a discussion with your colorist."
+    }
+  ],
+  "sources": [
+    {
+      "title": "American Academy of Dermatology: Preventing hair damage",
+      "url": "https://www.aad.org/public/diseases/hair-loss/insider/stop-damage"
+    }
+  ],
+  "sourceNote": "Outfit comparisons and examples are our styling suggestions, not validated tests or measured rules about attractiveness.",
+  "related": [
+    "choosing-unnatural-hair-color",
+    "gray-hair-wardrobe-colors",
+    "color-analysis-photo-lighting"
+  ],
+  "keyword": "warm or cool hair color? separate tone from depth",
+  "ctaTitle": "Try the outfit side of the decision.",
+  "ctaText": "Use Stylist AI to explore a suggested clothing palette and color combinations alongside the hair color you choose.",
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/illustrations/warm-or-cool-hair-color.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Illustrated golden, neutral and ash-brown hair samples beside fabric swatches, a mirror and a salon notebook."
+  }
+}

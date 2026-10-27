@@ -5,7 +5,7 @@
   "description": "Dislike camel or another neutral recommended for your color season? Compare actual fabrics, try alternative bases, and keep a useful wardrobe without forcing it.",
   "category": "Color analysis",
   "datePublished": "2026-10-26",
-  "dateModified": "2026-10-26",
+  "dateModified": "2026-10-27",
   "sortOrder": 1,
   "excerpt": "One disappointing camel sweater does not have to undo your whole wardrobe—or force you to wear camel.",
   "quickAnswer": "If you dislike a neutral recommended for your season, compare the actual shade, depth and fabric before drawing a conclusion about the entire palette. Try another neutral in complete outfits, and ask your analyst for alternatives if needed. You do not have to make camel, beige or any other specific color your wardrobe staple.",
@@ -31,6 +31,11 @@
       "html": "<p>If you like a neutral in principle but dislike it near your face, try it in trousers, a skirt, shoes or a bag. A familiar top can keep the outfit connected to colors you enjoy wearing.</p><p>Alternatively, leave the color out altogether. There is no reason to buy several supporting items to rescue a neutral you never liked. If the piece is already yours, one practical outfit trial may be enough to decide whether it earns its place.</p>"
     },
     {
+      "id": "cool-brown",
+      "title": "Can a Summer palette include brown?",
+      "html": "<p>Brown is a broad shopping category. A caramel-looking fabric and a gray-brown fabric can give quite different impressions. <a href=\"https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/true-summer-a-comprehensive-guide\">The Concept Wardrobe describes True Summer as cool and muted</a>; use that framework as a comparison direction, not a rule that every item called brown is unsuitable.</p><p>To compare candidates, place a gray-brown or taupe-looking fabric beside a visibly golden or orange-looking brown of similar lightness. Then try the candidate with a familiar cool blue or rose top. These are our suggested outfit experiments, not tests that prove a seasonal label.</p><p>Judge the actual garment under consistent light. Do not rely on the retailer calling it “mocha,” “mushroom” or “chocolate,” and do not decide from a cropped product photograph alone. If buying online, check the return policy and compare the delivered fabric with clothes you already wear.</p><p>For a coat or knit near your face, try the complete outfit; for trousers, check the connection with your tops and shoes. You can keep a brown you enjoy even if it is outside a suggested palette.</p>"
+    },
+    {
       "id": "ask-the-analyst",
       "title": "Ask your analyst a concrete follow-up",
       "html": "<p>Try: “I do not enjoy this camel top. Can you show me two other neutral options in my palette and explain the difference using actual fabrics?” If the answer is only that camel should work because of the season label, ask how the recommendation translates to the clothes you own.</p><p>You can disagree with a recommendation without assuming the whole appointment was useless. If many colors remain unhelpful, review the process and your expectations before paying for another analysis.</p><p>For a broader range of bases, explore <a href=\"/stylist_ai/blog/black-wardrobe-alternatives/\">five alternatives to black</a>. If the issue is that the whole palette clashes with your taste, read <a href=\"/stylist_ai/blog/hate-your-color-season-palette/\">how to keep the colors you love</a>.</p>"
@@ -44,12 +49,20 @@
     {
       "question": "Should my coat match my season exactly?",
       "answer": "Your coat should work for your needs and the outfits you wear. A suggested palette can help you compare options, but it does not replace fit, comfort, practicality or taste."
+    },
+    {
+      "question": "Can True Summer wear brown?",
+      "answer": "You can wear any brown you enjoy. If following a cool, muted palette, compare actual gray-brown or taupe-looking fabrics with warmer alternatives rather than relying on a retail color name."
     }
   ],
   "sources": [
     {
       "title": "The Concept Wardrobe: True Autumn palette and neutrals",
       "url": "https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/true-autumn-a-comprehensive-guide"
+    },
+    {
+      "title": "The Concept Wardrobe: True Summer framework",
+      "url": "https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/true-summer-a-comprehensive-guide"
     }
   ],
   "sourceNote": "Outfit examples and decision exercises are our styling suggestions, not measured rules about attractiveness.",
@@ -66,5 +79,6 @@
   "related": [
     "black-wardrobe-alternatives",
     "hate-your-color-season-palette"
-  ]
+  ],
+  "sourceCheckNote": "Autumn guidance checked October 26, 2026; the Summer brown comparison source checked October 27, 2026."
 }

@@ -125,6 +125,11 @@
         "html": "<p>Keep a brief record that you can actually maintain. Include:</p><ul><li>When you passed stool and whether it was hard, soft or loose.</li><li>Whether you strained, felt blocked or felt incompletely emptied.</li><li>Any pain, blood, leakage or change from your usual pattern.</li><li>Medicines or self-care measures you tried and their effects.</li></ul><p>Choose the question that matters most: “How do I make stool easier to pass?” “Could muscle coordination be involved?” or “Do I need further investigation?” These can lead to different plans. If an examination or specialist test is suggested, ask what question it will answer and how the result could change treatment.</p>"
       },
       {
+        "id": "training-change",
+        "title": "If bowel emptying worsens after changing your workouts",
+        "html": "<p>A change after adding abdominal or glute exercises is useful information to bring to an assessment. Timing alone does not tell you whether the cause is muscle coordination, stool consistency, a medicine or something else. Avoid prescribing yourself extra core work or more Kegels to correct an assumed imbalance.</p><p>Take a short comparison note to your clinician: the exercises you changed, when the bowel symptoms changed, whether stools are hard or soft, and whether you feel blocked or incompletely emptied. You do not need to reproduce a painful workout to make the record convincing. Ask what activity you can continue comfortably while the cause is assessed.</p><p>If muscle coordination is involved, <a href=\"https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/treatment\">NIDDK describes biofeedback as a way to retrain the muscles used for bowel movements</a>. Ask what skill the treatment is teaching and how it differs from a strengthening plan. A timed Kegel app does not measure bowel coordination or replace this care.</p><p>Worsening symptoms deserve a review rather than waiting for a fitness programme to fix them. Use the warning signs below to decide when prompt medical care is needed.</p>"
+      },
+      {
         "id": "seek-help",
         "title": "When to seek medical help",
         "html": "<p>Seek prompt medical assessment for constipation with blood, constant abdominal pain, vomiting, fever or inability to pass gas. Unexplained weight loss and constipation that persists despite self-care also need attention. <a href=\"https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/symptoms-causes\">NIDDK lists symptoms requiring medical review</a>.</p><p>This article is educational. For discomfort or difficulty releasing the pelvic floor, our <a href=\"/pelvic_gym/articles/pelvic-floor-relaxation/\">relaxation guide</a> offers a gentle introduction, while <a href=\"/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/\">the therapy guide</a> explains what an assessment may involve. Neither replaces investigating persistent bowel symptoms.</p>"
@@ -138,6 +143,10 @@
       {
         "question": "Should I keep adding fiber if emptying still feels blocked?",
         "answer": "If symptoms persist or added fiber causes troublesome bloating, discuss your experience with a clinician. More of one measure is not always the right next step, especially when stool is already soft."
+      },
+      {
+        "question": "Should I strengthen my abs or do more Kegels if emptying feels blocked?",
+        "answer": "Do not assume an imbalance or weakness from that sensation. Explain the symptom and recent training changes to a clinician; treatment may involve bowel care or coordination training instead of more contractions."
       }
     ],
     "sources": [
@@ -161,7 +170,9 @@
     ],
     "cta": "assessment",
     "keyword": "pelvic floor and constipation",
-    "researchNote": "Researched 2026-10-24. Bowel-emptying and muscle-coordination intent. No laxative prescription, internal manipulation, forced bearing down or blanket strengthening recommendation."
+    "researchNote": "Researched 2026-10-24. Bowel-emptying and muscle-coordination intent. No laxative prescription, internal manipulation, forced bearing down or blanket strengthening recommendation. New decision-support section checked 2026-10-27 against its linked primary sources; original publication and earlier source-check scope retained.",
+    "dateModified": "2026-10-27",
+    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. Sources supporting the new decision-support section were checked October 27, 2026."
   },
   {
     "slug": "bladder-training-vs-kegels",

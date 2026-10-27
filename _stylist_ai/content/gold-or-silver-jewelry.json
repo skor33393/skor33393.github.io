@@ -5,7 +5,7 @@
   "description": "Unsure whether gold or silver jewelry suits you? Compare similar pieces, separate color from shine, and choose the metal you enjoy with your everyday outfits.",
   "category": "Accessories",
   "datePublished": "2026-10-26",
-  "dateModified": "2026-10-26",
+  "dateModified": "2026-10-27",
   "sortOrder": 6,
   "excerpt": "Compare the actual pieces you would wear. One wrist photo does not have to decide your jewelry collection.",
   "quickAnswer": "Try gold-colored and silver-colored pieces of similar size and finish with the same outfit, in the same light. Compare near your face if you are choosing earrings or a necklace. If you like both, you can wear both. The result is a jewelry preference; it does not have to establish your entire color season.",
@@ -29,6 +29,11 @@
       "id": "mixed-metals",
       "title": "If you like both, try mixed metals",
       "html": "<p>Start with one piece in each color: silver earrings and a gold ring, for example. If you want the combination to feel more connected, repeat one color in another small detail or use a piece that contains both.</p><p>Matching jewelry to every zip, buckle and bag fitting is optional. Before replacing an everyday watch or meaningful ring, wear it with the outfit and see whether the difference actually bothers you. Personal significance is also a reason to wear something.</p>"
+    },
+    {
+      "id": "before-replacing",
+      "title": "Before replacing a whole jewelry collection",
+      "html": "<p>If a warm room light makes one gold piece look especially orange, postpone the decision. Repeat the comparison in steady daylight with similar pieces, one at a time. Keep the background, top and distance the same; changing all three can make the comparison less useful.</p><p>Separate three notes: the metal color, the surface finish, and how familiar the piece feels. You might prefer a softer gold over a very yellow polished piece while still enjoying your existing silver. Feeling unfamiliar is a reason to try a look for longer, not proof that you must adopt or reject it.</p><p>Use a small reversible trial: wear one alternative necklace with two outfits on different days, or try comparable pieces in a shop. Keep meaningful and comfortable pieces while you decide. A bracelet comparison does not justify changing every earring, ring or other piece at once.</p><p>For body jewelry, treat material suitability, fit and any healing instructions as separate from this styling exercise. Ask a qualified piercer about those decisions; a color preference or photo comparison cannot answer them.</p>"
     },
     {
       "id": "season-question",

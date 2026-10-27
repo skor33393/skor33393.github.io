@@ -39,6 +39,11 @@
         "html": "<p>Your plan might include movement practice, education, lifestyle advice or other techniques selected for your findings. <a href=\"https://www.imperial.nhs.uk/-/media/website/patient-information-leaflets/physiotherapy/welcome-to-pelvic-health-physiotherapy.pdf?rev=d665b7189141454f94930927ced4d7e3&sc_lang=en\">Imperial's patient guide</a> describes several treatment approaches rather than one standard routine. Read <a href=\"/pelvic_gym/articles/tight-vs-weak-pelvic-floor/\">why tightness and weakness are different questions</a> if you are expecting strengthening automatically.</p><p>Ask your therapist to connect each instruction to your goal. “This is intended to help with the leak during lifting” is easier to use than collecting exercises without knowing their purpose. If the plan is too complicated to fit around work or caring responsibilities, say so before leaving.</p>"
       },
       {
+        "id": "external-start",
+        "title": "Can the first plan start without internal work?",
+        "html": "<p>Tell the service before the visit if you want to start with conversation and activities that keep you clothed. You can ask what information they can gather from your history, symptom diary, breathing and relevant movement, and which proposed steps would need separate consent. <a href=\"https://www.dynamichealth.nhs.uk/services/pelvic-health-services/your-pelvic-health-appointment/\">DynamicHealth’s NHS service</a> describes remote first appointments and individually tailored management; your own clinic can explain its options.</p><p>External treatment is not one standardized package, and no appointment guide can promise the same relief as every other approach. Ask the therapist to explain what they can assess now, what remains uncertain, and what would make them recommend further assessment. Declining an examination does not require replacing it with unsupervised internal work at home.</p><p>A useful opening sentence is: “I want help with these symptoms, and I am not consenting to an internal examination today. What can we begin with?” You can also request a chaperone or ask how a support person could attend.</p><p>The <a href=\"https://www.csp.org.uk/professional-clinical/professional-guidance/consent-physiotherapy-practice\">Chartered Society of Physiotherapy</a> describes informed consent as an ongoing process. Agree on a review point for the plan you choose; improvement is assessed against your goals, not your willingness to accept a particular examination.</p>"
+      },
+      {
         "id": "home-plan",
         "title": "Leave with a plan you can repeat accurately",
         "html": "<p>For each exercise, record the position, movement, repetitions, rest and frequency. Ask what discomfort should make you stop and who to contact with questions. Demonstrate or explain the instructions back in your own words so that any misunderstanding can be corrected while you are together.</p><p>Finally, confirm the follow-up arrangement: whether you must book it, what to track and when the approach will be reviewed. Keep a note of one useful change in daily life as well as what you practiced. If nothing changes, that information belongs at the review too. Therapy is a process of assessment and adjustment; your job is to give an honest account, not to produce a perfect progress report.</p>"
@@ -56,6 +61,10 @@
       {
         "question": "What if I agree to talk but am not ready for an internal examination?",
         "answer": "Say that at the start. Ask what can be assessed now, what would remain uncertain and whether you can revisit the decision later. Discuss your own service’s options without feeling you must decide before receiving an explanation."
+      },
+      {
+        "question": "Can I ask to begin therapy while staying clothed?",
+        "answer": "Yes. Tell the clinic your preference and ask what assessment and treatment are possible, what remains uncertain, and how the plan will be reviewed. Options depend on your symptoms and the service."
       }
     ],
     "sources": [
@@ -74,6 +83,10 @@
       {
         "title": "Imperial College Healthcare: Welcome to pelvic health physiotherapy",
         "url": "https://www.imperial.nhs.uk/-/media/website/patient-information-leaflets/physiotherapy/welcome-to-pelvic-health-physiotherapy.pdf?rev=d665b7189141454f94930927ced4d7e3&sc_lang=en"
+      },
+      {
+        "title": "Chartered Society of Physiotherapy: Consent in practice",
+        "url": "https://www.csp.org.uk/professional-clinical/professional-guidance/consent-physiotherapy-practice"
       }
     ],
     "related": [
@@ -83,9 +96,10 @@
     ],
     "cta": "assessment",
     "keyword": "pelvic floor therapy what to expect",
-    "researchNote": "Sources checked 2026-10-24. First-visit preparation and consent intent; local clinic processes clearly identified as examples, not universal service guarantees.",
+    "researchNote": "Sources checked 2026-10-24. First-visit preparation and consent intent; local clinic processes clearly identified as examples, not universal service guarantees. New decision-support section checked 2026-10-27 against its linked primary sources; original publication and earlier source-check scope retained.",
     "datePublished": "2026-10-24",
-    "dateModified": "2026-10-26"
+    "dateModified": "2026-10-27",
+    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026; the appointment decision sheet was checked October 26. The external-work and consent update was checked against DynamicHealth and CSP guidance October 27, 2026."
   },
   {
     "slug": "pelvic-floor-exercises-after-c-section",
