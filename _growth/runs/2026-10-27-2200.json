@@ -1,7 +1,7 @@
 {
   "run_id": "2026-10-27-2200",
   "kind": "scheduled",
-  "status": "deployment_pending",
+  "status": "completed",
   "started_at": "2026-10-27T17:58:03.462Z",
   "timezone": "Asia/Dubai",
   "scheduled_local": "2026-10-27T22:00:00+04:00",
@@ -57,7 +57,9 @@
       "original_page_verified": true,
       "outcome": "new",
       "selection_reason": "Most comments among distinct fresh color candidates; specific warm-versus-muted comparison not covered by Soft Summer/Soft Autumn. Google PAA corroborates.",
-      "article_url": "https://bestme.mobi/stylist_ai/blog/true-autumn-or-soft-autumn/"
+      "article_url": "https://bestme.mobi/stylist_ai/blog/true-autumn-or-soft-autumn/",
+      "verified_at": "2026-10-27T18:20:34.303165+00:00",
+      "live_status": 200
     },
     {
       "app": "stylist_ai",
@@ -76,7 +78,9 @@
       "original_page_verified": true,
       "outcome": "update",
       "selection_reason": "More discussion than the other fresh metal question (1 comment); existing intent expanded with warm-light and staged replacement decision.",
-      "article_url": "https://bestme.mobi/stylist_ai/blog/gold-or-silver-jewelry/"
+      "article_url": "https://bestme.mobi/stylist_ai/blog/gold-or-silver-jewelry/",
+      "verified_at": "2026-10-27T18:20:34.303165+00:00",
+      "live_status": 200
     },
     {
       "app": "stylist_ai",
@@ -95,7 +99,9 @@
       "original_page_verified": true,
       "outcome": "update",
       "selection_reason": "Fresh specific neutral-shopping question; add cool-brown comparison within existing neutrals guide instead of a duplicate.",
-      "article_url": "https://bestme.mobi/stylist_ai/blog/season-neutrals-do-not-suit-me/"
+      "article_url": "https://bestme.mobi/stylist_ai/blog/season-neutrals-do-not-suit-me/",
+      "verified_at": "2026-10-27T18:20:34.303165+00:00",
+      "live_status": 200
     },
     {
       "app": "stylist_ai",
@@ -114,7 +120,9 @@
       "original_page_verified": true,
       "outcome": "update",
       "selection_reason": "Distinct fresh practical palette-adaptation need; three low-commitment bright outfit formulas and system-label caveat.",
-      "article_url": "https://bestme.mobi/stylist_ai/blog/hate-your-color-season-palette/"
+      "article_url": "https://bestme.mobi/stylist_ai/blog/hate-your-color-season-palette/",
+      "verified_at": "2026-10-27T18:20:34.303165+00:00",
+      "live_status": 200
     },
     {
       "app": "stylist_ai",
@@ -133,7 +141,9 @@
       "original_page_verified": true,
       "outcome": "new",
       "selection_reason": "More discussion than fresh alternative hair question (1 comment). Natural-tone versus depth and salon brief distinct from fantasy hair and gray transition guides.",
-      "article_url": "https://bestme.mobi/stylist_ai/blog/warm-or-cool-hair-color/"
+      "article_url": "https://bestme.mobi/stylist_ai/blog/warm-or-cool-hair-color/",
+      "verified_at": "2026-10-27T18:20:34.303165+00:00",
+      "live_status": 200
     },
     {
       "app": "pelvic_gym",
@@ -152,7 +162,9 @@
       "original_page_verified": true,
       "outcome": "update",
       "selection_reason": "Highest score among selected fresh actionable pelvic questions; bowel-coordination and workout-change troubleshooting belongs in existing constipation guide.",
-      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-and-constipation/"
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-and-constipation/",
+      "verified_at": "2026-10-27T18:20:34.303165+00:00",
+      "live_status": 200
     },
     {
       "app": "pelvic_gym",
@@ -171,7 +183,9 @@
       "original_page_verified": true,
       "outcome": "update",
       "selection_reason": "External-only starting plan adds practical options and limits beyond yesterday’s appointment question sheet; no copied personal history.",
-      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/"
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/",
+      "verified_at": "2026-10-27T18:20:34.303165+00:00",
+      "live_status": 200
     },
     {
       "app": "pelvic_gym",
@@ -190,7 +204,9 @@
       "original_page_verified": true,
       "outcome": "update",
       "selection_reason": "Fresh exercise-triggered sensation question; pause-and-review guidance improves existing breathing practice without diagnosing.",
-      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-relaxation/"
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-relaxation/",
+      "verified_at": "2026-10-27T18:20:34.303165+00:00",
+      "live_status": 200
     },
     {
       "app": "pelvic_gym",
@@ -209,7 +225,9 @@
       "original_page_verified": true,
       "outcome": "update",
       "selection_reason": "Low visible attention but distinct fresh gym-avoidance question and directly relevant decision table; no universal ban list.",
-      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-and-heavy-lifting/"
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-and-heavy-lifting/",
+      "verified_at": "2026-10-27T18:20:34.303165+00:00",
+      "live_status": 200
     },
     {
       "app": "pelvic_gym",
@@ -225,7 +243,9 @@
       "answers": null,
       "outcome": "update",
       "selection_reason": "Observed actual PAA and existing clinical FAQ. No comparable forum engagement claimed; improves technique feedback and timer limitations without duplicating a new page.",
-      "article_url": "https://bestme.mobi/pelvic_gym/articles/how-to-do-kegel-exercises/"
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/how-to-do-kegel-exercises/",
+      "verified_at": "2026-10-27T18:20:34.303165+00:00",
+      "live_status": 200
     },
     {
       "app": "stylist_ai",
@@ -353,8 +373,25 @@
   },
   "selection_note": "Ten distinct questions addressed in ten separate pages. Existing intent pages materially expanded instead of eight near-duplicate new posts. No forum URLs, personal anecdotes or question-research copy in public output.",
   "deployment": {
-    "status": "ready_to_push",
-    "base_commit": "def6fff2130d53b30e5ba754baf0c33a85ad6699"
+    "status": "published",
+    "commit": "9f944a48ab0154dd4039145ee25273b0ce1bc088",
+    "github_actions_run": 40558456339,
+    "github_actions_url": "https://github.com/skor33393/skor33393.github.io/actions/runs/40558456339",
+    "conclusion": "success",
+    "verified_at": "2026-10-27T18:20:34.303165+00:00",
+    "live_checks": {
+      "checked": 91,
+      "passed": 90,
+      "all_ten_selected_articles_match": true,
+      "all_sitemaps_match": true,
+      "all_illustrations_match": true,
+      "protected_landing_matches": true,
+      "remaining_difference": {
+        "url": "https://bestme.mobi/stylist_ai/blog/olive-skin-color-analysis/",
+        "detail": "Unchanged article body is correct. A related jewelry card still displays 3 min read instead of 4 min read. HTTP 200 with max-age=600 cache; all publication content and selected pages verified.",
+        "material_publication_blocker": false
+      }
+    }
   },
   "notification": {
     "channel": "chat",
@@ -387,5 +424,6 @@
     "total_bytes": 264432,
     "largest_bytes": 153126,
     "manifest": "_growth/runs/2026-10-27-illustrations.json"
-  }
+  },
+  "completed_at": "2026-10-27T18:20:34.303165+00:00"
 }

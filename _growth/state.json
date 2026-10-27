@@ -2,11 +2,12 @@
   "schema_version": 1,
   "timezone": "Asia/Dubai",
   "schedule_local": "22:00 daily",
-  "last_successful_scan": "2026-10-26T18:24:11.308751+00:00",
+  "last_successful_scan": "2026-10-27T18:12:46.646146+00:00",
   "runs": {
     "2026-10-26-initial": "completed",
     "2026-10-26-stylist-expansion": "completed",
-    "2026-10-26-2200": "completed"
+    "2026-10-26-2200": "completed",
+    "2026-10-27-2200": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -121,6 +122,41 @@
         "run_id": "2026-10-26-2200",
         "status": "published",
         "verified_at": "2026-10-26T18:31:16.081515+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xgpdyu/true_vs_soft_autumn_which_one_am_i/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/true-autumn-or-soft-autumn/",
+        "run_id": "2026-10-27-2200",
+        "status": "published",
+        "verified_at": "2026-10-27T18:20:34.303165+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xgvgdx/does_gold_or_silver_look_better_on_me_fam/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/gold-or-silver-jewelry/",
+        "run_id": "2026-10-27-2200",
+        "status": "updated",
+        "verified_at": "2026-10-27T18:20:34.303165+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xg9dtw/true_summer_brown/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/season-neutrals-do-not-suit-me/",
+        "run_id": "2026-10-27-2200",
+        "status": "updated",
+        "verified_at": "2026-10-27T18:20:34.303165+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xgox3k/color_analysis_result_bright_palette/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/hate-your-color-season-palette/",
+        "run_id": "2026-10-27-2200",
+        "status": "updated",
+        "verified_at": "2026-10-27T18:20:34.303165+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xgxuic/hair_blindness_should_i_stop_trying_to_be_so_warm/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/warm-or-cool-hair-color/",
+        "run_id": "2026-10-27-2200",
+        "status": "published",
+        "verified_at": "2026-10-27T18:20:34.303165+00:00"
       }
     ],
     "pelvic_gym": [
@@ -165,6 +201,41 @@
         "run_id": "2026-10-26-2200",
         "status": "updated",
         "verified_at": "2026-10-26T18:31:16.081515+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xgasr0/muscle_imbalance_muscles_uncoordinated_or_both/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-and-constipation/",
+        "run_id": "2026-10-27-2200",
+        "status": "updated",
+        "verified_at": "2026-10-27T18:20:34.303165+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xghpfm/can_i_get_actual_relief_with_only_external_work/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/",
+        "run_id": "2026-10-27-2200",
+        "status": "updated",
+        "verified_at": "2026-10-27T18:20:34.303165+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xgnise/spasmi_vaginali_durante_la_respirazione/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-relaxation/",
+        "run_id": "2026-10-27-2200",
+        "status": "updated",
+        "verified_at": "2026-10-27T18:20:34.303165+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xgz4nh/workout_damaging_pelvic_floor/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-and-heavy-lifting/",
+        "run_id": "2026-10-27-2200",
+        "status": "updated",
+        "verified_at": "2026-10-27T18:20:34.303165+00:00"
+      },
+      {
+        "question_url": "https://www.google.com/search?q=pelvic+floor+exercise+questions",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/how-to-do-kegel-exercises/",
+        "run_id": "2026-10-27-2200",
+        "status": "updated",
+        "verified_at": "2026-10-27T18:20:34.303165+00:00"
       }
     ]
   },
