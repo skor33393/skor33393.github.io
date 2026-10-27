@@ -381,16 +381,20 @@
     "verified_at": "2026-10-27T18:20:34.303165+00:00",
     "live_checks": {
       "checked": 91,
-      "passed": 90,
+      "passed": 91,
       "all_ten_selected_articles_match": true,
       "all_sitemaps_match": true,
       "all_illustrations_match": true,
       "protected_landing_matches": true,
-      "remaining_difference": {
-        "url": "https://bestme.mobi/stylist_ai/blog/olive-skin-color-analysis/",
-        "detail": "Unchanged article body is correct. A related jewelry card still displays 3 min read instead of 4 min read. HTTP 200 with max-age=600 cache; all publication content and selected pages verified.",
-        "material_publication_blocker": false
-      }
+      "failed": [],
+      "cache_delay_resolved": true,
+      "resolved_cache_note": "Unchanged article body is correct. A related jewelry card still displays 3 min read instead of 4 min read. HTTP 200 with max-age=600 cache; all publication content and selected pages verified."
+    },
+    "final_verified_at": "2026-10-27T18:22:14.348557+00:00",
+    "bookkeeping_deployment": {
+      "commit": "5b4978992fbb6a21a0c8cccb0fc97f437c5bc41b",
+      "run_id": 40559089940,
+      "conclusion": "success"
     }
   },
   "notification": {
