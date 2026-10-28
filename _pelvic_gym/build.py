@@ -16,6 +16,7 @@ for source in sorted((ROOT / '_pelvic_gym/content').glob('*.json')):
     ARTICLES.extend(json.loads(source.read_text()))
 ORDER = ['pelvic-floor-exercises-for-women','how-to-do-kegel-exercises','leaking-urine-when-coughing','postpartum-pelvic-floor-recovery','tight-vs-weak-pelvic-floor','how-often-to-do-kegels','how-long-do-kegels-take-to-work','pelvic-floor-exercises-menopause','kegel-exercise-mistakes','pelvic-floor-relaxation']
 ORDER += ['pelvic-floor-therapy-what-to-expect', 'pelvic-floor-exercises-after-c-section', 'pelvic-floor-exercises-during-pregnancy', 'running-and-pelvic-floor', 'pelvic-floor-and-constipation', 'bladder-training-vs-kegels', 'urinary-urgency-in-women', 'pelvic-organ-prolapse-exercise', 'painful-sex-and-pelvic-floor', 'peeing-at-night-women', 'kegel-exercises-lying-sitting-standing', 'slow-and-fast-kegel-exercises', 'bladder-diary-for-women', 'kegel-app-vs-biofeedback-trainer', 'kegel-weights-and-trainers', 'yoga-pilates-and-pelvic-floor', 'pelvic-floor-exercises-after-hysterectomy', 'pelvic-floor-and-heavy-lifting', 'breathing-during-kegel-exercises', 'bladder-habits-water-caffeine']
+ORDER += ['cycling-with-pelvic-organ-prolapse', 'pelvic-heaviness-pressure', 'painful-periods-pelvic-floor', 'pelvic-floor-therapy-endometriosis', 'urinary-hesitancy-in-women']
 ORDER += [a['slug'] for a in ARTICLES if a['slug'] not in ORDER]
 BY_SLUG = {a['slug']:a for a in ARTICLES}
 ARTICLES.sort(key=lambda a: (-int(a.get('datePublished', DATE).replace('-', '')), ORDER.index(a['slug'])))

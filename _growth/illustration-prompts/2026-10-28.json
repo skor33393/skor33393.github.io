@@ -1,0 +1,21 @@
+{
+  "run_id": "2026-10-28-2200",
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "slug": "deep-autumn-or-deep-winter",
+      "prompt": "Use case: illustration-story. Asset type: editorial blog cover, landscape 3:2. Create an original elegant fashion illustration about comparing Deep Autumn and Deep Winter clothing colors. A cream tabletop with two beautifully arranged sets of folded fabrics and scarves: one in rich espresso, warm aubergine, olive and rust; the other in charcoal, cool burgundy, pine and cool navy. A small round mirror and a simple blank notebook between the sets, no people. Hand-painted gouache with subtle paper texture, sophisticated shapes, warm ivory background, visually clear at small card size. No lettering, no labels, no logos, no watermark. This is a styling still life, not a scientific color chart.",
+      "production_path": "stylist_ai/blog/assets/illustrations/deep-autumn-or-deep-winter.webp"
+    },
+    {
+      "slug": "bright-winter-or-deep-winter",
+      "prompt": "Use case: illustration-story. Asset type: editorial fashion blog cover, landscape 3:2. Original hand-painted gouache illustration showing two outfit directions side by side on simple wooden hangers against warm ivory: a clear cobalt top with a vivid cool pink scarf, and a deep navy top with a rich dark berry scarf. Below them a few tidy fabric swatches in the same clear versus deep color families. Crisp composition, soft paper grain, stylish editorial warmth, spacious margins. No people, text, season labels, logos, watermarks or UI. This is an inviting clothing comparison, not a scientific diagram.",
+      "production_path": "stylist_ai/blog/assets/illustrations/bright-winter-or-deep-winter.webp"
+    },
+    {
+      "slug": "urinary-hesitancy-in-women",
+      "prompt": "Use case: illustration-story. Asset type: women's health journal cover, landscape 3:2. Create a calm, respectful original editorial gouache illustration of an adult woman fully clothed in a sage blouse sitting across a small desk from a female health professional, discussing a simple blank symptom notebook. Soft peach, cream, warm brown and muted sage palette, delicate paper texture, comfortable modern consultation room, small plant and daylight. Convey a thoughtful conversation and individualized assessment. No text or medical chart labels, no app screen, no anatomical diagram, no toilet, no pain expression, no diagnostic symbolism, no logos or watermark.",
+      "production_path": "pelvic_gym/assets/illustrations/urinary-hesitancy-in-women.webp"
+    }
+  ]
+}

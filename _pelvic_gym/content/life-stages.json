@@ -196,6 +196,11 @@
         "html": "<p>A hypertonic pelvic floor may be associated with pelvic pain, painful sex, constipation, urinary frequency or difficulty starting a urine stream. These symptoms do not establish the diagnosis. <a href=\"https://my.clevelandclinic.org/health/diseases/22870-hypertonic-pelvic-floor\">Cleveland Clinic explains hypertonic pelvic floor symptoms.</a></p><p>Leaking during pressure-producing activities can occur with reduced support, while tension-related problems can also involve incontinence. That overlap is one reason a checklist cannot reliably separate “tight” from “weak.” <a href=\"https://www.royalberkshire.nhs.uk/media/yemfgc2z/physio-relaxing-your-pelvic-floor-muscles.pdf\">Royal Berkshire’s physiotherapy guidance describes overlapping symptoms.</a></p><p>Rather than scoring symptoms, write a sentence for each: where you feel it, what triggers it, how long it lasts and what it stops you doing. “Pain after sitting for an hour” gives your clinician something more useful than “I think I am too tight.”</p>"
       },
       {
+        "id": "burning-description",
+        "title": "Does burning prove that my pelvic floor is tight?",
+        "html": "<p>No. Burning describes a sensation, not the tissue causing it. The <a href=\"https://www.nhs.uk/symptoms/pelvic-pain/\">NHS pelvic pain guide</a> lists burning among possible pain descriptions and explains that pelvic pain has several possible causes. Feeling tense at the same time does not establish a muscle diagnosis.</p><p>For an appointment, separate the description into four parts:</p><ul><li><strong>Place:</strong> on the skin or vulva, deeper in the pelvis, near the bladder, or somewhere you cannot clearly locate.</li><li><strong>Timing:</strong> constant, episodes, during urination, after sitting, or with touch.</li><li><strong>Other changes:</strong> discharge, bleeding, fever, bowel symptoms or difficulty emptying.</li><li><strong>Impact:</strong> sleep, sitting, sex, exercise or another everyday activity.</li></ul><p>You can describe an association with stress without concluding that stress is the whole cause. Ask: “What else should be checked, and which finding would change treatment?” Use the warning signs below if symptoms are urgent.</p><p>For burning specifically at the vaginal entrance with touch or penetration, see our <a href=\"/pelvic_gym/articles/painful-sex-and-pelvic-floor/#entrance-burning\">focused painful-sex section</a>. It explains why appearance and location alone do not identify the cause.</p>"
+      },
+      {
         "id": "other-causes",
         "title": "Do not assume the pelvic floor is the whole explanation",
         "html": "<p>Pain during sex can involve hormonal tissue changes, skin conditions, infection, endometriosis, muscle problems or several factors together. Assessment helps distinguish these possibilities. <a href=\"https://www.yourpelvicfloor.org/conditions/dyspareunia/\">The International Urogynecological Association explains causes of painful sex.</a></p><p>This matters when an online exercise appears to fit your symptoms perfectly. A matching description is a starting point for a conversation, not proof of a cause. Tell a clinician about symptoms such as burning, unusual discharge or bleeding, instead of quietly treating everything as muscle tension.</p><p>For the same reason, a product’s “strength score” should not become your diagnosis. Ask what is being measured, what it cannot tell you and whether the result changes the care plan.</p>"
@@ -233,6 +238,10 @@
       {
         "question": "What is a pelvic floor test for women?",
         "answer": "It can refer to a symptom questionnaire, an examination of muscle function or a specific bladder or bowel investigation. Ask which is being proposed, what question it answers and whether its result would change your care."
+      },
+      {
+        "question": "Is pelvic burning always caused by tight muscles?",
+        "answer": "No. Burning is a symptom description with several possible causes. Describe its location, triggers and associated symptoms and seek an assessment instead of choosing exercises from the sensation alone."
       }
     ],
     "sources": [
@@ -270,7 +279,8 @@
     "keyword": "tight vs weak pelvic floor",
     "researchNote": "Researched 2026-10-24. Search intent: differentiating muscle tension and weakness without self-diagnosis. Overlap and assessment emphasized; no internal self-exam, forceful stretch or strengthening CTA for pain.",
     "datePublished": "2026-10-24",
-    "dateModified": "2026-10-26"
+    "dateModified": "2026-10-28",
+    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. The new Does burning prove that my pelvic floor is tight section was checked against its linked clinical sources October 28, 2026."
   },
   {
     "slug": "pelvic-floor-exercises-menopause",

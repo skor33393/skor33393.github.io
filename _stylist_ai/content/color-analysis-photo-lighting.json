@@ -5,8 +5,8 @@
   "description": "Get more useful color analysis photos with consistent light, simple fabric comparisons and a checklist for spotting camera color shifts before drawing conclusions.",
   "category": "Color analysis",
   "datePublished": "2026-10-26",
-  "dateModified": "2026-10-26",
-  "sourcesChecked": "2026-10-26",
+  "dateModified": "2026-10-28",
+  "sourcesChecked": "2026-10-28",
   "excerpt": "If every photo seems to suggest a different season, check the setup before changing your wardrobe.",
   "quickAnswer": "Use one soft, even light source, keep your camera and background steady, and compare real fabrics without filters. Check whether the background changes color between shots. Consistency makes comparisons more useful, but a selfie still cannot guarantee a definitive seasonal label.",
   "sections": [
@@ -19,6 +19,11 @@
       "id": "setup",
       "title": "Keep a small setup consistent",
       "html": "<ol><li>Choose a plain, unobtrusive background and put the phone in a stable position.</li><li>Use the same camera, distance and framing for every picture. Keep the face and fabric comfortably in frame.</li><li>Turn off beauty filters and color effects. Avoid editing each picture separately to make it look nicer.</li><li>For a comparison of your coloring, remove color cosmetics if you are comfortable doing so. For an outfit decision with your usual makeup, keep that makeup the same throughout.</li><li>Start with two or three plain fabrics you already own. Photograph them in one short session before the light changes noticeably.</li></ol><p>A small repeatable set is easier to interpret than twenty pictures from holidays, cars and different rooms.</p>"
+    },
+    {
+      "id": "small-drape-set",
+      "title": "How to compare real drapes when you own few colors",
+      "html": "<p>You do not need a rainbow to begin. Pick one question and two or three usable fabrics. To explore depth, find lighter and deeper versions in a similar color family. To explore warm versus cool, try to keep the depth and intensity close. If you cannot make a fair pair, record that instead of treating the closest available clothes as a complete test.</p><ol><li>Use plain areas of clean garments, scarves or household fabrics you already have. Avoid letting a busy print dominate the comparison.</li><li>Keep the amount of fabric visible at the neckline similar, with the face unobstructed.</li><li>Take the first fabric, second fabric, then first fabric again in one short session.</li><li>Check whether the first fabric and the background still look similar in the repeat picture. If they changed, repeat the setup before judging the pair.</li></ol><p>Keep hair arranged the same way throughout. If you want to compare how clothes work with your current gray or dyed hair, leave it visible consistently. If you choose to move it back, do that for every shot. Neither choice turns a mixed set of fabrics into proof of a season.</p><p>Finish with the garment decision you can support: “I prefer this blue to this beige.” A broader label can remain undecided.</p>"
     },
     {
       "id": "camera-check",

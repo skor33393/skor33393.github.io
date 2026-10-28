@@ -24,6 +24,11 @@
         "html": "<p>Expect questions about symptoms, previous treatment and relevant medical history. Rather than searching for the correct medical term, bring examples: “I leak when I lift my toddler,” “I feel pressure after standing,” or “penetration hurts at the entrance.” These tell a clearer story than “my pelvic floor is bad.”</p><p>Prepare a short page with:</p><ul><li>When the concern began and whether it has changed.</li><li>Activities that bring it on or ease it.</li><li>Relevant surgery, pregnancies, births and medications.</li><li>Exercises or products you have already tried.</li><li>The activity you most want to make easier.</li></ul><p><a href=\"https://bwc.nhs.uk/pelvic-health-physiotherapy\">Birmingham Women's and Children's NHS</a> recommends bringing relevant letters, medication details and any requested diary or questionnaire. If you have been asked to complete a bladder diary, bring the actual record; you do not need to summarize it perfectly.</p>"
       },
       {
+        "id": "after-session",
+        "title": "What if symptoms flare after a session or home exercise?",
+        "html": "<p>Tell your therapist about a new or stronger symptom before repeating the activity that provokes it. Do not assume that soreness proves a treatment worked, or that a flare automatically proves damage. The response needs context. <a href=\"https://elht.nhs.uk/services/physiotherapy-pelvic-obstetric-and-gynaecological/physiotherapy-pelvic-obstetric-and-gynaecological\">East Lancashire Hospitals advises specialist review for pain during or after pelvic floor exercise</a>.</p><p>Use a short message that makes the change easy to assess: “After the session on [day], I noticed [symptom] at [time]. It affects [activity]. It is now improving, unchanged or worsening. Should I pause this part of the plan until we speak?” Include which home exercises you actually did, without repeating a painful exercise to test it.</p><p>Ask whether the next session should change the dose, the movement, manual treatment or the order of activities. Agree on the expected response and a contact route if symptoms exceed it. You can ask to stop a technique during an appointment and discuss another approach.</p><p>Do not wait for the clinic to reply if symptoms need urgent care. <a href=\"https://www.nhs.uk/symptoms/pelvic-pain/\">NHS guidance</a> advises emergency care for severe or worsening pelvic pain or pain with faintness, and urgent medical advice for pelvic pain with fever or difficulty passing urine. These symptoms should not be dismissed as routine post-treatment soreness.</p>"
+      },
+      {
         "id": "examination",
         "title": "What might an examination involve?",
         "html": "<p>The assessment depends on your concern. It may look at movement and the painful area; a vaginal or rectal examination may be proposed to assess pelvic floor function. <a href=\"https://www.imperial.nhs.uk/-/media/website/patient-information-leaflets/physiotherapy/welcome-to-pelvic-health-physiotherapy.pdf?rev=d665b7189141454f94930927ced4d7e3&sc_lang=en\">Imperial College Healthcare describes this individualized process</a>.</p><p>Before agreeing, ask what the examination will assess and how the result would change treatment. You can say, “Please explain each step before you do it,” or “I would like to discuss the examination today and decide later.” Tell the clinician if a particular position, touch or past experience makes you apprehensive; you can choose how much detail to share.</p><p>Sussex's <a href=\"https://www.uhsussex.nhs.uk/resources/your-pelvic-health-physiotherapy-appointment/\">appointment information</a> states that an internal examination is optional and that a chaperone can be provided. Ask your clinic about these arrangements. You can withdraw consent and ask to stop.</p>"
@@ -87,6 +92,14 @@
       {
         "title": "Chartered Society of Physiotherapy: Consent in practice",
         "url": "https://www.csp.org.uk/professional-clinical/professional-guidance/consent-physiotherapy-practice"
+      },
+      {
+        "title": "East Lancashire Hospitals: Pelvic floor muscle guidance",
+        "url": "https://elht.nhs.uk/services/physiotherapy-pelvic-obstetric-and-gynaecological/physiotherapy-pelvic-obstetric-and-gynaecological"
+      },
+      {
+        "title": "NHS: Pelvic pain warning signs",
+        "url": "https://www.nhs.uk/symptoms/pelvic-pain/"
       }
     ],
     "related": [
@@ -98,8 +111,8 @@
     "keyword": "pelvic floor therapy what to expect",
     "researchNote": "Sources checked 2026-10-24. First-visit preparation and consent intent; local clinic processes clearly identified as examples, not universal service guarantees. New decision-support section checked 2026-10-27 against its linked primary sources; original publication and earlier source-check scope retained.",
     "datePublished": "2026-10-24",
-    "dateModified": "2026-10-27",
-    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026; the appointment decision sheet was checked October 26. The external-work and consent update was checked against DynamicHealth and CSP guidance October 27, 2026."
+    "dateModified": "2026-10-28",
+    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026; the appointment decision sheet was checked October 26. The external-work and consent update was checked against DynamicHealth and CSP guidance October 27, 2026. The new What if symptoms flare after a session or home exercise section was checked against its linked clinical sources October 28, 2026."
   },
   {
     "slug": "pelvic-floor-exercises-after-c-section",
@@ -446,6 +459,11 @@
         "html": "<p>With vaginismus, muscles tighten involuntarily around attempted vaginal insertion. It can happen with penetration, a tampon or an examination, and it is not something a person chooses. The <a href=\"https://www.nhs.uk/conditions/vaginismus/\">NHS explains this automatic response</a> and describes specialist treatment that may combine education, relaxation and other approaches.</p><p>A description that sounds familiar is not a diagnosis. Pain at the vulva can also occur without an obvious visible change; the <a href=\"https://www.nhs.uk/conditions/vulvodynia/\">NHS vulvodynia guide</a> explains why persistent or recurring vulval pain needs assessment. You should not have to see a lesion or swelling before asking for care.</p><p>Our <a href=\"/pelvic_gym/articles/tight-vs-weak-pelvic-floor/\">tight-versus-weak guide</a> explains why squeezing harder is not an appropriate default response to pain. The useful question is what treatment fits the findings.</p>"
       },
       {
+        "id": "entrance-burning",
+        "title": "Burning at the vaginal entrance: what to explain",
+        "html": "<p>Tell the clinician whether pain starts with light touch at the entrance, attempted insertion, deeper penetration or afterward. These are useful distinctions for assessment, not a way to diagnose yourself. You do not need to repeat a painful attempt to demonstrate the symptom.</p><p><a href=\"https://www.nhs.uk/conditions/vulvodynia/\">NHS guidance on vulvodynia</a> explains that vulval pain can feel burning or sore even when the skin looks normal. Infection and other conditions may also cause pain there, so a normal-looking area does not establish that it is only a muscle problem.</p><p>Bring a brief description of the first point at which pain begins and any associated dryness, discharge, skin changes or urinary symptoms. Ask what an examination would involve, how to pause it and whether tests are needed to exclude another cause. You can discuss an examination before consenting to it.</p><p>Persistent or recurring pain, painful sex or difficulty with tampon insertion is a reason to seek care. Although a chronic pain diagnosis may use a duration threshold, you do not need to wait months before asking for help. Pause activities that hurt while you arrange assessment; a strengthening app is not a treatment for unexplained entrance burning.</p>"
+      },
+      {
         "id": "comfort",
         "title": "Protect comfort while arranging care",
         "html": "<p>You can pause penetration or choose activities that do not hurt. ACOG's <a href=\"https://www.acog.org/womens-health/faqs/your-sexual-health\">sexual health guidance</a> discusses allowing time for arousal, using appropriate lubricant and considering activities without penetration. If using condoms, check lubricant compatibility; water-based or silicone options are generally appropriate, while oils can damage latex.</p><p>Agree on an easy way to stop or change activity before it starts. For example: “If I say pause, I need us to stop and check in.” You do not owe anyone a further attempt to see whether the pain will disappear. A supportive conversation can focus on what feels comfortable now, without making penetration the measure of success.</p><p>Lubricant may reduce friction, but persistent pain still needs investigation. Do not repeatedly treat presumed thrush, insert weights or force a stretch without understanding the problem. Bring the names of any products you have tried to the appointment.</p>"
@@ -469,6 +487,10 @@
       {
         "question": "Do vaginal trainers mean I have to push through discomfort?",
         "answer": "No. Ask a qualified clinician for an individualized plan and clear stopping rules. A trainer is not a test of how much pain you can tolerate."
+      },
+      {
+        "question": "Can burning at the entrance need assessment when the skin looks normal?",
+        "answer": "Yes. Persistent or recurring vulval pain or pain with penetration deserves care even without an obvious visible change. You do not need to wait months before asking for help."
       }
     ],
     "sources": [
@@ -496,7 +518,10 @@
     ],
     "cta": "assessment",
     "keyword": "painful sex and pelvic floor",
-    "researchNote": "Sources checked 2026-10-24. Pain and care-navigation intent; no self-diagnosis, forced penetration, generalized strengthening or claim that all pain is muscular."
+    "researchNote": "Sources checked 2026-10-24. Pain and care-navigation intent; no self-diagnosis, forced penetration, generalized strengthening or claim that all pain is muscular.",
+    "dateModified": "2026-10-28",
+    "datePublished": "2026-10-24",
+    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. The new Burning at the vaginal entrance: what to explain section was checked against its linked clinical sources October 28, 2026."
   },
   {
     "slug": "kegel-weights-and-trainers",

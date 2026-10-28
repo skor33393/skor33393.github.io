@@ -5,8 +5,8 @@
   "description": "Choosing between warm, neutral and cool hair color? Compare tone and depth separately, prepare a salon brief and keep maintenance and hair condition in the decision.",
   "category": "Personal style",
   "datePublished": "2026-10-27",
-  "dateModified": "2026-10-27",
-  "sourcesChecked": "2026-10-27",
+  "dateModified": "2026-10-28",
+  "sourcesChecked": "2026-10-28",
   "sortOrder": 0,
   "excerpt": "A clearer way to choose your next hair color without relying on one seasonal label.",
   "quickAnswer": "Separate two decisions: how light or dark you want your hair, and how golden, neutral or ashy you want the tone to look. Compare references of similar depth, check them with familiar clothing, and discuss what is achievable with a colorist. A childhood hair color or a seasonal label does not require you to keep a particular shade.",
@@ -20,6 +20,11 @@
       "id": "compare",
       "title": "Compare without committing to dye",
       "html": "<p>Look at your current hair in steady daylight alongside a few familiar tops. Notice whether your concern is the overall color, lighter ends, the root contrast or the way it looks with one outfit. Write the concern narrowly; “I want less contrast between the roots and ends” is a different brief from “I want a cooler brown everywhere.”</p><p>A colorist’s sample locks or a wig can help you picture a direction. A digital preview can be another sketch, but it cannot establish the eventual dye result. Keep your usual hairstyle and makeup in mind so the reference represents how you normally get dressed.</p><p>For photographs, compare similar lighting and avoid filters. Our <a href=\"/stylist_ai/blog/color-analysis-photo-lighting/\">photo guide</a> explains how to reduce distracting differences. Old summer and winter photographs are useful memories, but a poor controlled comparison if everything else has changed too.</p>"
+    },
+    {
+      "id": "blonde-comparison",
+      "title": "Platinum or golden blonde: define the contrast you want",
+      "html": "<p>“More contrast” can mean several things: a bigger difference from your roots, warmer color beside cooler clothes, or more visible variation between highlights. Ask which effect you want before choosing between platinum and golden blonde.</p><p>Make a four-reference sheet: a cool and warm blonde of similar lightness, then a cool and warm option one step deeper. You are collecting a brief, not predicting a dye result. If all your cool references are much lighter than the warm ones, you still have two decisions mixed together.</p><table><thead><tr><th>Your priority</th><th>Question for the colorist</th></tr></thead><tbody><tr><td>A less golden finish</td><td>Can we change tone while keeping a similar depth?</td></tr><tr><td>Softer root contrast</td><td>Would placement or a different depth better address this?</td></tr><tr><td>A bolder overall look</td><td>How would each option work with my usual haircut and maintenance?</td></tr></tbody></table><p>If two people prefer different references, ask what each person likes about them. One may be judging harmony and the other a deliberate contrast. You can choose either effect. Take the selected reference and an example to avoid to the salon; leave formula and processing decisions to the colorist.</p>"
     },
     {
       "id": "brief",
@@ -45,6 +50,10 @@
     {
       "question": "Can Stylist AI tell a salon which hair dye formula to use?",
       "answer": "No. Use its suggested palette and clothing color combinations for outfit ideas. Hair dye formulation and processing require a discussion with your colorist."
+    },
+    {
+      "question": "Should cool coloring always be paired with cool blonde?",
+      "answer": "Treat that as a styling direction, not a requirement. Compare similar depths and decide whether you want harmony or deliberate contrast, then discuss feasibility and upkeep with a colorist."
     }
   ],
   "sources": [

@@ -5,8 +5,8 @@
   "description": "Considering pink, purple, blue or green hair? Compare depth, intensity and everyday outfits before choosing a shade, with clear limits for digital previews.",
   "category": "Color analysis",
   "datePublished": "2026-10-26",
-  "dateModified": "2026-10-26",
-  "sourcesChecked": "2026-10-26",
+  "dateModified": "2026-10-28",
+  "sourcesChecked": "2026-10-28",
   "excerpt": "Start with the effect you want and a manageable shortlist, rather than finding one supposedly perfect color.",
   "quickAnswer": "Choose a color family you genuinely like, then compare a few lighter, deeper or softer versions with your usual clothes. Try a removable preview before committing. A seasonal palette can inspire choices, but it cannot predict a dye result or decide how much maintenance suits you.",
   "sections": [
@@ -19,6 +19,11 @@
       "id": "preview",
       "title": "Preview a direction without treating it as a forecast",
       "html": "<p>Try a wig, removable hair piece or a swatch held near your hairline. A scarf in a similar color can help you imagine the broad effect, although fabric is not a realistic preview of dyed hair. Keep the same light and clothes for each comparison.</p><p>A digital edit can help you decide whether you enjoy a direction. It cannot show exactly how a salon formula will look on your hair. Save it as a conversation starter, and avoid presenting an edited picture as a guaranteed result.</p><p>Compare your shortlist with three ordinary outfits, including one you wear often. A shade that delights you with a dramatic look may need different styling from the clothes you actually use every day.</p>"
+    },
+    {
+      "id": "pink-shortlist",
+      "title": "If you want pink, choose which kind of pink",
+      "html": "<p>You do not have to settle your season before exploring a color you already want. Narrow pink to three directions: pale pink, a softer dusty rose and a deeper berry pink. Compare removable samples of a similar size with the same top and lighting, then repeat with a second outfit you wear often.</p><p>Write a small decision card for each option: “I like this much color near my face”; “These are two outfits I would wear with it”; and “This is what I need to ask about upkeep.” Leave a line for “I do not know yet.” A sample that looks appealing for a few minutes is a starting point for a conversation, not an obligation to dye your hair.</p><p>Bring the favorite direction to your colorist and ask how it could be adapted to your current hair, what the fading path might be and whether a smaller placement is practical. Do not choose a bleaching process from a palette label. If upkeep is the obstacle, keeping a removable accent is a complete styling choice.</p>"
     },
     {
       "id": "brief",
@@ -44,6 +49,10 @@
     {
       "question": "Can a selfie tell me the exact dye shade to buy?",
       "answer": "No. A photo-based suggestion cannot account for all the factors that affect a dye result. Use reference images to discuss possibilities with a colorist."
+    },
+    {
+      "question": "Can I try pink hair before knowing my season?",
+      "answer": "Yes. Compare a few removable pink samples with everyday outfits and take a focused reference to a colorist. A season label is not a prerequisite for a styling preference."
     }
   ],
   "sources": [

@@ -110,6 +110,11 @@
         "html": "<p>Pelvic floor disorders are one possible contributor to delayed bowel emptying. Other causes include slow bowel movement, medicines, dietary factors and medical conditions. More than one cause can be present. <a href=\"https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/symptoms-causes\">NIDDK reviews these possibilities</a>.</p><p>In some people, treatment involves learning to coordinate the muscles involved in emptying. A clinician may recommend biofeedback to retrain that action. This is different from simply completing more strengthening repetitions. <a href=\"https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/treatment\">NIDDK describes biofeedback for constipation</a>. If you already have a Kegel program, tell the prescriber about bowel difficulties rather than assuming the same exercise will address both problems.</p>"
       },
       {
+        "id": "biofeedback-visit",
+        "title": "What happens at biofeedback for difficult emptying?",
+        "html": "<p>When muscle coordination is part of a bowel-emptying problem, biofeedback can help a clinician show you what the muscles are doing and coach a different response. It is not simply a harder Kegel routine. <a href=\"https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/treatment\">NIDDK describes muscle retraining as one treatment option</a>.</p><p>As one service example, <a href=\"https://www.hey.nhs.uk/patient-leaflet/biofeedback/\">Hull University Teaching Hospitals</a> describes reviewing symptoms and a bowel diary, then using a small rectal measurement probe and displaying pressure signals during coached exercises. Your service may use different equipment or preparation. Ask for its leaflet before the visit rather than assuming every appointment follows that format.</p><ul><li>What did my assessment show, and what skill will we practice?</li><li>Will a probe or balloon be used, and what will I feel?</li><li>What are the risks and alternatives for the proposed procedure?</li><li>How can I pause or stop, and can a chaperone be present?</li><li>What should I practice at home, and how will we review progress?</li></ul><p>If you are anxious or have pain with examinations, tell the service in advance. You do not need to rehearse an internal procedure yourself. A general exercise timer does not measure bowel coordination or provide this clinical feedback.</p>"
+      },
+      {
         "id": "toilet",
         "title": "Make toilet time less rushed",
         "html": "<p>The NHS suggests responding to the urge to open your bowels, allowing time and using a low footstool to raise the knees above the hips if possible. Gradually increasing dietary fiber and maintaining appropriate fluids can help soften stool. <a href=\"https://www.nhs.uk/conditions/constipation/\">See the NHS self-care guidance</a>.</p><p>Set up a stable, comfortable position with your feet supported. Keep breathing rather than turning the attempt into a breath-held effort. Do not force repeated hard pushes to meet a schedule. If positioning is painful or difficult because of mobility, surgery or another condition, ask for an alternative.</p><p>A practical first change might be making bathroom access possible after breakfast instead of rushing straight into a commute. You are creating an opportunity, not requiring your bowel to perform on command.</p>"
@@ -161,6 +166,10 @@
       {
         "title": "NIDDK: Constipation treatment",
         "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/treatment"
+      },
+      {
+        "title": "Hull University Teaching Hospitals: Biofeedback therapy",
+        "url": "https://www.hey.nhs.uk/patient-leaflet/biofeedback/"
       }
     ],
     "related": [
@@ -171,8 +180,9 @@
     "cta": "assessment",
     "keyword": "pelvic floor and constipation",
     "researchNote": "Researched 2026-10-24. Bowel-emptying and muscle-coordination intent. No laxative prescription, internal manipulation, forced bearing down or blanket strengthening recommendation. New decision-support section checked 2026-10-27 against its linked primary sources; original publication and earlier source-check scope retained.",
-    "dateModified": "2026-10-27",
-    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. Sources supporting the new decision-support section were checked October 27, 2026."
+    "dateModified": "2026-10-28",
+    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. Sources supporting the new decision-support section were checked October 27, 2026. The new What happens at biofeedback for difficult emptying section was checked against its linked clinical sources October 28, 2026.",
+    "datePublished": "2026-10-24"
   },
   {
     "slug": "bladder-training-vs-kegels",
