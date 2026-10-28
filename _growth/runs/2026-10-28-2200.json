@@ -1,7 +1,7 @@
 {
   "run_id": "2026-10-28-2200",
   "kind": "scheduled",
-  "status": "ready_to_publish",
+  "status": "completed",
   "started_at": "2026-10-28T18:03:22.168Z",
   "timezone": "Asia/Dubai",
   "scheduled_local": "22:00",
@@ -846,8 +846,9 @@
       "article_slug": "choosing-unnatural-hair-color",
       "article_url": "https://bestme.mobi/stylist_ai/blog/choosing-unnatural-hair-color/",
       "action": "update",
-      "status": "prepared",
-      "reason": "4 comments; specific soft-pink shortlist adds useful decision support. Generic individual typing candidates cannot support a distinct useful public answer."
+      "status": "updated",
+      "reason": "4 comments; specific soft-pink shortlist adds useful decision support. Generic individual typing candidates cannot support a distinct useful public answer.",
+      "verified_at": "2026-10-28T18:26:35.212502+00:00"
     },
     {
       "app": "stylist_ai",
@@ -855,8 +856,9 @@
       "article_slug": "bright-winter-or-deep-winter",
       "article_url": "https://bestme.mobi/stylist_ai/blog/bright-winter-or-deep-winter/",
       "action": "new",
-      "status": "prepared",
-      "reason": "24 comments; specific Winter comparison, corroborated by Google PAA. Distinct from generic color vocabulary."
+      "status": "published",
+      "reason": "24 comments; specific Winter comparison, corroborated by Google PAA. Distinct from generic color vocabulary.",
+      "verified_at": "2026-10-28T18:26:35.212502+00:00"
     },
     {
       "app": "stylist_ai",
@@ -864,8 +866,9 @@
       "article_slug": "warm-or-cool-hair-color",
       "article_url": "https://bestme.mobi/stylist_ai/blog/warm-or-cool-hair-color/",
       "action": "update",
-      "status": "prepared",
-      "reason": "19 comments; concrete platinum-versus-golden contrast decision adds a reference grid to existing hair guide."
+      "status": "updated",
+      "reason": "19 comments; concrete platinum-versus-golden contrast decision adds a reference grid to existing hair guide.",
+      "verified_at": "2026-10-28T18:26:35.212502+00:00"
     },
     {
       "app": "stylist_ai",
@@ -873,8 +876,9 @@
       "article_slug": "deep-autumn-or-deep-winter",
       "article_url": "https://bestme.mobi/stylist_ai/blog/deep-autumn-or-deep-winter/",
       "action": "new",
-      "status": "prepared",
-      "reason": "Highest visible relevant fresh engagement: 21 votes and 39 comments. Distinct deep warm-versus-cool comparison missing from existing outfit guide."
+      "status": "published",
+      "reason": "Highest visible relevant fresh engagement: 21 votes and 39 comments. Distinct deep warm-versus-cool comparison missing from existing outfit guide.",
+      "verified_at": "2026-10-28T18:26:35.212502+00:00"
     },
     {
       "app": "stylist_ai",
@@ -882,8 +886,9 @@
       "article_slug": "color-analysis-photo-lighting",
       "article_url": "https://bestme.mobi/stylist_ai/blog/color-analysis-photo-lighting/",
       "action": "update",
-      "status": "prepared",
-      "reason": "30 comments; practical limited-drape problem supports a repeat-shot protocol. Posted 20 minutes before prior scan; seven-day expansion."
+      "status": "updated",
+      "reason": "30 comments; practical limited-drape problem supports a repeat-shot protocol. Posted 20 minutes before prior scan; seven-day expansion.",
+      "verified_at": "2026-10-28T18:26:35.212502+00:00"
     },
     {
       "app": "pelvic_gym",
@@ -891,8 +896,9 @@
       "article_slug": "pelvic-floor-therapy-what-to-expect",
       "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/",
       "action": "update",
-      "status": "prepared",
-      "reason": "2 comments; concrete post-session response question supports a symptom message and review plan rather than prescribing exercises."
+      "status": "updated",
+      "reason": "2 comments; concrete post-session response question supports a symptom message and review plan rather than prescribing exercises.",
+      "verified_at": "2026-10-28T18:26:35.212502+00:00"
     },
     {
       "app": "pelvic_gym",
@@ -900,8 +906,9 @@
       "article_slug": "urinary-hesitancy-in-women",
       "article_url": "https://bestme.mobi/pelvic_gym/articles/urinary-hesitancy-in-women/",
       "action": "new",
-      "status": "prepared",
-      "reason": "4 votes; relevant women’s emptying concern with distinct intent missing from urgency guide, corroborated by Google PAA."
+      "status": "published",
+      "reason": "4 votes; relevant women’s emptying concern with distinct intent missing from urgency guide, corroborated by Google PAA.",
+      "verified_at": "2026-10-28T18:26:35.212502+00:00"
     },
     {
       "app": "pelvic_gym",
@@ -909,8 +916,9 @@
       "article_slug": "pelvic-floor-and-constipation",
       "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-and-constipation/",
       "action": "update",
-      "status": "prepared",
-      "reason": "4 comments; biofeedback visit expectations distinct from yesterday’s workout-and-bowel update."
+      "status": "updated",
+      "reason": "4 comments; biofeedback visit expectations distinct from yesterday’s workout-and-bowel update.",
+      "verified_at": "2026-10-28T18:26:35.212502+00:00"
     },
     {
       "app": "pelvic_gym",
@@ -918,8 +926,9 @@
       "article_slug": "tight-vs-weak-pelvic-floor",
       "article_url": "https://bestme.mobi/pelvic_gym/articles/tight-vs-weak-pelvic-floor/",
       "action": "update",
-      "status": "prepared",
-      "reason": "3 votes/2 comments; symptom-description guidance addresses general pelvic burning without diagnosing tension."
+      "status": "updated",
+      "reason": "3 votes/2 comments; symptom-description guidance addresses general pelvic burning without diagnosing tension.",
+      "verified_at": "2026-10-28T18:26:35.212502+00:00"
     },
     {
       "app": "pelvic_gym",
@@ -927,8 +936,9 @@
       "article_slug": "painful-sex-and-pelvic-floor",
       "article_url": "https://bestme.mobi/pelvic_gym/articles/painful-sex-and-pelvic-floor/",
       "action": "update",
-      "status": "prepared",
-      "reason": "10 votes/7 comments; highest visible relevant pelvic question selected, focused entrance-pain assessment. Posted 12 minutes before prior scan; seven-day expansion."
+      "status": "updated",
+      "reason": "10 votes/7 comments; highest visible relevant pelvic question selected, focused entrance-pain assessment. Posted 12 minutes before prior scan; seven-day expansion.",
+      "verified_at": "2026-10-28T18:26:35.212502+00:00"
     }
   ],
   "selection_note": "Five distinct questions per app: Stylist 2 new + 3 material updates; Pelvic 1 new + 4 material updates. Relevance, suitability and nonduplication first, then visible engagement within the freshest usable window. No filler, forum quotations or public discussion links.",
@@ -939,7 +949,18 @@
     "illustration_stop_threshold_bytes": 800000000
   },
   "deployment": {
-    "status": "not_pushed"
+    "status": "published",
+    "commit": "a82003e6898d3424a2972e4138625b802455703b",
+    "github_actions_run": 40744722064,
+    "github_actions_url": "https://github.com/skor33393/skor33393.github.io/actions/runs/40744722064",
+    "pushed_at": "2026-10-28T18:24:32.139046+00:00",
+    "conclusion": "success",
+    "verified_at": "2026-10-28T18:26:35.212502+00:00",
+    "live_checks": {
+      "checked": 97,
+      "passed": 97,
+      "failed": []
+    }
   },
   "notification": {
     "telegram": "Destination pending; report in this chat."
@@ -959,12 +980,12 @@
   },
   "capacity_after": {
     "measurement": "Working files excluding Git/runtime/build caches; includes source and research files normally excluded by Jekyll, so this overestimates the static payload. Git object storage is measured separately.",
-    "working_file_bytes": 37094250,
-    "git_object_bytes": 58729472,
+    "working_file_bytes": 37097145,
+    "git_object_bytes": 59630592,
     "published_site_limit_bytes": 1000000000,
     "illustration_stop_threshold_bytes": 800000000,
     "can_add_illustrations": true,
-    "remaining_to_site_limit_bytes": 962905750,
+    "remaining_to_site_limit_bytes": 962902855,
     "reference": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
   },
   "illustrations": [
@@ -997,5 +1018,20 @@
     }
   ],
   "illustration_prompts": "_growth/illustration-prompts/2026-10-28.json",
-  "research_evidence_note": "Feed observation times are recorded to approximate minute precision; selected post publication timestamps are exact values from the original page time element. Unselected relative ages remain relative, with absolute publication dates unknown."
+  "research_evidence_note": "Feed observation times are recorded to approximate minute precision; selected post publication timestamps are exact values from the original page time element. Unselected relative ages remain relative, with absolute publication dates unknown.",
+  "completed_at": "2026-10-28T18:26:35.212502+00:00",
+  "counts": {
+    "stylist_ai": {
+      "target": 5,
+      "new": 2,
+      "updated": 3,
+      "shortfall": 0
+    },
+    "pelvic_gym": {
+      "target": 5,
+      "new": 1,
+      "updated": 4,
+      "shortfall": 0
+    }
+  }
 }

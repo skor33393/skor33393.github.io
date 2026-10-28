@@ -2,12 +2,13 @@
   "schema_version": 1,
   "timezone": "Asia/Dubai",
   "schedule_local": "22:00 daily",
-  "last_successful_scan": "2026-10-27T18:12:46.646146+00:00",
+  "last_successful_scan": "2026-10-28T18:17:51.112947+00:00",
   "runs": {
     "2026-10-26-initial": "completed",
     "2026-10-26-stylist-expansion": "completed",
     "2026-10-26-2200": "completed",
-    "2026-10-27-2200": "completed"
+    "2026-10-27-2200": "completed",
+    "2026-10-28-2200": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -157,6 +158,41 @@
         "run_id": "2026-10-27-2200",
         "status": "published",
         "verified_at": "2026-10-27T18:20:34.303165+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xhoqjw/type_me_to_find_an_unnatural_hair_colour_again/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/choosing-unnatural-hair-color/",
+        "run_id": "2026-10-28-2200",
+        "status": "updated",
+        "verified_at": "2026-10-28T18:26:35.212502+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xhgdrs/am_i_a_bright_or_deep_winter/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/bright-winter-or-deep-winter/",
+        "run_id": "2026-10-28-2200",
+        "status": "published",
+        "verified_at": "2026-10-28T18:26:35.212502+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xhcy8n/cool_or_warm_hair/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/warm-or-cool-hair-color/",
+        "run_id": "2026-10-28-2200",
+        "status": "updated",
+        "verified_at": "2026-10-28T18:26:35.212502+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xh5s79/i_think_im_an_autumn/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/deep-autumn-or-deep-winter/",
+        "run_id": "2026-10-28-2200",
+        "status": "published",
+        "verified_at": "2026-10-28T18:26:35.212502+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xgzkmi/please_help_trying_again_with_real_drapes/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/color-analysis-photo-lighting/",
+        "run_id": "2026-10-28-2200",
+        "status": "updated",
+        "verified_at": "2026-10-28T18:26:35.212502+00:00"
       }
     ],
     "pelvic_gym": [
@@ -236,6 +272,41 @@
         "run_id": "2026-10-27-2200",
         "status": "updated",
         "verified_at": "2026-10-27T18:20:34.303165+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xhrjrd/need_adviceglutes/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/",
+        "run_id": "2026-10-28-2200",
+        "status": "updated",
+        "verified_at": "2026-10-28T18:26:35.212502+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xhiwoz/hesitation/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/urinary-hesitancy-in-women/",
+        "run_id": "2026-10-28-2200",
+        "status": "published",
+        "verified_at": "2026-10-28T18:26:35.212502+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xhfa5w/biofeedback_therapy/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-and-constipation/",
+        "run_id": "2026-10-28-2200",
+        "status": "updated",
+        "verified_at": "2026-10-28T18:26:35.212502+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xhb3dm/how_would_you_describe_your_pf_symptoms_is/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/tight-vs-weak-pelvic-floor/",
+        "run_id": "2026-10-28-2200",
+        "status": "updated",
+        "verified_at": "2026-10-28T18:26:35.212502+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xgzsxa/burning_at_the_entrance/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/painful-sex-and-pelvic-floor/",
+        "run_id": "2026-10-28-2200",
+        "status": "updated",
+        "verified_at": "2026-10-28T18:26:35.212502+00:00"
       }
     ]
   },
