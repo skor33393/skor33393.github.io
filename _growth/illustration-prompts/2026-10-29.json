@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-29",
+  "images": [
+    {
+      "slug": "blonde-or-black-hair",
+      "app": "stylist",
+      "prompt": "Use case: illustration-story. Landscape 3:2 editorial cover for a personal style article about choosing blonde versus black hair. Elegant hand-painted gouache illustration on warm ivory paper: three salon hair swatch locks in light beige blonde, medium neutral brown and deep soft black arranged beside a simple small mirror and folded navy and rose fabric. Focus on hair color comparison, no person or before-after transformation. Soft shadows, restrained polished magazine art, generous negative space, no words, letters, logos or watermark.",
+      "mode": "built-in image_gen",
+      "production_asset": "stylist_ai/blog/assets/illustrations/blonde-or-black-hair.webp"
+    },
+    {
+      "slug": "summer-or-winter-color-season",
+      "app": "stylist",
+      "prompt": "Use case: illustration-story. Landscape 3:2 gouache editorial illustration for comparing Summer and Winter clothing palettes. Two carefully arranged groups of folded fabric swatches on warm ivory linen: muted slate blue, dusty rose, soft plum on one side; clear cobalt, raspberry and crisp black-white on the other. Fabrics have tactile gentle folds, comparable size, beautiful balanced flat lay, contemporary style magazine, no text, labels, lettering or watermark.",
+      "mode": "built-in image_gen",
+      "production_asset": "stylist_ai/blog/assets/illustrations/summer-or-winter-color-season.webp"
+    },
+    {
+      "slug": "neutral-undertone-color-season",
+      "app": "stylist",
+      "prompt": "Use case: illustration-story. Landscape 3:2 refined gouache magazine illustration for exploring neutral undertones through clothes. A tidy fan of fabric swatches in matched pairs of muted warm terracotta and dusty rose, petrol teal and slate blue, soft cream and cool gray, beside a small oval handheld mirror on ivory linen. Warm calm studio daylight, dimensional fabric texture, balanced composition, no faces, skin charts, text, labels or logos.",
+      "mode": "built-in image_gen",
+      "production_asset": "stylist_ai/blog/assets/illustrations/neutral-undertone-color-season.webp"
+    },
+    {
+      "slug": "find-pelvic-floor-physiotherapy",
+      "app": "pelvic",
+      "prompt": "Use case: illustration-story. Landscape 3:2 gentle editorial gouache illustration for a women's pelvic health article about finding physiotherapy. A fully clothed adult woman at her kitchen table planning a healthcare appointment, open blank notebook and simple laptop showing an abstract friendly clinician portrait in ordinary clothes, a small calendar without writing, soft lilac and sage accents on warm ivory background. Respectful everyday care navigation scene, natural anatomy, no medical procedures, no anatomical diagrams, no words, lettering, logos or watermark.",
+      "mode": "built-in image_gen",
+      "production_asset": "pelvic_gym/assets/illustrations/find-pelvic-floor-physiotherapy.webp"
+    }
+  ]
+}

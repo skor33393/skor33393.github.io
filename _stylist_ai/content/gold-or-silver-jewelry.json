@@ -5,7 +5,7 @@
   "description": "Unsure whether gold or silver jewelry suits you? Compare similar pieces, separate color from shine, and choose the metal you enjoy with your everyday outfits.",
   "category": "Accessories",
   "datePublished": "2026-10-26",
-  "dateModified": "2026-10-27",
+  "dateModified": "2026-10-29",
   "sortOrder": 6,
   "excerpt": "Compare the actual pieces you would wear. One wrist photo does not have to decide your jewelry collection.",
   "quickAnswer": "Try gold-colored and silver-colored pieces of similar size and finish with the same outfit, in the same light. Compare near your face if you are choosing earrings or a necklace. If you like both, you can wear both. The result is a jewelry preference; it does not have to establish your entire color season.",
@@ -29,6 +29,11 @@
       "id": "mixed-metals",
       "title": "If you like both, try mixed metals",
       "html": "<p>Start with one piece in each color: silver earrings and a gold ring, for example. If you want the combination to feel more connected, repeat one color in another small detail or use a piece that contains both.</p><p>Matching jewelry to every zip, buckle and bag fitting is optional. Before replacing an everyday watch or meaningful ring, wear it with the outfit and see whether the difference actually bothers you. Personal significance is also a reason to wear something.</p>"
+    },
+    {
+      "id": "wedding-ring",
+      "title": "Choosing a wedding-ring metal when opinions disagree",
+      "html": "<p>For a ring you plan to wear every day, compare the actual shortlisted rings on your hand. Keep band width, finish and setting similar where possible. A close-up of one thin ring and one broad polished ring can turn a design preference into an apparent color verdict.</p><ol><li>Try each ring alone, then beside any ring you will wear with it.</li><li>Look in ordinary daylight as well as shop lighting, where available.</li><li>Notice how it looks from your usual viewing distance, not only in a cropped photo.</li><li>Record your own preference before asking others.</li><li>Return to the shortlist after a pause instead of treating the largest vote as a requirement.</li></ol><p>A silver-colored appearance is not a material specification. Ask the jeweler about the exact metal, fit, care and resizing options. <a href=\"https://4cs.gia.edu/en-us/blog/buying-guide-white-yellow-rose-gold-engagement-rings/\">GIA notes that white gold is commonly rhodium plated and that the plating can wear</a>, so ask what maintenance applies to the ring you are considering.</p><p>If people disagree, ask whether they prefer a quieter effect or a more noticeable contrast. You may value a different effect. Comfort, sentimental meaning and liking the ring with your everyday clothes are valid reasons to choose it; you do not need unanimous agreement on your undertone.</p>"
     },
     {
       "id": "before-replacing",
@@ -61,7 +66,7 @@
   "ctaTitle": "Connect your accessories to your outfits.",
   "ctaText": "Explore a suggested palette and outfit color combinations in Stylist AI, then try your favorite jewelry with the clothes you choose.",
   "keyword": "gold or silver jewelry? how to compare both",
-  "sourcesChecked": "2026-10-26",
+  "sourcesChecked": "2026-10-29",
   "illustration": {
     "src": "/stylist_ai/blog/assets/illustrations/gold-or-silver-jewelry.webp",
     "width": 1200,

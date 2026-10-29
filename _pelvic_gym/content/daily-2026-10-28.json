@@ -7,7 +7,7 @@
     "category": "Bladder & symptoms",
     "excerpt": "A slow start or weak stream is a symptom to explain before choosing pelvic floor exercises.",
     "datePublished": "2026-10-28",
-    "dateModified": "2026-10-28",
+    "dateModified": "2026-10-29",
     "sourcesChecked": "2026-10-28",
     "quickAnswer": "Urinary hesitancy means difficulty starting or maintaining urine flow. Pelvic floor coordination can contribute, but it is only one possible cause. Arrange assessment for a new or persistent change instead of adding Kegels. If you cannot urinate or have severe abdominal pain, seek immediate medical care.",
     "takeaways": [
@@ -35,6 +35,11 @@
         "id": "home",
         "title": "Keep bathroom advice modest and individualized",
         "html": "<p><a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/treatment\">NIDDK recommends taking time and relaxing during urination</a>; for women, sitting on the toilet seat rather than hovering can help the muscles relax. Ask your clinician which self-care steps fit your situation, especially if you have pain, recent surgery or difficulty emptying.</p><p>Do not turn toilet time into repeated squeezing practice or forceful pushing. If a clinician recommends timed voiding, a second attempt after a short pause, or a relaxation exercise, ask for the exact instructions and when to contact them if it is not helping. Avoid constructing a progressively longer holding schedule for an unexplained emptying problem.</p><p>Our <a href=\"/pelvic_gym/articles/bladder-diary-for-women/\">bladder diary guide</a> can help organize observations. Record ordinary days; do not change your drinking or provoke symptoms to create a more dramatic record.</p>"
+      },
+      {
+        "id": "leak-and-empty",
+        "title": "Can leakage and difficulty emptying happen together?",
+        "html": "<p>Tell the clinician about both symptoms, even if one bothers you more. A leak with a cough and a slow or interrupted stream are different observations. Improvement in one does not establish that the other is resolved or that every symptom needs the same exercise.</p><p><a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes\">NIDDK lists leakage among possible symptoms of chronic retention</a>, alongside difficulty emptying. This does not mean your leak is caused by retention; it explains why leakage cannot be used as proof that the bladder is empty or that more strengthening is the answer.</p><table><thead><tr><th>Record separately</th><th>Examples of useful detail</th></tr></thead><tbody><tr><td>Leakage</td><td>With cough, with urgency, or without warning?</td></tr><tr><td>Flow</td><td>Delayed start, weak stream, or stopping and starting?</td></tr><tr><td>Afterward</td><td>Comfortable, still needing to go, or dribbling?</td></tr><tr><td>Exercise response</td><td>Which symptom changed, and which stayed?</td></tr></tbody></table><p>Ask whether emptying needs to be assessed before changing your programme. Avoid using forceful pushing or repeated squeezing during urination as a home test. Seek immediate care if you cannot pass urine.</p>"
       },
       {
         "id": "care",
@@ -96,6 +101,7 @@
       "width": 1200,
       "height": 800,
       "alt": "A fully clothed woman discussing a symptom notebook with a health professional in a calm consultation room."
-    }
+    },
+    "sourceCheckNote": "Original guidance sources were checked on 2026-10-28. The new Can leakage and difficulty emptying happen together? section was checked against its linked sources October 29, 2026."
   }
 ]

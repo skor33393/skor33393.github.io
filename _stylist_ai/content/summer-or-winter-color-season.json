@@ -1,0 +1,75 @@
+{
+  "slug": "summer-or-winter-color-season",
+  "title": "Summer or Winter? Compare softness and contrast in clothes",
+  "seoTitle": "Summer or Winter? Compare softness and contrast in clothes | Stylist AI",
+  "description": "Both palettes lean cool. Use a small clothing comparison to explore muted versus clearer color without making hair, eyes or one selfie decide everything.",
+  "category": "Color analysis",
+  "datePublished": "2026-10-29",
+  "dateModified": "2026-10-29",
+  "sourcesChecked": "2026-10-29",
+  "sortOrder": 0,
+  "excerpt": "Both palettes lean cool. Use a small clothing comparison to explore muted versus clearer color without making hair, eyes or one selfie decide everything.",
+  "quickAnswer": "Keep the cool color direction similar and compare softer colors with clearer ones, then test the amount of contrast in an outfit. Dark hair alone does not choose between Summer and Winter. Look for clothing combinations you consistently enjoy before narrowing a seasonal label.",
+  "sections": [
+    {
+      "id": "difference",
+      "title": "What the two palette families are trying to describe",
+      "html": "<p>In <a href=\"https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/true-summer-a-comprehensive-guide\">The Concept Wardrobe’s True Summer framework</a>, the palette is cool and muted. Its <a href=\"https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/true-winter-a-comprehensive-guide\">True Winter framework</a> uses cool, clearer colors and stronger light-dark contrast. These descriptions give you two styling directions to compare; they are not a measurement of attractiveness.</p><p>Start with that broad difference before choosing a subtype. A person can enjoy a muted blue shirt and a bright scarf for different purposes. The useful question is which direction makes it easier to assemble outfits you like.</p>"
+    },
+    {
+      "id": "pairs",
+      "title": "Start with two comparable color pairs",
+      "html": "<p>Try a softer slate blue beside a clearer blue, then a dusty rose beside a clearer raspberry. These are example comparisons, not prescribed test swatches. Choose garments of roughly similar depth and fabric finish so you are not comparing a pale matte T-shirt with a dark sequined top.</p><ol><li>Use steady daylight and the same mirror position.</li><li>Keep makeup, hairstyle and background consistent.</li><li>Change one garment at a time.</li><li>Notice whether you prefer the overall balance, the color itself, or the garment’s shape.</li><li>Repeat another day with a second color pair.</li></ol><p>If you only have one useful pair, record a tentative clothing preference. There is no need to buy a rack of drapes to finish a category.</p>"
+    },
+    {
+      "id": "contrast",
+      "title": "Test outfit contrast as a separate choice",
+      "html": "<p>Wear a blue top with trousers of similar depth, then try it with a much lighter or darker piece. You have changed the outfit contrast while keeping the top. This helps distinguish “I like clearer blue” from “I like a stronger light-dark combination.”</p><p>A navy-and-slate outfit can be quiet; navy with crisp white can be more graphic. Neither combination needs a verdict about your eyes or lips to be wearable. Our <a href=\"/stylist_ai/blog/color-depth-vs-brightness/\">depth and brightness guide</a> explains the vocabulary.</p>"
+    },
+    {
+      "id": "features",
+      "title": "Why a feature checklist may leave you stuck",
+      "html": "<p>Hair color, eyebrow depth, eye color and lip color give you several observations, but deciding which feature matters most can become a circular exercise. Instead of using one feature to disqualify a palette, compare its actual clothing suggestions.</p><p>For example, someone with dark hair may prefer softer blue near the face and reserve stronger contrast for shoes or a bag. That is already a usable outfit decision. A seasonal name is useful only if it helps you repeat choices you enjoy.</p>"
+    },
+    {
+      "id": "mixed",
+      "title": "When the comparisons point in different directions",
+      "html": "<p>Make the result specific: “I prefer muted pink but clearer blue,” or “I enjoy bright color in small areas.” Keep those notes and test a second garment before deciding the whole family is wrong.</p><p>If the cool direction itself is uncertain, return to a <a href=\"/stylist_ai/blog/neutral-undertone-color-season/\">neutral-undertone comparison</a>. If Winter is the more useful starting point, our <a href=\"/stylist_ai/blog/bright-winter-or-deep-winter/\">Bright versus Deep Winter guide</a> addresses the next distinction.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can dark hair work with Summer-inspired colors?",
+      "answer": "Yes. Try the actual colors and combinations rather than rejecting them based on hair alone."
+    },
+    {
+      "question": "Does low contrast automatically mean Summer?",
+      "answer": "Use contrast as one styling variable alongside color intensity and your preferences. It is not necessary to decide a season from one feature or photograph."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Concept Wardrobe: True Summer framework",
+      "url": "https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/true-summer-a-comprehensive-guide"
+    },
+    {
+      "title": "The Concept Wardrobe: True Winter framework",
+      "url": "https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/true-winter-a-comprehensive-guide"
+    }
+  ],
+  "related": [
+    "color-depth-vs-brightness",
+    "bright-winter-or-deep-winter",
+    "neutral-undertone-color-season"
+  ],
+  "keyword": "summer or winter color season",
+  "sourceNote": "Comparisons and outfit exercises are our editorial styling suggestions. Seasonal frameworks are tools for exploring preferences.",
+  "ctaTitle": "Bring your color ideas into everyday outfits.",
+  "ctaText": "Explore a suggested seasonal palette, color combinations and camera-based color comparison in Stylist AI. Try the ideas with clothes you already enjoy.",
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/illustrations/summer-or-winter-color-season.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Illustration comparing muted blue and rose fabrics with clearer cobalt, raspberry and black-white fabrics."
+  }
+}

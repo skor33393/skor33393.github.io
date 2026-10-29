@@ -5,8 +5,8 @@
   "description": "Build Deep Autumn-inspired outfits with rich greens, plum, teal and useful neutrals. Try five practical combinations using pieces already in your wardrobe.",
   "category": "Color analysis",
   "datePublished": "2026-10-26",
-  "dateModified": "2026-10-26",
-  "sourcesChecked": "2026-10-26",
+  "dateModified": "2026-10-29",
+  "sourcesChecked": "2026-10-29",
   "excerpt": "Rich color can be quiet, colorful or casual. You have more options than a head-to-toe autumn-leaf palette.",
   "quickAnswer": "Try Deep Autumn-inspired outfits built around espresso, deep teal, aubergine, forest green and dark denim. Use one rich color with a familiar neutral, then adjust the amount of contrast. These are outfit ideas to test, not a requirement to wear every shade assigned to a season.",
   "sections": [
@@ -29,6 +29,11 @@
       "id": "black",
       "title": "What if most of your wardrobe is black?",
       "html": "<p>Keep it while you experiment. Try a rich-colored top with the black pieces you already use. If you prefer brown in one outfit, that does not make every black garment a mistake.</p><p>Replace a staple when you actually need a replacement, then compare the available options. A well-used black coat is usually more useful than an imagined perfect shade that does not fit your climate, budget or style. Our <a href=\"/stylist_ai/blog/black-wardrobe-alternatives/\">guide to wardrobe neutrals</a> offers more starting points.</p>"
+    },
+    {
+      "id": "uniform",
+      "title": "When a work uniform only comes in black or purple",
+      "html": "<p>Start with the employer’s permitted colors, fabrics and accessories. Your seasonal palette cannot override uniform or safety requirements. Within those choices, compare the available garments in person if possible; “purple” can describe a dark plum, a vivid violet or several other effects.</p><p>Lay the approved purple beside black and a familiar deep color you enjoy, such as espresso or dark teal. Check depth first, then how clear or muted the purple feels. Try the whole uniform before deciding from a small online product swatch. A neighboring seasonal label is not a reason to reject a practical garment you like.</p><table><thead><tr><th>If you notice…</th><th>Try this decision</th></tr></thead><tbody><tr><td>The purple is much brighter than expected</td><td>Compare another approved shade or choose black if you prefer it.</td></tr><tr><td>The uniform looks different in workplace lighting</td><td>Judge it in that real context before buying multiple sets.</td></tr><tr><td>You want a familiar accent</td><td>Use an approved small accessory only where the dress code allows it.</td></tr></tbody></table><p>One functional uniform does not need to reproduce your whole personal palette. Prioritize comfort, fit and the job’s requirements, then enjoy more color freedom in your off-duty outfits.</p>"
     },
     {
       "id": "shopping",

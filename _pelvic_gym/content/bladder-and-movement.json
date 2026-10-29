@@ -130,6 +130,11 @@
         "html": "<p>Keep a brief record that you can actually maintain. Include:</p><ul><li>When you passed stool and whether it was hard, soft or loose.</li><li>Whether you strained, felt blocked or felt incompletely emptied.</li><li>Any pain, blood, leakage or change from your usual pattern.</li><li>Medicines or self-care measures you tried and their effects.</li></ul><p>Choose the question that matters most: “How do I make stool easier to pass?” “Could muscle coordination be involved?” or “Do I need further investigation?” These can lead to different plans. If an examination or specialist test is suggested, ask what question it will answer and how the result could change treatment.</p>"
       },
       {
+        "id": "stool-shape",
+        "title": "What if stool becomes narrow, flat or ribbon-like?",
+        "html": "<p>Describe a new shape change alongside consistency, frequency, straining and whether you feel emptied. Shape alone does not establish a pelvic floor cause or rule out another bowel problem. Do not use a photo comparison as a diagnosis.</p><p>Arrange medical advice for an unexplained change that persists or recurs, particularly with bleeding, pain or weight loss. <a href=\"https://www.nhs.uk/conditions/bowel-cancer/symptoms/\">The NHS advises getting changes in bowel habit checked</a>; these symptoms can have several causes and do not by themselves mean cancer.</p><ul><li>Note when the change started and whether it occurs every time.</li><li>Record hard, soft or loose stool separately from its shape.</li><li>Mention new medicines, constipation treatments and any pain or bleeding.</li><li>Ask what needs checking before attributing the change to muscle tension.</li></ul><p>Seek urgent advice for black or dark-red stool or bloody diarrhea; heavy or continuous bleeding needs emergency care. The linked NHS guidance explains these distinctions. Do not wait for a routine pelvic floor appointment when warning signs occur.</p>"
+      },
+      {
         "id": "training-change",
         "title": "If bowel emptying worsens after changing your workouts",
         "html": "<p>A change after adding abdominal or glute exercises is useful information to bring to an assessment. Timing alone does not tell you whether the cause is muscle coordination, stool consistency, a medicine or something else. Avoid prescribing yourself extra core work or more Kegels to correct an assumed imbalance.</p><p>Take a short comparison note to your clinician: the exercises you changed, when the bowel symptoms changed, whether stools are hard or soft, and whether you feel blocked or incompletely emptied. You do not need to reproduce a painful workout to make the record convincing. Ask what activity you can continue comfortably while the cause is assessed.</p><p>If muscle coordination is involved, <a href=\"https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/treatment\">NIDDK describes biofeedback as a way to retrain the muscles used for bowel movements</a>. Ask what skill the treatment is teaching and how it differs from a strengthening plan. A timed Kegel app does not measure bowel coordination or replace this care.</p><p>Worsening symptoms deserve a review rather than waiting for a fitness programme to fix them. Use the warning signs below to decide when prompt medical care is needed.</p>"
@@ -170,6 +175,10 @@
       {
         "title": "Hull University Teaching Hospitals: Biofeedback therapy",
         "url": "https://www.hey.nhs.uk/patient-leaflet/biofeedback/"
+      },
+      {
+        "title": "NHS: Bowel changes and warning signs",
+        "url": "https://www.nhs.uk/conditions/bowel-cancer/symptoms/"
       }
     ],
     "related": [
@@ -180,8 +189,8 @@
     "cta": "assessment",
     "keyword": "pelvic floor and constipation",
     "researchNote": "Researched 2026-10-24. Bowel-emptying and muscle-coordination intent. No laxative prescription, internal manipulation, forced bearing down or blanket strengthening recommendation. New decision-support section checked 2026-10-27 against its linked primary sources; original publication and earlier source-check scope retained.",
-    "dateModified": "2026-10-28",
-    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. Sources supporting the new decision-support section were checked October 27, 2026. The new What happens at biofeedback for difficult emptying section was checked against its linked clinical sources October 28, 2026.",
+    "dateModified": "2026-10-29",
+    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. Sources supporting the new decision-support section were checked October 27, 2026. The new What happens at biofeedback for difficult emptying section was checked against its linked clinical sources October 28, 2026. The new What if stool becomes narrow, flat or ribbon-like? section was checked against its linked sources October 29, 2026.",
     "datePublished": "2026-10-24"
   },
   {
@@ -305,6 +314,11 @@
         "html": "<p>For established urgency being managed with professional guidance, a calm response can be useful. Lancashire and South Cumbria NHS suggests stopping, settling with a couple of comfortable breaths and using a mental distraction before walking to the toilet when the urgency eases. <a href=\"https://www.lscft.nhs.uk/our-services/service-finder-z/continence-service/pelvic-floor-physiotherapy/advice-controlling-your-bladder\">See its urge-management advice</a>.</p><p>Ask which strategy fits you rather than trying every technique at once. If muscle squeezing hurts, do not keep adding contractions to suppress the urge. If there is burning, suspected infection or emptying difficulty, seek assessment instead of trying to train through it. Our <a href=\"/pelvic_gym/articles/bladder-training-vs-kegels/\">training comparison</a> explains why bladder habits and muscle exercises need separate instructions.</p>"
       },
       {
+        "id": "new-after-therapy",
+        "title": "If urgency starts after a new therapy or exercise routine",
+        "html": "<p>New urgency is a reason to contact the treating clinician, even if the original treatment was for pelvic floor tension. The timing is useful information, but it does not prove that the treatment caused it or that it is an expected stage of recovery. Avoid adding stronger squeezes or progressively longer bathroom delays to compensate.</p><p>Send a short before-and-after note: your usual pattern, the new pattern, when it began, what treatment or home exercise changed, and whether you also have burning, pain, leakage or difficulty emptying. Ask which part of the programme to pause or adjust and whether medical assessment is needed.</p><p><a href=\"https://www.nhs.uk/conditions/urinary-tract-infections-utis/\">NHS guidance includes urgency and frequency among possible UTI symptoms</a>. A small amount of urine also does not establish that the bladder is empty; <a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/diagnosis\">NIDDK describes measurement of urine remaining after a void</a> when retention is being assessed. Do not diagnose either condition from the pattern alone.</p><p>You do not need to repeat a symptom-provoking exercise to prove the connection. Use the urgent warning signs elsewhere in this guide if symptoms escalate rather than waiting for the next scheduled session.</p>"
+      },
+      {
         "id": "prepare",
         "title": "Prepare a useful appointment note",
         "html": "<p>A short summary can keep the appointment focused:</p><ul><li><strong>Onset:</strong> when the urgency started and whether it changed suddenly.</li><li><strong>Pattern:</strong> daytime, nighttime, certain places or particular activities.</li><li><strong>Associated symptoms:</strong> leakage, pain, burning or trouble emptying.</li><li><strong>Context:</strong> medicines, recent infection treatment or changes in your routine.</li><li><strong>Priority:</strong> what you want to do more comfortably.</li></ul><p>If you keep a <a href=\"/pelvic_gym/articles/bladder-diary-for-women/\">bladder diary</a>, bring it. Do not delay needed care while collecting perfect data. Ask what the working explanation is, what else needs checking and when to return if the first plan does not help.</p><p>You can say, “The urgency is affecting my commute, and I need a plan for that situation.” This gives your clinician a concrete goal alongside the symptom description.</p><p>If symptoms mainly disrupt work, mention bathroom access and whether you have been avoiding drinks to cope with the situation.</p>"
@@ -349,6 +363,10 @@
       {
         "title": "NHS: Blood in urine",
         "url": "https://www.nhs.uk/symptoms/blood-in-urine/"
+      },
+      {
+        "title": "NIDDK: Diagnosing urinary retention",
+        "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/diagnosis"
       }
     ],
     "related": [
@@ -358,7 +376,10 @@
     ],
     "cta": "assessment",
     "keyword": "urinary urgency in women",
-    "researchNote": "Researched 2026-10-24. Symptom-explanation and care-navigation intent. Differentiates urgency, infection and retention; no diagnosis from frequency or urine volume alone."
+    "researchNote": "Researched 2026-10-24. Symptom-explanation and care-navigation intent. Differentiates urgency, infection and retention; no diagnosis from frequency or urine volume alone.",
+    "datePublished": "2026-10-24",
+    "dateModified": "2026-10-29",
+    "sourceCheckNote": "Original guidance sources were checked on 2026-10-24. The new If urgency starts after a new therapy or exercise routine section was checked against its linked sources October 29, 2026."
   },
   {
     "slug": "peeing-at-night-women",

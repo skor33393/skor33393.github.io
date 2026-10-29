@@ -1,0 +1,74 @@
+{
+  "slug": "blonde-or-black-hair",
+  "title": "Blonde or black hair? How to choose a depth you enjoy",
+  "seoTitle": "Blonde or black hair? How to choose a depth you enjoy | Stylist AI",
+  "description": "Compare blonde, black and a middle option with your everyday wardrobe, then prepare a salon brief that includes upkeep and hair condition.",
+  "category": "Color analysis",
+  "datePublished": "2026-10-29",
+  "dateModified": "2026-10-29",
+  "sourcesChecked": "2026-10-29",
+  "sortOrder": 0,
+  "excerpt": "Compare blonde, black and a middle option with your everyday wardrobe, then prepare a salon brief that includes upkeep and hair condition.",
+  "quickAnswer": "Compare the overall look you want, not just which photograph receives more compliments. Keep hairstyle, light and clothing similar, include a brown option between the extremes, and ask a colorist what each direction means for your current hair and maintenance budget.",
+  "sections": [
+    {
+      "id": "decision",
+      "title": "Name what you like about each option",
+      "html": "<p>Blonde and black can be appealing for different reasons. You might enjoy a lighter frame around your face in one image and a stronger visual outline in another. Neither preference requires the other image to be wrong. Start by writing the effect you want: softer, more graphic, closer to your current roots, or simply a change.</p><p>Then separate hair color from the photograph. A different haircut, tan, makeup look or camera angle can change which picture you prefer. If the favorite blonde photo is also your favorite hairstyle, keep that observation separate from the color decision.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "Compare three depths, not only two extremes",
+      "html": "<p>Collect a light reference, a dark reference and one middle-depth brown. Keep the length and styling as comparable as you can. Salon sample locks or a wig can help you picture the direction without a permanent change.</p><ol><li>Choose one familiar top and your ordinary makeup.</li><li>Look at the options in the same place and light.</li><li>Compare the full head-and-shoulders view, then the whole outfit.</li><li>Repeat with a second top you wear often.</li><li>Note what you like about each option rather than assigning a score to your face.</li></ol><p>If you use photos, avoid filters and mismatched lighting. <a href=\"https://www.adobe.com/creativecloud/photography/technique/white-balance.html\">Adobe explains how white balance affects the color cast in a photograph</a>. A warm indoor picture and a cool outdoor picture make a poor comparison.</p>"
+    },
+    {
+      "id": "tone",
+      "title": "Choose tone after narrowing the depth",
+      "html": "<p>Blonde includes many visual directions, and a dark shade can look softer or more inky. Once you have a preferred depth, compare references at roughly that same depth to discuss tone. Changing lightness and warmth together makes it harder to explain what you actually liked.</p><p>For this next decision, use our <a href=\"/stylist_ai/blog/warm-or-cool-hair-color/\">warm versus cool hair color guide</a>. You do not need to force the entire choice into one seasonal label.</p>"
+    },
+    {
+      "id": "salon",
+      "title": "Ask what the change means for your actual hair",
+      "html": "<p>Bring your current color history and two reference images to a colorist. Ask what is achievable, what maintenance it would need, and what returning toward your current shade might involve. A reference describes a goal; it is not a processing formula.</p><table><thead><tr><th>Decision</th><th>Useful question</th></tr></thead><tbody><tr><td>Upkeep</td><td>What visits and at-home care would this require?</td></tr><tr><td>Roots</td><td>How will the contrast look as my hair grows?</td></tr><tr><td>Condition</td><td>What is sensible given my previous coloring?</td></tr><tr><td>Commitment</td><td>Could a smaller change help me try this direction?</td></tr></tbody></table><p>The <a href=\"https://www.aad.org/public/diseases/hair-loss/insider/stop-damage\">American Academy of Dermatology advises spacing color touch-ups and using conditioner after shampooing to reduce damage</a>. Follow the salon and product testing instructions; a styling comparison cannot determine a safe dye process.</p>"
+    },
+    {
+      "id": "choose",
+      "title": "Make a choice you can live with",
+      "html": "<p>Use three columns in your note: look, upkeep and wardrobe. If one option wins on appearance but needs a routine you do not want, you have identified a real trade-off. A middle option or keeping your current color can be the better choice for now.</p><p>Ask friends what they prefer about a look rather than collecting a vote. You are the one wearing it on ordinary mornings, not just in the comparison photo.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does liking blonde mean I cannot be a Winter?",
+      "answer": "A preferred dyed hair color does not settle a seasonal category. Compare clothing separately and choose the hair effect you enjoy."
+    },
+    {
+      "question": "Should I dye my hair to test which shade suits me?",
+      "answer": "You can begin with references, salon sample locks or a wig. Discuss permanent changes with a colorist after you understand the upkeep and your hair condition."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Adobe: White balance",
+      "url": "https://www.adobe.com/creativecloud/photography/technique/white-balance.html"
+    },
+    {
+      "title": "American Academy of Dermatology: Preventing hair damage",
+      "url": "https://www.aad.org/public/diseases/hair-loss/insider/stop-damage"
+    }
+  ],
+  "related": [
+    "warm-or-cool-hair-color",
+    "color-analysis-photo-lighting"
+  ],
+  "keyword": "blonde or black hair",
+  "sourceNote": "Comparisons and outfit exercises are our editorial styling suggestions. Seasonal frameworks are tools for exploring preferences.",
+  "ctaTitle": "Bring your color ideas into everyday outfits.",
+  "ctaText": "Explore a suggested seasonal palette, color combinations and camera-based color comparison in Stylist AI. Try the ideas with clothes you already enjoy.",
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/illustrations/blonde-or-black-hair.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Illustration of blonde, brown and black salon hair swatches beside a mirror and folded fabrics."
+  }
+}

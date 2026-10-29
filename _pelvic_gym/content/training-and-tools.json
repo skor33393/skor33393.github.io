@@ -429,6 +429,11 @@
         "html": "<p>After the lift, allow the muscles to return to rest. You do not need to push downward to make a release happen. If you cannot tell whether you have stopped contracting, bring that uncertainty to a technique check.</p><p><a href=\"https://www.stgeorges.nhs.uk/wp-content/uploads/2025/05/PHP_PFR.pdf\">St George's muscle-overactivity guidance</a> explains that difficulty relaxing can coexist with weakness, and treatment may need to address tension first. More strengthening is therefore not the automatic answer to an unclear or uncomfortable sensation.</p><p>Ask for the rest interval to be written down alongside the hold. A plan that only says how long to squeeze can leave you guessing about half of the exercise. Do not let an app countdown persuade you to continue through pain.</p>"
       },
       {
+        "id": "conflicting-cues",
+        "title": "Relax on the inhale or exhale? Check the purpose of the cue",
+        "html": "<p>First check whether the instruction is for strengthening, releasing after a squeeze, or a relaxation-only practice. These are not interchangeable tasks. A cue for learning a contraction is not a reason to add contractions to a programme intended to reduce tension.</p><p><a href=\"https://ruh.nhs.uk/patients/services/physiotherapy/documents/PHY043_breath_and_pelvic_floor_strengthening.pdf\">Bath’s strengthening leaflet</a> pairs an initial lift with the outward breath and release with the inward breath. For a relaxation practice, <a href=\"https://www.nhsfife.org/services/all-services/physiotherapy/pelvic-health-physiotherapy/pelvic-pain/\">NHS Fife describes allowing the area between the sit bones to widen on the inward breath, then letting the belly fall naturally on the outward breath</a>.</p><p>If your clinician has given a different cue, take the actual instruction to the next review. Ask: “Are we practising a squeeze, a release, or comfortable breathing without a squeeze? What should I feel, and what should I avoid?” Do not combine fragments from several leaflets into a harder exercise.</p><p>Keep the breath comfortable and avoid bearing down to manufacture a feeling of release. If the timing makes you tense, dizzy or sore, pause and ask for a simpler demonstration. The goal is a suitable movement for your plan, not winning a contest about the correct breathing word.</p>"
+      },
+      {
         "id": "troubleshooting",
         "title": "Troubleshoot one issue at a time",
         "html": "<ul><li><strong>You stop breathing while counting.</strong> Note when it happens and ask whether a different counting cue or shorter prescribed hold would help.</li><li><strong>You lose the contraction when inhaling.</strong> Describe that exact moment at your review rather than compensating with a harder squeeze.</li><li><strong>You keep gripping after the timer ends.</strong> Ask for help identifying the release before adding repetitions.</li><li><strong>The exercise hurts.</strong> Pause and seek advice about whether strengthening is appropriate.</li></ul><p>These observations are useful even if you cannot name the muscles or explain the anatomy. You can read your notes directly at an appointment. There is no need to turn breathing practice into a test you must pass alone.</p>"
@@ -461,6 +466,10 @@
       {
         "title": "St George's: Pelvic floor muscle overactivity",
         "url": "https://www.stgeorges.nhs.uk/wp-content/uploads/2025/05/PHP_PFR.pdf"
+      },
+      {
+        "title": "NHS Fife: Pelvic pain and relaxation breathing",
+        "url": "https://www.nhsfife.org/services/all-services/physiotherapy/pelvic-health-physiotherapy/pelvic-pain/"
       }
     ],
     "related": [
@@ -468,8 +477,11 @@
       "slow-and-fast-kegel-exercises",
       "tight-vs-weak-pelvic-floor"
     ],
-    "cta": "routine",
+    "cta": "assessment",
     "keyword": "breathing during kegel exercises",
-    "researchNote": "Breathing-coordination search intent. Distinct Bath PHY043, Wirral and St George hospital resources checked 2026-10-24. Distinguishes learning cue from longer holds and includes tension/pain assessment without a universal dose."
+    "researchNote": "Breathing-coordination search intent. Distinct Bath PHY043, Wirral and St George hospital resources checked 2026-10-24. Distinguishes learning cue from longer holds and includes tension/pain assessment without a universal dose.",
+    "datePublished": "2026-10-24",
+    "dateModified": "2026-10-29",
+    "sourceCheckNote": "Original guidance sources were checked on 2026-10-24. The new Relax on the inhale or exhale? Check the purpose of the cue section was checked against its linked sources October 29, 2026."
   }
 ]
