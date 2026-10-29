@@ -1,7 +1,7 @@
 {
   "run_id": "2026-10-29-2200",
   "kind": "scheduled",
-  "status": "ready_to_publish",
+  "status": "completed",
   "started_at": "2026-10-29T18:07:26.784Z",
   "timezone": "Asia/Dubai",
   "scheduled_local": "22:00",
@@ -1265,7 +1265,16 @@
   },
   "illustration_prompts": "_growth/illustration-prompts/2026-10-29.json",
   "deployment": {
-    "status": "not_started"
+    "status": "verified",
+    "commit": "57a5c36cb4ae10fa4ea09a4e9a155134f44a01a5",
+    "github_pages_run": "https://github.com/skor33393/skor33393.github.io/actions/runs/40930659679",
+    "github_pages_conclusion": "success",
+    "verified_at": "2026-10-29T18:27:29.377250+00:00",
+    "live_verification": {
+      "checked": 105,
+      "passed": 105,
+      "failed": []
+    }
   },
   "notification": {
     "channel": "this_chat",
@@ -1325,5 +1334,6 @@
       "width": 1200,
       "height": 800
     }
-  ]
+  ],
+  "completed_at": "2026-10-29T18:27:29.377250+00:00"
 }

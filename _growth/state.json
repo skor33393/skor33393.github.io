@@ -2,13 +2,14 @@
   "schema_version": 1,
   "timezone": "Asia/Dubai",
   "schedule_local": "22:00 daily",
-  "last_successful_scan": "2026-10-28T18:17:51.112947+00:00",
+  "last_successful_scan": "2026-10-29T18:22:02.383435+00:00",
   "runs": {
     "2026-10-26-initial": "completed",
     "2026-10-26-stylist-expansion": "completed",
     "2026-10-26-2200": "completed",
     "2026-10-27-2200": "completed",
-    "2026-10-28-2200": "completed"
+    "2026-10-28-2200": "completed",
+    "2026-10-29-2200": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -193,6 +194,41 @@
         "run_id": "2026-10-28-2200",
         "status": "updated",
         "verified_at": "2026-10-28T18:26:35.212502+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xibn5d/good_for_a_deep_autumn/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/deep-autumn-outfit-ideas/",
+        "run_id": "2026-10-29-2200",
+        "status": "updated",
+        "verified_at": "2026-10-29T18:27:29.377250+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xiawbl/blonde_or_black_hair/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/blonde-or-black-hair/",
+        "run_id": "2026-10-29-2200",
+        "status": "published",
+        "verified_at": "2026-10-29T18:27:29.377250+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xi9gjr/winter_or_summer/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/summer-or-winter-color-season/",
+        "run_id": "2026-10-29-2200",
+        "status": "published",
+        "verified_at": "2026-10-29T18:27:29.377250+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xi80i1/what_season_am_i/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/neutral-undertone-color-season/",
+        "run_id": "2026-10-29-2200",
+        "status": "published",
+        "verified_at": "2026-10-29T18:27:29.377250+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xhst27/gold_or_silver_high_stakes/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/gold-or-silver-jewelry/",
+        "run_id": "2026-10-29-2200",
+        "status": "updated",
+        "verified_at": "2026-10-29T18:27:29.377250+00:00"
       }
     ],
     "pelvic_gym": [
@@ -307,6 +343,41 @@
         "run_id": "2026-10-28-2200",
         "status": "updated",
         "verified_at": "2026-10-28T18:26:35.212502+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xi5a4d/what_has_made_it_the_hardest_to_get_the_care/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/find-pelvic-floor-physiotherapy/",
+        "run_id": "2026-10-29-2200",
+        "status": "published",
+        "verified_at": "2026-10-29T18:27:29.377250+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xhz1n0/pelvic_floor_issues_help/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/urinary-hesitancy-in-women/",
+        "run_id": "2026-10-29-2200",
+        "status": "updated",
+        "verified_at": "2026-10-29T18:27:29.377250+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xhmvdj/flat_ribbon_stool_please_share_if_youve_had_this/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-and-constipation/",
+        "run_id": "2026-10-29-2200",
+        "status": "updated",
+        "verified_at": "2026-10-29T18:27:29.377250+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xgeavg/increased_urinary_urgency_since_starting_pt/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/urinary-urgency-in-women/",
+        "run_id": "2026-10-29-2200",
+        "status": "updated",
+        "verified_at": "2026-10-29T18:27:29.377250+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xfxnrf/reverse_kegels_relaxing_floor_on_inhale_vs_exhale/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/breathing-during-kegel-exercises/",
+        "run_id": "2026-10-29-2200",
+        "status": "updated",
+        "verified_at": "2026-10-29T18:27:29.377250+00:00"
       }
     ]
   },
