@@ -1,6 +1,6 @@
 {
   "run_id": "2026-10-30-manual-city-editorials",
-  "status": "ready_to_publish",
+  "status": "published",
   "created_at": "2026-10-30T12:40:36.290338+00:00",
   "authorization": "User requested fully tappable banners, mobile preview, Asian models in Asian guides, and genuinely distinct city content, approaches and visual presentation.",
   "banner_revision": {
@@ -357,5 +357,14 @@
     "https://bestme.mobi/stylist_ai/blog/ja/tokyo-personal-color/",
     "https://bestme.mobi/stylist_ai/blog/zh/colour-analysis-singapore/"
   ],
-  "live_verification": null
+  "live_verification": {
+    "checked": 158,
+    "passed": 158,
+    "failed": [],
+    "github_pages_status": "built",
+    "mobile_screenshot": "../seo-city-guides/2026-10-30/live-seoul-mobile-asian.png",
+    "mobile_live": "Seoul checked live at 390 x 844 with Asian-model image, country-specific full banner link and no overflow."
+  },
+  "published_commit": "71b723df700ebc09f8466e2a5248b59e7a0ff79e",
+  "verified_at": "2026-10-30T12:43:16.761209+00:00"
 }

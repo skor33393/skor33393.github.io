@@ -9,7 +9,8 @@
     "2026-10-26-2200": "completed",
     "2026-10-27-2200": "completed",
     "2026-10-28-2200": "completed",
-    "2026-10-29-2200": "completed"
+    "2026-10-29-2200": "completed",
+    "2026-10-30-manual-city-editorials": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -397,5 +398,12 @@
     "verified_at": "2026-10-30T12:06:08.854144+00:00",
     "published_commit": "453d57398a7fe985e1c984e0713f59bc26f79b28",
     "directory_url": "https://bestme.mobi/stylist_ai/blog/color-analysis-near-you/"
+  },
+  "latest_city_editorial_revision": {
+    "run_id": "2026-10-30-manual-city-editorials",
+    "published_commit": "71b723df700ebc09f8466e2a5248b59e7a0ff79e",
+    "verified_at": "2026-10-30T12:43:16.761209+00:00",
+    "guides": 34,
+    "new_articles": 0
   }
 }
