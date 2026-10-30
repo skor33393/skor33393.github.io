@@ -42,8 +42,10 @@ App Store badges are Apple's official unaltered artwork. The lifestyle image is 
 
 ## Search and measurement
 
-See [SEO strategy and competitor observations](SEO-STRATEGY.md) and [analytics options and activation](ANALYTICS.md). Google Analytics is configured for consenting visitors using the journal web stream in the existing Pelvic Gym property. See ANALYTICS.md for identifiers, consent behavior and reports. Search Console verification is separate and remains outstanding. App Store clicks must not be reported as installations.
+See [SEO strategy and competitor observations](SEO-STRATEGY.md) and [analytics options and activation](ANALYTICS.md). Google Analytics is configured for consenting visitors using the journal web stream in the existing Pelvic Gym property. See ANALYTICS.md for identifiers, consent behavior and reports. Search Console is verified; see `_growth/MEASUREMENT.md` for the reporting procedure. App Store clicks must not be reported as installations.
 
 Public posts must not link or mention Reddit/Quora discussions; they are internal topic inspiration only. Keep original question URLs in `_growth/runs/`. Retain authoritative factual/clinical references. Create relevant original illustrations for new articles. Daily target: five distinct articles per app at 22:00 Asia/Dubai.
 
 Article covers may use `illustration` with `src`, `alt`, `width` and `height`. Compressed covers appear on cards, the article and social/Article metadata. Full-resolution generation masters stay outside the repository. Daily prompt sets are recorded in `_growth/illustration-prompts/`.
+
+Follow `_growth/EDITORIAL-STANDARDS.md` for future articles. Independent clinical review is pending; do not claim it. The original draft diary and six-article review package remain outside this publishing repository until actual review.

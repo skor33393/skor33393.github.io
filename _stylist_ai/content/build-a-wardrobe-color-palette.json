@@ -5,7 +5,7 @@
   "description": "Build a wardrobe color palette from clothes you already wear. Find useful base colors, add favorite accents, and check new purchases without rigid color rules.",
   "category": "Wardrobe colors",
   "datePublished": "2026-10-26",
-  "dateModified": "2026-10-26",
+  "dateModified": "2026-10-31",
   "sortOrder": 5,
   "excerpt": "Start with your worn outfits, not an empty shopping list. Your palette should make those outfits easier to repeat.",
   "quickAnswer": "Choose a wardrobe palette by looking at complete outfits you already enjoy. Identify recurring base colors, then add a few favorites that connect to those clothes. Test combinations with your actual shoes and outerwear. Keep the palette flexible enough for an occasional special piece and for shades you can realistically find.",
@@ -38,7 +38,7 @@
     {
       "id": "seasonal-palette",
       "title": "Where seasonal color analysis fits",
-      "html": "<p>A seasonal palette can suggest colors to test, but a wardrobe palette also reflects your preferences, activities and existing clothes. You can use part of a suggested season while keeping a favorite outside it.</p><p>If your wardrobe currently relies on black and you want a different base, explore <a href=\"/stylist_ai/blog/black-wardrobe-alternatives/\">alternative neutrals</a> before choosing your next purchase.</p>"
+      "html": "<p>A seasonal palette can suggest colors to test, but a wardrobe palette also reflects your preferences, activities and existing clothes. You can use part of a suggested season while keeping a favorite outside it.</p><p>If your wardrobe currently relies on black and you want a different base, explore <a href=\"/stylist_ai/blog/black-wardrobe-alternatives/\">alternative neutrals</a> before choosing your next purchase.</p><p>Before adding a missing color, run through the <a href=\"/stylist_ai/blog/buy-clothes-you-will-wear/\">purchase checklist</a>. If you need outdoor coverage, choose a <a href=\"/stylist_ai/blog/sun-protective-outfits/\">sun-protective outfit</a> for its practical requirements as well as its palette.</p>"
     }
   ],
   "faqs": [

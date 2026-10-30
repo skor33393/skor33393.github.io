@@ -17,6 +17,10 @@ User instruction (2026-10-26): active ads use the Stylist AI landing page. Do no
 
 User preference (2026-10-26): question research guides article topics and titles internally. Present the sites as ordinary blogs about their themes. Do not add homepage or footer slogans about answering questions, headings such as “Start with your question,” or public explanations of the question-selection process. Keep useful question-based article titles, FAQs and authoritative factual source citations where they serve readers. User preference (2026-10-26): Reddit and other forum discussions are inspiration only. Never link or mention those discussions in public articles, sources, JSON-LD, cards or marketing copy. Keep question URLs and engagement evidence in internal run records; show those links only if the user explicitly asks to inspect them. Keep “Our approach” out of the Stylist AI main navigation. Every page on both blogs includes Apple’s native Safari Smart App Banner metadata with its own app’s App Store ID; preserve this in the shared page templates and future articles.
 
+## Editorial quality
+
+Read `_growth/EDITORIAL-STANDARDS.md` before every run. These user-approved practices from 2026-10-31 require distinct intent, useful examples, contextual incoming links, honest review claims and measured outcomes. Prepare responsive cover variants with `_growth/prepare_images.py` using the bundled Python/Pillow runtime after image compression and before building.
+
 ## Each run
 
 1. Establish the current date/time in Asia/Dubai. Use run ID `YYYY-MM-DD-2200` for the scheduled occurrence and a separate `initial` or `manual` suffix for user-requested tests. If a completed run record already exists for that occurrence, verify its URLs and exit without another article. Recover a partially published run from Git and live pages before writing anything new.

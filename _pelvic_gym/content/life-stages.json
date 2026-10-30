@@ -223,7 +223,7 @@
       {
         "id": "urgent",
         "title": "Symptoms that should not wait for exercise advice",
-        "html": "<p>Seek emergency medical care now for severe or worsening pelvic pain, fainting, or heavy vaginal bleeding. Pelvic pain with fever, difficulty passing urine or blood in urine needs urgent medical advice. <a href=\"https://www.nhs.uk/symptoms/pelvic-pain/\">See NHS pelvic pain warning signs.</a></p><p>This is educational information, not a home diagnostic test. If a professional recommends strengthening after assessment, our <a href=\"/pelvic_gym/articles/pelvic-floor-exercises-for-women/\">beginner’s exercise guide</a> can help you understand the language used in your plan.</p>"
+        "html": "<p>Seek emergency medical care now for severe or worsening pelvic pain, fainting, or heavy vaginal bleeding. Pelvic pain with fever, difficulty passing urine or blood in urine needs urgent medical advice. <a href=\"https://www.nhs.uk/symptoms/pelvic-pain/\">See NHS pelvic pain warning signs.</a></p><p>This is educational information, not a home diagnostic test. If a professional recommends strengthening after assessment, our <a href=\"/pelvic_gym/articles/pelvic-floor-exercises-for-women/\">beginner’s exercise guide</a> can help you understand the language used in your plan.</p><p>For more specific appointment preparation, see <a href=\"/pelvic_gym/articles/urinary-hesitancy-in-women/\">difficulty starting urine flow</a> and <a href=\"/pelvic_gym/articles/vulval-burning-after-urination/\">burning after urination</a>. Neither symptom establishes a muscle diagnosis on its own.</p>"
       }
     ],
     "faqs": [
@@ -279,7 +279,7 @@
     "keyword": "tight vs weak pelvic floor",
     "researchNote": "Researched 2026-10-24. Search intent: differentiating muscle tension and weakness without self-diagnosis. Overlap and assessment emphasized; no internal self-exam, forceful stretch or strengthening CTA for pain.",
     "datePublished": "2026-10-24",
-    "dateModified": "2026-10-28",
+    "dateModified": "2026-10-31",
     "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. The new Does burning prove that my pelvic floor is tight section was checked against its linked clinical sources October 28, 2026."
   },
   {

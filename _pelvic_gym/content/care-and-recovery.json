@@ -403,7 +403,7 @@
       {
         "id": "options",
         "title": "Where do pessaries and other care fit?",
-        "html": "<p>A vaginal pessary is a fitted support device, not a training weight. <a href=\"https://www.rcog.org.uk/for-the-public/browse-our-patient-information/pelvic-organ-prolapse/\">RCOG describes physiotherapy, pessaries and surgery</a> as options chosen according to symptoms and preferences. Not everyone with prolapse needs an operation.</p><p>If symptoms limit activity, ask whether a pessary might be appropriate and what fitting, removal and follow-up would involve. Also discuss constipation and a persistent cough; <a href=\"https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/pelvic-organ-prolapse/\">Gloucestershire's guidance</a> includes addressing these repeated sources of strain.</p><p>Report changing bladder emptying, new pain or unexpected bleeding rather than attributing everything to an established diagnosis. Sudden inability to pass urine needs immediate medical care; see <a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes\">NIDDK’s urinary retention guidance</a>. For ongoing questions, our <a href=\"/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/\">physiotherapy appointment guide</a> can help you prepare. A useful plan makes room for review and more than one treatment option.</p>"
+        "html": "<p>A vaginal pessary is a fitted support device, not a training weight. <a href=\"https://www.rcog.org.uk/for-the-public/browse-our-patient-information/pelvic-organ-prolapse/\">RCOG describes physiotherapy, pessaries and surgery</a> as options chosen according to symptoms and preferences. Not everyone with prolapse needs an operation.</p><p>If symptoms limit activity, ask whether a pessary might be appropriate and what fitting, removal and follow-up would involve. Also discuss constipation and a persistent cough; <a href=\"https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/pelvic-organ-prolapse/\">Gloucestershire's guidance</a> includes addressing these repeated sources of strain.</p><p>Report changing bladder emptying, new pain or unexpected bleeding rather than attributing everything to an established diagnosis. Sudden inability to pass urine needs immediate medical care; see <a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes\">NIDDK’s urinary retention guidance</a>. For ongoing questions, our <a href=\"/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/\">physiotherapy appointment guide</a> can help you prepare. A useful plan makes room for review and more than one treatment option.</p><p>For a specific activity decision, read <a href=\"/pelvic_gym/articles/cycling-with-pelvic-organ-prolapse/\">cycling with prolapse</a>. If you are trying to describe a new sensation, our <a href=\"/pelvic_gym/articles/pelvic-heaviness-pressure/\">pelvic heaviness guide</a> helps prepare that conversation.</p>"
       }
     ],
     "faqs": [
@@ -445,7 +445,8 @@
     ],
     "cta": "assessment",
     "keyword": "pelvic organ prolapse exercise",
-    "researchNote": "Sources checked 2026-10-24. Activity planning and treatment-options intent. Avoids promises of anatomical cure and universal exercise clearance; symptom-led review does not replace examination."
+    "researchNote": "Sources checked 2026-10-24. Activity planning and treatment-options intent. Avoids promises of anatomical cure and universal exercise clearance; symptom-led review does not replace examination.",
+    "dateModified": "2026-10-31"
   },
   {
     "slug": "painful-sex-and-pelvic-floor",

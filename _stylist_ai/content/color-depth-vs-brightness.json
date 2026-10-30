@@ -5,7 +5,7 @@
   "description": "Separate dark from vivid and contrast from saturation when comparing clothes. Use simple fabric pairs to make color analysis more useful for everyday outfits.",
   "category": "Color analysis",
   "datePublished": "2026-10-26",
-  "dateModified": "2026-10-26",
+  "dateModified": "2026-10-31",
   "sourcesChecked": "2026-10-26",
   "excerpt": "A dark color is not necessarily a bright color, and a high-contrast outfit does not have to be vivid.",
   "quickAnswer": "Depth means how light or dark a color looks. In seasonal styling, brightness usually refers to how clear or vivid it is, while contrast is the difference between colors placed together. Compare these separately before deciding that one successful garment proves a season.",
@@ -33,7 +33,7 @@
     {
       "id": "apply",
       "title": "Use the distinctions while shopping",
-      "html": "<p>If a top feels almost right, ask for a version that is darker, lighter, clearer or more muted instead of searching only by seasonal label. Retail color names are broad; compare the garments you can actually buy.</p><p>Stylist AI can help you explore palettes and camera-based color comparisons, but a result is still a styling suggestion. Use these terms to understand your preference and build outfits around it, rather than chasing a single number or a perfect label.</p>"
+      "html": "<p>If a top feels almost right, ask for a version that is darker, lighter, clearer or more muted instead of searching only by seasonal label. Retail color names are broad; compare the garments you can actually buy.</p><p>Stylist AI can help you explore palettes and camera-based color comparisons, but a result is still a styling suggestion. Use these terms to understand your preference and build outfits around it, rather than chasing a single number or a perfect label.</p><p>If the question is a seasonal label, compare <a href=\"/stylist_ai/blog/summer-or-winter-color-season/\">Summer and Winter directions</a> only after separating depth and intensity.</p>"
     }
   ],
   "faqs": [

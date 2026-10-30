@@ -12,8 +12,8 @@
   "country": "SG",
   "lang": "en-SG",
   "datePublished": "2026-10-30",
-  "dateModified": "2026-10-30",
-  "sourcesChecked": "2026-10-30",
+  "dateModified": "2026-10-31",
+  "sourcesChecked": "2026-10-31",
   "sortOrder": -40,
   "sections": [
     {
@@ -25,6 +25,11 @@
       "id": "before-booking",
       "title": "Confirm the language of the full consultation",
       "html": "<p>Ask which language the consultant will use for the entire explanation, not just the booking conversation. If you want English or Mandarin guidance, confirm that directly. Bring a short list of the clothes and cosmetics you want help with, and ask whether the session includes product review, application, a lesson or only colour recommendations.</p><p>Check whether the quoted amount includes any applicable tax, a physical palette and digital notes. For a group, confirm the cancellation terms if one person cannot attend. Avoid assuming that a short demonstration or event package is equivalent to a full private consultation.</p><ul><li>How much draping and discussion does each guest receive?</li><li>Which palette or written notes can I keep afterwards?</li><li>Can the consultant help with the items and language I need?</li></ul>"
+    },
+    {
+      "id": "shared-booking-decision",
+      "title": "Make the savings comparison with the same deliverables",
+      "html": "<div class=\"decision-cards\"><div><h3>Two friends</h3><p>S$180 each is S$15 less than the listed solo price. Decide whether a shared explanation suits both of you.</p></div><div><h3>Three friends</h3><p>S$170 each is S$25 less than solo. The two-hour slot covers the whole booking, not two hours per person.</p></div></div><p>These differences are arithmetic from Colour by Kim’s listed packages, not a quality ranking. Before choosing the cheaper per-person route, agree on language, individual question time, materials and what happens if one person cancels. If your main goal is a private conversation about your own wardrobe, a solo session may be more relevant than the saving.</p>"
     },
     {
       "id": "use-your-palette",

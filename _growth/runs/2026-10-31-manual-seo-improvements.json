@@ -1,0 +1,69 @@
+{
+  "run_id": "2026-10-31-manual-seo-improvements",
+  "status": "deployment_pending",
+  "new_question_articles": 0,
+  "updated_articles": [
+    "bladder-diary-for-women",
+    "build-a-wardrobe-color-palette",
+    "buy-clothes-you-will-wear",
+    "choosing-unnatural-hair-color",
+    "color-analysis-bend",
+    "color-analysis-boise",
+    "color-analysis-moncton",
+    "color-analysis-photo-lighting",
+    "color-analysis-singapore",
+    "color-depth-vs-brightness",
+    "gray-hair-wardrobe-colors",
+    "is-professional-color-analysis-worth-it",
+    "pelvic-floor-and-constipation",
+    "pelvic-floor-exercises-for-women",
+    "pelvic-floor-therapy-endometriosis",
+    "pelvic-organ-prolapse-exercise",
+    "soft-summer-or-soft-autumn",
+    "tight-vs-weak-pelvic-floor",
+    "warm-or-cool-hair-color"
+  ],
+  "new_topic_hubs": [
+    "photo-and-color-analysis",
+    "wear-and-shop-your-colors",
+    "hair-jewelry-and-accessories"
+  ],
+  "daily_target_unchanged": true,
+  "changes": [
+    "Visible regular Stylist Apple header badge",
+    "Three regular reading paths",
+    "Contextual city-directory route",
+    "Three substantive Stylist visual modules",
+    "Four researched city pilot updates",
+    "Contextual links in both blogs",
+    "Official blank diary resource link",
+    "64responsive cover variants",
+    "Saved future editorial standards and checkpoint schedule"
+  ],
+  "pending": [
+    "HTTPS enforcement needs repository-owner settings access; available GitHub CLI account has no admin permission",
+    "Independent clinician review; private package prepared at user request",
+    "Original diary held outside public repository pending review",
+    "Real controlled photo-capture experiment remains future work; published diagram explicitly schematic",
+    "No measured CWV result; prior PageSpeed quota error"
+  ],
+  "validation": [
+    "Both blog validators PASS",
+    "City checks PASS",
+    "No duplicate authored city paragraphs/longsentences",
+    "Both analytics consent tests PASS",
+    "118protected landing files fingerprint-identical",
+    "Visual QA passed at360px,390px and1280px; no horizontal overflow in sampled pages; mobile800px cover selected"
+  ],
+  "published_commit": null,
+  "verified_at": null,
+  "mobile_city_observation": {
+    "viewport": [
+      390,
+      844
+    ],
+    "h1_top_before": 851,
+    "h1_top_after": 712.46,
+    "local_shortcut_top": 586.16
+  }
+}

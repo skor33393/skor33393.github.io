@@ -36,7 +36,7 @@
       {
         "id": "get-help",
         "title": "When to get individual help",
-        "html": "<p>Seek help if you cannot locate the muscles, have persistent leakage, feel pain during exercise or sex, or have difficulty emptying your bladder or bowel. These are reasons for professional assessment, as outlined by <a href=\"https://www.health.qld.gov.au/newsroom/features/find-exercise-pelvic-floor-women-men\">Queensland Health</a>. Stop an exercise that hurts instead of trying to complete the count.</p><p>You do not need a perfect explanation before booking. Bring your symptom notes and any exercises you have tried. Ask what the first goal should be and how you will know whether the plan needs changing. Progress can start with getting a clear answer to that question.</p>"
+        "html": "<p>Seek help if you cannot locate the muscles, have persistent leakage, feel pain during exercise or sex, or have difficulty emptying your bladder or bowel. These are reasons for professional assessment, as outlined by <a href=\"https://www.health.qld.gov.au/newsroom/features/find-exercise-pelvic-floor-women-men\">Queensland Health</a>. Stop an exercise that hurts instead of trying to complete the count.</p><p>You do not need a perfect explanation before booking. Bring your symptom notes and any exercises you have tried. Ask what the first goal should be and how you will know whether the plan needs changing. Progress can start with getting a clear answer to that question.</p><p>Advice also needs to fit your stage of life: explore <a href=\"/pelvic_gym/articles/pelvic-floor-exercises-menopause/\">pelvic floor concerns around menopause</a> or the <a href=\"/pelvic_gym/articles/pelvic-floor-exercises-after-hysterectomy/\">questions to ask after hysterectomy</a> when relevant.</p>"
       }
     ],
     "faqs": [
@@ -78,7 +78,8 @@
     ],
     "cta": "routine",
     "keyword": "pelvic floor exercises for women",
-    "researchNote": "Informational overview intent. Primary clinical and government sources checked 2026-10-24. Original practical planning examples; no keyword-volume or ranking claim."
+    "researchNote": "Informational overview intent. Primary clinical and government sources checked 2026-10-24. Original practical planning examples; no keyword-volume or ranking claim.",
+    "dateModified": "2026-10-31"
   },
   {
     "slug": "how-to-do-kegel-exercises",

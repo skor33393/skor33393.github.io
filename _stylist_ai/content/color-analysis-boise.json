@@ -12,8 +12,8 @@
   "country": "US",
   "lang": "en-US",
   "datePublished": "2026-10-30",
-  "dateModified": "2026-10-30",
-  "sourcesChecked": "2026-10-30",
+  "dateModified": "2026-10-31",
+  "sourcesChecked": "2026-10-31",
   "sortOrder": -1,
   "sections": [
     {
@@ -24,7 +24,12 @@
     {
       "id": "before-booking",
       "title": "Give your half hour a clear job",
-      "html": "<p>For a 30-minute booking, pick one decision to solve. Bring two tops you already wear and a photograph of the item you keep returning. Ask the analyst to explain the difference between those choices before discussing a whole new wardrobe. If you want closet editing or a detailed shopping list, request that scope separately so the short appointment does not become an expensive introduction.</p><ul><li>Can the 30-minute appointment cover my specific purchase?</li><li>Does the quoted service include a physical swatch and follow-up questions?</li></ul>"
+      "html": "<p>For a 30-minute booking, pick one decision to solve. Bring two tops you already wear and a photograph of the item you keep returning. Ask the analyst to explain the difference between those choices before discussing a whole new wardrobe. If you want closet editing or a detailed shopping list, ask how that work fits the listed follow-up; the menu does not establish a separate extra fee.</p><ul><li>Can the 30-minute appointment cover my specific purchase?</li><li>Does the quoted service include a physical swatch and follow-up questions?</li></ul>"
+    },
+    {
+      "id": "appointment-brief",
+      "title": "A brief you can bring to this booking",
+      "html": "<div class=\"worksheet\"><p><strong>My decision:</strong> one top, neutral or makeup color I want to understand.</p><p><strong>My evidence:</strong> two familiar garments and a photo of the difficult outfit.</p><p><strong>My take-home question:</strong> how should I use the swatch with those pieces?</p></div><p>The published menu includes a requested outfit idea board and wardrobe consultation by text. Confirm the delivery timing and scope before paying. This guide examines that short-service format; it does not compare every Boise analyst or promise a complete wardrobe review.</p>"
     },
     {
       "id": "use-your-palette",
@@ -58,7 +63,7 @@
     "layout": "decision",
     "accent": "#285a52",
     "kicker": "THE SHORT-APPOINTMENT GUIDE",
-    "leadHtml": "<div class=\"decision-cards\"><div><h2>One purchase in mind?</h2><p>A focused question about a top, neutral or lip family is easier to bring to a short booking than a request to reinvent your wardrobe.</p></div><div><h2>A closet full of questions?</h2><p>Ask about the separately described outfit-board and wardrobe support before assuming it fits inside thirty minutes.</p></div></div>",
+    "leadHtml": "<div class=\"decision-cards\"><div><h2>One purchase in mind?</h2><p>A focused question about a top, neutral or lip family is easier to bring to a short booking than a request to reinvent your wardrobe.</p></div><div><h2>A closet full of questions?</h2><p>The service lists an optional outfit board and text follow-up. Confirm how those are delivered beyond the thirty-minute appointment.</p></div></div>",
     "ctaTitle": "Try a color idea before your appointment",
     "ctaText": "Open Stylist AI and start with the outfit decision you already have."
   }

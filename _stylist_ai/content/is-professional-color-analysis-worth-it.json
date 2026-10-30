@@ -5,7 +5,7 @@
   "description": "Considering a color analyst or personal stylist? Compare what each service offers, questions to ask before booking, and ways to turn advice into useful outfits.",
   "category": "Color analysis",
   "datePublished": "2026-10-26",
-  "dateModified": "2026-10-26",
+  "dateModified": "2026-10-31",
   "sortOrder": 8,
   "excerpt": "A season label is only part of the service. Decide what you need help with and what you want to take home.",
   "quickAnswer": "Professional color analysis may be worthwhile if you want guided fabric comparisons and help applying the result to your clothes. Before booking, check the process, deliverables and total price. If your main problem is fit, outfit planning or shopping, a broader styling service may suit that need better. No appointment guarantees that you will love every recommended color.",
@@ -33,7 +33,7 @@
     {
       "id": "alternatives",
       "title": "When a smaller experiment may be enough",
-      "html": "<p>If you only want ideas for combining colors, start with the clothes you already own and our <a href=\"/stylist_ai/blog/unexpected-outfit-color-combinations/\">outfit pairing guide</a>. If coordination is the problem, try a <a href=\"/stylist_ai/blog/build-a-wardrobe-color-palette/\">wardrobe palette exercise</a> before paying for another service.</p><p>Stylist AI offers a suggested seasonal profile, palette, color combinations and camera-based color comparison. Those tools can support experimentation; they do not reproduce an in-person wardrobe consultation or guarantee the same result as an analyst. We develop the app, so consider its role against the specific help you need.</p>"
+      "html": "<p>If you only want ideas for combining colors, start with the clothes you already own and our <a href=\"/stylist_ai/blog/unexpected-outfit-color-combinations/\">outfit pairing guide</a>. If coordination is the problem, try a <a href=\"/stylist_ai/blog/build-a-wardrobe-color-palette/\">wardrobe palette exercise</a> before paying for another service.</p><p>Stylist AI offers a suggested seasonal profile, palette, color combinations and camera-based color comparison. Those tools can support experimentation; they do not reproduce an in-person wardrobe consultation or guarantee the same result as an analyst. We develop the app, so consider its role against the specific help you need.</p><p>When you are ready to compare appointment details, our separate <a href=\"/stylist_ai/blog/color-analysis-near-you/\">local consultation directory</a> organizes researched city guides by location. Each examines a particular service decision; it is not a ranking of every provider.</p>"
     }
   ],
   "faqs": [

@@ -12,8 +12,8 @@
   "country": "CA",
   "lang": "en-CA",
   "datePublished": "2026-10-30",
-  "dateModified": "2026-10-30",
-  "sourcesChecked": "2026-10-30",
+  "dateModified": "2026-10-31",
+  "sourcesChecked": "2026-10-31",
   "sortOrder": -27,
   "sections": [
     {
@@ -25,6 +25,11 @@
       "id": "before-booking",
       "title": "Send one accurate booking summary to the group",
       "html": "<p>Ask which consultant and location are attached to your booking. For a party, check the total duration, each person’s draping time and whether a palette wallet or digital guide is included for every guest. Avoid multiplying a starting price by the group size and treating that as a confirmed package quote.</p><ul><li>Which consultant and location are confirmed for our appointment?</li><li>What individual time and materials are included for every guest?</li></ul>"
+    },
+    {
+      "id": "group-confirmation",
+      "title": "Resolve the four-versus-six detail before inviting guests",
+      "html": "<p>The provider’s party description says up to six people, while its FAQ says four is preferred so everyone gets attention. Those statements are different constraints, not a confirmed six-person slot. Ask which group size the analyst accepts for your date.</p><table><thead><tr><th>Put in the group message</th><th>Get from the provider</th></tr></thead><tbody><tr><td>Who is attending</td><td>Accepted group size and total session time</td></tr><tr><td>Where to meet</td><td>Confirmed Moncton or Riverview address</td></tr><tr><td>What each person pays</td><td>Written total, inclusions and cancellation terms</td></tr></tbody></table><p>A small shared event can still leave room for different personal goals. Give each guest space to choose a question and decide whether they prefer the private option.</p>"
     },
     {
       "id": "use-your-palette",
@@ -58,7 +63,7 @@
     "layout": "coordination",
     "accent": "#7d483b",
     "kicker": "THE GROUP ORGANISER’S NOTE",
-    "leadHtml": "<div class=\"coordination-board\"><section><h2>Who and where?</h2><p>Confirm which analyst and which meeting address apply to your booking.</p></section><section><h2>How many?</h2><p>The site describes parties of up to six; do not assume a larger group can join.</p></section><section><h2>What total?</h2><p>The advertised starting figure is C$175 per person. Ask for the exact format’s quote.</p></section></div>",
+    "leadHtml": "<div class=\"coordination-board\"><section><h2>Who and where?</h2><p>Confirm which analyst and which meeting address apply to your booking.</p></section><section><h2>How many?</h2><p>The menu says up to six, while the FAQ prefers four. Confirm your group size before inviting everyone.</p></section><section><h2>What total?</h2><p>The advertised starting figure is C$175 per person. Ask for the exact format’s quote.</p></section></div>",
     "ctaTitle": "Start with your own colours before the group discussion",
     "ctaText": "Use Stylist AI to find a few combinations you want to explore further."
   }

@@ -83,7 +83,16 @@ def cover_image(a, card=False):
     if not cover:return ''
     alt='' if card else cover['alt']
     loading='loading="lazy"' if card else 'fetchpriority="high"'
-    return f'<img src="{e(cover["src"])}" width="{cover["width"]}" height="{cover["height"]}" alt="{e(alt)}" {loading} decoding="async">'
+    variants=[]
+    for width in (400,800):
+        src=cover['src'].replace('.webp',f'-{width}.webp')
+        if (ROOT/src.lstrip('/')).exists(): variants.append(f'{src} {width}w')
+    responsive=''
+    if variants:
+        variants.append(f'{cover["src"]} {cover["width"]}w')
+        sizes='(max-width:680px) calc(100vw - 44px), (max-width:1180px) 45vw, 540px' if card else '(max-width:900px) calc(100vw - 44px), 900px'
+        responsive=f' srcset="{e(", ".join(variants))}" sizes="{sizes}"'
+    return f'<img src="{e(cover["src"])}"{responsive} width="{cover["width"]}" height="{cover["height"]}" alt="{e(alt)}" {loading} decoding="async">'
 
 def card(a, filtered=False):
     i=ORDER.index(a['slug'])

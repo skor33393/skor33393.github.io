@@ -12,8 +12,8 @@
   "country": "US",
   "lang": "en-US",
   "datePublished": "2026-10-30",
-  "dateModified": "2026-10-30",
-  "sourcesChecked": "2026-10-30",
+  "dateModified": "2026-10-31",
+  "sourcesChecked": "2026-10-31",
   "sortOrder": -3,
   "sections": [
     {
@@ -25,6 +25,11 @@
       "id": "before-booking",
       "title": "Three details to settle before paying a deposit",
       "html": "<p>Ask whether the appointment time leaves enough daylight for the provider’s process, what preparation is expected, and how much an optional physical palette costs. If stairs are a problem, discuss access before paying a deposit. Bring a photo of the jacket or outfit that prompted the booking, so the consultation can connect the palette to a real decision.</p><ul><li>Is the introductory rate still available for my date?</li><li>What is the total with a physical palette, and is the studio accessible to me?</li></ul>"
+    },
+    {
+      "id": "visit-or-remote",
+      "title": "If the stairs or timing rule out a studio visit",
+      "html": "<div class=\"scope-split\"><div><h3>In-person route</h3><p>Check the upstairs access, appointment time and current introductory rate. Add the physical palette price only if you want that item.</p></div><div><h3>The provider’s remote route</h3><p>The same site describes virtual analysis from approved photos, with results within 30 days of photo approval. That is a different timetable from attending a session.</p></div></div><p>Ask for the current remote price and photo requirements instead of applying the studio fee to the virtual service. For a phone-based, self-guided route, compare the current Stylist AI plan and the tools you will use. Write down which output you need: a conversation, physical materials or a palette you can revisit.</p>"
     },
     {
       "id": "use-your-palette",

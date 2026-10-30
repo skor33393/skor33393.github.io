@@ -142,7 +142,7 @@
       {
         "id": "seek-help",
         "title": "When to seek medical help",
-        "html": "<p>Seek prompt medical assessment for constipation with blood, constant abdominal pain, vomiting, fever or inability to pass gas. Unexplained weight loss and constipation that persists despite self-care also need attention. <a href=\"https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/symptoms-causes\">NIDDK lists symptoms requiring medical review</a>.</p><p>This article is educational. For discomfort or difficulty releasing the pelvic floor, our <a href=\"/pelvic_gym/articles/pelvic-floor-relaxation/\">relaxation guide</a> offers a gentle introduction, while <a href=\"/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/\">the therapy guide</a> explains what an assessment may involve. Neither replaces investigating persistent bowel symptoms.</p>"
+        "html": "<p>Seek prompt medical assessment for constipation with blood, constant abdominal pain, vomiting, fever or inability to pass gas. Unexplained weight loss and constipation that persists despite self-care also need attention. <a href=\"https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/symptoms-causes\">NIDDK lists symptoms requiring medical review</a>.</p><p>This article is educational. For discomfort or difficulty releasing the pelvic floor, our <a href=\"/pelvic_gym/articles/pelvic-floor-relaxation/\">relaxation guide</a> offers a gentle introduction, while <a href=\"/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/\">the therapy guide</a> explains what an assessment may involve. Neither replaces investigating persistent bowel symptoms.</p><p>If your main concern is <a href=\"/pelvic_gym/articles/pelvic-pain-after-bowel-movement/\">pain after a bowel movement</a>, use that guide to organize what to tell a clinician rather than treating every bowel symptom as the same exercise problem.</p>"
       }
     ],
     "faqs": [
@@ -189,7 +189,7 @@
     "cta": "assessment",
     "keyword": "pelvic floor and constipation",
     "researchNote": "Researched 2026-10-24. Bowel-emptying and muscle-coordination intent. No laxative prescription, internal manipulation, forced bearing down or blanket strengthening recommendation. New decision-support section checked 2026-10-27 against its linked primary sources; original publication and earlier source-check scope retained.",
-    "dateModified": "2026-10-29",
+    "dateModified": "2026-10-31",
     "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. Sources supporting the new decision-support section were checked October 27, 2026. The new What happens at biofeedback for difficult emptying section was checked against its linked clinical sources October 28, 2026. The new What if stool becomes narrow, flat or ribbon-like? section was checked against its linked sources October 29, 2026.",
     "datePublished": "2026-10-24"
   },
@@ -513,7 +513,7 @@
       {
         "id": "review",
         "title": "Bring questions as well as numbers",
-        "html": "<p>Choose two or three questions for your appointment: “What pattern do you see?” “Do I need any tests?” and “Which change should we try first?” Bring your medicines list and a description of the symptom’s impact. Our guides to <a href=\"/pelvic_gym/articles/urinary-urgency-in-women/\">urgency</a> and <a href=\"/pelvic_gym/articles/peeing-at-night-women/\">nighttime urination</a> can help you describe those concerns.</p><p>This educational guide does not interpret your diary. Do not wait to finish it if you need urgent care. Inability to pass urine needs immediate assessment, while blood in urine needs prompt medical help. <a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes\">NIDDK retention guidance</a> and <a href=\"https://www.nhs.uk/symptoms/blood-in-urine/\">NHS blood-in-urine advice</a> explain these signs.</p>"
+        "html": "<p>Choose two or three questions for your appointment: “What pattern do you see?” “Do I need any tests?” and “Which change should we try first?” Bring your medicines list and a description of the symptom’s impact. Our guides to <a href=\"/pelvic_gym/articles/urinary-urgency-in-women/\">urgency</a> and <a href=\"/pelvic_gym/articles/peeing-at-night-women/\">nighttime urination</a> can help you describe those concerns.</p><p>This educational guide does not interpret your diary. Do not wait to finish it if you need urgent care. Inability to pass urine needs immediate assessment, while blood in urine needs prompt medical help. <a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes\">NIDDK retention guidance</a> and <a href=\"https://www.nhs.uk/symptoms/blood-in-urine/\">NHS blood-in-urine advice</a> explain these signs.</p><aside class=\"quick-answer\"><h2>A blank chart to take to your appointment</h2><p>If your clinician has not supplied a form, the <a href=\"https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf\">BAUS input/output chart (PDF)</a> includes a blank recording sheet. Confirm which format and recording period your clinician wants. Keep your completed health information private; this journal does not ask you to upload it.</p></aside>"
       }
     ],
     "faqs": [
@@ -559,7 +559,8 @@
     ],
     "cta": "assessment",
     "keyword": "bladder diary for women",
-    "researchNote": "Researched 2026-10-24. Practical diary and appointment preparation intent. Fictional entries labeled explicitly; no diagnostic volume thresholds or personal data collection."
+    "researchNote": "Researched 2026-10-24. Practical diary and appointment preparation intent. Fictional entries labeled explicitly; no diagnostic volume thresholds or personal data collection.",
+    "dateModified": "2026-10-31"
   },
   {
     "slug": "bladder-habits-water-caffeine",

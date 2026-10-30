@@ -22,6 +22,10 @@ for app in ['stylist_ai','pelvic_gym']:
             if cover:urls.append('https://bestme.mobi'+cover['src'])
 for asset in (ROOT/'stylist_ai/blog/assets/city-guides').glob('*'):
     if asset.is_file():urls.append('https://bestme.mobi/'+str(asset.relative_to(ROOT)))
+# Verify responsive variants and inline examples as well as article covers.
+for folder in ['stylist_ai/blog/assets/illustrations','pelvic_gym/assets/illustrations','stylist_ai/blog/assets/examples']:
+    for asset in (ROOT/folder).glob('*'):
+        if asset.is_file():urls.append('https://bestme.mobi/'+str(asset.relative_to(ROOT)))
 urls=list(dict.fromkeys(urls))
 def check(url):
     assert urlsplit(url).hostname=='bestme.mobi'

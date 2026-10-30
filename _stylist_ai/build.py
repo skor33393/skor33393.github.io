@@ -3,8 +3,8 @@
 from pathlib import Path
 from html import escape
 from datetime import date
-import json, re, math, sys, xml.etree.ElementTree as ET
-import city_pages
+import json, re, math, sys, hashlib, xml.etree.ElementTree as ET
+import city_pages, topics
 ROOT = Path(__file__).resolve().parents[1]
 BASE = '/stylist_ai/blog'
 ORIGIN = 'https://bestme.mobi'
@@ -13,6 +13,7 @@ ASSETS = '/stylist_ai/landing/v2/assets'
 ARTICLES = sorted([json.loads(f.read_text()) for f in (ROOT/'_stylist_ai/content').glob('*.json')], key=lambda a:(a['datePublished'], a.get('sortOrder', 0), a['slug']), reverse=True)
 LATEST = max(a['dateModified'] for a in ARTICLES)
 BY_SLUG = {a['slug']:a for a in ARTICLES}
+def asset_version(path): return hashlib.sha256((ROOT/path.lstrip("/")).read_bytes()).hexdigest()[:12]
 def e(s): return escape(str(s),quote=True)
 def display(d): return date.fromisoformat(d).strftime('%B %d, %Y').replace(' 0',' ')
 def url(a): return BASE+'/'+a['slug']+'/'
@@ -25,13 +26,14 @@ def palette():
     colors=['#A9A7C2','#AABBC1','#BEA0AD','#7E8897','#B49A7E','#AEAD8F','#C69C84','#8B7869']
     return '<div class="swatches" aria-label="Illustrative soft color comparison">'+''.join(f'<span style="--swatch:{c}"></span>' for c in colors)+'</div>'
 def shell(title,desc,path,body,slug='home',schemas=None,article=False,social=None):
+    header_store=badge(slug,'header') if not slug in BY_SLUG or BY_SLUG[slug].get('kind')!='city' else '<a class="app-nav" href="/stylist_ai/">Meet the app ↗</a>'
     canonical=ORIGIN+path
     social=social or ASSETS+'/social-coral.jpg'
     schema=[{'@context':'https://schema.org','@type':'Organization','@id':ORIGIN+BASE+'/#publisher','name':'Stylist AI','url':ORIGIN+'/stylist_ai/','logo':ORIGIN+ASSETS+'/icon.png'}]+(schemas or [])
     graph=''.join('<script type="application/ld+json">'+json.dumps(s,ensure_ascii=False).replace('</','<\\/')+'</script>' for s in schema)
     return f'''<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="apple-itunes-app" content="app-id=6739435502"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{e(title)}</title><meta name="description" content="{e(desc)}"><link rel="canonical" href="{canonical}"><meta name="robots" content="index,follow,max-image-preview:large"><meta name="theme-color" content="#fcf8f3"><meta name="referrer" content="strict-origin-when-cross-origin"><meta property="og:type" content="{'article' if article else 'website'}"><meta property="og:site_name" content="Stylist AI Journal"><meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}"><meta property="og:url" content="{canonical}"><meta property="og:image" content="{ORIGIN}{e(social)}"><meta name="twitter:card" content="summary_large_image"><link rel="icon" href="{ASSETS}/icon.png"><link rel="stylesheet" href="{BASE}/assets/site.css"><script defer src="{BASE}/assets/analytics.js"></script><script defer src="{BASE}/assets/site.js"></script>{graph}</head>
-<body data-page="{e(slug)}"><a class="skip" href="#main">Skip to content</a><header class="site-header"><div class="wrap nav"><a class="brand" href="{BASE}/"><img src="{ASSETS}/icon.png" width="38" height="38" alt=""><span>stylist <b>AI</b><small>THE COLOR JOURNAL</small></span></a><nav aria-label="Main navigation"><a href="{BASE}/#articles">Journal</a><a class="app-nav" href="/stylist_ai/">Meet the app ↗</a></nav></div></header>{body}
+<html lang="en"><head><meta charset="utf-8"><meta name="apple-itunes-app" content="app-id=6739435502"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{e(title)}</title><meta name="description" content="{e(desc)}"><link rel="canonical" href="{canonical}"><meta name="robots" content="index,follow,max-image-preview:large"><meta name="theme-color" content="#fcf8f3"><meta name="referrer" content="strict-origin-when-cross-origin"><meta property="og:type" content="{'article' if article else 'website'}"><meta property="og:site_name" content="Stylist AI Journal"><meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}"><meta property="og:url" content="{canonical}"><meta property="og:image" content="{ORIGIN}{e(social)}"><meta name="twitter:card" content="summary_large_image"><link rel="icon" href="{ASSETS}/icon.png"><link rel="stylesheet" href="{BASE}/assets/site.css?v={asset_version(BASE+'/assets/site.css')}"><script defer src="{BASE}/assets/analytics.js"></script><script defer src="{BASE}/assets/site.js"></script>{graph}</head>
+<body data-page="{e(slug)}"><a class="skip" href="#main">Skip to content</a><header class="site-header"><div class="wrap nav"><a class="brand" href="{BASE}/"><img src="{ASSETS}/icon.png" width="38" height="38" alt=""><span>stylist <b>AI</b><small>THE COLOR JOURNAL</small></span></a><nav aria-label="Main navigation"><a href="{BASE}/#articles">Journal</a>{header_store}</nav></div></header>{body}
 <footer class="wrap footer"><div><a class="brand" href="{BASE}/">stylist <b>AI</b></a><small>Published by Aleksandr Korenev, the developer of Stylist AI.<br>Styling guidance is personal. Results and preferences vary.</small></div><nav aria-label="Footer"><a href="{BASE}/about/">About this journal</a><a href="{BASE}/privacy/">Website privacy</a><button data-privacy-choices hidden>Privacy choices</button><a href="/stylist-ai-privacy-policy.html">App privacy</a><a href="/stylist-ai-terms-of-use.html">App terms</a><a href="mailto:contact@bestme.mobi">Contact</a></nav></footer>
 <section class="consent-panel" data-consent-panel aria-labelledby="consent-heading" hidden><div><h2 id="consent-heading">Help us improve the journal</h2><p>Allow optional Google Analytics to measure visits and App Store clicks? <a href="{BASE}/privacy/">Privacy notice</a>.</p></div><div class="consent-actions"><button type="button" data-consent-choice="denied">Decline</button><button class="primary" type="button" data-consent-choice="granted">Allow analytics</button></div></section></body></html>'''
 def illustration(a,card=False):
@@ -39,14 +41,23 @@ def illustration(a,card=False):
     if not cover:return palette()
     loading='loading="lazy"' if card else 'fetchpriority="high"'
     alt='' if card else cover['alt']
-    return f'<img src="{e(cover["src"])}" width="{cover["width"]}" height="{cover["height"]}" alt="{e(alt)}" {loading} decoding="async">'
+    variants=[]
+    for width in (400,800):
+        src=cover['src'].replace('.webp',f'-{width}.webp')
+        if (ROOT/src.lstrip('/')).exists(): variants.append(f'{src} {width}w')
+    responsive=''
+    if variants:
+        variants.append(f'{cover["src"]} {cover["width"]}w')
+        sizes='(max-width:680px) calc(100vw - 44px), (max-width:1180px) 45vw, 540px' if card else '(max-width:900px) calc(100vw - 44px), 900px'
+        responsive=f' srcset="{e(", ".join(variants))}" sizes="{sizes}"'
+    return f'<img src="{e(cover["src"])}"{responsive} width="{cover["width"]}" height="{cover["height"]}" alt="{e(alt)}" {loading} decoding="async">'
 def card(a):
     art_class='card-art illustrated' if a.get('illustration') else 'card-art'
     return f'<article class="guide-card"><a class="{art_class}" href="{url(a)}" tabindex="-1" aria-hidden="true">{illustration(a,True)}</a><p class="eyebrow">{e(a["category"])} · {minutes(a)} min read</p><h3><a href="{url(a)}">{e(a["title"])}</a></h3><p>{e(a["excerpt"])}</p><a class="text-link" href="{url(a)}">Read the guide <span aria-hidden="true">↗</span></a></article>'
 def home():
     journal=[a for a in ARTICLES if a.get('kind')!='city']
     newest=journal[0]
-    body=f'''<main id="main"><section class="wrap hero"><div><p class="eyebrow">THE STYLIST AI JOURNAL</p><h1>A little color.<br>A lot more <em>you.</em></h1><p class="dek">Explore your colors, make sense of your palette, and get more from the clothes you love.</p><a class="button" href="{url(newest)}">Read our latest guide <span aria-hidden="true">↗</span></a><div class="hero-foot"><span>Color, without the rulebook.</span><span>01 / THE JOURNAL</span></div></div><div class="hero-image"><img src="{ASSETS}/color-combos-ai.webp" width="960" height="960" alt="Illustrated outfit color combinations in cobalt, white, pink and charcoal" fetchpriority="high"><span class="image-label">A PALETTE IS A STARTING POINT.</span></div></section><section class="intro-band"><div class="wrap"><p>Less second-guessing.<br><strong>More wearing what you love.</strong></p>{palette()}<span>Illustrative colors.<br>Your favorites are personal.</span></div></section><section id="articles" class="wrap library"><div class="section-head"><h2>Latest articles</h2></div><div class="cards">{''.join(card(a) for a in journal)}</div></section><section class="wrap app-block"><img src="{ASSETS}/icon.png" width="72" height="72" alt="Stylist AI app icon"><div><p class="eyebrow">YOUR COLORS, CLOSE AT HAND</p><h2>From a palette to an outfit.</h2><p>Explore color analysis, color combinations and a shopping color check in Stylist AI for iPhone.</p>{badge('home','home_end')}<small>Free download with in-app purchases.</small></div></section></main>'''
+    body=f'''<main id="main"><section class="wrap hero"><div><p class="eyebrow">THE STYLIST AI JOURNAL</p><h1>A little color.<br>A lot more <em>you.</em></h1><p class="dek">Explore your colors, make sense of your palette, and get more from the clothes you love.</p><a class="button" href="{url(newest)}">Read our latest guide <span aria-hidden="true">↗</span></a><div class="hero-foot"><span>Color, without the rulebook.</span><span>01 / THE JOURNAL</span></div></div><div class="hero-image"><img src="{ASSETS}/color-combos-ai.webp" width="960" height="960" alt="Illustrated outfit color combinations in cobalt, white, pink and charcoal" fetchpriority="high"><span class="image-label">A PALETTE IS A STARTING POINT.</span></div></section><section class="intro-band"><div class="wrap"><p>Less second-guessing.<br><strong>More wearing what you love.</strong></p>{palette()}<span>Illustrative colors.<br>Your favorites are personal.</span></div></section>{topics.navigation(sys.modules[__name__])}<section id="articles" class="wrap library"><div class="section-head"><h2>Latest articles</h2></div><div class="cards">{''.join(card(a) for a in journal)}</div></section><section class="wrap app-block"><img src="{ASSETS}/icon.png" width="72" height="72" alt="Stylist AI app icon"><div><p class="eyebrow">YOUR COLORS, CLOSE AT HAND</p><h2>From a palette to an outfit.</h2><p>Explore color analysis, color combinations and a shopping color check in Stylist AI for iPhone.</p>{badge('home','home_end')}<small>Free download with in-app purchases.</small></div></section></main>'''
     schema=[{'@context':'https://schema.org','@type':'CollectionPage','name':'Stylist AI Journal','url':ORIGIN+BASE+'/','mainEntity':{'@type':'ItemList','itemListElement':[{'@type':'ListItem','position':i+1,'name':a['title'],'url':ORIGIN+url(a)} for i,a in enumerate(journal)]}}]
     save(BASE+'/index.html',shell('Color Analysis, Personal Palettes & Style Guides | Stylist AI','Explore helpful guides to seasonal color analysis, personal palettes and outfit colors. Discover styling ideas from Stylist AI that you can try today.',BASE+'/',body,schemas=schema))
 def article(a):
@@ -76,7 +87,7 @@ def info():
 def sitemap():
     ns='http://www.sitemaps.org/schemas/sitemap/0.9';ET.register_namespace('',ns)
     root=ET.Element('{'+ns+'}urlset')
-    items=[(city_pages.HUB,LATEST),(BASE+'/',LATEST),(BASE+'/about/','2026-10-26'),(BASE+'/privacy/','2026-10-26')]+[(url(a),a['dateModified']) for a in ARTICLES]
+    items=[(BASE+'/topics/'+t['slug']+'/',LATEST) for t in topics.TOPICS]+[(city_pages.HUB,LATEST),(BASE+'/',LATEST),(BASE+'/about/','2026-10-26'),(BASE+'/privacy/','2026-10-26')]+[(url(a),a['dateModified']) for a in ARTICLES]
     for path,modified in items:
         node=ET.SubElement(root,'{'+ns+'}url');ET.SubElement(node,'{'+ns+'}loc').text=ORIGIN+path;ET.SubElement(node,'{'+ns+'}lastmod').text=modified
     save(BASE+'/sitemap.xml',ET.tostring(root,encoding='unicode',xml_declaration=True))
@@ -94,4 +105,4 @@ if __name__=='__main__':
     home()
     for a in ARTICLES:article(a)
     city_pages.hub(sys.modules[__name__])
-    info();sitemap();print(f'Built Stylist AI journal with {len(ARTICLES)} article(s).')
+    topics.build(sys.modules[__name__]);info();sitemap();print(f'Built Stylist AI journal with {len(ARTICLES)} article(s).')
