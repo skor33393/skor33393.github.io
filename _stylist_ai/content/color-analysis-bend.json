@@ -1,0 +1,52 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-bend",
+  "title": "Color analysis in Bend: app or in-person?",
+  "seoTitle": "Color Analysis in Bend | Local Options & App",
+  "description": "Compare color analysis in Bend, Oregon: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "For color analysis in Bend, the useful comparison is the complete visit and what you take home. An introductory fee can be attractive, but a digital result, a physical wallet and a makeup lesson are not interchangeable. Check the current rate and the appointment setting before you build a shopping budget around an older quote.",
+  "quickAnswer": "Check the introductory fee and physical-swatch extras",
+  "category": "Local color guides",
+  "city": "Bend",
+  "region": "Oregon",
+  "country": "US",
+  "lang": "en-US",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -3,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "Check the introductory fee and physical-swatch extras",
+      "html": "<p>For color analysis in Bend, the useful comparison is the complete visit and what you take home. An introductory fee can be attractive, but a digital result, a physical wallet and a makeup lesson are not interchangeable. Check the current rate and the appointment setting before you build a shopping budget around an older quote.</p><div class=\"provider\"><h3>Styled by Sarah Richards</h3><p>The Bend service page lists an introductory US$195 consultation lasting up to two hours at Salon June. It describes natural-daylight draping, a digital palette and guidance for hair and makeup. Physical swatch cards or books are available to buy separately. The studio is upstairs with one flight of stairs.</p><a href=\"https://www.styledbysarahrichards.com/coloranalysis\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Bend",
+      "html": "<p>Ask whether the appointment time leaves enough daylight for the provider’s process, what preparation is expected, and how much an optional physical palette costs. If stairs are a problem, discuss access before paying a deposit. Bring a photo of the jacket or outfit that prompted the booking, so the consultation can connect the palette to a real decision.</p><ul><li>Is the introductory rate still available for my date?</li><li>What is the total with a physical palette, and is the studio accessible to me?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>Afterwards, choose one everyday layer and one accent to test together. Outdoorsy clothes, office clothes and evening clothes can all use the same color relationship without needing the same fabric or formality. The app is useful for keeping that idea available on your phone; a physical swatch is useful when examining the actual garment. Compare in even light rather than treating a retail display spotlight as a reliable reference.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Styled by Sarah Richards",
+      "url": "https://www.styledbysarahrichards.com/coloranalysis"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

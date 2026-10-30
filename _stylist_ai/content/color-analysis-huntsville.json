@@ -1,0 +1,52 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-huntsville",
+  "title": "Color analysis in Huntsville: app or in-person?",
+  "seoTitle": "Color Analysis in Huntsville | Local Options & App",
+  "description": "Compare color analysis in Huntsville, Alabama: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "Huntsville group bookings show why a lower per-person price needs a scope check. Two people may share an appointment without receiving the same services in every package. Compare the individual attention and materials before deciding that a pair session is better value.",
+  "quickAnswer": "Compare group prices per person and per service",
+  "category": "Local color guides",
+  "city": "Huntsville",
+  "region": "Alabama",
+  "country": "US",
+  "lang": "en-US",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -18,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "Compare group prices per person and per service",
+      "html": "<p>Huntsville group bookings show why a lower per-person price needs a scope check. Two people may share an appointment without receiving the same services in every package. Compare the individual attention and materials before deciding that a pair session is better value.</p><div class=\"provider\"><h3>Twelve Season Studio</h3><p>The menu lists a solo session at US$175 for 1.5–2 hours and a duet at US$300 total for two people over 2.5–3 hours. The duet therefore works out to US$150 each. It also lists a different date package whose hair and makeup component is not identical for both guests.</p><a href=\"https://twelveseasonstudio.com/color-services/\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Huntsville",
+      "html": "<p>Write down the total price, divide it by the actual number of guests, and list what each person receives. Ask whether both guests get full draping, makeup advice, a fan and written guidance. Clarify the cancellation policy if one person cannot attend. A shared appointment is most useful when both people want the experience and have enough time for their own questions.</p><ul><li>Does each person receive the same analysis and materials?</li><li>What happens to the group price if one guest cancels?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>If only one of you is curious, start individually with a phone palette and a small outfit experiment. If both want human feedback, a duet may make sense. Afterwards, keep your references separate; sharing a shopping trip does not mean sharing the same palette. Choose one new combination each and try it with clothes you already own before buying more.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Twelve Season Studio",
+      "url": "https://twelveseasonstudio.com/color-services/"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

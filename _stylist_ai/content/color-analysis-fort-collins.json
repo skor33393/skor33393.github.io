@@ -1,0 +1,52 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-fort-collins",
+  "title": "Color analysis in Fort Collins: app or in-person?",
+  "seoTitle": "Color Analysis in Fort Collins | Local Options & App",
+  "description": "Compare color analysis in Fort Collins, Colorado: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "In Fort Collins, deciding how much makeup help you want can change the quote more than choosing between a phone and a studio. Seeing someone apply a flattering look may be enjoyable; learning how to repeat it is a different service. Choose the outcome you want before comparing the package totals.",
+  "quickAnswer": "A makeup application is not the same as a lesson",
+  "category": "Local color guides",
+  "city": "Fort Collins",
+  "region": "Colorado",
+  "country": "US",
+  "lang": "en-US",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -5,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "A makeup application is not the same as a lesson",
+      "html": "<p>In Fort Collins, deciding how much makeup help you want can change the quote more than choosing between a phone and a studio. Seeing someone apply a flattering look may be enjoyable; learning how to repeat it is a different service. Choose the outcome you want before comparing the package totals.</p><div class=\"provider\"><h3>Deanna Boyd</h3><p>The menu separates color analysis without makeup application at US$225, with application at US$295, and with application plus a lesson at US$395. A virtual option is listed at US$195. Additional written guidance and makeup-bag services have separate prices.</p><a href=\"https://www.deannaboyd.com/color-analysis\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Fort Collins",
+      "html": "<p>If your main problem is lipstick selection, bring the products you actually reach for and ask whether their review is included. If you want a lesson, check whether you will practise the techniques yourself and leave with the steps. If makeup is not your priority, focus the session on clothing neutrals, metals and a few wearable combinations instead of paying for an application you will not use.</p><ul><li>Is the makeup component an application, a hands-on lesson or product advice?</li><li>Which add-ons are outside my quoted total?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>Use photo previews to narrow a group of colors you want to discuss, then compare real products when texture and finish matter. A matte berry lipstick and a sheer berry balm can behave differently even when their color family is similar. For clothes, test the suggested palette against one existing outfit before buying several new pieces. The most useful result is a repeatable choice, not a larger shopping list.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Deanna Boyd",
+      "url": "https://www.deannaboyd.com/color-analysis"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

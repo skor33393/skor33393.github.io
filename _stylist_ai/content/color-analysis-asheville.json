@@ -1,0 +1,52 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-asheville",
+  "title": "Color analysis in Asheville: app or in-person?",
+  "seoTitle": "Color Analysis in Asheville | Local Options & App",
+  "description": "Compare color analysis in Asheville, North Carolina: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "In Asheville, where the analysis happens can matter as much as which palette system it uses. A private studio visit, a home appointment and a group experience involve different preparation and attention. Choose the format around how you like to learn and the questions you want answered.",
+  "quickAnswer": "Choose between studio, home and group sessions",
+  "category": "Local color guides",
+  "city": "Asheville",
+  "region": "North Carolina",
+  "country": "US",
+  "lang": "en-US",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -17,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "Choose between studio, home and group sessions",
+      "html": "<p>In Asheville, where the analysis happens can matter as much as which palette system it uses. A private studio visit, a home appointment and a group experience involve different preparation and attention. Choose the format around how you like to learn and the questions you want answered.</p><div class=\"provider\"><h3>The Hue Muse</h3><p>The Hue Muse describes 12-season personal color analysis in Asheville with studio, in-home and group options. The provider’s service pages explain the formats. Confirm the current quote and availability for the format you want rather than assuming every option has the same fee or duration.</p><a href=\"https://www.thehuemuse.com/\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Asheville",
+      "html": "<p>For an in-home appointment, ask what lighting and space the consultant needs and whether travel is included. For a group, ask how much individual draping each guest receives and whether everyone gets their own reference materials. A social event can be enjoyable, but make sure its scope matches a full personal consultation if that is what you want.</p><ul><li>What space and lighting are needed for an in-home appointment?</li><li>How much individual analysis and take-home guidance does each guest receive?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>Prepare one everyday outfit and one item you find difficult to wear. After the session, build a small combination around each rather than shopping for a complete seasonal wardrobe. The app can help you keep exploring colors privately between appointments. If you prefer a live explanation of physical fabrics, reserve enough individual time to ask how the recommendations were reached.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Hue Muse",
+      "url": "https://www.thehuemuse.com/"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

@@ -1,0 +1,52 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-madison",
+  "title": "Color analysis in Madison: app or in-person?",
+  "seoTitle": "Color Analysis in Madison | Local Options & App",
+  "description": "Compare color analysis in Madison, Wisconsin: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "A Madison color consultation can be especially useful when the purchase in question is yarn or fabric for something you will spend weeks making. That is a different decision from choosing a ready-made shirt you can return. The goal is a palette you can apply to a project, with enough explanation to work beyond one exact shade.",
+  "quickAnswer": "Make the palette useful for clothes you make as well as buy",
+  "category": "Local color guides",
+  "city": "Madison",
+  "region": "Wisconsin",
+  "country": "US",
+  "lang": "en-US",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -6,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "Make the palette useful for clothes you make as well as buy",
+      "html": "<p>A Madison color consultation can be especially useful when the purchase in question is yarn or fabric for something you will spend weeks making. That is a different decision from choosing a ready-made shirt you can return. The goal is a palette you can apply to a project, with enough explanation to work beyond one exact shade.</p><div class=\"provider\"><h3>House of Colour — Melissa Jenkins</h3><p>The Madison stylist profile describes color and style services and specifically mentions a knitting background and help for knitters. It does not show a current appointment price in the reviewed text. Ask for a quote and the current studio location when booking.</p><a href=\"https://www.houseofcolour.com/stylists/melissa-jenkins-central-madison-wisconsin\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Madison",
+      "html": "<p>Bring a small selection of yarn or fabric options and describe the project’s purpose. Ask how to choose a main color, a neutral and a small contrast color rather than requesting approval for every skein. Clarify whether this discussion fits within color analysis or needs a separate style session. Get the material palette and any digital reference listed in the quote.</p><ul><li>Can I bring yarn or fabric samples to the consultation?</li><li>Is advice on garment shape a separate style appointment?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>Before committing to the whole project, place your samples together in the intended proportions. A narrow bright stripe reads differently from a bright sweater. Photograph the arrangement as a reminder, then compare the actual materials near your face. Stylist AI can help you explore combinations on your phone, while an in-person conversation can address the physical materials you brought.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "House of Colour — Melissa Jenkins",
+      "url": "https://www.houseofcolour.com/stylists/melissa-jenkins-central-madison-wisconsin"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

@@ -1,0 +1,52 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-regina",
+  "title": "Colour analysis in Regina: app or in-person?",
+  "seoTitle": "Colour Analysis in Regina | Local Options & App",
+  "description": "Compare colour analysis in Regina, Saskatchewan: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "In Regina, different colour-analysis methods may be part of the same consultation. Their names can sound technical, but the useful question is what they help you decide. Ask how the analyst explains temperature, lightness, saturation and contrast in terms of the clothes and makeup you actually wear.",
+  "quickAnswer": "Ask what the method produces, not just what it is called",
+  "category": "Local colour guides",
+  "city": "Regina",
+  "region": "Saskatchewan",
+  "country": "CA",
+  "lang": "en-CA",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -25,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "Ask what the method produces, not just what it is called",
+      "html": "<p>In Regina, different colour-analysis methods may be part of the same consultation. Their names can sound technical, but the useful question is what they help you decide. Ask how the analyst explains temperature, lightness, saturation and contrast in terms of the clothes and makeup you actually wear.</p><div class=\"provider\"><h3>No. 12 Atelier</h3><p>No. 12 Atelier describes personal colour analysis in Regina and references both Japanese and Western colour-analysis approaches. A current session fee was not visible in the reviewed home page. Request the exact service, duration and take-home materials before booking.</p><a href=\"https://www.no12atelier.com/\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Regina",
+      "html": "<p>Request an example of the result format and ask whether it includes practical combinations. If you have a previous analysis, bring it and explain what you found useful or confusing. Do not expect every system to use identical names or boundaries. A meaningful second opinion should explain differences, not simply provide another label.</p><ul><li>How are the different methods combined in my consultation?</li><li>What practical combinations and materials will I take away?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>Try applying the advice to one choice at a time. Compare two tops with the same trousers, or two lip families with your usual makeup. The app can support that exploration on your phone, while a studio session can provide live discussion of physical colours. Choose based on the kind of feedback you need and the clarity of the deliverables.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "No. 12 Atelier",
+      "url": "https://www.no12atelier.com/"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

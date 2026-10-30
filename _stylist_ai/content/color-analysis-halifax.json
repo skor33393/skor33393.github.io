@@ -1,0 +1,52 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-halifax",
+  "title": "Colour analysis in Halifax: app or in-person?",
+  "seoTitle": "Colour Analysis in Halifax | Local Options & App",
+  "description": "Compare colour analysis in Halifax, Nova Scotia: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "For colour analysis in Halifax, a shared appointment offers a modest per-person saving but requires a longer shared block of time. Compare the actual format with your schedule and how comfortable you feel asking questions in front of someone else. The cheapest total is not necessarily the most convenient choice.",
+  "quickAnswer": "Compare a solo consultation with a shared appointment",
+  "category": "Local colour guides",
+  "city": "Halifax",
+  "region": "Nova Scotia",
+  "country": "CA",
+  "lang": "en-CA",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -26,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "Compare a solo consultation with a shared appointment",
+      "html": "<p>For colour analysis in Halifax, a shared appointment offers a modest per-person saving but requires a longer shared block of time. Compare the actual format with your schedule and how comfortable you feel asking questions in front of someone else. The cheapest total is not necessarily the most convenient choice.</p><div class=\"provider\"><h3>High Chroma</h3><p>The Halifax service menu lists a solo consultation at C$325 plus tax for 1.5–2 hours and a two-person session at C$600 plus tax for 3.5–4 hours. The latter is C$300 per person before tax. It describes a 36-colour wallet, digital palette and hair, makeup and metal guidance.</p><a href=\"https://highchroma.ca/services\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Halifax",
+      "html": "<p>Confirm whether both people receive the same palette materials and individual draping time. Ask about tax, deposits and what happens if one guest cancels. If you are comparing a mini event with a full session, list the differences in the take-home result. A social group experience should not be assumed to include every part of the longer private consultation.</p><ul><li>Is the quoted two-person price a total, and is tax additional?</li><li>Does each guest receive the same wallet and digital materials?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>After the visit, use the physical and digital references for different tasks: hold the wallet beside clothes and use the phone reference for planning. Stylist AI offers its own palette exploration and color tools, which you can consider before committing to a longer appointment. Start with three outfits from your current wardrobe so the advice becomes practical before you spend on new items.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "High Chroma",
+      "url": "https://highchroma.ca/services"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

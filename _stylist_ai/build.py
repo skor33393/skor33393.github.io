@@ -3,7 +3,8 @@
 from pathlib import Path
 from html import escape
 from datetime import date
-import json, re, math, xml.etree.ElementTree as ET
+import json, re, math, sys, xml.etree.ElementTree as ET
+import city_pages
 ROOT = Path(__file__).resolve().parents[1]
 BASE = '/stylist_ai/blog'
 ORIGIN = 'https://bestme.mobi'
@@ -43,11 +44,14 @@ def card(a):
     art_class='card-art illustrated' if a.get('illustration') else 'card-art'
     return f'<article class="guide-card"><a class="{art_class}" href="{url(a)}" tabindex="-1" aria-hidden="true">{illustration(a,True)}</a><p class="eyebrow">{e(a["category"])} · {minutes(a)} min read</p><h3><a href="{url(a)}">{e(a["title"])}</a></h3><p>{e(a["excerpt"])}</p><a class="text-link" href="{url(a)}">Read the guide <span aria-hidden="true">↗</span></a></article>'
 def home():
-    newest=ARTICLES[0]
-    body=f'''<main id="main"><section class="wrap hero"><div><p class="eyebrow">THE STYLIST AI JOURNAL</p><h1>A little color.<br>A lot more <em>you.</em></h1><p class="dek">Explore your colors, make sense of your palette, and get more from the clothes you love.</p><a class="button" href="{url(newest)}">Read our latest guide <span aria-hidden="true">↗</span></a><div class="hero-foot"><span>Color, without the rulebook.</span><span>01 / THE JOURNAL</span></div></div><div class="hero-image"><img src="{ASSETS}/color-combos-ai.webp" width="960" height="960" alt="Illustrated outfit color combinations in cobalt, white, pink and charcoal" fetchpriority="high"><span class="image-label">A PALETTE IS A STARTING POINT.</span></div></section><section class="intro-band"><div class="wrap"><p>Less second-guessing.<br><strong>More wearing what you love.</strong></p>{palette()}<span>Illustrative colors.<br>Your favorites are personal.</span></div></section><section id="articles" class="wrap library"><div class="section-head"><h2>Latest articles</h2></div><div class="cards">{''.join(card(a) for a in ARTICLES)}</div></section><section class="wrap app-block"><img src="{ASSETS}/icon.png" width="72" height="72" alt="Stylist AI app icon"><div><p class="eyebrow">YOUR COLORS, CLOSE AT HAND</p><h2>From a palette to an outfit.</h2><p>Explore color analysis, color combinations and a shopping color check in Stylist AI for iPhone.</p>{badge('home','home_end')}<small>Free download with in-app purchases.</small></div></section></main>'''
-    schema=[{'@context':'https://schema.org','@type':'CollectionPage','name':'Stylist AI Journal','url':ORIGIN+BASE+'/','mainEntity':{'@type':'ItemList','itemListElement':[{'@type':'ListItem','position':i+1,'name':a['title'],'url':ORIGIN+url(a)} for i,a in enumerate(ARTICLES)]}}]
+    journal=[a for a in ARTICLES if a.get('kind')!='city']
+    newest=journal[0]
+    body=f'''<main id="main"><section class="wrap hero"><div><p class="eyebrow">THE STYLIST AI JOURNAL</p><h1>A little color.<br>A lot more <em>you.</em></h1><p class="dek">Explore your colors, make sense of your palette, and get more from the clothes you love.</p><a class="button" href="{url(newest)}">Read our latest guide <span aria-hidden="true">↗</span></a><div class="hero-foot"><span>Color, without the rulebook.</span><span>01 / THE JOURNAL</span></div></div><div class="hero-image"><img src="{ASSETS}/color-combos-ai.webp" width="960" height="960" alt="Illustrated outfit color combinations in cobalt, white, pink and charcoal" fetchpriority="high"><span class="image-label">A PALETTE IS A STARTING POINT.</span></div></section><section class="intro-band"><div class="wrap"><p>Less second-guessing.<br><strong>More wearing what you love.</strong></p>{palette()}<span>Illustrative colors.<br>Your favorites are personal.</span></div></section><section id="articles" class="wrap library"><div class="section-head"><h2>Latest articles</h2></div><div class="cards">{''.join(card(a) for a in journal)}</div></section><section class="wrap app-block"><img src="{ASSETS}/icon.png" width="72" height="72" alt="Stylist AI app icon"><div><p class="eyebrow">YOUR COLORS, CLOSE AT HAND</p><h2>From a palette to an outfit.</h2><p>Explore color analysis, color combinations and a shopping color check in Stylist AI for iPhone.</p>{badge('home','home_end')}<small>Free download with in-app purchases.</small></div></section></main>'''
+    schema=[{'@context':'https://schema.org','@type':'CollectionPage','name':'Stylist AI Journal','url':ORIGIN+BASE+'/','mainEntity':{'@type':'ItemList','itemListElement':[{'@type':'ListItem','position':i+1,'name':a['title'],'url':ORIGIN+url(a)} for i,a in enumerate(journal)]}}]
     save(BASE+'/index.html',shell('Color Analysis, Personal Palettes & Style Guides | Stylist AI','Explore helpful guides to seasonal color analysis, personal palettes and outfit colors. Discover styling ideas from Stylist AI that you can try today.',BASE+'/',body,schemas=schema))
 def article(a):
+    if a.get('kind')=='city':
+        return city_pages.article(a,sys.modules[__name__])
     sections=''.join(f'<section aria-labelledby="{e(s["id"])}"><h2 id="{e(s["id"])}">{e(s["title"])}</h2>{s["html"]}</section>' for s in a['sections'])
     toc=''.join(f'<a href="#{e(s["id"])}">{e(s["title"])}</a>' for s in a['sections'])
     faqs=''.join(f'<details><summary>{e(f["question"])}</summary><p>{e(f["answer"])}</p></details>' for f in a.get('faqs',[]))
@@ -72,7 +76,7 @@ def info():
 def sitemap():
     ns='http://www.sitemaps.org/schemas/sitemap/0.9';ET.register_namespace('',ns)
     root=ET.Element('{'+ns+'}urlset')
-    items=[(BASE+'/',LATEST),(BASE+'/about/','2026-10-26'),(BASE+'/privacy/','2026-10-26')]+[(url(a),a['dateModified']) for a in ARTICLES]
+    items=[(city_pages.HUB,LATEST),(BASE+'/',LATEST),(BASE+'/about/','2026-10-26'),(BASE+'/privacy/','2026-10-26')]+[(url(a),a['dateModified']) for a in ARTICLES]
     for path,modified in items:
         node=ET.SubElement(root,'{'+ns+'}url');ET.SubElement(node,'{'+ns+'}loc').text=ORIGIN+path;ET.SubElement(node,'{'+ns+'}lastmod').text=modified
     save(BASE+'/sitemap.xml',ET.tostring(root,encoding='unicode',xml_declaration=True))
@@ -89,4 +93,5 @@ if __name__=='__main__':
     assert len({a['slug'] for a in ARTICLES})==len(ARTICLES),'Duplicate slugs'
     home()
     for a in ARTICLES:article(a)
+    city_pages.hub(sys.modules[__name__])
     info();sitemap();print(f'Built Stylist AI journal with {len(ARTICLES)} article(s).')

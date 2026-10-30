@@ -1,0 +1,52 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-kelowna",
+  "title": "Colour analysis in Kelowna: app or in-person?",
+  "seoTitle": "Colour Analysis in Kelowna | Local Options & App",
+  "description": "Compare colour analysis in Kelowna, British Columbia: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "A Kelowna search can surface a travelling analyst based elsewhere in the Okanagan or Shuswap. That may be convenient for a pair or group, but it is not evidence of a permanent local studio. Compare the minimum booking, travel arrangement and space requirements with a self-guided app.",
+  "quickAnswer": "A mobile Okanagan booking is different from a Kelowna studio",
+  "category": "Local colour guides",
+  "city": "Kelowna",
+  "region": "British Columbia",
+  "country": "CA",
+  "lang": "en-CA",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -22,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "A mobile Okanagan booking is different from a Kelowna studio",
+      "html": "<p>A Kelowna search can surface a travelling analyst based elsewhere in the Okanagan or Shuswap. That may be convenient for a pair or group, but it is not evidence of a permanent local studio. Compare the minimum booking, travel arrangement and space requirements with a self-guided app.</p><div class=\"provider\"><h3>Muse by Laura Lye</h3><p>This provider is based in Gleneden near Salmon Arm and explicitly offers mobile appointments to Kelowna by arrangement. The listed mobile rate is C$150 per person with a minimum of two people, making the base booking C$300. Confirm travel charges and availability before committing.</p><a href=\"https://www.musebylauralye.com/personal-colour-analysis\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Kelowna",
+      "html": "<p>Before gathering a group, ask whether the proposed address is within the service area and what the final total includes. Confirm the number of guests, individual appointment time, lighting requirements and cancellation terms. Do not assume that a quoted per-person amount means the analyst will travel for one person at that rate.</p><ul><li>What is the total for a Kelowna visit, including any travel charges?</li><li>What minimum group size, space and lighting are required?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>If you are exploring alone, use a phone palette to identify the specific questions you would want to ask. If a friend also wants a consultation, compare your goals before booking together. After the session, each person should leave with their own useful combinations and references. Sharing the appointment can spread travel logistics, but it does not make the same colors work for everyone.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Muse by Laura Lye",
+      "url": "https://www.musebylauralye.com/personal-colour-analysis"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

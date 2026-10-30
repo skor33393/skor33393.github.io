@@ -1,0 +1,52 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-moncton",
+  "title": "Colour analysis in Moncton: app or in-person?",
+  "seoTitle": "Colour Analysis in Moncton | Local Options & App",
+  "description": "Compare colour analysis in Moncton, New Brunswick: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "Colour analysis around Moncton can include appointments across the river in Riverview. That is a straightforward trip for some visitors, but the location should be explicit when coordinating a duo or group. The main comparison is the individual attention and useful guidance each person receives.",
+  "quickAnswer": "Check whether your appointment is in Moncton or Riverview",
+  "category": "Local colour guides",
+  "city": "Moncton",
+  "region": "New Brunswick",
+  "country": "CA",
+  "lang": "en-CA",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -27,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "Check whether your appointment is in Moncton or Riverview",
+      "html": "<p>Colour analysis around Moncton can include appointments across the river in Riverview. That is a straightforward trip for some visitors, but the location should be explicit when coordinating a duo or group. The main comparison is the individual attention and useful guidance each person receives.</p><div class=\"provider\"><h3>The Hue Revival</h3><p>The Hue Revival identifies Jana in Moncton and Shallan in Riverview and lists personal colour analysis from C$175 per person. It describes individual, duo and party formats, with parties of up to six. Confirm the price and materials for the exact format you choose.</p><a href=\"https://thehuerevival.ca/\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Moncton",
+      "html": "<p>Ask which consultant and location are attached to your booking. For a party, check the total duration, each person’s draping time and whether a palette wallet or digital guide is included for every guest. Avoid multiplying a starting price by the group size and treating that as a confirmed package quote.</p><ul><li>Which consultant and location are confirmed for our appointment?</li><li>What individual time and materials are included for every guest?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>Prepare one question each rather than a single shared goal. One person may want workwear neutrals while another wants makeup colours. Afterwards, test a few combinations independently with clothes you already own. If you prefer to explore privately first, Stylist AI provides phone-based analysis and color tools without arranging a group, while a live consultation gives you the chance to ask questions as fabrics are compared.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Hue Revival",
+      "url": "https://thehuerevival.ca/"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

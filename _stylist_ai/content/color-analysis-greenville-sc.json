@@ -1,0 +1,52 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-greenville-sc",
+  "title": "Color analysis in Greenville: app or in-person?",
+  "seoTitle": "Color Analysis in Greenville | Local Options & App",
+  "description": "Compare color analysis in Greenville, South Carolina: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "For Greenville, South Carolina, make sure you are comparing an appointment in the intended city and a current quote. Search snippets can retain a former base price long after a package changes. Ask what the current session includes rather than treating a low number in the results as the final bill.",
+  "quickAnswer": "Confirm the full quote and the session setting",
+  "category": "Local color guides",
+  "city": "Greenville",
+  "region": "South Carolina",
+  "country": "US",
+  "lang": "en-US",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -16,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "Confirm the full quote and the session setting",
+      "html": "<p>For Greenville, South Carolina, make sure you are comparing an appointment in the intended city and a current quote. Search snippets can retain a former base price long after a package changes. Ask what the current session includes rather than treating a low number in the results as the final bill.</p><div class=\"provider\"><h3>GVL Color Queen</h3><p>The provider’s contact page identifies a studio on North Pleasantburg Drive in Greenville and directs visitors to inquire about appointments and pricing. Ask for the current fee and appointment length; a complete booking price was not available in the reviewed contact information.</p><a href=\"https://www.gvlcolorqueen.com/contact\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Greenville",
+      "html": "<p>Confirm whether you will meet in the studio or arrange a mobile visit, how much time is reserved and what palette format you receive. If you need help for an event, ask when the reference materials arrive and whether there is time to practise the look. Keep travel charges, physical swatches and makeup purchases visible in the budget.</p><ul><li>What is the current total for the exact session I am booking?</li><li>When will I receive my palette and any follow-up materials?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>You can use Stylist AI to explore a few color ideas while waiting for a quote. Choose two possible outfit combinations and save the questions that remain unclear. A focused list makes a later consultation more useful: which neutral, which lip family, or how much contrast? Avoid replacing the wardrobe before you have tried the suggestions with familiar pieces.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "GVL Color Queen",
+      "url": "https://www.gvlcolorqueen.com/contact"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

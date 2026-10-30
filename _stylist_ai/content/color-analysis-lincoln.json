@@ -1,0 +1,56 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-lincoln",
+  "title": "Color analysis in Lincoln: app or in-person?",
+  "seoTitle": "Color Analysis in Lincoln | Local Options & App",
+  "description": "Compare color analysis in Lincoln, Nebraska: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "For a Lincoln appointment, the take-home reference can be as important as the session length. Ask to see what the palette looks like and how you are expected to use it. A fee is easier to judge when you know whether it buys a season label, an explanation, physical samples and support afterwards.",
+  "quickAnswer": "Budget for the appointment and inspect the take-home palette",
+  "category": "Local color guides",
+  "city": "Lincoln",
+  "region": "Nebraska",
+  "country": "US",
+  "lang": "en-US",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -10,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "Budget for the appointment and inspect the take-home palette",
+      "html": "<p>For a Lincoln appointment, the take-home reference can be as important as the session length. Ask to see what the palette looks like and how you are expected to use it. A fee is easier to judge when you know whether it buys a season label, an explanation, physical samples and support afterwards.</p><div class=\"provider\"><h3>Color Coated</h3><p>The Lincoln booking page lists personal color analysis at US$295 for 90 minutes at Normandy Court. Its policy asks for 48 hours’ notice when rescheduling. The provider’s main site also describes a physical canvas swatch book; confirm the materials included in your chosen booking.</p><a href=\"https://www.getcolorcoated.com/service-page/personal-color-analysis\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Lincoln",
+      "html": "<p>Choose a real use case before the visit: a work shirt, a jacket or the next special-occasion outfit. Ask how the palette helps you select a neutral and whether you need exact matches or can work with neighboring shades. Confirm the current address when booking; an event location and a provider’s regular studio are not always the same.</p><ul><li>Which physical and digital materials are included in the US$295 booking?</li><li>How can I reschedule if I cannot attend?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>Afterwards, keep the palette with a short list of things you actually need. Compare a candidate item with two pieces you already own before buying it. The app can help you explore combinations on your phone; physical samples help when the screen and shop lighting make a shade hard to judge. A consultation is most useful when it reduces indecision rather than simply adding more colors to your list.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Color Coated",
+      "url": "https://www.getcolorcoated.com/service-page/personal-color-analysis"
+    },
+    {
+      "title": "Color Coated — consultation materials",
+      "url": "https://www.getcolorcoated.com/"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

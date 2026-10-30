@@ -1,0 +1,52 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-guelph",
+  "title": "Colour analysis in Guelph: app or in-person?",
+  "seoTitle": "Colour Analysis in Guelph | Local Options & App",
+  "description": "Compare colour analysis in Guelph, Ontario: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "For colour analysis in Guelph, check both the regular package and any temporary promotion. A discount can be useful, but it should not obscure when you receive your materials or whether the group price is per person. Compare the final amount and deliverables in writing.",
+  "quickAnswer": "Separate regular pricing, promotions and delivered materials",
+  "category": "Local colour guides",
+  "city": "Guelph",
+  "region": "Ontario",
+  "country": "CA",
+  "lang": "en-CA",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -29,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "Separate regular pricing, promotions and delivered materials",
+      "html": "<p>For colour analysis in Guelph, check both the regular package and any temporary promotion. A discount can be useful, but it should not obscure when you receive your materials or whether the group price is per person. Compare the final amount and deliverables in writing.</p><div class=\"provider\"><h3>Posy House Styling</h3><p>The Guelph menu lists an individual session of about 1.5 hours at C$350 plus HST, using 16 categories. It describes a take-home card and a 45-colour swatch book delivered later. Group pricing is per person. The page advertises a launch discount, so confirm its current terms rather than assuming it remains available.</p><a href=\"https://www.posyhousestyling.com/colour-analysis\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Guelph",
+      "html": "<p>Ask when the swatch book arrives and what you can use immediately after the appointment. If bringing makeup or natural-hair photos, follow the provider’s preparation instructions. For a group, confirm that every guest receives the same references and enough individual discussion. Do not assume that a virtual option is bookable when the website still describes it as coming soon.</p><ul><li>What is the final price after HST and any currently valid promotion?</li><li>When will my swatch book arrive, and what do I receive on the day?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>Use the waiting period for any delivered materials to build a small outfit plan from existing clothes. Choose a neutral, two accents and one accessory, then note which combinations feel easy to wear. Stylist AI can help you explore those ideas on your phone. A live appointment adds physical comparison and conversation; choose it when that is the kind of support you want.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Posy House Styling",
+      "url": "https://www.posyhousestyling.com/colour-analysis"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

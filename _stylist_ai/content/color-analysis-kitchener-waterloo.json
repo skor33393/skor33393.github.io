@@ -1,0 +1,52 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-kitchener-waterloo",
+  "title": "Colour analysis in Kitchener–Waterloo: app or in-person?",
+  "seoTitle": "Colour Analysis in Kitchener–Waterloo | Local Options & App",
+  "description": "Compare colour analysis in Kitchener–Waterloo, Ontario: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "A Kitchener–Waterloo colour search can also surface personal styling, shopping and wardrobe advice. Those services may be valuable, but they answer different questions. Decide whether you mainly want colours for your face, help combining outfits, or a broader review of shapes and style before choosing a package.",
+  "quickAnswer": "Choose colour guidance or a broader personal-style appointment",
+  "category": "Local colour guides",
+  "city": "Kitchener–Waterloo",
+  "region": "Ontario",
+  "country": "CA",
+  "lang": "en-CA",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -30,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "Choose colour guidance or a broader personal-style appointment",
+      "html": "<p>A Kitchener–Waterloo colour search can also surface personal styling, shopping and wardrobe advice. Those services may be valuable, but they answer different questions. Decide whether you mainly want colours for your face, help combining outfits, or a broader review of shapes and style before choosing a package.</p><div class=\"provider\"><h3>House of Colour — Tobi Boisvert</h3><p>The Kitchener–Waterloo stylist profile describes colour analysis and personal-style services with Tobi Boisvert. A current consultation price was not visible in the reviewed page. Ask for the specific booking location, session scope and included palette materials.</p><a href=\"https://www.houseofcolourcanada.ca/stylists/tobi-boisvert-kitchener-waterloo\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Kitchener–Waterloo",
+      "html": "<p>Bring two examples of the problem you want solved: a shirt colour that feels wrong and an outfit that never comes together, for instance. Ask which concern is covered by colour analysis and which belongs in a separate style session. Confirm the consultation language if that matters to you, along with the final price and reference format.</p><ul><li>Which of my questions are covered by colour analysis versus personal style?</li><li>What is the current location, language and complete price of the session?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>For a first experiment, keep the outfit shape unchanged and compare two colour combinations. If the difficulty is mostly about proportion or fit, a new palette alone may not resolve it. Stylist AI offers a convenient place to explore colours and combinations, while a live consultant can discuss the physical garments and your preferences in more detail.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "House of Colour — Tobi Boisvert",
+      "url": "https://www.houseofcolourcanada.ca/stylists/tobi-boisvert-kitchener-waterloo"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

@@ -1,0 +1,52 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-victoria-bc",
+  "title": "Colour analysis in Victoria: app or in-person?",
+  "seoTitle": "Colour Analysis in Victoria | Local Options & App",
+  "description": "Compare colour analysis in Victoria, British Columbia: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "For colour analysis in Victoria, compare the materials as well as the appointment itself. A mini session may be enough for an introduction, while a physical wallet may matter if you regularly compare fabrics in shops. The right purchase depends on how you intend to use the result afterwards.",
+  "quickAnswer": "A mini consultation and a full fabric-wallet package differ",
+  "category": "Local colour guides",
+  "city": "Victoria",
+  "region": "British Columbia",
+  "country": "CA",
+  "lang": "en-CA",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -21,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "A mini consultation and a full fabric-wallet package differ",
+      "html": "<p>For colour analysis in Victoria, compare the materials as well as the appointment itself. A mini session may be enough for an introduction, while a physical wallet may matter if you regularly compare fabrics in shops. The right purchase depends on how you intend to use the result afterwards.</p><div class=\"provider\"><h3>Beautiful You Consulting</h3><p>The Victoria provider distinguishes mini, full and online consultations. Its full service describes makeup application and a wallet with 36 fabric swatches; the mini uses a digital card instead of that fabric wallet. Confirm the current package price and availability directly.</p><a href=\"https://byiconsulting.com/pages/colour-analysis\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Victoria",
+      "html": "<p>Ask what the mini establishes, which questions it leaves for the full consultation and whether upgrading later would duplicate the work. If you want makeup help, distinguish recommendations from an actual application or lesson. For an online appointment, ask who reviews your photos and how the discussion takes place; a human virtual consultation and an app are different services.</p><ul><li>What does the mini include that I can use immediately?</li><li>Is the physical fabric wallet included in the package I selected?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>Keep the first application practical: one top, one neutral and one accessory from your existing wardrobe. A physical wallet is useful beside fabric, and a digital palette is convenient when planning or browsing. Stylist AI adds photo-based exploration and everyday color tools, so compare those functions with the consultant’s deliverables instead of assuming that every digital option is the same.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Beautiful You Consulting",
+      "url": "https://byiconsulting.com/pages/colour-analysis"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

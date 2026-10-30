@@ -1,0 +1,52 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-chattanooga",
+  "title": "Color analysis in Chattanooga: app or in-person?",
+  "seoTitle": "Color Analysis in Chattanooga | Local Options & App",
+  "description": "Compare color analysis in Chattanooga, Tennessee: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "Chattanooga offers a useful example of why headline prices need context. A US$55 introduction and a US$550 full session can appear on the same page because they cover different amounts of work. Choose whether you want to solve one color problem or explore a broader collection before comparing the figures.",
+  "quickAnswer": "One color group is not a full analysis",
+  "category": "Local color guides",
+  "city": "Chattanooga",
+  "region": "Tennessee",
+  "country": "US",
+  "lang": "en-US",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -14,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "One color group is not a full analysis",
+      "html": "<p>Chattanooga offers a useful example of why headline prices need context. A US$55 introduction and a US$550 full session can appear on the same page because they cover different amounts of work. Choose whether you want to solve one color problem or explore a broader collection before comparing the figures.</p><div class=\"provider\"><h3>elea blake</h3><p>The Chattanooga provider lists a full in-person analysis at US$550 for four to six hours with 36 swatches. A single-color-group appointment is US$55 for one to one-and-a-half hours with three swatches. The full service also describes makeup guidance and custom shopping references.</p><a href=\"https://eleablake.com/color-analysis\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Chattanooga",
+      "html": "<p>If lipstick is the immediate concern, ask whether a single-group consultation is appropriate and what it excludes. For a full visit, plan for the stated four-to-six-hour duration and clarify whether product purchases are optional extras. Ask how the physical swatches relate to the makeup range and whether you can use them with products and clothes from other shops.</p><ul><li>Am I reserving one color group or the complete draping service?</li><li>Are cosmetics included in the fee or purchased separately?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>An app can help you compare several color directions quickly, but it does not mix or apply a physical cosmetic formula. Use previews to decide which family you want to explore, then evaluate real products for finish, texture and wear. If you choose the studio service, record a few combinations you will actually use rather than feeling obliged to buy every recommended shade at once.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "elea blake",
+      "url": "https://eleablake.com/color-analysis"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

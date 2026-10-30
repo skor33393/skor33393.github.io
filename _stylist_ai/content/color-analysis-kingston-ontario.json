@@ -1,0 +1,52 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-kingston-ontario",
+  "title": "Colour analysis in Kingston: app or in-person?",
+  "seoTitle": "Colour Analysis in Kingston | Local Options & App",
+  "description": "Compare colour analysis in Kingston, Ontario: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "A colour-analysis search for Kingston can lead to a travelling consultant or a past event. The listing is useful as a provider lead, but it does not establish that a local appointment is available today. Check the next visit before arranging your schedule or paying a deposit.",
+  "quickAnswer": "Confirm the next visiting date before paying for a session",
+  "category": "Local colour guides",
+  "city": "Kingston",
+  "region": "Ontario",
+  "country": "CA",
+  "lang": "en-CA",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -28,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "Confirm the next visiting date before paying for a session",
+      "html": "<p>A colour-analysis search for Kingston can lead to a travelling consultant or a past event. The listing is useful as a provider lead, but it does not establish that a local appointment is available today. Check the next visit before arranging your schedule or paying a deposit.</p><div class=\"provider\"><h3>French Touch of Colour</h3><p>The provider’s schedule showed Kingston visits on October 22–23, 2026, which had already passed when this guide was checked on October 30. Its menu lists an Essential service at C$210 for about an hour and a Complete service at C$275 for 90 minutes, with additional makeup review and follow-up. Ask about the next Kingston date.</p><a href=\"https://frenchtouchofcolour.com/\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Kingston",
+      "html": "<p>Ask whether a future Kingston session is confirmed, where it will take place and which packages will be offered. If makeup is your main concern, compare the basic colour work with the more detailed makeup review rather than choosing on duration alone. Keep a written record of the appointment date, cancellation terms and what happens if the visiting event changes.</p><ul><li>When is the next confirmed Kingston appointment date?</li><li>Does my chosen package include makeup review and follow-up?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>While waiting for availability, explore one palette and two outfit combinations at home. The app can help you build a short list of questions for a later consultation. Bring examples of what still feels uncertain, such as a difficult neutral or two similar lip colours. That makes the eventual appointment more useful than repeating a broad request to be told your season.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "French Touch of Colour",
+      "url": "https://frenchtouchofcolour.com/"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

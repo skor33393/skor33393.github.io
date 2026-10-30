@@ -1,0 +1,52 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-knoxville",
+  "title": "Color analysis in Knoxville: app or in-person?",
+  "seoTitle": "Color Analysis in Knoxville | Local Options & App",
+  "description": "Compare color analysis in Knoxville, Tennessee: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "A Knoxville palette can be useful even if you prefer vintage and secondhand clothes to a new wardrobe. Resale shopping rarely offers the exact item in ten shades. The skill worth learning is how to spot a promising color relationship and work with an imperfect match.",
+  "quickAnswer": "Take the palette into secondhand shopping",
+  "category": "Local color guides",
+  "city": "Knoxville",
+  "region": "Tennessee",
+  "country": "US",
+  "lang": "en-US",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -15,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "Take the palette into secondhand shopping",
+      "html": "<p>A Knoxville palette can be useful even if you prefer vintage and secondhand clothes to a new wardrobe. Resale shopping rarely offers the exact item in ten shades. The skill worth learning is how to spot a promising color relationship and work with an imperfect match.</p><div class=\"provider\"><h3>Luna Loft Salon</h3><p>Luna Loft describes seasonal color analysis with Cori McCann in Knoxville’s Old City, covering clothing, makeup and hair directions. Its page also names local vintage and resale connections, including Retro Local and Wabi Wear &amp; Repair. A current consultation fee was not shown.</p><a href=\"https://www.lunaloftsalon.com/color-analysis\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Knoxville",
+      "html": "<p>Ask the analyst how to judge a patterned garment, a faded fabric and a color that sits between two swatches. Bring one secondhand find you love but struggle to style. Clarify whether the consultation includes a written palette and whether shopping or hair services cost extra. A recommendation to visit a shop is not the same as a guided shopping appointment.</p><ul><li>Can the session help with prints and secondhand garments?</li><li>Are shopping support and hair services separate bookings?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>When browsing, start with one wardrobe gap and two colors that would work with what you own. Use the phone palette as a quick reference, then examine the real fabric in better light before deciding. If a print contains several colors, look at the overall effect and the color nearest your face. A favorite piece can still work through layering and placement without matching every palette rule.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Luna Loft Salon",
+      "url": "https://www.lunaloftsalon.com/color-analysis"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

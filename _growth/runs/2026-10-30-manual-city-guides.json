@@ -1,0 +1,523 @@
+{
+  "run_id": "2026-10-30-manual-city-guides",
+  "status": "ready_to_publish",
+  "created_at": "2026-10-30T12:01:38.692961+00:00",
+  "authorization": "User requested 30 smaller US/Canada city articles, onboarding/features and app-versus-in-person comparison; then native-language Singapore, Korea and Japan guides. Normal publication authorized.",
+  "counts": {
+    "us": 20,
+    "canada": 10,
+    "singapore_en": 1,
+    "singapore_zh": 1,
+    "korea_ko": 1,
+    "japan_ja": 1,
+    "new_articles": 34,
+    "new_directory": 1
+  },
+  "research": {
+    "method": "Public web search and primary provider pages; official Apple lookup API verified availability and release 2.0.2 in US, CA, SG, KR and JP. This manual geographic expansion is not a Reddit-question run.",
+    "limitations": [
+      "No measured keyword volume or localized Google rank/competition claim. Smaller markets are a selection hypothesis.",
+      "Some provider pages were available only through indexed text or professional-directory records. Unknown prices remain unquoted; explicit quotes are dated and require provider confirmation.",
+      "Kingston visiting dates were past and are explicitly described as such.",
+      "No provider consultation was personally tested."
+    ],
+    "raw_evidence_outside_repo": "../seo-city-guides/2026-10-30/research.json"
+  },
+  "image": {
+    "model": "nano_banana_2_1",
+    "job_ids": [
+      "a82f10ca-d7f9-4b2d-a981-6e00f0cb99b2",
+      "71b9af40-703d-42fa-b0e3-2ddc80f61b57",
+      "3a72c10e-f272-4dfd-a1b2-38b6222f65fb",
+      "976a3ac0-fde2-4ef6-ae92-7b593e29cff8"
+    ],
+    "credits": 12,
+    "production_bytes": 382256,
+    "masters_outside_repo": true,
+    "qa": "All four inspected; new model, all twenty recommendations visible, no Color Passport title."
+  },
+  "seo": [
+    "Original city-specific service comparisons and practical booking advice",
+    "Separate indexable static URLs, unique titles/descriptions and self-canonicals",
+    "Article and Breadcrumb schema with truthful publisher, sources and language",
+    "Reciprocal en-SG/zh-Hans-SG hreflang for equivalent Singapore pages",
+    "Existing submitted sitemap updated; sitemap presence does not establish indexing",
+    "Responsive compressed images and no new external scripts",
+    "City guides excluded from regular journal per user instruction"
+  ],
+  "validation": [
+    "Cross-journal validator passed: 43 Pelvic Gym + 61 Stylist AI pages",
+    "City-guide validator passed: all 34",
+    "Both analytics consent suites passed",
+    "Browser QA: desktop 1280 and mobile 390; no page overflow; image loaded; three-step flow; native-language copy; Singapore language switch; city search"
+  ],
+  "protected_pages": "Advertising landing, shared assets, legal pages, existing ordinary articles and regular journal homepage unchanged.",
+  "articles": [
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-sioux-falls/",
+      "lang": "en-US",
+      "city": "Sioux Falls",
+      "country": "US",
+      "selection_reason": "Color analysis inside a broader image-consulting package",
+      "sources": [
+        {
+          "title": "Image Power Play — professional profile",
+          "url": "https://www.aici.org/members/?id=59075241"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-des-moines/",
+      "lang": "en-US",
+      "city": "Des Moines",
+      "country": "US",
+      "selection_reason": "Check the studio location and separate color from style",
+      "sources": [
+        {
+          "title": "House of Colour — Kristen Hanson",
+          "url": "https://www.houseofcolour.com/stylists/kristen-hanson-des-moines-iowa"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-burlington-vermont/",
+      "lang": "en-US",
+      "city": "Burlington",
+      "country": "US",
+      "selection_reason": "Plan for a nearby home studio and confirm access",
+      "sources": [
+        {
+          "title": "House of Colour — Christina Merhar",
+          "url": "https://www.houseofcolour.com/stylists/christina-merhar-essex-junction-vermont"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-singapore/",
+      "lang": "en-SG",
+      "city": "Singapore",
+      "country": "SG",
+      "selection_reason": "Compare individual attention, not just the group total",
+      "sources": [
+        {
+          "title": "Colour by Kim — reservation menu",
+          "url": "https://www.colourbykim.com/personalcolourreservation"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-spokane/",
+      "lang": "en-US",
+      "city": "Spokane",
+      "country": "US",
+      "selection_reason": "Seasonal palettes and custom fabric palettes are different purchases",
+      "sources": [
+        {
+          "title": "Signature Style Systems",
+          "url": "https://signaturestylesystems.com/personal-color-analysis/"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-kelowna/",
+      "lang": "en-CA",
+      "city": "Kelowna",
+      "country": "CA",
+      "selection_reason": "A mobile Okanagan booking is different from a Kelowna studio",
+      "sources": [
+        {
+          "title": "Muse by Laura Lye",
+          "url": "https://www.musebylauralye.com/personal-colour-analysis"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-grand-rapids/",
+      "lang": "en-US",
+      "city": "Grand Rapids",
+      "country": "US",
+      "selection_reason": "Compare analysis, hair advice and wardrobe services separately",
+      "sources": [
+        {
+          "title": "Honey salon service menu",
+          "url": "https://honey.glossgenius.com/services"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-eugene/",
+      "lang": "en-US",
+      "city": "Eugene",
+      "country": "US",
+      "selection_reason": "When a custom palette matters more than a season name",
+      "sources": [
+        {
+          "title": "Bernie Burson, Personal Color Designer",
+          "url": "https://bernieburson.com/"
+        },
+        {
+          "title": "Color Designers International — member locations",
+          "url": "https://colordesigners.org/members/"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-omaha/",
+      "lang": "en-US",
+      "city": "Omaha",
+      "country": "US",
+      "selection_reason": "“Omaha area” can mean a trip to a nearby community",
+      "sources": [
+        {
+          "title": "Color Rx Studio",
+          "url": "https://www.colorrxstudio.com/"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-nanaimo/",
+      "lang": "en-CA",
+      "city": "Nanaimo",
+      "country": "CA",
+      "selection_reason": "Separate personal colour guidance from a salon hair service",
+      "sources": [
+        {
+          "title": "Colours with Krysta",
+          "url": "https://colouranalysisvancouverisland.ca/colour-consulting/"
+        },
+        {
+          "title": "International Image Institute — analyst directory",
+          "url": "https://imageinstitute.com/heart-centered/find-my-color-analyst/"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-portland-maine/",
+      "lang": "en-US",
+      "city": "Portland",
+      "country": "US",
+      "selection_reason": "A digital palette can come with an in-person session",
+      "sources": [
+        {
+          "title": "True Colors Maine",
+          "url": "https://www.truecolorsmaine.com/services-4"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-ann-arbor/",
+      "lang": "en-US",
+      "city": "Ann Arbor",
+      "country": "US",
+      "selection_reason": "What a two-hour appointment should help you take home",
+      "sources": [
+        {
+          "title": "Jenny Salinas",
+          "url": "https://www.jennysalinas.com/service-page/color-analysis"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-guelph/",
+      "lang": "en-CA",
+      "city": "Guelph",
+      "country": "CA",
+      "selection_reason": "Separate regular pricing, promotions and delivered materials",
+      "sources": [
+        {
+          "title": "Posy House Styling",
+          "url": "https://www.posyhousestyling.com/colour-analysis"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-chattanooga/",
+      "lang": "en-US",
+      "city": "Chattanooga",
+      "country": "US",
+      "selection_reason": "One color group is not a full analysis",
+      "sources": [
+        {
+          "title": "elea blake",
+          "url": "https://eleablake.com/color-analysis"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-madison/",
+      "lang": "en-US",
+      "city": "Madison",
+      "country": "US",
+      "selection_reason": "Make the palette useful for clothes you make as well as buy",
+      "sources": [
+        {
+          "title": "House of Colour — Melissa Jenkins",
+          "url": "https://www.houseofcolour.com/stylists/melissa-jenkins-central-madison-wisconsin"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-kitchener-waterloo/",
+      "lang": "en-CA",
+      "city": "Kitchener–Waterloo",
+      "country": "CA",
+      "selection_reason": "Choose colour guidance or a broader personal-style appointment",
+      "sources": [
+        {
+          "title": "House of Colour — Tobi Boisvert",
+          "url": "https://www.houseofcolourcanada.ca/stylists/tobi-boisvert-kitchener-waterloo"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-halifax/",
+      "lang": "en-CA",
+      "city": "Halifax",
+      "country": "CA",
+      "selection_reason": "Compare a solo consultation with a shared appointment",
+      "sources": [
+        {
+          "title": "High Chroma",
+          "url": "https://highchroma.ca/services"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-asheville/",
+      "lang": "en-US",
+      "city": "Asheville",
+      "country": "US",
+      "selection_reason": "Choose between studio, home and group sessions",
+      "sources": [
+        {
+          "title": "The Hue Muse",
+          "url": "https://www.thehuemuse.com/"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-victoria-bc/",
+      "lang": "en-CA",
+      "city": "Victoria",
+      "country": "CA",
+      "selection_reason": "A mini consultation and a full fabric-wallet package differ",
+      "sources": [
+        {
+          "title": "Beautiful You Consulting",
+          "url": "https://byiconsulting.com/pages/colour-analysis"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-lincoln/",
+      "lang": "en-US",
+      "city": "Lincoln",
+      "country": "US",
+      "selection_reason": "Budget for the appointment and inspect the take-home palette",
+      "sources": [
+        {
+          "title": "Color Coated",
+          "url": "https://www.getcolorcoated.com/service-page/personal-color-analysis"
+        },
+        {
+          "title": "Color Coated — consultation materials",
+          "url": "https://www.getcolorcoated.com/"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-knoxville/",
+      "lang": "en-US",
+      "city": "Knoxville",
+      "country": "US",
+      "selection_reason": "Take the palette into secondhand shopping",
+      "sources": [
+        {
+          "title": "Luna Loft Salon",
+          "url": "https://www.lunaloftsalon.com/color-analysis"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-kingston-ontario/",
+      "lang": "en-CA",
+      "city": "Kingston",
+      "country": "CA",
+      "selection_reason": "Confirm the next visiting date before paying for a session",
+      "sources": [
+        {
+          "title": "French Touch of Colour",
+          "url": "https://frenchtouchofcolour.com/"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/ko/seoul-personal-color/",
+      "lang": "ko-KR",
+      "city": "서울",
+      "country": "KR",
+      "selection_reason": "진단 이름보다 상담 범위를 먼저 확인하세요",
+      "sources": [
+        {
+          "title": "컬러시그널 공식 홈페이지",
+          "url": "https://colorsignal.co.kr/"
+        },
+        {
+          "title": "Stylist AI — 한국 App Store",
+          "url": "https://apps.apple.com/kr/app/id6739435502"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-saskatoon/",
+      "lang": "en-CA",
+      "city": "Saskatoon",
+      "country": "CA",
+      "selection_reason": "A mini undertone session does not confirm a full season",
+      "sources": [
+        {
+          "title": "KR Studio",
+          "url": "https://katereding.com/online-booking"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-huntsville/",
+      "lang": "en-US",
+      "city": "Huntsville",
+      "country": "US",
+      "selection_reason": "Compare group prices per person and per service",
+      "sources": [
+        {
+          "title": "Twelve Season Studio",
+          "url": "https://twelveseasonstudio.com/color-services/"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-lexington/",
+      "lang": "en-US",
+      "city": "Lexington",
+      "country": "US",
+      "selection_reason": "Use color advice before a hair appointment",
+      "sources": [
+        {
+          "title": "LUX Color Collective",
+          "url": "https://www.luxhairbar.com/lux-color-collective"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-moncton/",
+      "lang": "en-CA",
+      "city": "Moncton",
+      "country": "CA",
+      "selection_reason": "Check whether your appointment is in Moncton or Riverview",
+      "sources": [
+        {
+          "title": "The Hue Revival",
+          "url": "https://thehuerevival.ca/"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-regina/",
+      "lang": "en-CA",
+      "city": "Regina",
+      "country": "CA",
+      "selection_reason": "Ask what the method produces, not just what it is called",
+      "sources": [
+        {
+          "title": "No. 12 Atelier",
+          "url": "https://www.no12atelier.com/"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-boise/",
+      "lang": "en-US",
+      "city": "Boise",
+      "country": "US",
+      "selection_reason": "A quick consultation or a deeper wardrobe plan?",
+      "sources": [
+        {
+          "title": "Taylor Made by Taylor Swallow",
+          "url": "https://taylormadebytaylorswallow.glossgenius.com/services"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-bend/",
+      "lang": "en-US",
+      "city": "Bend",
+      "country": "US",
+      "selection_reason": "Check the introductory fee and physical-swatch extras",
+      "sources": [
+        {
+          "title": "Styled by Sarah Richards",
+          "url": "https://www.styledbysarahrichards.com/coloranalysis"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-fort-collins/",
+      "lang": "en-US",
+      "city": "Fort Collins",
+      "country": "US",
+      "selection_reason": "A makeup application is not the same as a lesson",
+      "sources": [
+        {
+          "title": "Deanna Boyd",
+          "url": "https://www.deannaboyd.com/color-analysis"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/color-analysis-greenville-sc/",
+      "lang": "en-US",
+      "city": "Greenville",
+      "country": "US",
+      "selection_reason": "Confirm the full quote and the session setting",
+      "sources": [
+        {
+          "title": "GVL Color Queen",
+          "url": "https://www.gvlcolorqueen.com/contact"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/ja/tokyo-personal-color/",
+      "lang": "ja-JP",
+      "city": "東京",
+      "country": "JP",
+      "selection_reason": "4シーズン・16タイプ・セット診断を分けて比較",
+      "sources": [
+        {
+          "title": "styleRELIER 公式料金表",
+          "url": "https://stylerelier.com/price/"
+        },
+        {
+          "title": "Stylist AI — 日本のApp Store",
+          "url": "https://apps.apple.com/jp/app/id6739435502"
+        }
+      ]
+    },
+    {
+      "url": "https://bestme.mobi/stylist_ai/blog/zh/colour-analysis-singapore/",
+      "lang": "zh-Hans-SG",
+      "city": "新加坡",
+      "country": "SG",
+      "selection_reason": "先看每个人获得什么，再比较套餐价格",
+      "sources": [
+        {
+          "title": "Colour by Kim 官方预约菜单",
+          "url": "https://www.colourbykim.com/personalcolourreservation"
+        }
+      ]
+    }
+  ],
+  "directory_url": "https://bestme.mobi/stylist_ai/blog/color-analysis-near-you/",
+  "live_verification": null,
+  "search_indexing": "Not yet checked for new URLs",
+  "notifications": "Telegram destination remains pending; report here."
+}

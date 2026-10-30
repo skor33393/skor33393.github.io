@@ -1,0 +1,52 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-grand-rapids",
+  "title": "Color analysis in Grand Rapids: app or in-person?",
+  "seoTitle": "Color Analysis in Grand Rapids | Local Options & App",
+  "description": "Compare color analysis in Grand Rapids, Michigan: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "Grand Rapids searches can mix salon color advice with full personal color analysis and wardrobe services. Start with the decision that led you to search. A hair change, a closet refresh and a makeup update can share color language while needing different appointment scopes.",
+  "quickAnswer": "Compare analysis, hair advice and wardrobe services separately",
+  "category": "Local color guides",
+  "city": "Grand Rapids",
+  "region": "Michigan",
+  "country": "US",
+  "lang": "en-US",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -7,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "Compare analysis, hair advice and wardrobe services separately",
+      "html": "<p>Grand Rapids searches can mix salon color advice with full personal color analysis and wardrobe services. Start with the decision that led you to search. A hair change, a closet refresh and a makeup update can share color language while needing different appointment scopes.</p><div class=\"provider\"><h3>Honey salon service menu</h3><p>The Grand Rapids salon booking menu lists a full color-analysis service at US$148 for 75 minutes and a hair-color analysis at US$65 for 45 minutes. These are separate service listings, so the smaller hair-focused booking should not be presented as a complete wardrobe analysis.</p><a href=\"https://honey.glossgenius.com/services\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Grand Rapids",
+      "html": "<p>For a hair-focused visit, ask whether the service recommends a color direction, includes a strand test, or includes any actual coloring. For a wardrobe visit, check whether clothing neutrals and combinations are covered and what reference you keep. A short consultation price should not be confused with the total cost of hair treatment or new clothes.</p><ul><li>Is this appointment about hair color only or clothing and makeup too?</li><li>Does the price include any treatment or just the consultation?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>Keep the first experiment small. If you are considering darker hair, collect examples and compare a preview before discussing the practical salon process. If your wardrobe is the issue, make three outfits from pieces you already own using a new accent. You can explore those directions in an app, but a stylist needs to assess hair condition and the actual products before a chemical service.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Honey salon service menu",
+      "url": "https://honey.glossgenius.com/services"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

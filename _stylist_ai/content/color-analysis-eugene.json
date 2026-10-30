@@ -1,0 +1,56 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-eugene",
+  "title": "Color analysis in Eugene: app or in-person?",
+  "seoTitle": "Color Analysis in Eugene | Local Options & App",
+  "description": "Compare color analysis in Eugene, Oregon: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "Eugene has an option for people who want personal fabric references instead of another four-season label. That changes what you should ask during an inquiry. The relevant comparison is the materials, explanation and follow-up you receive—not whether the consultant uses the same season terminology as an app.",
+  "quickAnswer": "When a custom palette matters more than a season name",
+  "category": "Local color guides",
+  "city": "Eugene",
+  "region": "Oregon",
+  "country": "US",
+  "lang": "en-US",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -4,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "When a custom palette matters more than a season name",
+      "html": "<p>Eugene has an option for people who want personal fabric references instead of another four-season label. That changes what you should ask during an inquiry. The relevant comparison is the materials, explanation and follow-up you receive—not whether the consultant uses the same season terminology as an app.</p><div class=\"provider\"><h3>Bernie Burson, Personal Color Designer</h3><p>Bernie Burson describes an individually designed fabric palette built around the client’s coloring rather than a preprinted seasonal palette. The provider’s professional directory profile identifies Eugene. A current appointment fee was not visible on the reviewed home page.</p><a href=\"https://bernieburson.com/\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Eugene",
+      "html": "<p>Explain why you are considering a custom palette. Perhaps a standard season contains very few colors you enjoy, or you sew and want to compare real textiles. Ask how the palette is assembled, how many physical samples are supplied, and whether the consultation includes an explanation of useful combinations. Request a written total and the expected appointment length before reserving.</p><ul><li>What physical samples and written guidance come with the custom palette?</li><li>How will the session address the clothes or textiles I already use?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>Try applying the result to a small project first: a shirt and cardigan, a fabric purchase, or a lipstick you wear often. Keep notes about the colors you like in real use. If Stylist AI gives a seasonal direction, treat it as a separate practical reference rather than translating a bespoke palette into an exact season. Different services may answer different styling questions.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bernie Burson, Personal Color Designer",
+      "url": "https://bernieburson.com/"
+    },
+    {
+      "title": "Color Designers International — member locations",
+      "url": "https://colordesigners.org/members/"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

@@ -1,0 +1,52 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-burlington-vermont",
+  "title": "Color analysis in Burlington: app or in-person?",
+  "seoTitle": "Color Analysis in Burlington | Local Options & App",
+  "description": "Compare color analysis in Burlington, Vermont: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "A Burlington, Vermont search may lead to nearby Essex Junction rather than a downtown storefront. That is useful to know before booking transport or inviting a friend. The actual location, access and appointment format should be clear before you pay for a personal consultation.",
+  "quickAnswer": "Plan for a nearby home studio and confirm access",
+  "category": "Local color guides",
+  "city": "Burlington",
+  "region": "Vermont",
+  "country": "US",
+  "lang": "en-US",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -20,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "Plan for a nearby home studio and confirm access",
+      "html": "<p>A Burlington, Vermont search may lead to nearby Essex Junction rather than a downtown storefront. That is useful to know before booking transport or inviting a friend. The actual location, access and appointment format should be clear before you pay for a personal consultation.</p><div class=\"provider\"><h3>House of Colour — Christina Merhar</h3><p>The provider serves the Burlington area from an Essex Junction home studio. The profile describes a main-floor space with a front-porch step and asks visitors with access needs to get in touch. A current color-analysis price was not visible in the reviewed text.</p><a href=\"https://www.houseofcolour.com/stylists/christina-merhar-essex-junction-vermont\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Burlington",
+      "html": "<p>Ask for arrival instructions, the current total and any access accommodations you need. Confirm whether the booking is for color analysis alone or also includes style advice. If you are bringing garments or makeup, ask how many items are practical within the session. Avoid relying on an old map listing for a private appointment address.</p><ul><li>What are the current arrival and accessibility arrangements?</li><li>Which services and take-home references are included in my booking?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>If travel or access makes the visit difficult, you can begin exploring colors on your phone at home. Use even light and one familiar outfit, then write down the questions a live consultant might help answer. An app offers convenience; an in-person session offers discussion and physical draping. The decision can be about access and learning style as much as the palette itself.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "House of Colour — Christina Merhar",
+      "url": "https://www.houseofcolour.com/stylists/christina-merhar-essex-junction-vermont"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

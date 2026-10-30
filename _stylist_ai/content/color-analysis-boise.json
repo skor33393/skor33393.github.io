@@ -1,0 +1,52 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-boise",
+  "title": "Color analysis in Boise: app or in-person?",
+  "seoTitle": "Color Analysis in Boise | Local Options & App",
+  "description": "Compare color analysis in Boise, Idaho: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "Boise shoppers can start with a short salon appointment without assuming that every consultation is a multi-hour styling package. The important question is what happens after the season is named: will you know how to choose an everyday top, a useful neutral and a lipstick, or do you need a longer conversation?",
+  "quickAnswer": "A quick consultation or a deeper wardrobe plan?",
+  "category": "Local color guides",
+  "city": "Boise",
+  "region": "Idaho",
+  "country": "US",
+  "lang": "en-US",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -1,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "A quick consultation or a deeper wardrobe plan?",
+      "html": "<p>Boise shoppers can start with a short salon appointment without assuming that every consultation is a multi-hour styling package. The important question is what happens after the season is named: will you know how to choose an everyday top, a useful neutral and a lipstick, or do you need a longer conversation?</p><div class=\"provider\"><h3>Taylor Made by Taylor Swallow</h3><p>The booking menu lists personal color analysis at US$75 for 30 minutes, including a take-home swatch. It also mentions outfit-board and wardrobe follow-up support. A separate free salon consultation on the same menu is not the paid color-analysis service.</p><a href=\"https://taylormadebytaylorswallow.glossgenius.com/services\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Boise",
+      "html": "<p>For a 30-minute booking, pick one decision to solve. Bring two tops you already wear and a photograph of the item you keep returning. Ask the analyst to explain the difference between those choices before discussing a whole new wardrobe. If you want closet editing or a detailed shopping list, request that scope separately so the short appointment does not become an expensive introduction.</p><ul><li>Can the 30-minute appointment cover my specific purchase?</li><li>Does the quoted service include a physical swatch and follow-up questions?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>Use your first week to compare one suggested color against an existing favorite. Keep the garment, lighting and makeup consistent, and judge whether you actually like wearing it. A digital palette can accompany that experiment, while the physical swatch gives you something to hold beside fabric. Neither requires replacing every black, white or beige item you own.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Taylor Made by Taylor Swallow",
+      "url": "https://taylormadebytaylorswallow.glossgenius.com/services"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

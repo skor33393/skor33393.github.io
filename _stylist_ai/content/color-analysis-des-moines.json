@@ -1,0 +1,52 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-des-moines",
+  "title": "Color analysis in Des Moines: app or in-person?",
+  "seoTitle": "Color Analysis in Des Moines | Local Options & App",
+  "description": "Compare color analysis in Des Moines, Iowa: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "When searching for color analysis in Des Moines, check the actual appointment location rather than relying on the regional name. Also separate two questions: which colors you want to wear, and which clothing shapes or styles you prefer. A color appointment does not automatically include a complete personal-style consultation.",
+  "quickAnswer": "Check the studio location and separate color from style",
+  "category": "Local color guides",
+  "city": "Des Moines",
+  "region": "Iowa",
+  "country": "US",
+  "lang": "en-US",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -9,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "Check the studio location and separate color from style",
+      "html": "<p>When searching for color analysis in Des Moines, check the actual appointment location rather than relying on the regional name. Also separate two questions: which colors you want to wear, and which clothing shapes or styles you prefer. A color appointment does not automatically include a complete personal-style consultation.</p><div class=\"provider\"><h3>House of Colour — Kristen Hanson</h3><p>The Des Moines stylist profile lists an appointment-only studio in West Des Moines and describes both color and personal-style services. A current color-analysis fee was not visible in the reviewed page. Ask which service is included in the quote.</p><a href=\"https://www.houseofcolour.com/stylists/kristen-hanson-des-moines-iowa\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Des Moines",
+      "html": "<p>Write down one color problem and one style problem before contacting the studio. For example, finding a useful white shirt is a color question; choosing its neckline or cut is another discussion. Ask which questions the session covers and whether there is a follow-up option if you need help applying the palette. Include travel and any materials in your total budget.</p><ul><li>Is my appointment in West Des Moines, and what are the arrival instructions?</li><li>Am I booking color analysis, style analysis or a combined package?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>You can begin at home with a small comparison: two neutrals, two accents and one outfit you wear regularly. Stylist AI offers a phone-based way to explore a palette and combinations while you decide whether a live consultation would add value. Keep your shopping budget separate from the analysis fee so the visit does not become a reason to replace useful clothes immediately.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "House of Colour — Kristen Hanson",
+      "url": "https://www.houseofcolour.com/stylists/kristen-hanson-des-moines-iowa"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

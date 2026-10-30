@@ -20,6 +20,8 @@ for app in ['stylist_ai','pelvic_gym']:
         for article in articles if isinstance(articles,list) else [articles]:
             cover=article.get('illustration')
             if cover:urls.append('https://bestme.mobi'+cover['src'])
+for asset in (ROOT/'stylist_ai/blog/assets/city-guides').glob('*'):
+    if asset.is_file():urls.append('https://bestme.mobi/'+str(asset.relative_to(ROOT)))
 urls=list(dict.fromkeys(urls))
 def check(url):
     assert urlsplit(url).hostname=='bestme.mobi'

@@ -1,0 +1,56 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-nanaimo",
+  "title": "Colour analysis in Nanaimo: app or in-person?",
+  "seoTitle": "Colour Analysis in Nanaimo | Local Options & App",
+  "description": "Compare colour analysis in Nanaimo, British Columbia: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "Nanaimo readers may encounter colour analysis within a hair-salon setting. That can make it easy to connect palette ideas with a future hair discussion, but it does not mean that the analysis fee includes colouring or styling. Ask for the scope of each appointment separately.",
+  "quickAnswer": "Separate personal colour guidance from a salon hair service",
+  "category": "Local colour guides",
+  "city": "Nanaimo",
+  "region": "British Columbia",
+  "country": "CA",
+  "lang": "en-CA",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -23,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "Separate personal colour guidance from a salon hair service",
+      "html": "<p>Nanaimo readers may encounter colour analysis within a hair-salon setting. That can make it easy to connect palette ideas with a future hair discussion, but it does not mean that the analysis fee includes colouring or styling. Ask for the scope of each appointment separately.</p><div class=\"provider\"><h3>Colours with Krysta</h3><p>The provider’s indexed service page describes a 60-minute consultation using 16 seasonal categories, with clothing, makeup and jewellery guidance at KG Hair Salon. The colour-analyst directory also identifies Krysta Knott in Nanaimo. A current booking fee was not verified.</p><a href=\"https://colouranalysisvancouverisland.ca/colour-consulting/\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Nanaimo",
+      "html": "<p>If hair is your main reason for booking, bring a picture of your current colour and a few examples you like. Ask whether the analysis also covers clothing neutrals and makeup, what reference you keep, and whether the hair consultation needs another slot. A palette category should be the beginning of a conversation about the look you want.</p><ul><li>Is the consultation separate from hair colouring and styling?</li><li>What palette or written reference will I receive?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>Use a preview to compare broad directions before making a salon decision, then let the stylist assess the real hair and maintenance requirements. For your wardrobe, start with a familiar outfit and one alternative near-face colour. Stylist AI can keep that exploration on your phone while you decide whether hands-on guidance would be helpful.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Colours with Krysta",
+      "url": "https://colouranalysisvancouverisland.ca/colour-consulting/"
+    },
+    {
+      "title": "International Image Institute — analyst directory",
+      "url": "https://imageinstitute.com/heart-centered/find-my-color-analyst/"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

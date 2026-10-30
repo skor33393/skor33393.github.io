@@ -1,0 +1,52 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-saskatoon",
+  "title": "Colour analysis in Saskatoon: app or in-person?",
+  "seoTitle": "Colour Analysis in Saskatoon | Local Options & App",
+  "description": "Compare colour analysis in Saskatoon, Saskatchewan: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "Saskatoon has a clear example of why “colour analysis” is not one uniform product. A short introduction to undertone is different from a full seasonal consultation, and a makeup lesson adds another layer. Choose the level around what you need to learn rather than selecting the cheapest label.",
+  "quickAnswer": "A mini undertone session does not confirm a full season",
+  "category": "Local colour guides",
+  "city": "Saskatoon",
+  "region": "Saskatchewan",
+  "country": "CA",
+  "lang": "en-CA",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -24,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "A mini undertone session does not confirm a full season",
+      "html": "<p>Saskatoon has a clear example of why “colour analysis” is not one uniform product. A short introduction to undertone is different from a full seasonal consultation, and a makeup lesson adds another layer. Choose the level around what you need to learn rather than selecting the cheapest label.</p><div class=\"provider\"><h3>KR Studio</h3><p>KR Studio lists a C$99 mini lasting 15–30 minutes that excludes full season confirmation, a palette and makeup guidance. Its C$195 Essential session lasts 60–90 minutes and includes seasonal draping and a palette card. The C$295 Signature and C$395 Full experiences add further services.</p><a href=\"https://katereding.com/online-booking\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Saskatoon",
+      "html": "<p>If you want a season and a reference for shopping, check that the booking includes both. If you need help applying makeup, ask whether you will practise or only receive recommendations. The menu also lists a physical wallet separately, so confirm that extra before comparing totals. Check which digital materials are ready now rather than relying on anything marked as coming soon.</p><ul><li>Does this session confirm a season and include a palette?</li><li>Are a makeup lesson and physical swatch wallet included or extra?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>An app can be a starting point for exploring your palette and previewing colors. A live consultation can help when you want an explanation using physical drapes or a hands-on makeup lesson. After either route, test one neutral and two accents with your current wardrobe. Save the questions that remain instead of booking a second analysis simply because you want more certainty from a season name.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "KR Studio",
+      "url": "https://katereding.com/online-booking"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

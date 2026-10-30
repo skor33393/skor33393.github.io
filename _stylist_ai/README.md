@@ -15,3 +15,13 @@ Optional `illustration` fields are `src`, `alt`, `width`, and `height`. The cove
 Articles may specify a `related` array of existing article slugs. Use two genuinely useful next reads; the generator validates these links and displays their cards at the end.
 
 Active advertising protection (2026-10-26): do not edit `stylist_ai/index.html`, `stylist_ai/landing/`, or shared landing assets. Changes here must stay inside the blog and its own assets.
+
+## Local city guides (2026-10-30)
+
+Thirty US/Canada guides plus Singapore (English and Simplified Chinese), Seoul (Korean), and Tokyo (Japanese) use `kind: city` content and `city_pages.py`. They remain indexable and in the sitemap, but must not appear in the regular journal cards, homepage, navigation or its ItemList. The city directory is linked only within the city-guide collection. This follows the user's explicit preference; do not add a promotional city-directory panel to the journal.
+
+Lead with the generated "Find your best colors" visual, then Apple's official unmodified App Store badge, then the article title and introductory app flow. Do not restore the top "Browse all city guides" link or add a "Color Passport" screen heading. The interactive introduction previews the app; it does not analyze a visitor's photo or transmit their selection. Preserve the native Safari Smart App Banner (`app-id=6739435502`) on every page. Its visible presentation is controlled by Safari.
+
+The requested American campaign model was generated with Higgsfield Nano Banana 2.1; four language versions are compressed in blog-only `assets/city-guides/`. Masters and full research are outside the publication checkout in `../seo-city-guides/2026-10-30/`. Do not commit masters. Keep source dates, appointment locations, currencies, per-person versus total prices and availability limitations accurate. Never present us as a local studio or invent ratings, keyword volume or a guaranteed position. Hreflang connects equivalent translations only (the two Singapore versions); distinct cities are not translations.
+
+Run `python3 _stylist_ai/test-city-guides.py` in addition to the normal validators after changes. This checks journal exclusion, leading visual, Apple badge, Smart App Banner, locale relationships and consent controls. Keep localized page copy and visuals in the same language. Ordinary daily article targets are unchanged.

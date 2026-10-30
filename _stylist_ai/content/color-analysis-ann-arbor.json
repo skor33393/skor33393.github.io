@@ -1,0 +1,52 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-ann-arbor",
+  "title": "Color analysis in Ann Arbor: app or in-person?",
+  "seoTitle": "Color Analysis in Ann Arbor | Local Options & App",
+  "description": "Compare color analysis in Ann Arbor, Michigan: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "A two-hour Ann Arbor consultation gives you time for more than a quick season label, but its value still depends on what you want to learn. Decide whether your priority is an everyday wardrobe, a specific event outfit or makeup shades. A useful reference is one you can understand without the analyst sitting beside you.",
+  "quickAnswer": "What a two-hour appointment should help you take home",
+  "category": "Local color guides",
+  "city": "Ann Arbor",
+  "region": "Michigan",
+  "country": "US",
+  "lang": "en-US",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -8,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "What a two-hour appointment should help you take home",
+      "html": "<p>A two-hour Ann Arbor consultation gives you time for more than a quick season label, but its value still depends on what you want to learn. Decide whether your priority is an everyday wardrobe, a specific event outfit or makeup shades. A useful reference is one you can understand without the analyst sitting beside you.</p><div class=\"provider\"><h3>Jenny Salinas</h3><p>The Ann Arbor booking page lists US$250 for a two-hour color-analysis appointment with a swatch, booklet and makeup recommendations. Its cancellation terms refer to a 24-hour window and a deposit. Review those terms again before booking.</p><a href=\"https://www.jennysalinas.com/service-page/color-analysis\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Ann Arbor",
+      "html": "<p>Bring a small number of questions, not your entire closet. Ask the consultant to show why one neutral works better for your intended look and how to pair it with an accent. Find out how to use the take-home swatch with printed fabrics and what the booklet explains. Leave time to write down the combinations you would actually repeat.</p><ul><li>What does the booklet explain beyond my season name?</li><li>What happens to the deposit if I need to change the appointment?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>After the visit, make a three-outfit test from existing clothes. Keep the silhouettes familiar and change only one color at a time. That makes it easier to decide whether the advice helps rather than attributing every difference to the season label. A phone palette can stay available during shopping, while the physical swatch can help you compare the cloth itself.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Jenny Salinas",
+      "url": "https://www.jennysalinas.com/service-page/color-analysis"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}

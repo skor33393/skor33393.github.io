@@ -1,0 +1,52 @@
+{
+  "kind": "city",
+  "slug": "color-analysis-lexington",
+  "title": "Color analysis in Lexington: app or in-person?",
+  "seoTitle": "Color Analysis in Lexington | Local Options & App",
+  "description": "Compare color analysis in Lexington, Kentucky: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
+  "excerpt": "Lexington readers considering a new hair color have a practical reason to explore personal color analysis before booking the change. Choosing a flattering direction and carrying out a salon treatment are separate steps. A color consultation can help frame the first discussion without providing a formula for the second.",
+  "quickAnswer": "Use color advice before a hair appointment",
+  "category": "Local color guides",
+  "city": "Lexington",
+  "region": "Kentucky",
+  "country": "US",
+  "lang": "en-US",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "sourcesChecked": "2026-10-30",
+  "sortOrder": -12,
+  "sections": [
+    {
+      "id": "local-options",
+      "title": "Use color advice before a hair appointment",
+      "html": "<p>Lexington readers considering a new hair color have a practical reason to explore personal color analysis before booking the change. Choosing a flattering direction and carrying out a salon treatment are separate steps. A color consultation can help frame the first discussion without providing a formula for the second.</p><div class=\"provider\"><h3>LUX Color Collective</h3><p>LUX Hair Bar describes a 60-minute one-to-one color consultation with Nikki Paley in Lexington. Booking is by phone. The page recommends discussing color before a hair service and treats hair appointments separately; no current analysis fee was shown in the reviewed text.</p><a href=\"https://www.luxhairbar.com/lux-color-collective\">View the provider’s service information ↗</a></div>"
+    },
+    {
+      "id": "before-booking",
+      "title": "Before booking in Lexington",
+      "html": "<p>Bring photos of your natural hair, current hair and two or three looks you are considering. Ask whether the consultation covers clothing and makeup as well as hair, and whether a separate salon appointment is needed. Your stylist should assess your current color history, condition and maintenance preferences before recommending a process. Avoid booking a complicated change solely from a palette name.</p><ul><li>Is hair coloring booked and charged separately from analysis?</li><li>Can the consultation help me compare specific hair references?</li></ul>"
+    },
+    {
+      "id": "use-your-palette",
+      "title": "Make the result useful in your everyday wardrobe",
+      "html": "<p>Stylist AI can help you compare a hair-color preview with your usual clothing colors before the appointment. Save the looks you enjoy and explain what appeals to you: depth, softness or contrast. Keep one familiar makeup look while comparing, so you are not changing every feature at once. A useful outcome is a short list to discuss with the salon, not an instruction to bleach or dye at home.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "LUX Color Collective",
+      "url": "https://www.luxhairbar.com/lux-color-collective"
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/city-guides/stylist-us-960.webp",
+    "alt": "Stylist AI on iPhone with a True Winter palette, five draped portraits, lip, blush and nail color recommendations",
+    "width": 960,
+    "height": 1720
+  },
+  "related": [
+    "is-professional-color-analysis-worth-it",
+    "color-analysis-photo-lighting"
+  ],
+  "faqs": []
+}
