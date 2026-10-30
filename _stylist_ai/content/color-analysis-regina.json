@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-regina",
-  "title": "Colour analysis in Regina: app or in-person?",
-  "seoTitle": "Colour Analysis in Regina | Local Options & App",
-  "description": "Compare colour analysis in Regina, Saskatchewan: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "In Regina, different colour-analysis methods may be part of the same consultation. Their names can sound technical, but the useful question is what they help you decide. Ask how the analyst explains temperature, lightness, saturation and contrast in terms of the clothes and makeup you actually wear.",
-  "quickAnswer": "Ask what the method produces, not just what it is called",
+  "title": "Regina colour analysis: translate method names into useful wardrobe advice",
+  "seoTitle": "Regina Colour Analysis: Turn Method Names Into Practical Advice",
+  "description": "Ask how Regina colour-analysis methods explain lightness, saturation and contrast. Compare live demonstrations with self-guided palette and outfit tools.",
+  "excerpt": "No. 12 Atelier references Japanese and Western colour-analysis approaches. Instead of choosing by terminology alone, ask how the consultation turns those ideas into decisions about the clothes and makeup you wear.",
+  "quickAnswer": "No. 12 Atelier references Japanese and Western colour-analysis approaches. Instead of choosing by terminology alone, ask how the consultation turns those ideas into decisions about the clothes and makeup you wear.",
   "category": "Local colour guides",
   "city": "Regina",
   "region": "Saskatchewan",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Regina",
+      "title": "Request a demonstration, not a vocabulary list",
       "html": "<p>Request an example of the result format and ask whether it includes practical combinations. If you have a previous analysis, bring it and explain what you found useful or confusing. Do not expect every system to use identical names or boundaries. A meaningful second opinion should explain differences, not simply provide another label.</p><ul><li>How are the different methods combined in my consultation?</li><li>What practical combinations and materials will I take away?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Keep your preferences in the conversation",
       "html": "<p>Try applying the advice to one choice at a time. Compare two tops with the same trousers, or two lip families with your usual makeup. The app can support that exploration on your phone, while a studio session can provide live discussion of physical colours. Choose based on the kind of feedback you need and the clarity of the deliverables.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "Use the app to try relationships between colours",
+      "html": "<p>An explanation becomes useful when you can apply it to an unfamiliar garment. Ask the provider to demonstrate with an everyday choice and to describe what reference materials support you afterwards. The reviewed site did not establish a current fee, so obtain the service scope, duration and price together.</p><p>Stylist AI can help you experiment with relationships through its seasonal palette and outfit combinations. After the selfie introduction, makeup and hair previews offer further directions, and camera comparison brings a garment into the exploration. A consultant can discuss physical examples with you; the app lets you revisit photo-based ideas at your own pace. Neither requires abandoning a colour you enjoy simply because a label sounds authoritative.</p>"
     }
   ],
   "sources": [
@@ -48,5 +53,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "glossary",
+    "accent": "#6b553f",
+    "kicker": "ASK WHAT THE METHOD HELPS YOU DO",
+    "leadHtml": "<dl class=\"editorial-glossary\"><div><dt>Lightness</dt><dd>Ask to compare a lighter and deeper option in a colour you wear.</dd></div><div><dt>Saturation</dt><dd>Ask how a softer or more vivid version changes the combination.</dd></div><div><dt>Contrast</dt><dd>Ask how strongly the colours in one outfit should differ for the effect you prefer.</dd></div></dl><p>These are useful discussion prompts, not a claim about the precise steps in the provider’s current service.</p>",
+    "ctaTitle": "Try the relationship, not just the season name",
+    "ctaText": "Explore a few practical colour combinations in Stylist AI."
+  }
 }

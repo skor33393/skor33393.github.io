@@ -20,7 +20,7 @@ for a in cities:
     text=(ROOT/path.lstrip('/')/'index.html').read_text()
     doc=Markup(text)
     assert ('html',{'lang':a['lang']}) in doc.tags
-    assert text.index('class="city-product"')<text.index('<h1>'),a['slug']
+    assert text.index('class="city-product"')<text.index('<h1'),a['slug']
     assert '← Browse all city guides' not in text
     assert text.count('name="apple-itunes-app" content="app-id=6739435502"')==1
     assert 'noindex' not in text
@@ -29,7 +29,8 @@ for a in cities:
     assert text.count('/stylist_ai/landing/v2/assets/app-store.svg')==3
     assert all(attrs.get('type')=='button' or 'data-tour' in str(attrs) for tag,attrs in doc.tags if tag=='button' and ('data-goal' in attrs))
     assert len(re.findall('data-tour-step=',text))==3
-    assert '<table>' in text and 'id="local-options"' in text
+    assert 'data-local-editorial=' in text and 'id="local-options"' in text and 'id="compare"' in text
+    assert a.get('editorial',{}).get('leadHtml'), 'Missing individually authored lead: '+a['slug']
     assert 'LocalBusiness' not in text and 'AggregateRating' not in text
     for alt in a.get('alternates',[]):
         target=next(x for x in cities if x['slug']==alt['slug'])

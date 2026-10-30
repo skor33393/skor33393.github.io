@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-spokane",
-  "title": "Color analysis in Spokane: app or in-person?",
-  "seoTitle": "Color Analysis in Spokane | Local Options & App",
-  "description": "Compare color analysis in Spokane, Washington: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "A Spokane search can turn up both conventional seasonal consultations and highly individual palette design. A lower digital price is not an in-person draping quote. Comparing those numbers as though they buy the same service would hide the main decision: do you want a seasonal starting point or a bespoke collection of physical colors?",
-  "quickAnswer": "Seasonal palettes and custom fabric palettes are different purchases",
+  "title": "Spokane color analysis: a US$97 palette and a US$997 studio service are different purchases",
+  "seoTitle": "Spokane Color Analysis: Digital and Custom Fabric Palette Costs",
+  "description": "Compare Spokane seasonal digital, personalized digital and custom studio palette listings by their actual outputs, with a separate role for app-based tools.",
+  "excerpt": "Signature Style Systems separates seasonal digital, personalized digital and custom fabric palettes. Comparing their outputs is more useful than treating all three prices as competing in-person appointments.",
+  "quickAnswer": "Signature Style Systems separates seasonal digital, personalized digital and custom fabric palettes. Comparing their outputs is more useful than treating all three prices as competing in-person appointments.",
   "category": "Local color guides",
   "city": "Spokane",
   "region": "Washington",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Spokane",
+      "title": "Ask what is being personalized",
       "html": "<p>Ask to see an anonymous example of the deliverable before deciding. A seasonal palette organizes you within a framework; a custom fabric palette may select individual shades outside a standard collection. Find out who evaluates your appearance, whether you meet in person, and how revisions work. More swatches or a higher fee alone do not tell you whether the result will help with your actual wardrobe.</p><ul><li>Is this a ready-made seasonal palette or an individually assembled one?</li><li>Will I meet the analyst, and are physical fabric samples included?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Choose a reference you will actually carry",
       "html": "<p>If you mostly need guidance while shopping, start by listing three garments you want to coordinate. A phone palette and color comparison tool may be enough to explore that small task. If physical samples and a detailed human discussion are what you value, budget for that service explicitly. Keep the app suggestion and any consultant result labeled by their own system rather than forcing every name to match.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "An app is a fourth format, with its own purpose",
+      "html": "<p>Do not substitute the US$97 digital price for a studio quote when deciding whether travel is worthwhile. Likewise, a higher price alone does not demonstrate that you need a bespoke palette. Think about whether you are buying personal discussion, physical materials or convenient repeat access.</p><p>Stylist AI begins with an iPhone introduction and a selfie, then lets you explore seasonal colors, outfit pairings, makeup and hair previews. Its camera comparison can accompany a shopping decision; it does not produce the custom fabric collection described by the studio. Choose the studio for that tactile service, or investigate the app when your immediate goal is to try color relationships without commissioning physical samples.</p>"
     }
   ],
   "sources": [
@@ -48,5 +53,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "matrix",
+    "accent": "#4c496f",
+    "kicker": "READ THE SERVICE MENU",
+    "leadHtml": "<div class=\"comparison-scroll\"><table><thead><tr><th>Listed option</th><th>Price</th><th>What the name changes</th></tr></thead><tbody><tr><td>Seasonal digital palette</td><td>US$97</td><td>A digital seasonal reference</td></tr><tr><td>Personalised digital palette</td><td>US$497</td><td>A separately described personalized service</td></tr><tr><td>Studio Palette</td><td>US$997</td><td>In-person custom fabric samples</td></tr></tbody></table></div>",
+    "ctaTitle": "Start with a palette you can revisit",
+    "ctaText": "Explore Stylist AI before deciding which kind of longer-term reference you want."
+  }
 }

@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-chattanooga",
-  "title": "Color analysis in Chattanooga: app or in-person?",
-  "seoTitle": "Color Analysis in Chattanooga | Local Options & App",
-  "description": "Compare color analysis in Chattanooga, Tennessee: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "Chattanooga offers a useful example of why headline prices need context. A US$55 introduction and a US$550 full session can appear on the same page because they cover different amounts of work. Choose whether you want to solve one color problem or explore a broader collection before comparing the figures.",
-  "quickAnswer": "One color group is not a full analysis",
+  "title": "Chattanooga color analysis: one color family or the full palette?",
+  "seoTitle": "Chattanooga Color Analysis: One Color Group or a Full Palette?",
+  "description": "Compare Chattanooga single-color-group and full-analysis listings by duration, swatches and scope, then decide where self-guided app tools fit.",
+  "excerpt": "At elea blake, a US$55 single-color-group appointment and a US$550 full analysis sit on the same menu. The tenfold price difference makes sense only after you read what each includes.",
+  "quickAnswer": "At elea blake, a US$55 single-color-group appointment and a US$550 full analysis sit on the same menu. The tenfold price difference makes sense only after you read what each includes.",
   "category": "Local color guides",
   "city": "Chattanooga",
   "region": "Tennessee",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Chattanooga",
+      "title": "Decide whether your problem is narrow enough",
       "html": "<p>If lipstick is the immediate concern, ask whether a single-group consultation is appropriate and what it excludes. For a full visit, plan for the stated four-to-six-hour duration and clarify whether product purchases are optional extras. Ask how the physical swatches relate to the makeup range and whether you can use them with products and clothes from other shops.</p><ul><li>Am I reserving one color group or the complete draping service?</li><li>Are cosmetics included in the fee or purchased separately?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Leave with an explanation you can reuse",
       "html": "<p>An app can help you compare several color directions quickly, but it does not mix or apply a physical cosmetic formula. Use previews to decide which family you want to explore, then evaluate real products for finish, texture and wear. If you choose the studio service, record a few combinations you will actually use rather than feeling obliged to buy every recommended shade at once.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "Explore broadly on your phone, or examine one family together",
+      "html": "<p>A single-group booking can make sense when you can name the family that keeps causing trouble. It is not a discounted version of every component in the full service. Ask how that group will be selected and whether the result will help with the specific garment or makeup choice that prompted your search.</p><p>Stylist AI provides a different kind of breadth: a selfie-based seasonal profile, clothing combinations, lip and blush previews, hair exploration and a camera color check. Those tools let you try several directions at your own pace. They do not include elea blake’s lengthy in-person process or its physical swatches. Decide whether your next step needs discussion and materials, or whether independent exploration will answer enough for now.</p>"
     }
   ],
   "sources": [
@@ -48,5 +53,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "split",
+    "accent": "#78334b",
+    "kicker": "TWO VERY DIFFERENT SCOPES",
+    "leadHtml": "<div class=\"scope-split\"><section><strong class=\"large-number\">3</strong><h2>Swatches in one group</h2><p>The listed US$55 appointment lasts one to one-and-a-half hours.</p></section><section><strong class=\"large-number\">36</strong><h2>Swatches in the full service</h2><p>The US$550 in-person analysis is described as four to six hours.</p></section></div>",
+    "ctaTitle": "Explore the color family you keep avoiding",
+    "ctaText": "Start with your own photo in Stylist AI, then compare a few wearable options."
+  }
 }

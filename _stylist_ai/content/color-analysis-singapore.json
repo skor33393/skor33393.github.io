@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-singapore",
-  "title": "Colour analysis in Singapore: studio or app?",
-  "seoTitle": "Colour analysis in Singapore: studio or app? | Stylist AI",
-  "description": "Compare colour analysis in Singapore, including solo and group consultation prices, booking questions and Stylist AI palette and makeup features for iPhone.",
-  "excerpt": "Compare colour analysis in Singapore, including solo and group consultation prices, booking questions and Stylist AI palette and makeup features for iPhone.",
-  "quickAnswer": "Colour analysis in Singapore: studio or app?",
+  "title": "Singapore colour analysis: solo, two friends or a group of three?",
+  "seoTitle": "Singapore Colour Analysis: Solo, Pair or Three-Person Session?",
+  "description": "Compare Singapore solo and group colour-analysis prices per person. Check shared time, consultation language and materials, then consider self-guided app tools.",
+  "excerpt": "Colour by Kim’s Oxley Rise booking menu makes the group arithmetic visible. Compare the per-person price with shared time, language and materials before choosing a session with friends.",
+  "quickAnswer": "Colour by Kim’s Oxley Rise booking menu makes the group arithmetic visible. Compare the per-person price with shared time, language and materials before choosing a session with friends.",
   "category": "Local colour guides",
   "city": "Singapore",
   "region": "Singapore",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Confirm language, materials and the complete fee",
+      "title": "Confirm the language of the full consultation",
       "html": "<p>Ask which language the consultant will use for the entire explanation, not just the booking conversation. If you want English or Mandarin guidance, confirm that directly. Bring a short list of the clothes and cosmetics you want help with, and ask whether the session includes product review, application, a lesson or only colour recommendations.</p><p>Check whether the quoted amount includes any applicable tax, a physical palette and digital notes. For a group, confirm the cancellation terms if one person cannot attend. Avoid assuming that a short demonstration or event package is equivalent to a full private consultation.</p><ul><li>How much draping and discussion does each guest receive?</li><li>Which palette or written notes can I keep afterwards?</li><li>Can the consultant help with the items and language I need?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Use the palette for your actual daily routine",
-      "html": "<p>Choose one everyday outfit and one work or occasion outfit to practise with. If you move between outdoor daylight and indoor shopping lights, compare the garment in more than one setting before buying. Keep texture, coverage and comfort in the decision: a colour palette does not choose the right fabric for you.</p><p>Start with a useful neutral, an accent and a lip colour from things you already own. If you wear a head covering, compare the fabric nearest your face rather than assuming hair colour must be visible for every styling choice. Discuss your preferences with a consultant and keep the colours you enjoy.</p><p>Stylist AI is available in the Singapore App Store. You can begin with a selfie in even light, explore a personal palette and preview makeup colours. A studio adds physical draping and human discussion; an app offers a way to keep experimenting on your phone. Use whichever helps the decision in front of you, without treating either route as a reason to replace your whole wardrobe.</p>"
+      "title": "Bring the palette back to your usual outfits",
+      "html": "<p>Choose one everyday outfit and one work or occasion outfit to practise with. If you move between outdoor daylight and indoor shopping lights, compare the garment in more than one setting before buying. Keep texture, coverage and comfort in the decision: a colour palette does not choose the right fabric for you.</p><p>Start with a useful neutral, an accent and a lip colour from things you already own. If you wear a head covering, compare the fabric nearest your face rather than assuming hair colour must be visible for every styling choice. Discuss your preferences with a consultant and keep the colours you enjoy.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "Choose live explanation or tools you can return to",
+      "html": "<p>A group rate can be attractive when you want to hear the explanation together. Ask whether everyone receives the same materials and whether makeup discussion is included. Confirm whether the quoted total includes any applicable taxes, what happens if one person cancels, and whether the whole session can be conducted in your preferred language.</p><p>Stylist AI is available through Singapore’s App Store. Follow the introduction with a clear selfie, explore seasonal colours and outfit combinations, and try lip, blush or hair directions. Its camera tool helps compare garment colours later. You can use those tools independently without coordinating a group. For physical drapes, live questions and a discussion of the products you bring, a suitable studio consultation adds a different kind of help.</p>"
     }
   ],
   "sources": [
@@ -57,5 +62,13 @@
       "slug": "zh/colour-analysis-singapore",
       "label": "简体中文"
     }
-  ]
+  ],
+  "editorial": {
+    "layout": "matrix",
+    "accent": "#2c6461",
+    "kicker": "COMPARE EACH PERSON’S EXPERIENCE",
+    "leadHtml": "<div class=\"comparison-scroll\"><table><thead><tr><th>Booking</th><th>Listed total</th><th>Per person</th><th>Whole-session time</th></tr></thead><tbody><tr><td>Solo</td><td>S$195</td><td>S$195</td><td>60 minutes</td></tr><tr><td>Two people</td><td>S$360</td><td>S$180</td><td>90 minutes</td></tr><tr><td>Three people</td><td>S$510</td><td>S$170</td><td>120 minutes</td></tr></tbody></table></div><p>Session duration is not a promise of equal private time. Ask how individual draping and shared explanation are organised.</p>",
+    "ctaTitle": "Explore your own colour direction first",
+    "ctaText": "Start Stylist AI with the outfits and makeup choices you want to make easier."
+  }
 }

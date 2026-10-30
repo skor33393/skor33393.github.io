@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-lincoln",
-  "title": "Color analysis in Lincoln: app or in-person?",
-  "seoTitle": "Color Analysis in Lincoln | Local Options & App",
-  "description": "Compare color analysis in Lincoln, Nebraska: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "For a Lincoln appointment, the take-home reference can be as important as the session length. Ask to see what the palette looks like and how you are expected to use it. A fee is easier to judge when you know whether it buys a season label, an explanation, physical samples and support afterwards.",
-  "quickAnswer": "Budget for the appointment and inspect the take-home palette",
+  "title": "Lincoln color analysis: will you use the take-home swatch book?",
+  "seoTitle": "Lincoln Color Analysis: Will You Use the Swatch Book?",
+  "description": "Inspect the physical reference described with Lincoln color services. Ask about its use, materials and rescheduling, then compare digital palette tools.",
+  "excerpt": "Color Coated lists a US$295, 90-minute appointment at Normandy Court and describes a canvas swatch book on its site. Before comparing fees, picture how you would use that physical reference.",
+  "quickAnswer": "Color Coated lists a US$295, 90-minute appointment at Normandy Court and describes a canvas swatch book on its site. Before comparing fees, picture how you would use that physical reference.",
   "category": "Local color guides",
   "city": "Lincoln",
   "region": "Nebraska",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Lincoln",
+      "title": "Include the rescheduling window in your planning",
       "html": "<p>Choose a real use case before the visit: a work shirt, a jacket or the next special-occasion outfit. Ask how the palette helps you select a neutral and whether you need exact matches or can work with neighboring shades. Confirm the current address when booking; an event location and a provider’s regular studio are not always the same.</p><ul><li>Which physical and digital materials are included in the US$295 booking?</li><li>How can I reschedule if I cannot attend?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Practise interpreting a swatch before matching a purchase",
       "html": "<p>Afterwards, keep the palette with a short list of things you actually need. Compare a candidate item with two pieces you already own before buying it. The app can help you explore combinations on your phone; physical samples help when the screen and shop lighting make a shade hard to judge. A consultation is most useful when it reduces indecision rather than simply adding more colors to your list.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "Physical samples and phone tools answer different moments",
+      "html": "<p>A fabric reference is most helpful when you understand how to use it beside another material. Ask the analyst to demonstrate with one item you own, especially if the color is patterned, textured or slightly different from the swatch. Confirm that the book described on the site is included in the specific appointment you select. The booking policy asks for 48 hours’ notice for rescheduling.</p><p>Stylist AI offers a portable digital alternative for exploration: a selfie introduction, seasonal palette, outfit combinations, makeup and hair previews, plus a camera color check. It cannot give you the physical canvas book. Consider the studio when that tactile reference and explanation are your priority; consider the app when convenient repeat experimentation is more useful.</p>"
     }
   ],
   "sources": [
@@ -52,5 +57,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "inventory",
+    "accent": "#355b77",
+    "kicker": "EXAMINE THE DELIVERABLE",
+    "leadHtml": "<div class=\"inventory-card\"><h2>Inspect the reference, not just the color count</h2><dl><dt>Format</dt><dd>Ask to see the size and material of the included book.</dd><dt>Explanation</dt><dd>Find out how neutrals, accents and combinations are organised.</dd><dt>Practical use</dt><dd>Check whether you can comfortably carry it when shopping.</dd></dl></div>",
+    "ctaTitle": "See how a digital palette fits your routine",
+    "ctaText": "Try Stylist AI with one outfit before deciding what reference you want to carry."
+  }
 }

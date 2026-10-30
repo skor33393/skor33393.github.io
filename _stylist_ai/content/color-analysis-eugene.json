@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-eugene",
-  "title": "Color analysis in Eugene: app or in-person?",
-  "seoTitle": "Color Analysis in Eugene | Local Options & App",
-  "description": "Compare color analysis in Eugene, Oregon: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "Eugene has an option for people who want personal fabric references instead of another four-season label. That changes what you should ask during an inquiry. The relevant comparison is the materials, explanation and follow-up you receive—not whether the consultant uses the same season terminology as an app.",
-  "quickAnswer": "When a custom palette matters more than a season name",
+  "title": "Eugene color analysis: commissioning a personal fabric palette",
+  "seoTitle": "Eugene Color Analysis: Is a Custom Fabric Palette for You?",
+  "description": "Understand Eugene custom fabric-palette services: ask about the materials, explanation and process, then compare a bespoke reference with seasonal app tools.",
+  "excerpt": "Bernie Burson describes individually designed fabric palettes. That offers a different starting point from collecting another seasonal label: the question is what the finished reference helps you see and choose.",
+  "quickAnswer": "Bernie Burson describes individually designed fabric palettes. That offers a different starting point from collecting another seasonal label: the question is what the finished reference helps you see and choose.",
   "category": "Local color guides",
   "city": "Eugene",
   "region": "Oregon",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Eugene",
+      "title": "Ask about the physical object you are commissioning",
       "html": "<p>Explain why you are considering a custom palette. Perhaps a standard season contains very few colors you enjoy, or you sew and want to compare real textiles. Ask how the palette is assembled, how many physical samples are supplied, and whether the consultation includes an explanation of useful combinations. Request a written total and the expected appointment length before reserving.</p><ul><li>What physical samples and written guidance come with the custom palette?</li><li>How will the session address the clothes or textiles I already use?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Use relationships when an exact fabric match is unavailable",
       "html": "<p>Try applying the result to a small project first: a shirt and cardigan, a fabric purchase, or a lipstick you wear often. Keep notes about the colors you like in real use. If Stylist AI gives a seasonal direction, treat it as a separate practical reference rather than translating a bespoke palette into an exact season. Different services may answer different styling questions.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "Seasonal exploration and a bespoke reference can serve different needs",
+      "html": "<p>Someone who wants a carefully assembled tactile reference may value the fabric palette more than agreement with a familiar season name. Request examples of the format, how long the process takes and how the explanation is delivered. The reviewed homepage did not provide a current fee, so leave the budget open until you receive a specific quote.</p><p>Stylist AI starts from a selfie and a seasonal profile rather than commissioning custom fabric samples. It adds outfit combinations, makeup and hair previews, and camera-based color comparison on your phone. Use it if you want a practical way to explore possibilities first. Choose personal palette design when the physical materials and individual discussion are the part you wish to invest in.</p>"
     }
   ],
   "sources": [
@@ -52,5 +57,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "essay",
+    "accent": "#41605a",
+    "kicker": "BEYOND THE SEASON LABEL",
+    "leadHtml": "<blockquote class=\"editorial-pull\">A custom palette is a collection to understand, not a list of colors you must buy.</blockquote><p>Before commissioning one, ask how the analyst explains the relationship between its samples and the clothes already in your wardrobe.</p>",
+    "ctaTitle": "Explore color relationships before collecting more labels",
+    "ctaText": "Use Stylist AI to try combinations, then decide whether a bespoke fabric reference would add value."
+  }
 }

@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-knoxville",
-  "title": "Color analysis in Knoxville: app or in-person?",
-  "seoTitle": "Color Analysis in Knoxville | Local Options & App",
-  "description": "Compare color analysis in Knoxville, Tennessee: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "A Knoxville palette can be useful even if you prefer vintage and secondhand clothes to a new wardrobe. Resale shopping rarely offers the exact item in ten shades. The skill worth learning is how to spot a promising color relationship and work with an imperfect match.",
-  "quickAnswer": "Take the palette into secondhand shopping",
+  "title": "Knoxville color analysis for vintage and secondhand shoppers",
+  "seoTitle": "Knoxville Color Analysis for Vintage and Resale Shopping",
+  "description": "Use Knoxville color guidance for secondhand finds. Learn what to ask about imperfect matches, existing outfits and a phone palette while browsing.",
+  "excerpt": "Luna Loft’s Old City color service connects palette advice with clothing, makeup and hair, and its page mentions local resale businesses. The practical challenge: the right secondhand item rarely comes in five alternative shades.",
+  "quickAnswer": "Luna Loft’s Old City color service connects palette advice with clothing, makeup and hair, and its page mentions local resale businesses. The practical challenge: the right secondhand item rarely comes in five alternative shades.",
   "category": "Local color guides",
   "city": "Knoxville",
   "region": "Tennessee",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Knoxville",
+      "title": "Bring a difficult find to the consultation brief",
       "html": "<p>Ask the analyst how to judge a patterned garment, a faded fabric and a color that sits between two swatches. Bring one secondhand find you love but struggle to style. Clarify whether the consultation includes a written palette and whether shopping or hair services cost extra. A recommendation to visit a shop is not the same as a guided shopping appointment.</p><ul><li>Can the session help with prints and secondhand garments?</li><li>Are shopping support and hair services separate bookings?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Keep the garment’s condition in the decision",
       "html": "<p>When browsing, start with one wardrobe gap and two colors that would work with what you own. Use the phone palette as a quick reference, then examine the real fabric in better light before deciding. If a print contains several colors, look at the overall effect and the color nearest your face. A favorite piece can still work through layering and placement without matching every palette rule.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "A pocket reference for an unpredictable rack",
+      "html": "<p>Ask Luna Loft how it teaches you to work with a close color relationship when an exact palette match is unavailable. That is a more useful resale-shopping skill than memorising a perfect swatch. The provider names Retro Local and Wabi Wear &amp; Repair; those references are context, not confirmation of inventory, opening hours or a joint booking package.</p><p>Stylist AI can travel with the shopping process. Start with a selfie-based palette, look for outfit combinations, and use its camera color comparison when considering a garment. Makeup and hair previews offer ways to explore the overall direction. A studio visit adds someone to explain the comparisons; the app adds repeat access. You still decide whether the actual item is comfortable, repairable and worth buying.</p>"
     }
   ],
   "sources": [
@@ -48,5 +53,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "fieldnotes",
+    "accent": "#7c463f",
+    "kicker": "THE RESALE SHOPPING FIELD GUIDE",
+    "leadHtml": "<div class=\"find-or-pass\"><h2>Assess the item in front of you</h2><ul><li>Does its color work with something you already wear?</li><li>Would changing the layer next to your face make it more useful?</li><li>Are you overlooking fit or condition because the shade matches?</li></ul><p>A palette should help you choose among real finds, not invent stock that the shop does not have.</p></div>",
+    "ctaTitle": "Take your palette into the next browse",
+    "ctaText": "Use Stylist AI to explore combinations with the pieces you find."
+  }
 }

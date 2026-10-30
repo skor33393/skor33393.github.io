@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-nanaimo",
-  "title": "Colour analysis in Nanaimo: app or in-person?",
-  "seoTitle": "Colour Analysis in Nanaimo | Local Options & App",
-  "description": "Compare colour analysis in Nanaimo, British Columbia: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "Nanaimo readers may encounter colour analysis within a hair-salon setting. That can make it easy to connect palette ideas with a future hair discussion, but it does not mean that the analysis fee includes colouring or styling. Ask for the scope of each appointment separately.",
-  "quickAnswer": "Separate personal colour guidance from a salon hair service",
+  "title": "Nanaimo colour analysis in a salon: clarify what the hour includes",
+  "seoTitle": "Nanaimo Colour Analysis: What Does the Salon Consultation Include?",
+  "description": "Ask what a Nanaimo salon-based colour consultation includes, from palette guidance to jewellery. Separate hair treatments and compare useful app previews.",
+  "excerpt": "Colours with Krysta’s indexed service information describes a 60-minute, 16-category consultation at KG Hair Salon. Its setting makes one question especially important: which services are part of that hour?",
+  "quickAnswer": "Colours with Krysta’s indexed service information describes a 60-minute, 16-category consultation at KG Hair Salon. Its setting makes one question especially important: which services are part of that hour?",
   "category": "Local colour guides",
   "city": "Nanaimo",
   "region": "British Columbia",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Nanaimo",
+      "title": "Ask how the 16 categories become practical advice",
       "html": "<p>If hair is your main reason for booking, bring a picture of your current colour and a few examples you like. Ask whether the analysis also covers clothing neutrals and makeup, what reference you keep, and whether the hair consultation needs another slot. A palette category should be the beginning of a conversation about the look you want.</p><ul><li>Is the consultation separate from hair colouring and styling?</li><li>What palette or written reference will I receive?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Bring your existing jewellery into the discussion",
       "html": "<p>Use a preview to compare broad directions before making a salon decision, then let the stylist assess the real hair and maintenance requirements. For your wardrobe, start with a familiar outfit and one alternative near-face colour. Stylist AI can keep that exploration on your phone while you decide whether hands-on guidance would be helpful.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "A preview is useful before a separate salon decision",
+      "html": "<p>The number of categories does not tell you how much time you will have for questions or which materials you leave with. Ask whether the appointment can address the two decisions most relevant to you—for example, clothing neutrals and jewellery—and whether makeup advice is a discussion, application or lesson.</p><p>Stylist AI offers photo-based exploration of seasonal colours, outfits, hair and makeup. Its introduction starts with your selfie; camera colour comparison can help you consider clothing later. Use the app to narrow the direction you like, then take an actual treatment question to the salon. The professional consultation adds live explanation and physical comparisons, while the app gives you tools to revisit independently.</p>"
     }
   ],
   "sources": [
@@ -52,5 +57,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "qanda",
+    "accent": "#4c5d70",
+    "kicker": "QUESTIONS FOR A SALON-BASED CONSULTATION",
+    "leadHtml": "<div class=\"editorial-qa\"><section><h2>Does the colour analysis include a hair treatment?</h2><p>The reviewed description establishes a consultation with clothing, makeup and jewellery guidance. A treatment should be quoted separately unless the provider explicitly includes it.</p></section><section><h2>Is the current fee confirmed?</h2><p>No. The indexed service description and analyst directory support the lead; request a current booking quote directly.</p></section></div>",
+    "ctaTitle": "Explore the look before booking the treatment",
+    "ctaText": "Try your colour directions together in Stylist AI."
+  }
 }

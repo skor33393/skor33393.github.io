@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-asheville",
-  "title": "Color analysis in Asheville: app or in-person?",
-  "seoTitle": "Color Analysis in Asheville | Local Options & App",
-  "description": "Compare color analysis in Asheville, North Carolina: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "In Asheville, where the analysis happens can matter as much as which palette system it uses. A private studio visit, a home appointment and a group experience involve different preparation and attention. Choose the format around how you like to learn and the questions you want answered.",
-  "quickAnswer": "Choose between studio, home and group sessions",
+  "title": "Asheville color analysis: studio, home visit or a group gathering?",
+  "seoTitle": "Asheville Color Analysis: Studio, Home Visit or Group?",
+  "description": "Compare Asheville studio, in-home and group color-analysis formats. Plan the setting, individual attention and questions before asking for a quote.",
+  "excerpt": "The Hue Muse describes several ways to meet in Asheville. Your choice changes privacy, preparation and how much of the session you share—not just where you sit.",
+  "quickAnswer": "The Hue Muse describes several ways to meet in Asheville. Your choice changes privacy, preparation and how much of the session you share—not just where you sit.",
   "category": "Local color guides",
   "city": "Asheville",
   "region": "North Carolina",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Asheville",
+      "title": "Send a different inquiry for each format",
       "html": "<p>For an in-home appointment, ask what lighting and space the consultant needs and whether travel is included. For a group, ask how much individual draping each guest receives and whether everyone gets their own reference materials. A social event can be enjoyable, but make sure its scope matches a full personal consultation if that is what you want.</p><ul><li>What space and lighting are needed for an in-home appointment?</li><li>How much individual analysis and take-home guidance does each guest receive?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Make the gathering useful beyond the group photo",
       "html": "<p>Prepare one everyday outfit and one item you find difficult to wear. After the session, build a small combination around each rather than shopping for a complete seasonal wardrobe. The app can help you keep exploring colors privately between appointments. If you prefer a live explanation of physical fabrics, reserve enough individual time to ask how the recommendations were reached.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "When a self-guided route fits better",
+      "html": "<p>A home visit is convenient only if the setting works for the provider’s process. A group can be enjoyable without being the right place for every personal question. Because the reviewed service information did not establish one current fee for every format, request a quote for the actual arrangement rather than borrowing a price from another session type.</p><p>If coordinating people or a suitable room is the main obstacle, Stylist AI can introduce color exploration on your iPhone. Follow the selfie steps to see a seasonal palette, try clothing pairings and look through makeup and hair previews. A camera-based comparison adds a way to consider garments later. The app offers flexibility; a consultant offers live interpretation of physical drapes. Pick the kind of interaction you need.</p>"
     }
   ],
   "sources": [
@@ -48,5 +53,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "route",
+    "accent": "#4f6142",
+    "kicker": "CHOOSE THE SETTING FIRST",
+    "leadHtml": "<div class=\"route-map\"><div><h2>Visit the studio</h2><p>Clarify the appointment location, access and whether the booking is private.</p></div><div><h2>Host at home</h2><p>Ask what light, space and setup the analyst needs, and whether travel is charged.</p></div><div><h2>Invite a group</h2><p>Agree on individual draping, shared explanation and each guest’s materials.</p></div></div>",
+    "ctaTitle": "Explore your palette on your own schedule",
+    "ctaText": "Open Stylist AI when you have a clear photo and a few minutes to try color ideas."
+  }
 }

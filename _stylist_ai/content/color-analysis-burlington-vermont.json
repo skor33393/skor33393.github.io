@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-burlington-vermont",
-  "title": "Color analysis in Burlington: app or in-person?",
-  "seoTitle": "Color Analysis in Burlington | Local Options & App",
-  "description": "Compare color analysis in Burlington, Vermont: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "A Burlington, Vermont search may lead to nearby Essex Junction rather than a downtown storefront. That is useful to know before booking transport or inviting a friend. The actual location, access and appointment format should be clear before you pay for a personal consultation.",
-  "quickAnswer": "Plan for a nearby home studio and confirm access",
+  "title": "Burlington-area color analysis: planning an Essex Junction home-studio visit",
+  "seoTitle": "Burlington Color Analysis: An Essex Junction Studio Visit",
+  "description": "Prepare for a Burlington-area color appointment in Essex Junction. Check the home-studio entrance, location, quoted scope and an at-home app option.",
+  "excerpt": "Christina Merhar’s House of Colour profile describes a home studio in Essex Junction. Before treating a Burlington search result as a downtown appointment, settle the address and arrival arrangements.",
+  "quickAnswer": "Christina Merhar’s House of Colour profile describes a home studio in Essex Junction. Before treating a Burlington search result as a downtown appointment, settle the address and arrival arrangements.",
   "category": "Local color guides",
   "city": "Burlington",
   "region": "Vermont",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Burlington",
+      "title": "Make the arrival plan explicit",
       "html": "<p>Ask for arrival instructions, the current total and any access accommodations you need. Confirm whether the booking is for color analysis alone or also includes style advice. If you are bringing garments or makeup, ask how many items are practical within the session. Avoid relying on an old map listing for a private appointment address.</p><ul><li>What are the current arrival and accessibility arrangements?</li><li>Which services and take-home references are included in my booking?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Connect the consultation to a real clothing decision",
       "html": "<p>If travel or access makes the visit difficult, you can begin exploring colors on your phone at home. Use even light and one familiar outfit, then write down the questions a live consultant might help answer. An app offers convenience; an in-person session offers discussion and physical draping. The decision can be about access and learning style as much as the palette itself.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "A studio visit and an at-home photo session",
+      "html": "<p>Ask for the confirmed meeting address, the route from the entrance to the consultation space and what to do on arrival. The profile’s regional service area is useful for discovery, but it does not remove those practical questions. A current consultation fee was not visible in the reviewed information; the provider needs to supply the quote.</p><p>Stylist AI can be used at home through its guided selfie flow. You can explore a seasonal palette, outfit combinations and makeup or hair directions without arranging studio access. Its camera comparison is useful for considering a garment later. Choose the in-person option when physical draping and a live explanation are what you want; choose the app for independent photo-based exploration. Neither requires you to replace a favourite coat immediately.</p>"
     }
   ],
   "sources": [
@@ -48,5 +53,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "fieldnotes",
+    "accent": "#3e5666",
+    "kicker": "LOCATION & ACCESS FIELD NOTES",
+    "leadHtml": "<aside class=\"field-note\"><h2>The detail to notice</h2><p>The profile describes a main-floor studio reached via a front-porch step. “Main floor” is not the same statement as step-free access.</p><p>Contact the provider about your actual access needs before paying or planning transport.</p></aside>",
+    "ctaTitle": "Try your first palette from home",
+    "ctaText": "Start Stylist AI with a clear selfie and the colors already in your wardrobe."
+  }
 }

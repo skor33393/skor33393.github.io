@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-sioux-falls",
-  "title": "Color analysis in Sioux Falls: app or in-person?",
-  "seoTitle": "Color Analysis in Sioux Falls | Local Options & App",
-  "description": "Compare color analysis in Sioux Falls, South Dakota: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "In Sioux Falls, a search for color analysis may lead to an image consultant offering a much broader service. That may suit someone preparing for professional photos or a career change. If your goal is simply to choose everyday colors, ask whether a focused appointment is available before comparing a larger package with an app.",
-  "quickAnswer": "Color analysis inside a broader image-consulting package",
+  "title": "Sioux Falls color analysis: a focused color question or an image-consulting project?",
+  "seoTitle": "Sioux Falls Color Analysis: Color Question or Image Project?",
+  "description": "Distinguish a focused palette inquiry from broader image consulting in Sioux Falls. Define your brief and compare local professional help with app exploration.",
+  "excerpt": "Image Power Play’s professional profile lists color consulting within a wider image and personal-branding practice. Decide whether you need a palette decision or a broader presentation brief before comparing options.",
+  "quickAnswer": "Image Power Play’s professional profile lists color consulting within a wider image and personal-branding practice. Decide whether you need a palette decision or a broader presentation brief before comparing options.",
   "category": "Local color guides",
   "city": "Sioux Falls",
   "region": "South Dakota",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Sioux Falls",
+      "title": "Ask whether a standalone color service is available",
       "html": "<p>Define the output you need in one sentence: three outfits for a photo session, a palette for daily dressing, or a more complete professional presentation. Request an itemized scope showing which parts cover color, clothing, shopping and ongoing support. A broad package should earn its price through services you actually need, not through a vague promise of transformation.</p><ul><li>Can I book color analysis on its own?</li><li>What deliverables and follow-up are included in the broader package?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Judge the proposal against your actual brief",
       "html": "<p>For a small first step, select an existing outfit and compare one neutral and one accent on your phone. If that resolves the immediate decision, you may not need a larger consultation yet. If you need personal feedback on how the whole look fits a specific context, a live consultant offers a different kind of help. Keep color preferences separate from assumptions about competence or personality.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "Where the app fits inside a wider presentation decision",
+      "html": "<p>The AICI profile identifies Sheila Anderson and Image Power Play in Sioux Falls. It supports the professional lead and listed specialty, but it does not establish a current standalone appointment price. Ask the business what can be booked independently, what materials are included and how a larger project would be quoted.</p><p>Stylist AI can address the color-exploration portion: start with a selfie, look through your seasonal palette, test outfit combinations, and try makeup or hair directions. Its camera comparison can help consider clothing colors later. It does not supply a personal-brand strategy or a consultant’s discussion of your professional goals. Use the app to sharpen a color question; use a suitable consulting service for a broader brief.</p>"
     }
   ],
   "sources": [
@@ -48,5 +53,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "brief",
+    "accent": "#7e423d",
+    "kicker": "DEFINE THE OUTCOME BEFORE THE PACKAGE",
+    "leadHtml": "<div class=\"brief-columns\"><section><h2>A bounded question</h2><p>Which colors should I consider for a few everyday tops?</p></section><section><h2>A wider project</h2><p>How should my wardrobe and presentation work together for professional photographs?</p></section></div><p>The distinction helps you request the right scope. It does not imply that every listed consultant offers the same package.</p>",
+    "ctaTitle": "Give the color part of your brief a starting point",
+    "ctaText": "Explore Stylist AI before deciding how much additional consulting you need."
+  }
 }

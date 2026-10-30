@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-bend",
-  "title": "Color analysis in Bend: app or in-person?",
-  "seoTitle": "Color Analysis in Bend | Local Options & App",
-  "description": "Compare color analysis in Bend, Oregon: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "For color analysis in Bend, the useful comparison is the complete visit and what you take home. An introductory fee can be attractive, but a digital result, a physical wallet and a makeup lesson are not interchangeable. Check the current rate and the appointment setting before you build a shopping budget around an older quote.",
-  "quickAnswer": "Check the introductory fee and physical-swatch extras",
+  "title": "Color analysis in Bend: price, swatches and the upstairs studio",
+  "seoTitle": "Bend Color Analysis: Full Cost, Swatches and Studio Access",
+  "description": "Read the Bend service listing beyond its introductory fee: digital and physical palettes, daylight, upstairs access and a self-guided app alternative.",
+  "excerpt": "The introductory US$195 listing at Styled by Sarah Richards is only part of the decision. Physical swatches, appointment light and access to Salon June deserve their own lines on your planning sheet.",
+  "quickAnswer": "The introductory US$195 listing at Styled by Sarah Richards is only part of the decision. Physical swatches, appointment light and access to Salon June deserve their own lines on your planning sheet.",
   "category": "Local color guides",
   "city": "Bend",
   "region": "Oregon",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Bend",
+      "title": "Three details to settle before paying a deposit",
       "html": "<p>Ask whether the appointment time leaves enough daylight for the provider’s process, what preparation is expected, and how much an optional physical palette costs. If stairs are a problem, discuss access before paying a deposit. Bring a photo of the jacket or outfit that prompted the booking, so the consultation can connect the palette to a real decision.</p><ul><li>Is the introductory rate still available for my date?</li><li>What is the total with a physical palette, and is the studio accessible to me?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Test the palette on a layer you already own",
       "html": "<p>Afterwards, choose one everyday layer and one accent to test together. Outdoorsy clothes, office clothes and evening clothes can all use the same color relationship without needing the same fabric or formality. The app is useful for keeping that idea available on your phone; a physical swatch is useful when examining the actual garment. Compare in even light rather than treating a retail display spotlight as a reliable reference.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "Do you need fabric in your hand or ideas on your phone?",
+      "html": "<p>A physical swatch can travel from the consultation into a fabric comparison; an app screen cannot replace the material’s texture or finish. That makes the optional wallet a more relevant extra for some people than a long list of new clothes. Ask to see the wallet before deciding whether to buy it.</p><p>Stylist AI offers a separate route: choose your interests in the introduction, add a clear selfie, then explore a palette, outfit combinations and makeup or hair previews. You can revisit those tools without arranging studio access. Use the camera color check to consider an existing layer, while judging the actual fabric yourself. Premium features are offered through in-app purchases, so compare the current plan with the complete studio quote.</p>"
     }
   ],
   "sources": [
@@ -48,5 +53,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "ledger",
+    "accent": "#75462e",
+    "kicker": "THE COMPLETE-COST NOTEBOOK",
+    "leadHtml": "<dl class=\"cost-ledger\"><div><dt>Listed consultation</dt><dd>US$195 introductory rate · up to two hours</dd></div><div><dt>Digital reference</dt><dd>Described in the service; a physical wallet is a separate purchase.</dd></div><div><dt>Access check</dt><dd>Upstairs studio with one flight of stairs.</dd></div></dl><p class=\"editorial-note\">These details belong to this provider’s listing, not a Bend-wide price average. Ask whether the introductory rate applies to your appointment.</p>",
+    "ctaTitle": "Explore the colors in your everyday layers",
+    "ctaText": "Bring one jacket, one top and a color question to your first app session."
+  }
 }

@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-kelowna",
-  "title": "Colour analysis in Kelowna: app or in-person?",
-  "seoTitle": "Colour Analysis in Kelowna | Local Options & App",
-  "description": "Compare colour analysis in Kelowna, British Columbia: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "A Kelowna search can surface a travelling analyst based elsewhere in the Okanagan or Shuswap. That may be convenient for a pair or group, but it is not evidence of a permanent local studio. Compare the minimum booking, travel arrangement and space requirements with a self-guided app.",
-  "quickAnswer": "A mobile Okanagan booking is different from a Kelowna studio",
+  "title": "Kelowna mobile colour analysis: organise the visit before comparing the fee",
+  "seoTitle": "Kelowna Mobile Colour Analysis: Plan the Visit and Minimum Booking",
+  "description": "Organise a Kelowna mobile colour consultation around availability, travel and the two-person minimum. Compare hosting a visit with independent app use.",
+  "excerpt": "Muse by Laura Lye is based near Salmon Arm and offers Kelowna visits by arrangement. The listed mobile minimum is two people, so a C$150 per-person price starts at a C$300 booking before any confirmed extras.",
+  "quickAnswer": "Muse by Laura Lye is based near Salmon Arm and offers Kelowna visits by arrangement. The listed mobile minimum is two people, so a C$150 per-person price starts at a C$300 booking before any confirmed extras.",
   "category": "Local colour guides",
   "city": "Kelowna",
   "region": "British Columbia",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Kelowna",
+      "title": "Treat the location as a mobile arrangement",
       "html": "<p>Before gathering a group, ask whether the proposed address is within the service area and what the final total includes. Confirm the number of guests, individual appointment time, lighting requirements and cancellation terms. Do not assume that a quoted per-person amount means the analyst will travel for one person at that rate.</p><ul><li>What is the total for a Kelowna visit, including any travel charges?</li><li>What minimum group size, space and lighting are required?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Give each guest an individual purpose",
       "html": "<p>If you are exploring alone, use a phone palette to identify the specific questions you would want to ask. If a friend also wants a consultation, compare your goals before booking together. After the session, each person should leave with their own useful combinations and references. Sharing the appointment can spread travel logistics, but it does not make the same colors work for everyone.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "When hosting adds more work than value",
+      "html": "<p>The Kelowna service area is not a claim that the provider has a permanent Kelowna studio. That distinction matters for scheduling and for the cost of an appointment for just one person. Ask whether another arrangement is available rather than quietly assuming the two-person minimum can be ignored.</p><p>If you want to begin alone, Stylist AI needs neither a host nor a second attendee. Start with its guided selfie flow, explore the seasonal palette and outfit combinations, then look through makeup and hair previews. Its camera tool adds a way to compare garment colours later. A mobile consultant offers live physical comparisons in an agreed space; the app offers independent exploration. Choose according to whether you need that personal visit.</p>"
     }
   ],
   "sources": [
@@ -48,5 +53,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "host",
+    "accent": "#57633a",
+    "kicker": "A HOST’S APPOINTMENT PLANNER",
+    "leadHtml": "<div class=\"host-checklist\"><h2>Before inviting anyone</h2><ul><li>Confirm the provider can travel on your proposed date.</li><li>Ask which travel charges apply to your actual address.</li><li>Get the room and lighting requirements from the analyst.</li><li>Agree on payment and what happens if the second guest cancels.</li></ul></div>",
+    "ctaTitle": "Begin without organising a group",
+    "ctaText": "Explore Stylist AI on your iPhone, then decide whether to arrange a mobile consultation."
+  }
 }

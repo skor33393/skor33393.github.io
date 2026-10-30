@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-victoria-bc",
-  "title": "Colour analysis in Victoria: app or in-person?",
-  "seoTitle": "Colour Analysis in Victoria | Local Options & App",
-  "description": "Compare colour analysis in Victoria, British Columbia: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "For colour analysis in Victoria, compare the materials as well as the appointment itself. A mini session may be enough for an introduction, while a physical wallet may matter if you regularly compare fabrics in shops. The right purchase depends on how you intend to use the result afterwards.",
-  "quickAnswer": "A mini consultation and a full fabric-wallet package differ",
+  "title": "Victoria colour analysis: digital card or a 36-swatch fabric wallet?",
+  "seoTitle": "Victoria Colour Analysis: Digital Card or Fabric Swatch Wallet?",
+  "description": "Choose Victoria colour-analysis services by the reference you will use: a digital card or physical fabric wallet. Compare those outputs with app features.",
+  "excerpt": "Beautiful You Consulting distinguishes mini, full and online services. The physical takeaway separates two of them: a digital card for the mini and a 36-fabric-swatch wallet described in the full package.",
+  "quickAnswer": "Beautiful You Consulting distinguishes mini, full and online services. The physical takeaway separates two of them: a digital card for the mini and a 36-fabric-swatch wallet described in the full package.",
   "category": "Local colour guides",
   "city": "Victoria",
   "region": "British Columbia",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Victoria",
+      "title": "Inspect the format before selecting the package",
       "html": "<p>Ask what the mini establishes, which questions it leaves for the full consultation and whether upgrading later would duplicate the work. If you want makeup help, distinguish recommendations from an actual application or lesson. For an online appointment, ask who reviews your photos and how the discussion takes place; a human virtual consultation and an app are different services.</p><ul><li>What does the mini include that I can use immediately?</li><li>Is the physical fabric wallet included in the package I selected?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Think about how you shop, not which package sounds fuller",
       "html": "<p>Keep the first application practical: one top, one neutral and one accessory from your existing wardrobe. A physical wallet is useful beside fabric, and a digital palette is convenient when planning or browsing. Stylist AI adds photo-based exploration and everyday color tools, so compare those functions with the consultant’s deliverables instead of assuming that every digital option is the same.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "A phone palette adds tools beyond a static reference",
+      "html": "<p>Someone who routinely compares fabrics may value a tactile wallet; someone who wants a quick reminder may be comfortable with a digital card. The full service also describes makeup application. Confirm current prices and the exact appointment inclusions directly, rather than assuming the physical wallet is offered in every format.</p><p>Stylist AI is an interactive digital route. Begin with a clear selfie and use its seasonal palette, outfit combinations, makeup and hair previews to explore possibilities. Camera-based colour comparison adds another way to consider garments. The app does not provide fabric samples or an analyst’s explanation of drapes. Choose the consultation for those components, or begin with the app if repeated independent exploration is your main need.</p>"
     }
   ],
   "sources": [
@@ -48,5 +53,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "objects",
+    "accent": "#326356",
+    "kicker": "CHOOSE THE REFERENCE YOU WILL USE",
+    "leadHtml": "<div class=\"reference-objects\"><section><span class=\"object-label\">DIGITAL CARD</span><h2>Easy to keep on a device</h2><p>Ask which colours and explanations the mini includes.</p></section><section><span class=\"object-label\">FABRIC WALLET</span><h2>A material to compare with material</h2><p>Ask how the full consultation teaches you to use its 36 swatches.</p></section></div>",
+    "ctaTitle": "See whether a digital colour toolkit suits you",
+    "ctaText": "Explore Stylist AI with the kinds of clothing decisions you make most often."
+  }
 }

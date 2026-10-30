@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-kingston-ontario",
-  "title": "Colour analysis in Kingston: app or in-person?",
-  "seoTitle": "Colour Analysis in Kingston | Local Options & App",
-  "description": "Compare colour analysis in Kingston, Ontario: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "A colour-analysis search for Kingston can lead to a travelling consultant or a past event. The listing is useful as a provider lead, but it does not establish that a local appointment is available today. Check the next visit before arranging your schedule or paying a deposit.",
-  "quickAnswer": "Confirm the next visiting date before paying for a session",
+  "title": "Kingston colour analysis: check the next visit before choosing a package",
+  "seoTitle": "Kingston Colour Analysis: Confirm the Next Visiting Date",
+  "description": "Check current Kingston availability before choosing a visiting consultant’s package. Compare listed scopes and explore app colour tools while planning.",
+  "excerpt": "French Touch of Colour’s listed Kingston dates were October 22–23, 2026. Those dates had passed when this guide was checked on October 30, so the next local appointment must be confirmed directly.",
+  "quickAnswer": "French Touch of Colour’s listed Kingston dates were October 22–23, 2026. Those dates had passed when this guide was checked on October 30, so the next local appointment must be confirmed directly.",
   "category": "Local colour guides",
   "city": "Kingston",
   "region": "Ontario",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Kingston",
+      "title": "Separate package selection from date confirmation",
       "html": "<p>Ask whether a future Kingston session is confirmed, where it will take place and which packages will be offered. If makeup is your main concern, compare the basic colour work with the more detailed makeup review rather than choosing on duration alone. Keep a written record of the appointment date, cancellation terms and what happens if the visiting event changes.</p><ul><li>When is the next confirmed Kingston appointment date?</li><li>Does my chosen package include makeup review and follow-up?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Make the waiting time useful without buying a new wardrobe",
       "html": "<p>While waiting for availability, explore one palette and two outfit combinations at home. The app can help you build a short list of questions for a later consultation. Bring examples of what still feels uncertain, such as a difficult neutral or two similar lip colours. That makes the eventual appointment more useful than repeating a broad request to be told your season.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "What you can explore while a local date is unconfirmed",
+      "html": "<p>The extra C$65 between the listed packages buys a different described scope, not a guarantee that either one is available in Kingston on your preferred date. Request the booking terms for that visit, including what happens if the event is postponed and how follow-up is provided after the consultant leaves.</p><p>Stylist AI can be used independently while you wait. The introduction starts with a selfie, then lets you explore seasonal colours, outfit combinations, hair ideas and makeup previews. Its garment comparison can help you consider a specific clothing colour. Choose a visiting consultation if you want a person to explain physical drapes; use the app for ongoing self-guided exploration without depending on an event schedule.</p>"
     }
   ],
   "sources": [
@@ -48,5 +53,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "calendar",
+    "accent": "#70506a",
+    "kicker": "AVAILABILITY COMES FIRST",
+    "leadHtml": "<aside class=\"calendar-alert\"><h2>A past event is a provider lead</h2><p>It is not proof of a currently bookable Kingston session. Ask for the next confirmed visit and venue before arranging travel or paying a deposit.</p></aside><div class=\"compact-menu\"><p><strong>Essential:</strong> C$210, about one hour.</p><p><strong>Complete:</strong> C$275, about 90 minutes, with additional makeup review and follow-up described.</p></div>",
+    "ctaTitle": "Explore now, book when the date is confirmed",
+    "ctaText": "Try Stylist AI with a few familiar outfits rather than waiting to make every colour decision."
+  }
 }

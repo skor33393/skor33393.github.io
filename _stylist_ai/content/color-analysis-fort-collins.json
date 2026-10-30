@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-fort-collins",
-  "title": "Color analysis in Fort Collins: app or in-person?",
-  "seoTitle": "Color Analysis in Fort Collins | Local Options & App",
-  "description": "Compare color analysis in Fort Collins, Colorado: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "In Fort Collins, deciding how much makeup help you want can change the quote more than choosing between a phone and a studio. Seeing someone apply a flattering look may be enjoyable; learning how to repeat it is a different service. Choose the outcome you want before comparing the package totals.",
-  "quickAnswer": "A makeup application is not the same as a lesson",
+  "title": "Fort Collins color analysis: application, makeup lesson or color advice?",
+  "seoTitle": "Fort Collins Color Analysis: Advice, Application or Makeup Lesson?",
+  "description": "Compare Fort Collins color analysis with makeup application and lessons. Choose by the skill or result you need, with app previews for exploring directions.",
+  "excerpt": "Deanna Boyd’s menu makes the makeup component unusually clear. Work backwards from what you want to do at home, then choose the service that teaches or demonstrates it.",
+  "quickAnswer": "Deanna Boyd’s menu makes the makeup component unusually clear. Work backwards from what you want to do at home, then choose the service that teaches or demonstrates it.",
   "category": "Local color guides",
   "city": "Fort Collins",
   "region": "Colorado",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Fort Collins",
+      "title": "Turn your makeup bag into the lesson brief",
       "html": "<p>If your main problem is lipstick selection, bring the products you actually reach for and ask whether their review is included. If you want a lesson, check whether you will practise the techniques yourself and leave with the steps. If makeup is not your priority, focus the session on clothing neutrals, metals and a few wearable combinations instead of paying for an application you will not use.</p><ul><li>Is the makeup component an application, a hands-on lesson or product advice?</li><li>Which add-ons are outside my quoted total?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Check finish as well as color",
       "html": "<p>Use photo previews to narrow a group of colors you want to discuss, then compare real products when texture and finish matter. A matte berry lipstick and a sheer berry balm can behave differently even when their color family is similar. For clothes, test the suggested palette against one existing outfit before buying several new pieces. The most useful result is a repeatable choice, not a larger shopping list.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "Preview a direction; ask a person to teach the technique",
+      "html": "<p>If your question is whether to explore a rose or berry lip family, Stylist AI’s lip and blush previews can give you a focused starting point. Its seasonal palette, hair previews and outfit combinations connect that makeup idea to what you wear. Begin through the selfie introduction and compare a few possibilities before adding products to your basket.</p><p>A photo preview does not teach brush pressure, placement or how a product feels on your skin. A hands-on lesson is the relevant service when those are the skills you want. The app can remain a convenient color reference afterwards, but it should not be presented as the same purchase as a session in which someone explains and corrects your technique.</p>"
     }
   ],
   "sources": [
@@ -48,5 +53,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "steps",
+    "accent": "#755236",
+    "kicker": "BUILD YOUR OWN APPOINTMENT",
+    "leadHtml": "<ol class=\"editorial-steps\"><li><strong>Colour advice only — US$225.</strong> The listed option excludes makeup application.</li><li><strong>See the look applied — US$295.</strong> Application is a different deliverable from learning the technique.</li><li><strong>Learn the steps — US$395.</strong> This listing adds a lesson to the application.</li></ol><p>A virtual option is listed separately at US$195. These are menu comparisons, not claims that one format is equally suitable for everyone.</p>",
+    "ctaTitle": "Bring a clearer color question to your lesson",
+    "ctaText": "Use Stylist AI to explore the shades you want to discuss."
+  }
 }

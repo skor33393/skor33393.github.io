@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-ann-arbor",
-  "title": "Color analysis in Ann Arbor: app or in-person?",
-  "seoTitle": "Color Analysis in Ann Arbor | Local Options & App",
-  "description": "Compare color analysis in Ann Arbor, Michigan: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "A two-hour Ann Arbor consultation gives you time for more than a quick season label, but its value still depends on what you want to learn. Decide whether your priority is an everyday wardrobe, a specific event outfit or makeup shades. A useful reference is one you can understand without the analyst sitting beside you.",
-  "quickAnswer": "What a two-hour appointment should help you take home",
+  "title": "Ann Arbor color analysis: make a two-hour consultation useful afterwards",
+  "seoTitle": "Ann Arbor Color Analysis: Making a Two-Hour Session Useful",
+  "description": "Evaluate an Ann Arbor color consultation by its swatch, booklet and explanation. Prepare useful questions and compare studio help with phone-based tools.",
+  "excerpt": "Jenny Salinas lists a two-hour, US$250 appointment with a swatch, booklet and makeup recommendations. The useful test is whether you can apply that material a week later without needing another explanation.",
+  "quickAnswer": "Jenny Salinas lists a two-hour, US$250 appointment with a swatch, booklet and makeup recommendations. The useful test is whether you can apply that material a week later without needing another explanation.",
   "category": "Local color guides",
   "city": "Ann Arbor",
   "region": "Michigan",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Ann Arbor",
+      "title": "Prepare examples, not a complete closet inventory",
       "html": "<p>Bring a small number of questions, not your entire closet. Ask the consultant to show why one neutral works better for your intended look and how to pair it with an accent. Find out how to use the take-home swatch with printed fabrics and what the booklet explains. Leave time to write down the combinations you would actually repeat.</p><ul><li>What does the booklet explain beyond my season name?</li><li>What happens to the deposit if I need to change the appointment?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Read your booklet before the shopping trip",
       "html": "<p>After the visit, make a three-outfit test from existing clothes. Keep the silhouettes familiar and change only one color at a time. That makes it easier to decide whether the advice helps rather than attributing every difference to the season label. A phone palette can stay available during shopping, while the physical swatch can help you compare the cloth itself.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "Keep practice separate from the appointment",
+      "html": "<p>Two hours with an analyst and a booklet to take away offer an opportunity for questions. Make use of that by asking for an explanation you could repeat to a friend, rather than collecting color names. The listed cancellation terms refer to a deposit and a 24-hour window; reread the booking policy before reserving a time.</p><p>For practice afterwards, Stylist AI keeps a seasonal palette and outfit combinations on your iPhone. Its selfie introduction leads into photo-based makeup and hair previews, while the camera tool helps you compare garment colors. That makes it a convenient exploration companion; it does not supply the booked discussion, booklet or tactile swatch. Start with one note from your session and see how it works with clothes you own.</p>"
     }
   ],
   "sources": [
@@ -48,5 +53,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "workbook",
+    "accent": "#2e5670",
+    "kicker": "YOUR TAKE-HOME WORKBOOK",
+    "leadHtml": "<div class=\"worksheet\"><h2>Three blanks to fill during the session</h2><ul><li>My easiest everyday neutral is …</li><li>I can combine that neutral with …</li><li>The makeup change I want to try first is …</li></ul><p>Use these as your own notes; they are not promised outputs beyond the provider’s described package.</p></div>",
+    "ctaTitle": "Put one idea from your notes into practice",
+    "ctaText": "Try that color combination in Stylist AI before building a new shopping list."
+  }
 }

@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-madison",
-  "title": "Color analysis in Madison: app or in-person?",
-  "seoTitle": "Color Analysis in Madison | Local Options & App",
-  "description": "Compare color analysis in Madison, Wisconsin: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "A Madison color consultation can be especially useful when the purchase in question is yarn or fabric for something you will spend weeks making. That is a different decision from choosing a ready-made shirt you can return. The goal is a palette you can apply to a project, with enough explanation to work beyond one exact shade.",
-  "quickAnswer": "Make the palette useful for clothes you make as well as buy",
+  "title": "Madison color analysis for knitters: choose yarn before committing to the project",
+  "seoTitle": "Madison Color Analysis for Knitters and Yarn Projects",
+  "description": "Bring yarn, contrast colors and a real project to Madison color advice. Compare material-based consultation with app ideas before committing to a knit.",
+  "excerpt": "Melissa Jenkins’s House of Colour profile specifically mentions a knitting background and help for knitters. That makes project materials a useful starting point for your inquiry—not just finished clothing.",
+  "quickAnswer": "Melissa Jenkins’s House of Colour profile specifically mentions a knitting background and help for knitters. That makes project materials a useful starting point for your inquiry—not just finished clothing.",
   "category": "Local color guides",
   "city": "Madison",
   "region": "Wisconsin",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Madison",
+      "title": "Ask how the appointment can address yarn choices",
       "html": "<p>Bring a small selection of yarn or fabric options and describe the project’s purpose. Ask how to choose a main color, a neutral and a small contrast color rather than requesting approval for every skein. Clarify whether this discussion fits within color analysis or needs a separate style session. Get the material palette and any digital reference listed in the quote.</p><ul><li>Can I bring yarn or fabric samples to the consultation?</li><li>Is advice on garment shape a separate style appointment?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Make a small sample before a large commitment",
       "html": "<p>Before committing to the whole project, place your samples together in the intended proportions. A narrow bright stripe reads differently from a bright sweater. Photograph the arrangement as a reminder, then compare the actual materials near your face. Stylist AI can help you explore combinations on your phone, while an in-person conversation can address the physical materials you brought.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "Preview combinations before buying all the yarn",
+      "html": "<p>A garment you make carries both a material cost and hours of work. Ask the consultant whether you can bring yarn or fabric samples and discuss more than one combination. A small project swatch lets you judge the resulting material directly; a palette label alone cannot show how texture, stitch pattern or color proportions will look.</p><p>Stylist AI can help with the early color direction. Complete its selfie introduction, explore the seasonal palette and use outfit combinations to consider possible main and accent colors. Makeup and hair previews can broaden the overall look, while camera comparison helps you consider a material beside your palette. For personal discussion of the actual samples, ask about the studio service and a current quote; the reviewed profile did not publish a fee.</p>"
     }
   ],
   "sources": [
@@ -48,5 +53,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "workbook",
+    "accent": "#715366",
+    "kicker": "THE COLOUR SWATCH PROJECT",
+    "leadHtml": "<div class=\"project-board\"><h2>Bring the project into focus</h2><p><strong>Near the face:</strong> a sweater neckline, scarf or hat.</p><p><strong>In the pattern:</strong> the main color, contrast color and their proportions.</p><p><strong>In the material:</strong> the actual yarn, rather than only a screen photograph.</p></div>",
+    "ctaTitle": "Explore your project’s main and accent colors",
+    "ctaText": "Start in Stylist AI, then test the direction with a real material sample."
+  }
 }

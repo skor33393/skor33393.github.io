@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-moncton",
-  "title": "Colour analysis in Moncton: app or in-person?",
-  "seoTitle": "Colour Analysis in Moncton | Local Options & App",
-  "description": "Compare colour analysis in Moncton, New Brunswick: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "Colour analysis around Moncton can include appointments across the river in Riverview. That is a straightforward trip for some visitors, but the location should be explicit when coordinating a duo or group. The main comparison is the individual attention and useful guidance each person receives.",
-  "quickAnswer": "Check whether your appointment is in Moncton or Riverview",
+  "title": "Moncton and Riverview colour analysis: coordinate the people and the place",
+  "seoTitle": "Moncton and Riverview Colour Analysis: A Group Booking Guide",
+  "description": "Coordinate the analyst, address, group size and individual scope for Moncton-area colour analysis. Compare a shared event with a personal app palette.",
+  "excerpt": "The Hue Revival identifies Jana in Moncton and Shallan in Riverview, with individual, duo and party formats. A shared booking needs one agreed location and a clear understanding of what each guest receives.",
+  "quickAnswer": "The Hue Revival identifies Jana in Moncton and Shallan in Riverview, with individual, duo and party formats. A shared booking needs one agreed location and a clear understanding of what each guest receives.",
   "category": "Local colour guides",
   "city": "Moncton",
   "region": "New Brunswick",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Moncton",
+      "title": "Send one accurate booking summary to the group",
       "html": "<p>Ask which consultant and location are attached to your booking. For a party, check the total duration, each person’s draping time and whether a palette wallet or digital guide is included for every guest. Avoid multiplying a starting price by the group size and treating that as a confirmed package quote.</p><ul><li>Which consultant and location are confirmed for our appointment?</li><li>What individual time and materials are included for every guest?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Protect time for each person’s questions",
       "html": "<p>Prepare one question each rather than a single shared goal. One person may want workwear neutrals while another wants makeup colours. Afterwards, test a few combinations independently with clothes you already own. If you prefer to explore privately first, Stylist AI provides phone-based analysis and color tools without arranging a group, while a live consultation gives you the chance to ask questions as fabrics are compared.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "A shared event is optional, a personal palette is individual",
+      "html": "<p>Do not calculate a final party bill from a “from” price without the provider confirming the selected format. Ask how time, materials and cancellations work for the whole group. Making the Moncton or Riverview destination explicit also avoids guests planning around different locations.</p><p>Stylist AI lets each person explore separately through their own selfie introduction. Seasonal palettes, outfit combinations, makeup and hair previews can then be discussed if you choose, while the camera tool helps with later clothing comparisons. It suits people who want personal experimentation without a coordinated event. Choose the group appointment when learning from the analyst together is part of what you are paying for.</p>"
     }
   ],
   "sources": [
@@ -48,5 +53,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "coordination",
+    "accent": "#7d483b",
+    "kicker": "THE GROUP ORGANISER’S NOTE",
+    "leadHtml": "<div class=\"coordination-board\"><section><h2>Who and where?</h2><p>Confirm which analyst and which meeting address apply to your booking.</p></section><section><h2>How many?</h2><p>The site describes parties of up to six; do not assume a larger group can join.</p></section><section><h2>What total?</h2><p>The advertised starting figure is C$175 per person. Ask for the exact format’s quote.</p></section></div>",
+    "ctaTitle": "Start with your own colours before the group discussion",
+    "ctaText": "Use Stylist AI to find a few combinations you want to explore further."
+  }
 }

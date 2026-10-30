@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-kitchener-waterloo",
-  "title": "Colour analysis in Kitchener–Waterloo: app or in-person?",
-  "seoTitle": "Colour Analysis in Kitchener–Waterloo | Local Options & App",
-  "description": "Compare colour analysis in Kitchener–Waterloo, Ontario: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "A Kitchener–Waterloo colour search can also surface personal styling, shopping and wardrobe advice. Those services may be valuable, but they answer different questions. Decide whether you mainly want colours for your face, help combining outfits, or a broader review of shapes and style before choosing a package.",
-  "quickAnswer": "Choose colour guidance or a broader personal-style appointment",
+  "title": "Kitchener–Waterloo colour analysis: sort your wardrobe questions before booking",
+  "seoTitle": "Kitchener–Waterloo Colour Analysis: Sort Your Wardrobe Questions",
+  "description": "Separate shade, outfit-combination and personal-style questions before a Kitchener–Waterloo booking. Decide which issues a colour app can help you explore.",
+  "excerpt": "Tobi Boisvert’s House of Colour profile covers colour analysis and personal-style services. Sort the problem first so you can request a precise scope instead of buying a broad package by default.",
+  "quickAnswer": "Tobi Boisvert’s House of Colour profile covers colour analysis and personal-style services. Sort the problem first so you can request a precise scope instead of buying a broad package by default.",
   "category": "Local colour guides",
   "city": "Kitchener–Waterloo",
   "region": "Ontario",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Kitchener–Waterloo",
+      "title": "Build the inquiry around two real items",
       "html": "<p>Bring two examples of the problem you want solved: a shirt colour that feels wrong and an outfit that never comes together, for instance. Ask which concern is covered by colour analysis and which belongs in a separate style session. Confirm the consultation language if that matters to you, along with the final price and reference format.</p><ul><li>Which of my questions are covered by colour analysis versus personal style?</li><li>What is the current location, language and complete price of the session?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Do not expect a palette to solve garment fit",
       "html": "<p>For a first experiment, keep the outfit shape unchanged and compare two colour combinations. If the difficulty is mostly about proportion or fit, a new palette alone may not resolve it. Stylist AI offers a convenient place to explore colours and combinations, while a live consultant can discuss the physical garments and your preferences in more detail.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "Use colour tools for the colour part of the problem",
+      "html": "<p>A well-fitting garment in a difficult shade and a poor-fitting garment in an appealing shade present different problems. Describe both accurately when asking what the consultation includes. The profile did not show a current price in the reviewed text; request the exact meeting location, duration and materials alongside the fee.</p><p>Stylist AI is a useful starting point for exploring palettes and pairings. Its photo introduction leads into seasonal colours, makeup or hair previews and outfit combinations, with a camera colour comparison for shopping. It does not supply a personal-style consultation or alter the cut of a garment. Use it to clarify the colour question, then choose a broader service only when the remaining problem calls for one.</p>"
     }
   ],
   "sources": [
@@ -48,5 +53,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "sorting",
+    "accent": "#3f6076",
+    "kicker": "COLOUR, COMBINATION OR PERSONAL STYLE?",
+    "leadHtml": "<div class=\"question-sort\"><section><h2>“The shade feels wrong”</h2><p>Ask about colour analysis and the palette explanation.</p></section><section><h2>“Nothing goes together”</h2><p>Ask whether outfit-combination guidance is included.</p></section><section><h2>“The clothes do not feel like me”</h2><p>Discuss the separate personal-style service and what it addresses.</p></section></div>",
+    "ctaTitle": "Untangle the colour question first",
+    "ctaText": "Try Stylist AI with the pieces you struggle to combine."
+  }
 }

@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-omaha",
-  "title": "Color analysis in Omaha: app or in-person?",
-  "seoTitle": "Color Analysis in Omaha | Local Options & App",
-  "description": "Compare color analysis in Omaha, Nebraska: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "Color analysis near Omaha can involve a studio outside the city itself. That can still be a good option, but it changes the travel time and the value of a short appointment. Before comparing the app with an in-person visit, make sure you know where the consultation happens and how much individual discussion it includes.",
-  "quickAnswer": "“Omaha area” can mean a trip to a nearby community",
+  "title": "Color analysis near Omaha: plan for the Bennington appointment",
+  "seoTitle": "Color Analysis Near Omaha: Plan the Bennington Visit",
+  "description": "Check the Bennington location behind an Omaha-area color search. Plan the appointment scope, journey and take-home result, or begin exploring on your phone.",
+  "excerpt": "Color Rx Studio identifies Bennington and serves the greater Omaha area. A useful plan begins with the actual destination, then adds the session scope and what you hope to bring home.",
+  "quickAnswer": "Color Rx Studio identifies Bennington and serves the greater Omaha area. A useful plan begins with the actual destination, then adds the session scope and what you hope to bring home.",
   "category": "Local color guides",
   "city": "Omaha",
   "region": "Nebraska",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Omaha",
+      "title": "Get the complete visit onto your calendar",
       "html": "<p>Ask for the exact session scope alongside the location. A 12-season label tells you how the provider organizes palettes, not how long you will spend on makeup, clothing or combinations. Check whether the price includes a physical reference and whether you can ask follow-up questions after trying the advice at home. If travelling with a friend, compare the total group duration with the time each person receives.</p><ul><li>Is the appointment in Bennington or another location in the Omaha area?</li><li>How much of the session is individual draping and discussion?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Decide what would make the journey worthwhile",
       "html": "<p>If the trip is the main obstacle, start with one phone-based palette exercise and save the questions that remain. For example, compare two shirt colors with the same trousers and decide what you still cannot judge. Those questions can make a later studio visit more focused. Do not assume that a different label in another system means every color recommendation conflicts.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "A local journey or a session at home",
+      "html": "<p>The studio describes a 12-season approach, but that name does not establish the fee, consultation length or take-home materials. Ask for all three. Do not treat service coverage across Omaha as evidence that the appointment itself happens inside the city.</p><p>Stylist AI removes the scheduling and journey from the exploration stage. Its iPhone introduction starts with your selfie, followed by a palette, clothing combinations and makeup or hair previews. The camera color tool can support later garment comparisons. An in-person appointment offers physical draping and a person to question; the app offers independent tools you can revisit. Choose the trip when that live interaction is the part you are looking for.</p>"
     }
   ],
   "sources": [
@@ -48,5 +53,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "itinerary",
+    "accent": "#4b6650",
+    "kicker": "THE APPOINTMENT IS NOT THE SEARCH LABEL",
+    "leadHtml": "<div class=\"itinerary-strip\"><div><span>01</span><h2>Confirm the address</h2><p>Get the meeting location directly before arranging your journey.</p></div><div><span>02</span><h2>Reserve enough time</h2><p>Ask for the consultation duration and allow for your own travel.</p></div><div><span>03</span><h2>Define the outcome</h2><p>Request the palette format and explanation included in the quote.</p></div></div>",
+    "ctaTitle": "Explore a palette before arranging the trip",
+    "ctaText": "Use Stylist AI to narrow down the questions you would take to a consultation."
+  }
 }

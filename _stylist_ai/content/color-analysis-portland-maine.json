@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-portland-maine",
-  "title": "Color analysis in Portland: app or in-person?",
-  "seoTitle": "Color Analysis in Portland | Local Options & App",
-  "description": "Compare color analysis in Portland, Maine: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "If you are searching in Portland, Maine, check the South Portland location and distinguish color analysis from a full wardrobe service. Also avoid a false choice between “digital” and “in person”: a consultant may provide a digital palette after a live session, while an app provides its own photo-based analysis and tools.",
-  "quickAnswer": "A digital palette can come with an in-person session",
+  "title": "Portland, Maine color analysis: digital results do not mean a virtual appointment",
+  "seoTitle": "Portland Maine Color Analysis: Digital Palette, In-Person Visit",
+  "description": "Understand the South Portland service that pairs live draping with a digital palette. Compare its process with an app and separate wider wardrobe services.",
+  "excerpt": "True Colors Maine lists a US$125, 90-minute color service in South Portland with a digital palette. A digital takeaway can be the result of an in-person session; it is not proof that the analysis happened online.",
+  "quickAnswer": "True Colors Maine lists a US$125, 90-minute color service in South Portland with a digital palette. A digital takeaway can be the result of an in-person session; it is not proof that the analysis happened online.",
   "category": "Local color guides",
   "city": "Portland",
   "region": "Maine",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Portland",
+      "title": "Ask how to access and use the digital result",
       "html": "<p>Ask how the digital palette is delivered, whether you can keep it without an ongoing payment, and what advice is included for clothing combinations. If you also want help editing your closet, get that service quoted separately. A 90-minute consultation does not automatically include a home visit or a shopping trip.</p><ul><li>How do I access and keep the digital palette after the appointment?</li><li>Are closet editing or shopping visits included or separately billed?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Keep a color session separate from a closet project",
       "html": "<p>Use the result to plan one outfit for an ordinary day before tackling a whole wardrobe. Compare a neutral, an accent and a lip color you already own. The app can help you explore alternatives on your phone; the live session gives you an opportunity to ask about actual drapes and makeup. Choose the mix that solves your problem rather than paying twice for a digital palette alone.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "Two digital experiences with different inputs",
+      "html": "<p>A consultant-supplied digital palette and an app-generated profile may both live on a phone, but their starting processes are different. With the South Portland service, ask how the palette relates to the comparisons explained during the visit and whether later questions are included.</p><p>Stylist AI starts through an app introduction and your photograph. It then offers a seasonal palette, outfit combinations, makeup and hair previews, and camera-based garment comparison. Use that route when you want to explore on your own. Choose the local appointment when draping and live feedback are the important components. A digital file is neither a reason to dismiss a studio service nor a reason to assume an app includes an analyst.</p>"
     }
   ],
   "sources": [
@@ -48,5 +53,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "explainer",
+    "accent": "#5f4b78",
+    "kicker": "FOLLOW THE PROCESS, NOT THE FILE FORMAT",
+    "leadHtml": "<div class=\"process-chain\"><section><h2>During the visit</h2><p>The listing describes draping and makeup application.</p></section><span aria-hidden=\"true\">→</span><section><h2>After the visit</h2><p>You receive the described digital palette.</p></section></div><p>Style consultation, closet auditing and personal shopping appear as separate services with their own fees.</p>",
+    "ctaTitle": "Try a self-guided digital color experience",
+    "ctaText": "Begin Stylist AI with your own photo and explore the tools at your pace."
+  }
 }

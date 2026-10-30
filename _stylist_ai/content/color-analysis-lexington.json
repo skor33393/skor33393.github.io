@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-lexington",
-  "title": "Color analysis in Lexington: app or in-person?",
-  "seoTitle": "Color Analysis in Lexington | Local Options & App",
-  "description": "Compare color analysis in Lexington, Kentucky: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "Lexington readers considering a new hair color have a practical reason to explore personal color analysis before booking the change. Choosing a flattering direction and carrying out a salon treatment are separate steps. A color consultation can help frame the first discussion without providing a formula for the second.",
-  "quickAnswer": "Use color advice before a hair appointment",
+  "title": "Lexington color analysis before a hair change: separate the two appointments",
+  "seoTitle": "Lexington Color Analysis Before a Hair Change",
+  "description": "Plan a Lexington color consultation before a separate hair treatment. Use visual references and app previews to make your salon discussion more specific.",
+  "excerpt": "LUX Color Collective describes a 60-minute one-to-one consultation with Nikki Paley. Use that conversation to clarify a direction before asking a hair professional how to achieve it.",
+  "quickAnswer": "LUX Color Collective describes a 60-minute one-to-one consultation with Nikki Paley. Use that conversation to clarify a direction before asking a hair professional how to achieve it.",
   "category": "Local color guides",
   "city": "Lexington",
   "region": "Kentucky",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Lexington",
+      "title": "Book the color discussion by its actual service name",
       "html": "<p>Bring photos of your natural hair, current hair and two or three looks you are considering. Ask whether the consultation covers clothing and makeup as well as hair, and whether a separate salon appointment is needed. Your stylist should assess your current color history, condition and maintenance preferences before recommending a process. Avoid booking a complicated change solely from a palette name.</p><ul><li>Is hair coloring booked and charged separately from analysis?</li><li>Can the consultation help me compare specific hair references?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Make a direction board, not a chemical formula",
       "html": "<p>Stylist AI can help you compare a hair-color preview with your usual clothing colors before the appointment. Save the looks you enjoy and explain what appeals to you: depth, softness or contrast. Keep one familiar makeup look while comparing, so you are not changing every feature at once. A useful outcome is a short list to discuss with the salon, not an instruction to bleach or dye at home.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "Use previews to explain what you mean",
+      "html": "<p>Words such as richer, softer or brighter can mean different things to a client and a colorist. A few visual references make the conversation easier. The LUX page directs visitors to book by phone and treats hair appointments separately; the reviewed text did not establish a current analysis fee.</p><p>Stylist AI’s hair previews can help you explore those visual directions, while its seasonal palette, outfit combinations and lip or blush previews show related ideas. The starting flow uses your own selfie. These tools are for considering a look; they do not assess your hair’s condition or prescribe a salon formula. Bring the directions you prefer to an in-person conversation if you are deciding on a treatment.</p>"
     }
   ],
   "sources": [
@@ -48,5 +53,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "timeline",
+    "accent": "#625830",
+    "kicker": "BEFORE THE COLOURIST’S CHAIR",
+    "leadHtml": "<ol class=\"editorial-timeline\"><li><h2>Define the change</h2><p>Bring examples of the direction you like and a photo of your current hair.</p></li><li><h2>Discuss the palette</h2><p>Ask what the color consultation can tell you about the overall look.</p></li><li><h2>Plan the treatment separately</h2><p>Get the hair-service scope, quote and maintenance discussion from the salon.</p></li></ol>",
+    "ctaTitle": "Build a clearer picture of the change you want",
+    "ctaText": "Explore hair and surrounding colors together in Stylist AI."
+  }
 }

@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-grand-rapids",
-  "title": "Color analysis in Grand Rapids: app or in-person?",
-  "seoTitle": "Color Analysis in Grand Rapids | Local Options & App",
-  "description": "Compare color analysis in Grand Rapids, Michigan: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "Grand Rapids searches can mix salon color advice with full personal color analysis and wardrobe services. Start with the decision that led you to search. A hair change, a closet refresh and a makeup update can share color language while needing different appointment scopes.",
-  "quickAnswer": "Compare analysis, hair advice and wardrobe services separately",
+  "title": "Grand Rapids color analysis: hair appointment or whole-palette advice?",
+  "seoTitle": "Grand Rapids Color Analysis: Hair Advice or a Full Palette?",
+  "description": "Read separate Grand Rapids hair-color and full-analysis listings. Compare their scope, clarify treatment costs and explore photo-based app previews.",
+  "excerpt": "Honey’s service menu separates a 45-minute hair-color analysis from a 75-minute full color analysis. Read the scope before treating the lower fee as a shortcut to the same result.",
+  "quickAnswer": "Honey’s service menu separates a 45-minute hair-color analysis from a 75-minute full color analysis. Read the scope before treating the lower fee as a shortcut to the same result.",
   "category": "Local color guides",
   "city": "Grand Rapids",
   "region": "Michigan",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Grand Rapids",
+      "title": "Tell the salon what you want to change",
       "html": "<p>For a hair-focused visit, ask whether the service recommends a color direction, includes a strand test, or includes any actual coloring. For a wardrobe visit, check whether clothing neutrals and combinations are covered and what reference you keep. A short consultation price should not be confused with the total cost of hair treatment or new clothes.</p><ul><li>Is this appointment about hair color only or clothing and makeup too?</li><li>Does the price include any treatment or just the consultation?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Do not let a hair recommendation dictate every outfit",
       "html": "<p>Keep the first experiment small. If you are considering darker hair, collect examples and compare a preview before discussing the practical salon process. If your wardrobe is the issue, make three outfits from pieces you already own using a new accent. You can explore those directions in an app, but a stylist needs to assess hair condition and the actual products before a chemical service.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "Preview a direction without booking a treatment",
+      "html": "<p>Choosing a hair-color direction and applying it are separate purchases. A consultation listing should not be read as a quote for dye, maintenance or corrective work. Ask the salon how its advice connects to a later treatment, especially when your current color differs from your natural hair.</p><p>Stylist AI lets you begin with a selfie, explore hair and makeup previews, and see how a seasonal palette relates to outfit combinations. It provides a useful space to narrow your visual preferences before discussing them. Its garment color check adds help beyond the salon, but the app does not formulate or perform hair coloring. If the question is how to achieve a particular hair result, take the selected direction to a professional consultation.</p>"
     }
   ],
   "sources": [
@@ -48,5 +53,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "menu",
+    "accent": "#5b4f80",
+    "kicker": "MATCH THE BOOKING TO THE QUESTION",
+    "leadHtml": "<div class=\"menu-pair\"><section><h2>Hair-focused listing</h2><p><strong>US$65 · 45 minutes</strong></p><p>Ask about the hair decision it is designed to support.</p></section><section><h2>Full color listing</h2><p><strong>US$148 · 75 minutes</strong></p><p>Confirm the palette materials and clothing or makeup discussion included.</p></section></div>",
+    "ctaTitle": "Find a direction to discuss with your colorist",
+    "ctaText": "Try hair, makeup and wardrobe colors together in Stylist AI."
+  }
 }

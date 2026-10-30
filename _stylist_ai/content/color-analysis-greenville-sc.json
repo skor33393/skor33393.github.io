@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-greenville-sc",
-  "title": "Color analysis in Greenville: app or in-person?",
-  "seoTitle": "Color Analysis in Greenville | Local Options & App",
-  "description": "Compare color analysis in Greenville, South Carolina: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "For Greenville, South Carolina, make sure you are comparing an appointment in the intended city and a current quote. Search snippets can retain a former base price long after a package changes. Ask what the current session includes rather than treating a low number in the results as the final bill.",
-  "quickAnswer": "Confirm the full quote and the session setting",
+  "title": "Greenville, SC color analysis: build a quote you can actually compare",
+  "seoTitle": "Greenville SC Color Analysis: Build a Complete Quote",
+  "description": "Ask a Greenville studio for the service, materials, timing and total price. Use this inquiry checklist to compare a local consultation with app exploration.",
+  "excerpt": "GVL Color Queen identifies its North Pleasantburg Drive studio, but the reviewed contact information did not establish a complete current price. Here is what a useful inquiry should pin down.",
+  "quickAnswer": "GVL Color Queen identifies its North Pleasantburg Drive studio, but the reviewed contact information did not establish a complete current price. Here is what a useful inquiry should pin down.",
   "category": "Local color guides",
   "city": "Greenville",
   "region": "South Carolina",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Greenville",
+      "title": "An event deadline changes what to ask",
       "html": "<p>Confirm whether you will meet in the studio or arrange a mobile visit, how much time is reserved and what palette format you receive. If you need help for an event, ask when the reference materials arrive and whether there is time to practise the look. Keep travel charges, physical swatches and makeup purchases visible in the budget.</p><ul><li>What is the current total for the exact session I am booking?</li><li>When will I receive my palette and any follow-up materials?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Take two possible outfits into the conversation",
       "html": "<p>You can use Stylist AI to explore a few color ideas while waiting for a quote. Choose two possible outfit combinations and save the questions that remain unclear. A focused list makes a later consultation more useful: which neutral, which lip family, or how much contrast? Avoid replacing the wardrobe before you have tried the suggestions with familiar pieces.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "Compare a quoted service with a self-guided starting point",
+      "html": "<p>Keep an unknown price unknown until the studio answers. That is more useful than comparing a historic search snippet with a current app plan. A written scope also helps you avoid paying for a package that arrives too late for the event you are preparing for.</p><p>While waiting for the reply, Stylist AI can help you explore the decision itself. Its introduction starts with your photo, then opens up seasonal colors, outfit combinations and hair or makeup previews. You can use the camera tool to consider a garment alongside the palette. Choose the studio for a scheduled physical comparison and personal discussion; use the app when independent exploration is sufficient. Verify premium pricing inside the app rather than treating a free download as every feature being free.</p>"
     }
   ],
   "sources": [
@@ -48,5 +53,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "quote",
+    "accent": "#80513c",
+    "kicker": "THE MISSING-PRICE CHECKLIST",
+    "leadHtml": "<div class=\"quote-grid\"><div><h2>Appointment</h2><p>Exact service, reserved duration and studio or mobile setting.</p></div><div><h2>Materials</h2><p>Physical swatches, digital files and the date you receive them.</p></div><div><h2>Total</h2><p>Consultation fee plus any quoted travel, materials or other additions.</p></div><div><h2>Support</h2><p>Whether later questions are included and how to ask them.</p></div></div>",
+    "ctaTitle": "Make your next inquiry more focused",
+    "ctaText": "Explore two outfit directions in Stylist AI and note what remains unclear."
+  }
 }

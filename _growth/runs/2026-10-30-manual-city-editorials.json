@@ -1,0 +1,361 @@
+{
+  "run_id": "2026-10-30-manual-city-editorials",
+  "status": "ready_to_publish",
+  "created_at": "2026-10-30T12:40:36.290338+00:00",
+  "authorization": "User requested fully tappable banners, mobile preview, Asian models in Asian guides, and genuinely distinct city content, approaches and visual presentation.",
+  "banner_revision": {
+    "published_commit": "306890c",
+    "live_checks": {
+      "checked": 158,
+      "passed": 158
+    },
+    "full_banner_tap": "Verified navigation to Stylist AI App Store id6739435502 through banner click. Country-specific URLs preserved.",
+    "asian_guides": [
+      "color-analysis-singapore",
+      "zh/colour-analysis-singapore",
+      "ko/seoul-personal-color",
+      "ja/tokyo-personal-color"
+    ],
+    "image_model": "Higgsfield Nano Banana 2.1",
+    "job_ids": [
+      "152773e1-9e91-427f-ad4c-308ecfd51c64",
+      "76c9e250-9ff2-4c20-8a50-fe511da9871b",
+      "0a2e4283-0d8e-4e39-84bd-50b870db5c9e",
+      "4cea76cb-b80b-4a6e-8b24-b99511c04173"
+    ],
+    "image_provenance": "../seo-city-guides/2026-10-30/asian-banner-revision.json"
+  },
+  "editorial_revision": {
+    "guides": 34,
+    "distinct_formats": 26,
+    "changes": [
+      "Unique editorial titles, decks, opening modules, local decision frames and app comparisons.",
+      "Removed shared generic article feature grid, app comparison table and first-week plan.",
+      "26 visual formats and individually selected accents; common product banner and interface remain reusable.",
+      "Preserved verified source URLs, source-check dates and original publication dates.",
+      "Removed arbitrary same-country peer links; separate browsable directory retained, without journal promotion."
+    ],
+    "policy_review": "https://developers.google.com/search/docs/essentials/spam-policies#doorway-abuse",
+    "limits": "Original useful local content is the objective. A duplication metric or design difference does not establish Google policy compliance, indexing or rank."
+  },
+  "copy_audit": {
+    "articles": 34,
+    "unique_editorial_formats": 26,
+    "duplicate_body_paragraphs": [],
+    "repeated_body_sentences_15_words_or_more": [],
+    "highest_english_five_word_overlap": [
+      {
+        "a": "color-analysis-portland-maine",
+        "b": "color-analysis-lincoln",
+        "five_word_overlap": 0.0089
+      },
+      {
+        "a": "color-analysis-portland-maine",
+        "b": "color-analysis-victoria-bc",
+        "five_word_overlap": 0.0079
+      },
+      {
+        "a": "color-analysis-burlington-vermont",
+        "b": "color-analysis-lexington",
+        "five_word_overlap": 0.0076
+      },
+      {
+        "a": "color-analysis-madison",
+        "b": "color-analysis-lincoln",
+        "five_word_overlap": 0.0074
+      },
+      {
+        "a": "color-analysis-eugene",
+        "b": "color-analysis-portland-maine",
+        "five_word_overlap": 0.0065
+      }
+    ],
+    "pages": [
+      {
+        "slug": "color-analysis-sioux-falls",
+        "language": "en-US",
+        "layout": "brief",
+        "word_tokens": 410,
+        "text_characters": 2634
+      },
+      {
+        "slug": "color-analysis-des-moines",
+        "language": "en-US",
+        "layout": "brief",
+        "word_tokens": 420,
+        "text_characters": 2632
+      },
+      {
+        "slug": "color-analysis-burlington-vermont",
+        "language": "en-US",
+        "layout": "fieldnotes",
+        "word_tokens": 397,
+        "text_characters": 2509
+      },
+      {
+        "slug": "color-analysis-singapore",
+        "language": "en-SG",
+        "layout": "matrix",
+        "word_tokens": 555,
+        "text_characters": 3418
+      },
+      {
+        "slug": "color-analysis-spokane",
+        "language": "en-US",
+        "layout": "matrix",
+        "word_tokens": 406,
+        "text_characters": 2607
+      },
+      {
+        "slug": "color-analysis-kelowna",
+        "language": "en-CA",
+        "layout": "host",
+        "word_tokens": 400,
+        "text_characters": 2478
+      },
+      {
+        "slug": "color-analysis-grand-rapids",
+        "language": "en-US",
+        "layout": "menu",
+        "word_tokens": 396,
+        "text_characters": 2451
+      },
+      {
+        "slug": "color-analysis-eugene",
+        "language": "en-US",
+        "layout": "essay",
+        "word_tokens": 397,
+        "text_characters": 2532
+      },
+      {
+        "slug": "color-analysis-omaha",
+        "language": "en-US",
+        "layout": "itinerary",
+        "word_tokens": 406,
+        "text_characters": 2543
+      },
+      {
+        "slug": "color-analysis-nanaimo",
+        "language": "en-CA",
+        "layout": "qanda",
+        "word_tokens": 389,
+        "text_characters": 2527
+      },
+      {
+        "slug": "color-analysis-portland-maine",
+        "language": "en-US",
+        "layout": "explainer",
+        "word_tokens": 387,
+        "text_characters": 2436
+      },
+      {
+        "slug": "color-analysis-ann-arbor",
+        "language": "en-US",
+        "layout": "workbook",
+        "word_tokens": 406,
+        "text_characters": 2437
+      },
+      {
+        "slug": "color-analysis-guelph",
+        "language": "en-CA",
+        "layout": "receipt",
+        "word_tokens": 415,
+        "text_characters": 2540
+      },
+      {
+        "slug": "color-analysis-chattanooga",
+        "language": "en-US",
+        "layout": "split",
+        "word_tokens": 399,
+        "text_characters": 2450
+      },
+      {
+        "slug": "color-analysis-madison",
+        "language": "en-US",
+        "layout": "workbook",
+        "word_tokens": 413,
+        "text_characters": 2557
+      },
+      {
+        "slug": "color-analysis-kitchener-waterloo",
+        "language": "en-CA",
+        "layout": "sorting",
+        "word_tokens": 387,
+        "text_characters": 2503
+      },
+      {
+        "slug": "color-analysis-halifax",
+        "language": "en-CA",
+        "layout": "calculator",
+        "word_tokens": 425,
+        "text_characters": 2581
+      },
+      {
+        "slug": "color-analysis-asheville",
+        "language": "en-US",
+        "layout": "route",
+        "word_tokens": 409,
+        "text_characters": 2579
+      },
+      {
+        "slug": "color-analysis-victoria-bc",
+        "language": "en-CA",
+        "layout": "objects",
+        "word_tokens": 391,
+        "text_characters": 2525
+      },
+      {
+        "slug": "color-analysis-lincoln",
+        "language": "en-US",
+        "layout": "inventory",
+        "word_tokens": 413,
+        "text_characters": 2515
+      },
+      {
+        "slug": "color-analysis-knoxville",
+        "language": "en-US",
+        "layout": "fieldnotes",
+        "word_tokens": 419,
+        "text_characters": 2556
+      },
+      {
+        "slug": "color-analysis-kingston-ontario",
+        "language": "en-CA",
+        "layout": "calendar",
+        "word_tokens": 420,
+        "text_characters": 2559
+      },
+      {
+        "slug": "ko/seoul-personal-color",
+        "language": "ko-KR",
+        "layout": "qanda",
+        "word_tokens": 400,
+        "text_characters": 1640
+      },
+      {
+        "slug": "color-analysis-saskatoon",
+        "language": "en-CA",
+        "layout": "ladder",
+        "word_tokens": 427,
+        "text_characters": 2624
+      },
+      {
+        "slug": "color-analysis-huntsville",
+        "language": "en-US",
+        "layout": "calculator",
+        "word_tokens": 399,
+        "text_characters": 2371
+      },
+      {
+        "slug": "color-analysis-lexington",
+        "language": "en-US",
+        "layout": "timeline",
+        "word_tokens": 411,
+        "text_characters": 2581
+      },
+      {
+        "slug": "color-analysis-moncton",
+        "language": "en-CA",
+        "layout": "coordination",
+        "word_tokens": 391,
+        "text_characters": 2478
+      },
+      {
+        "slug": "color-analysis-regina",
+        "language": "en-CA",
+        "layout": "glossary",
+        "word_tokens": 400,
+        "text_characters": 2540
+      },
+      {
+        "slug": "color-analysis-boise",
+        "language": "en-US",
+        "layout": "decision",
+        "word_tokens": 409,
+        "text_characters": 2559
+      },
+      {
+        "slug": "color-analysis-bend",
+        "language": "en-US",
+        "layout": "ledger",
+        "word_tokens": 439,
+        "text_characters": 2722
+      },
+      {
+        "slug": "color-analysis-fort-collins",
+        "language": "en-US",
+        "layout": "steps",
+        "word_tokens": 436,
+        "text_characters": 2633
+      },
+      {
+        "slug": "color-analysis-greenville-sc",
+        "language": "en-US",
+        "layout": "quote",
+        "word_tokens": 410,
+        "text_characters": 2525
+      },
+      {
+        "slug": "ja/tokyo-personal-color",
+        "language": "ja-JP",
+        "layout": "menu",
+        "word_tokens": 105,
+        "text_characters": 1375
+      },
+      {
+        "slug": "zh/colour-analysis-singapore",
+        "language": "zh-Hans-SG",
+        "layout": "receipt",
+        "word_tokens": 144,
+        "text_characters": 1243
+      }
+    ],
+    "scope": "Authored lead and article sections only. Common navigation, product banner, onboarding controls, source disclosure and store badges are excluded. This checks copy repetition, not Google policy compliance or ranking."
+  },
+  "validation": [
+    "Shared validator: 43 Pelvic Gym and 61 Stylist AI pages passed.",
+    "City-guide requirements passed all 34.",
+    "Analytics consent suite passed.",
+    "Mobile DOM checks at 390 x 844 across 34 distinct guide URLs: no page overflow or nested banner links.",
+    "Desktop screenshots reviewed for price-matrix and project-workbook treatments.",
+    "Korean onboarding tested through all three steps and correct country App Store destination.",
+    "Protected advertising pages, shared landing assets, regular journal home and Pelvic Gym unchanged."
+  ],
+  "urls": [
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-sioux-falls/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-des-moines/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-burlington-vermont/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-singapore/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-spokane/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-kelowna/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-grand-rapids/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-eugene/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-omaha/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-nanaimo/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-portland-maine/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-ann-arbor/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-guelph/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-chattanooga/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-madison/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-kitchener-waterloo/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-halifax/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-asheville/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-victoria-bc/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-lincoln/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-knoxville/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-kingston-ontario/",
+    "https://bestme.mobi/stylist_ai/blog/ko/seoul-personal-color/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-saskatoon/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-huntsville/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-lexington/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-moncton/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-regina/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-boise/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-bend/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-fort-collins/",
+    "https://bestme.mobi/stylist_ai/blog/color-analysis-greenville-sc/",
+    "https://bestme.mobi/stylist_ai/blog/ja/tokyo-personal-color/",
+    "https://bestme.mobi/stylist_ai/blog/zh/colour-analysis-singapore/"
+  ],
+  "live_verification": null
+}

@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-guelph",
-  "title": "Colour analysis in Guelph: app or in-person?",
-  "seoTitle": "Colour Analysis in Guelph | Local Options & App",
-  "description": "Compare colour analysis in Guelph, Ontario: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "For colour analysis in Guelph, check both the regular package and any temporary promotion. A discount can be useful, but it should not obscure when you receive your materials or whether the group price is per person. Compare the final amount and deliverables in writing.",
-  "quickAnswer": "Separate regular pricing, promotions and delivered materials",
+  "title": "Guelph colour analysis: the price today and the swatch book later",
+  "seoTitle": "Guelph Colour Analysis: Price, Tax and Swatch Delivery",
+  "description": "Read Guelph colour-analysis inclusions like a receipt: base fee, tax, take-home card and later swatch delivery. Check promotion terms and compare app tools.",
+  "excerpt": "Posy House Styling describes a C$350 plus HST individual consultation, a take-home card and a 45-colour book delivered afterwards. The timing of those materials matters if you have a shopping deadline.",
+  "quickAnswer": "Posy House Styling describes a C$350 plus HST individual consultation, a take-home card and a 45-colour book delivered afterwards. The timing of those materials matters if you have a shopping deadline.",
   "category": "Local colour guides",
   "city": "Guelph",
   "region": "Ontario",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Guelph",
+      "title": "Put the material-delivery date beside your event date",
       "html": "<p>Ask when the swatch book arrives and what you can use immediately after the appointment. If bringing makeup or natural-hair photos, follow the provider’s preparation instructions. For a group, confirm that every guest receives the same references and enough individual discussion. Do not assume that a virtual option is bookable when the website still describes it as coming soon.</p><ul><li>What is the final price after HST and any currently valid promotion?</li><li>When will my swatch book arrive, and what do I receive on the day?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Keep group pricing separate from an individual offer",
       "html": "<p>Use the waiting period for any delivered materials to build a small outfit plan from existing clothes. Choose a neutral, two accents and one accessory, then note which combinations feel easy to wear. Stylist AI can help you explore those ideas on your phone. A live appointment adds physical comparison and conversation; choose it when that is the kind of support you want.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "Use the waiting period for a small wardrobe experiment",
+      "html": "<p>If the book arrives after the purchase you are planning, ask what the immediate card can help you do in the meantime. Also confirm delivery arrangements and whether a promotion changes any inclusions. Group pricing on the page is per person; it should not be mistaken for the total cost of bringing friends.</p><p>Stylist AI gives you a different digital starting point while you decide. Its selfie introduction leads to a seasonal palette, clothing combinations, lip and blush previews and hair exploration. A camera colour check can help you consider pieces you already own. Those tools do not replace the promised physical book or a consultant’s explanation, but they can help you narrow a colour question before committing to a larger purchase.</p>"
     }
   ],
   "sources": [
@@ -48,5 +53,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "receipt",
+    "accent": "#6c5440",
+    "kicker": "READ THE PACKAGE LIKE A RECEIPT",
+    "leadHtml": "<dl class=\"receipt-list\"><div><dt>Base individual service</dt><dd>C$350</dd></div><div><dt>Tax</dt><dd>HST is additional in the listing.</dd></div><div><dt>At the appointment</dt><dd>About 1.5 hours; take-home card described.</dd></div><div><dt>Later delivery</dt><dd>45-colour swatch book; confirm timing.</dd></div><div><dt>Promotion</dt><dd>Check current launch-offer terms before applying any discount.</dd></div></dl>",
+    "ctaTitle": "Start with the clothes already in reach",
+    "ctaText": "Explore a combination in Stylist AI while planning what you need from a consultation."
+  }
 }

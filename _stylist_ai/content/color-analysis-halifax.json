@@ -1,11 +1,11 @@
 {
   "kind": "city",
   "slug": "color-analysis-halifax",
-  "title": "Colour analysis in Halifax: app or in-person?",
-  "seoTitle": "Colour Analysis in Halifax | Local Options & App",
-  "description": "Compare colour analysis in Halifax, Nova Scotia: local consultation details, what to ask before booking, and Stylist AI features for iPhone.",
-  "excerpt": "For colour analysis in Halifax, a shared appointment offers a modest per-person saving but requires a longer shared block of time. Compare the actual format with your schedule and how comfortable you feel asking questions in front of someone else. The cheapest total is not necessarily the most convenient choice.",
-  "quickAnswer": "Compare a solo consultation with a shared appointment",
+  "title": "Halifax colour analysis with a friend: compare the shared time as well as the saving",
+  "seoTitle": "Halifax Colour Analysis With a Friend: Cost and Shared Time",
+  "description": "Compare Halifax solo and duo prices, session lengths and reference materials. Decide whether shared explanation or independent colour exploration suits you.",
+  "excerpt": "High Chroma’s solo and duo listings include substantial reference materials. The duo costs less per person before tax, but decide whether you actually want to share the consultation before choosing it.",
+  "quickAnswer": "High Chroma’s solo and duo listings include substantial reference materials. The duo costs less per person before tax, but decide whether you actually want to share the consultation before choosing it.",
   "category": "Local colour guides",
   "city": "Halifax",
   "region": "Nova Scotia",
@@ -23,13 +23,18 @@
     },
     {
       "id": "before-booking",
-      "title": "Before booking in Halifax",
+      "title": "Agree on privacy before choosing a partner",
       "html": "<p>Confirm whether both people receive the same palette materials and individual draping time. Ask about tax, deposits and what happens if one guest cancels. If you are comparing a mini event with a full session, list the differences in the take-home result. A social group experience should not be assumed to include every part of the longer private consultation.</p><ul><li>Is the quoted two-person price a total, and is tax additional?</li><li>Does each guest receive the same wallet and digital materials?</li></ul>"
     },
     {
       "id": "use-your-palette",
-      "title": "Make the result useful in your everyday wardrobe",
+      "title": "Learn to use the 36-colour reference",
       "html": "<p>After the visit, use the physical and digital references for different tasks: hold the wallet beside clothes and use the phone reference for planning. Stylist AI offers its own palette exploration and color tools, which you can consider before committing to a longer appointment. Start with three outfits from your current wardrobe so the advice becomes practical before you spend on new items.</p>"
+    },
+    {
+      "id": "compare",
+      "title": "Choose shared explanation or private experimentation",
+      "html": "<p>Some people learn well by hearing a friend’s comparisons explained beside their own; others want to discuss makeup or wardrobe concerns privately. Ask how the duo handles those moments. The menu describes a 36-colour wallet, a digital palette and hair, makeup and metal guidance—confirm that each guest receives the stated materials.</p><p>Stylist AI offers an independent way to begin: follow the photo introduction, explore seasonal colours and outfit pairings, then try makeup or hair previews. Its camera comparison keeps the palette relevant while considering clothes later. You can compare ideas with a friend without purchasing a shared appointment. Choose High Chroma’s consultation for physical draping and personal explanation; choose the app for self-directed colour trials.</p>"
     }
   ],
   "sources": [
@@ -48,5 +53,13 @@
     "is-professional-color-analysis-worth-it",
     "color-analysis-photo-lighting"
   ],
-  "faqs": []
+  "faqs": [],
+  "editorial": {
+    "layout": "calculator",
+    "accent": "#345f65",
+    "kicker": "THE TWO-PERSON BOOKING",
+    "leadHtml": "<div class=\"duo-comparison\"><section><h2>Solo</h2><strong>C$325 + tax</strong><p>1.5–2 hours for one person</p></section><section><h2>Duo</h2><strong>C$600 + tax</strong><p>3.5–4 hours for the shared appointment</p></section></div><p>C$600 divided by two is C$300 each: a C$25 difference per person before tax compared with two solo bookings. That calculation does not describe how individual time is allocated.</p>",
+    "ctaTitle": "Explore independently before comparing palettes",
+    "ctaText": "Start your own Stylist AI profile, then share the combinations you enjoy."
+  }
 }
