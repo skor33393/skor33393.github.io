@@ -1,6 +1,6 @@
 {
   "run_id": "2026-10-30-manual-city-guides",
-  "status": "ready_to_publish",
+  "status": "published",
   "created_at": "2026-10-30T12:01:38.692961+00:00",
   "authorization": "User requested 30 smaller US/Canada city articles, onboarding/features and app-versus-in-person comparison; then native-language Singapore, Korea and Japan guides. Normal publication authorized.",
   "counts": {
@@ -517,7 +517,35 @@
     }
   ],
   "directory_url": "https://bestme.mobi/stylist_ai/blog/color-analysis-near-you/",
-  "live_verification": null,
-  "search_indexing": "Not yet checked for new URLs",
-  "notifications": "Telegram destination remains pending; report here."
+  "live_verification": {
+    "checked": 150,
+    "passed": 150,
+    "failed": [],
+    "github_pages_status": "built",
+    "mobile_browser": "Live Boise page checked at 390px: image first, official Apple badge, correct canonical, all assets loaded, no overflow. Native Smart App Banner metadata present; Safari controls visual display."
+  },
+  "search_indexing": {
+    "collection_url": "https://bestme.mobi/stylist_ai/blog/color-analysis-near-you/",
+    "status_before_request": "URL unknown to Google",
+    "request_result": "Accepted into priority crawl queue on 2026-10-30. No claim of completed indexing.",
+    "sitemap_before_refresh": "Success; last read 2026-10-29; 26 discovered URLs. Newly published sitemap contains 61 URLs.",
+    "sitemap_refresh": {
+      "status": "Success",
+      "submitted_date": "2026-10-30",
+      "last_read_date": "2026-10-30",
+      "discovered_urls": 61,
+      "note": "Discovered URLs are not indexed pages."
+    }
+  },
+  "notifications": "Telegram destination remains pending; report here.",
+  "published_commit": "453d57398a7fe985e1c984e0713f59bc26f79b28",
+  "verified_at": "2026-10-30T12:06:08.854144+00:00",
+  "user_presentation_preferences": [
+    "Product image before all article copy",
+    "No Color Passport heading in screen visuals",
+    "No top directory/back link",
+    "City guides absent from normal journal listing, homepage and ItemList",
+    "Use official Apple App Store badge and native Smart App Banner",
+    "Advertising destination untouched"
+  ]
 }

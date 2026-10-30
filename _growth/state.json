@@ -389,5 +389,13 @@
   "public_forum_links": false,
   "illustration_stop_threshold_bytes": 800000000,
   "last_manual_scan": "2026-10-25T22:56:07.382393+00:00",
-  "last_manual_publication_verified_at": "2026-10-25T22:59:46.957071+00:00"
+  "last_manual_publication_verified_at": "2026-10-25T22:59:46.957071+00:00",
+  "manual_city_guides": {
+    "run_id": "2026-10-30-manual-city-guides",
+    "status": "published",
+    "new_articles": 34,
+    "verified_at": "2026-10-30T12:06:08.854144+00:00",
+    "published_commit": "453d57398a7fe985e1c984e0713f59bc26f79b28",
+    "directory_url": "https://bestme.mobi/stylist_ai/blog/color-analysis-near-you/"
+  }
 }
