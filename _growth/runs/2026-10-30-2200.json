@@ -1,7 +1,7 @@
 {
   "run_id": "2026-10-30-2200",
   "kind": "scheduled",
-  "status": "ready_to_publish",
+  "status": "completed",
   "started_at": "2026-10-30T18:00:53.172Z",
   "timezone": "Asia/Dubai",
   "scheduled_local": "22:00",
@@ -1300,7 +1300,16 @@
   },
   "illustration_prompts": "_growth/illustration-prompts/2026-10-30.json",
   "deployment": {
-    "status": "pending"
+    "status": "verified",
+    "commit": "7d986397d814a638f493df2d25165ce99ad63227",
+    "github_pages_run": "https://github.com/skor33393/skor33393.github.io/actions/runs/41128338930",
+    "github_pages_conclusion": "success",
+    "verified_at": "2026-10-30T21:07:13.904002+00:00",
+    "live_verification": {
+      "checked": 168,
+      "passed": 168,
+      "failed": []
+    }
   },
   "notification": {
     "channel": "this_chat",
@@ -1357,5 +1366,16 @@
     "visual": "All 10 changed articles checked at 390px: no horizontal overflow, correct H1, verified App Store destinations and Smart App Banner metadata. All new covers loaded. Desktop layouts inspected at 1440px; mobile symptom table readable; FAQ expansion tested on both journals. Saved desktop/mobile screenshots outside the publishing repository.",
     "diff_check": "passed",
     "visual_evidence_directory": "/Users/aleksandrkorenev/Documents/ChatGPT/Ads/seo-daily/2026-10-30"
+  },
+  "completed_at": "2026-10-30T21:07:13.904002+00:00",
+  "capacity_after": {
+    "measurement": "Working files excluding Git/runtime/build caches; includes source and research files normally excluded by Jekyll, so this overestimates the static payload. Git object storage is measured separately.",
+    "working_file_bytes": 40484980,
+    "git_object_bytes": 64943104,
+    "published_site_limit_bytes": 1000000000,
+    "illustration_stop_threshold_bytes": 800000000,
+    "can_add_illustrations": true,
+    "remaining_to_site_limit_bytes": 959515020,
+    "reference": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
   }
 }
