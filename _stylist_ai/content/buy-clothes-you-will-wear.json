@@ -1,0 +1,80 @@
+{
+  "slug": "buy-clothes-you-will-wear",
+  "title": "Will you actually wear it? A better clothing purchase checklist",
+  "category": "Wardrobe ideas",
+  "description": "Before buying more clothes, test the real outfit, comfort, care needs and next wearing occasion. Use this checklist to make a more useful shopping decision.",
+  "keyword": "how to buy clothes you will actually wear",
+  "quickAnswer": "You cannot guarantee how often you will wear a purchase, but you can test the reasons clothes get left behind. Build a complete outfit from pieces you own, try the movements your day requires, read the care label and name a realistic next occasion. Resolve those obstacles before counting imaginary future wears.",
+  "sections": [
+    {
+      "id": "history",
+      "title": "Study your last five wears before your next five purchases",
+      "html": "<p>Think of the clothes you wore most recently, not the outfit saved on your inspiration board. What did they make easy? Perhaps the trousers fit under your coat, the shirt needed no special bra, or the cardigan worked at both your desk and dinner. These small conveniences are clues to what earns repeat wear in your life.</p><p>Now choose one neglected item. Finish “I would wear this more if…” without blaming yourself. The answer might be a missing layer, an uncomfortable waistband, an inconvenient cleaning routine or simply nowhere suitable to wear it. A beautiful color will not solve every one of those problems.</p><p>Keep two short notes on your phone: what your favorites do well and what tends to stop you wearing things. Consult those notes before the product description. They are evidence from your own wardrobe, while a retailer is showing an ideal presentation.</p>"
+    },
+    {
+      "id": "complete-outfit",
+      "title": "Build one complete outfit, down to the shoes",
+      "html": "<p>Instead of listing ten possible outfits, assemble one you would genuinely wear this week. Include shoes, underwear, outerwear and a bag if they matter. “This top goes with jeans” leaves unanswered whether the neckline works under your jacket or the length sits comfortably with your actual jeans.</p><p>Take a photo or write a concrete pairing: plum cardigan, cream shirt, straight indigo jeans, brown loafers. Then identify any extra purchase the outfit requires. If you need new shoes and a new layer to make it work, include those costs in the decision rather than calling the cardigan an inexpensive addition.</p><p>For color, choose the role: replacement neutral, familiar accent, or deliberate experiment. Our <a href=\"/stylist_ai/blog/build-a-wardrobe-color-palette/\">wardrobe palette guide</a> helps turn a color shortlist into real combinations. A new color is easier to evaluate beside clothes you own than beside an entire coordinated shop display.</p>"
+    },
+    {
+      "id": "movement",
+      "title": "Try the ordinary movements that reveal friction",
+      "html": "<p>A fitting-room pose answers a narrower question than a normal day. Within the shop’s rules, sit, reach, walk and put on your usual outer layer. Check the pocket opening, neckline, sleeve movement and waistband in those positions. If you are shopping online, repeat this indoors while preserving the item’s return condition.</p><table><thead><tr><th>Your day includes</th><th>Try before keeping it</th></tr></thead><tbody><tr><td>Desk work</td><td>Sitting, reaching forward and wearing your usual layer</td></tr><tr><td>Walking or commuting</td><td>A normal stride with the intended shoes and bag</td></tr><tr><td>Frequent temperature changes</td><td>Putting on and removing the layers you already carry</td></tr><tr><td>An event</td><td>The full outfit, including sitting and any required underlayers</td></tr></tbody></table><p>Separate a fix you will arrange from a fix you merely imagine. If tailoring is essential, obtain a realistic quote and timing before treating it as solved. “I can probably make this comfortable” is a different decision from “it is comfortable now.”</p>"
+    },
+    {
+      "id": "care",
+      "title": "Check the care routine while the decision is reversible",
+      "html": "<p>Read the actual care label, including drying and ironing. The <a href=\"https://www.ftc.gov/business-guidance/resources/clothes-captioning-complying-care-labeling-rule\">FTC’s care-label guidance</a> explains that care instructions address the processes a garment needs. A fiber name alone does not replace the instructions for the finished item.</p><p>Compare that routine with what you are willing to do. If you avoid hand washing, a hand-wash item needs a clear reason to enter your everyday rotation. If professional cleaning is required, consider its practical cost and turnaround. This is a compatibility check, not a claim that one care method is always better.</p><p>For an online listing without care details, ask before ordering. When the garment arrives, check whether the label matches what you expected before removing tags or washing it.</p>"
+    },
+    {
+      "id": "occasion",
+      "title": "Name the next occasion without inventing a new lifestyle",
+      "html": "<p>Ask “When would I choose this instead of what I normally wear?” Give the answer a setting: tomorrow’s office day, next weekend’s walk or a confirmed celebration. You do not need to wear every item frequently. An occasional outfit can be worthwhile if you choose it for that role and can afford it.</p><p>Be cautious with cost-per-wear calculations based on a very optimistic denominator. A $120 item worn six times is $20 per wear before care; at thirty wears it is $4. Neither forecast proves the purchase is good. Use the calculation to notice the assumption, then decide whether the item still makes sense with fewer wears.</p><p>A sale countdown does not answer these questions. If an item fails a requirement that matters, a lower price has not removed the obstacle.</p>"
+    },
+    {
+      "id": "decision",
+      "title": "Give yourself three possible outcomes",
+      "html": "<ul><li><strong>Keep or buy:</strong> the complete outfit works, the movement test is comfortable, care fits and the purpose is clear.</li><li><strong>Wait:</strong> you still need a measurement, a tailoring quote or a real occasion.</li><li><strong>Leave it:</strong> it repeats the same obstacle as a neglected item, or requires more spending than you want.</li></ul><p>After a few weeks, check what happened. If a quiet, practical purchase became a favorite, record why. If an exciting item stayed unworn, record the actual barrier. The aim is to improve your next decision with experience, not to make every past choice look perfect.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does every purchase need to make three outfits?",
+      "answer": "No. That can be a useful prompt, but one excellent outfit for a clear purpose may be enough. Complete outfits matter more than a theoretical number."
+    },
+    {
+      "question": "Should I only buy neutral colors?",
+      "answer": "No. A familiar accent can be easier to wear than a neutral you dislike. Test the actual combinations and the practical requirements together."
+    },
+    {
+      "question": "Can I buy something purely because I love it?",
+      "answer": "Yes, if it fits your budget and you understand its role. You do not need to invent frequent wear to justify a deliberate occasional purchase."
+    }
+  ],
+  "sources": [
+    {
+      "title": "FTC: Clothing care labels",
+      "url": "https://www.ftc.gov/business-guidance/resources/clothes-captioning-complying-care-labeling-rule"
+    }
+  ],
+  "related": [
+    "build-a-wardrobe-color-palette",
+    "how-to-find-colorful-clothes",
+    "hate-your-color-season-palette"
+  ],
+  "sourceNote": "The purchase checklist and worked cost example are editorial tools, not validated predictors of how often someone will wear a garment.",
+  "ctaTitle": "Check the color part of your next purchase.",
+  "ctaText": "Use Stylist AI to explore a suggested palette, outfit color combinations and camera-based color comparison. Bring those ideas back to your real wardrobe before deciding.",
+  "datePublished": "2026-10-31",
+  "dateModified": "2026-10-31",
+  "sourcesChecked": "2026-10-31",
+  "sortOrder": -1,
+  "seoTitle": "Will you actually wear it? A better clothing purchase checklist | Stylist AI",
+  "excerpt": "Before buying more clothes, test the real outfit, comfort, care needs and next wearing occasion. Use this checklist to make a more useful shopping decision.",
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/illustrations/buy-clothes-you-will-wear.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "A woman comparing a plum cardigan with an existing cream shirt, jeans and teal skirt at home."
+  }
+}

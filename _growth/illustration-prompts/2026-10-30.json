@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "choose-hair-accessories",
+    "prompt": "Use case: illustration-story. Create an original editorial blog cover, landscape 3:2, refined gouache and colored-pencil texture on warm ivory. Flat lay of three beautiful functional hair accessories: a large forest-green claw clip, a small burgundy barrette, and a simple gold U-shaped hair pin, next to three folded fabric swatches in navy, teal and muted rose, with a few flowing dark hair strands suggesting styling. Carefully defined real mechanisms, calm balanced composition, generous margins. No text, logos, letters, watermarks or interface. This is an editorial illustration about choosing comfortable hair accessories that coordinate with clothing.",
+    "tool": "built-in image_gen",
+    "master": "/Users/aleksandrkorenev/.codex/generated_images/01a174fe-e0cd-7ec2-83ac-b41f47580db9/exec-fe812dd5-180a-49a7-8065-a09dd614cc8d.png"
+  },
+  {
+    "slug": "buy-clothes-you-will-wear",
+    "prompt": "Use case: illustration-story. Original editorial fashion illustration for a blog cover, landscape 3:2. A woman at home thoughtfully holding a plum cardigan beside a small open wardrobe containing a cream blouse, dark indigo jeans and a teal skirt. On a low bench are simple brown shoes and a folded navy top, suggesting real outfit combinations before buying. Elegant hand-painted gouache and colored pencil on light ivory, natural proportions, warm morning light, stylish but believable everyday setting. No text, brands, logos, shopping bags, letters, watermark or app UI.",
+    "tool": "built-in image_gen",
+    "master": "/Users/aleksandrkorenev/.codex/generated_images/01a174fe-e0cd-7ec2-83ac-b41f47580db9/exec-94bc3d00-331b-4d10-a3c3-7f0c350b04a2.png"
+  },
+  {
+    "slug": "sun-protective-outfits",
+    "prompt": "Use case: illustration-story. Original fashion editorial illustration, landscape 3:2. A fully dressed adult woman in a loose long-sleeved teal shirt, full-length navy wide trousers, broad-brimmed cream hat and sunglasses, walking along a deeply shaded resort veranda beside a palm garden. Relaxed polished holiday outfit, sleeves fully down. Refined gouache and colored-pencil texture, warm ivory and gentle terracotta setting, appealing blue-green palette. No text, labels, logos, watermark, exposed midriff or health claims.",
+    "tool": "built-in image_gen",
+    "master": "/Users/aleksandrkorenev/.codex/generated_images/01a174fe-e0cd-7ec2-83ac-b41f47580db9/exec-ef622181-1665-407b-902a-87e1445aea63.png"
+  },
+  {
+    "slug": "pelvic-pain-after-bowel-movement",
+    "prompt": "Use case: illustration-story. Original calm healthcare editorial blog illustration, landscape 3:2. A fully clothed adult woman seated at a table at home noting a symptom timeline in a blank notebook, a glass of water nearby, with a subtle closed bathroom door in the background. Warm supportive atmosphere, no distressed pose, no pain symbols. Sophisticated hand-painted paper collage and gouache in pale peach, muted teal and warm cream, uncluttered balanced composition. No readable text, numbers, labels, anatomy, toilets in use, logos, medical claims or watermark.",
+    "tool": "built-in image_gen",
+    "master": "/Users/aleksandrkorenev/.codex/generated_images/01a174fe-e0cd-7ec2-83ac-b41f47580db9/exec-5baa6354-19b3-4784-87c3-398f6b97148d.png"
+  },
+  {
+    "slug": "vulval-burning-after-urination",
+    "prompt": "Use case: illustration-story. Original respectful healthcare editorial cover, landscape 3:2. A fully clothed adult woman and a female clinician sit at eye level across a small consultation table, discussing a plain notebook with no readable marks. Patient is comfortable in loose teal clothing, clinician in simple cream blouse; a pale botanical print on wall. Soft hand-painted gouache and colored-pencil texture, muted lilac, sage and warm ivory, human and reassuring. No examination, intimate anatomy, diagrams, red pain marks, readable text, logo or watermark.",
+    "tool": "built-in image_gen",
+    "master": "/Users/aleksandrkorenev/.codex/generated_images/01a174fe-e0cd-7ec2-83ac-b41f47580db9/exec-2117ead0-01bb-44ad-be86-2046e04e9a11.png"
+  }
+]

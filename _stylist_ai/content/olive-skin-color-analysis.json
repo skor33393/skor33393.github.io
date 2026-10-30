@@ -5,7 +5,7 @@
   "description": "Confused by olive skin and conflicting color-season advice? Separate photo shifts from outfit preferences and compare actual fabrics without forcing a label.",
   "category": "Color analysis",
   "datePublished": "2026-10-26",
-  "dateModified": "2026-10-26",
+  "dateModified": "2026-10-31",
   "sortOrder": 4,
   "excerpt": "If the labels keep changing, make the comparison smaller. Start with the clothes in front of you.",
   "quickAnswer": "An olive skin description does not give you a complete wardrobe palette. If seasonal advice conflicts, compare actual fabrics in consistent light and separate different questions: light versus dark, muted versus vivid, and warmer versus cooler-looking colors. Record what you enjoy wearing without forcing every preference into one season.",
@@ -19,6 +19,11 @@
       "id": "photographs",
       "title": "Check the photograph before judging the garment",
       "html": "<p><a href=\"https://www.adobe.com/creativecloud/photography/technique/white-balance.html\">Adobe explains that white balance affects how colors appear in photographs</a>. If your face, wall and clothing all look warmer in one image, do not attribute that entire change to the garment beside you.</p><p>Use the same position, background and light for a comparison. Avoid beauty filters, and check the mirror as well as the images. If a cloud passes or the camera changes exposure noticeably, repeat the pair rather than comparing incompatible pictures. A photograph is useful evidence about that photograph; it is not a perfectly calibrated view of your coloring.</p>"
+    },
+    {
+      "id": "earth-tones",
+      "title": "If earth tones work, which Autumn direction should you try?",
+      "html": "<p>“Earth tones” is a broad shopping description. It can include light sandy beige, grayish sage, strong rust and very dark brown. Liking several of those does not identify whether softness, warmth or depth is the feature you most enjoy.</p><p>Take one favorite earth-tone garment as your reference. Then create three small comparisons using what you already own:</p><table><thead><tr><th>Possible preference</th><th>Try beside the favorite</th><th>What to record</th></tr></thead><tbody><tr><td>Softer colors</td><td>A muted version of a similar hue</td><td>Whether you prefer the quieter effect</td></tr><tr><td>More warmth</td><td>A warmer-looking shade at similar depth</td><td>Whether the warmth improves the outfit for your taste</td></tr><tr><td>More depth</td><td>A darker version without changing every other feature</td><td>Whether the stronger contrast is what you wanted</td></tr></tbody></table><p>If muted sage and muted rose both appeal, explore softness before deciding everything must be warm. If deep olive and deep blue both work well in your outfits, depth may be the more useful shopping filter. These are observations about the comparisons, not a diagnosis of your undertone.</p><p>Use our <a href=\"/stylist_ai/blog/true-autumn-or-soft-autumn/\">True versus Soft Autumn guide</a> when warmth and softness are the sticking point. If darker shades are the clear favorite, compare your existing pieces with the <a href=\"/stylist_ai/blog/deep-autumn-outfit-ideas/\">Deep Autumn outfit ideas</a>. Keep the clothes you enjoy while testing the label.</p>"
     },
     {
       "id": "three-comparisons",
@@ -70,5 +75,6 @@
   "related": [
     "soft-summer-or-soft-autumn",
     "gold-or-silver-jewelry"
-  ]
+  ],
+  "sourceCheckNote": "Original sources were checked on 2026-10-26. The added comparison exercise was reviewed October 31, 2026; it is editorial styling guidance."
 }

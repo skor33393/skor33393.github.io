@@ -29,6 +29,11 @@
         "html": "<p>Tell your therapist about a new or stronger symptom before repeating the activity that provokes it. Do not assume that soreness proves a treatment worked, or that a flare automatically proves damage. The response needs context. <a href=\"https://elht.nhs.uk/services/physiotherapy-pelvic-obstetric-and-gynaecological/physiotherapy-pelvic-obstetric-and-gynaecological\">East Lancashire Hospitals advises specialist review for pain during or after pelvic floor exercise</a>.</p><p>Use a short message that makes the change easy to assess: “After the session on [day], I noticed [symptom] at [time]. It affects [activity]. It is now improving, unchanged or worsening. Should I pause this part of the plan until we speak?” Include which home exercises you actually did, without repeating a painful exercise to test it.</p><p>Ask whether the next session should change the dose, the movement, manual treatment or the order of activities. Agree on the expected response and a contact route if symptoms exceed it. You can ask to stop a technique during an appointment and discuss another approach.</p><p>Do not wait for the clinic to reply if symptoms need urgent care. <a href=\"https://www.nhs.uk/symptoms/pelvic-pain/\">NHS guidance</a> advises emergency care for severe or worsening pelvic pain or pain with faintness, and urgent medical advice for pelvic pain with fever or difficulty passing urine. These symptoms should not be dismissed as routine post-treatment soreness.</p>"
       },
       {
+        "id": "stress-and-care",
+        "title": "What if you are told stress is preventing progress?",
+        "html": "<p>Stress deserves a place in the care discussion without making your pain less real. <a href=\"https://www.rcog.org.uk/for-the-public/browse-our-patient-information/long-term-pelvic-pain/\">RCOG describes long-term pelvic pain as potentially involving physical, psychological and social factors</a>, and emphasizes an agreed management plan. <a href=\"https://www.acog.org/womens-health/faqs/chronic-pelvic-pain\">ACOG describes care that may involve several specialties</a>, including physical therapy and mental health support.</p><p>If a clinician recommends pausing physiotherapy, ask for the clinical reason and the next step in writing. A useful question is: “Which part of treatment are we pausing, what needs to change before we review it, and who will help me in the meantime?” Distinguish a pause in one technique from losing all support.</p><p>Bring the practical barriers into the conversation: appointment cost, sleep, work, transport or difficulty following a complex home plan. Ask whether the plan can be simplified or coordinated with your existing clinician. You do not need a perfectly calm life before describing pain and requesting an explanation.</p><p>If the explanation is unclear or the plan leaves you without follow-up, ask your primary-care clinician about review or another appropriately qualified service. Our <a href=\"/pelvic_gym/articles/find-pelvic-floor-physiotherapy/\">care-access guide</a> includes questions about referrals, costs and appointment formats. This is a way to clarify care; it cannot determine why an individual clinician recommended stopping a treatment.</p>"
+      },
+      {
         "id": "examination",
         "title": "What might an examination involve?",
         "html": "<p>The assessment depends on your concern. It may look at movement and the painful area; a vaginal or rectal examination may be proposed to assess pelvic floor function. <a href=\"https://www.imperial.nhs.uk/-/media/website/patient-information-leaflets/physiotherapy/welcome-to-pelvic-health-physiotherapy.pdf?rev=d665b7189141454f94930927ced4d7e3&sc_lang=en\">Imperial College Healthcare describes this individualized process</a>.</p><p>Before agreeing, ask what the examination will assess and how the result would change treatment. You can say, “Please explain each step before you do it,” or “I would like to discuss the examination today and decide later.” Tell the clinician if a particular position, touch or past experience makes you apprehensive; you can choose how much detail to share.</p><p>Sussex's <a href=\"https://www.uhsussex.nhs.uk/resources/your-pelvic-health-physiotherapy-appointment/\">appointment information</a> states that an internal examination is optional and that a chaperone can be provided. Ask your clinic about these arrangements. You can withdraw consent and ask to stop.</p>"
@@ -100,6 +105,14 @@
       {
         "title": "NHS: Pelvic pain warning signs",
         "url": "https://www.nhs.uk/symptoms/pelvic-pain/"
+      },
+      {
+        "title": "RCOG: Long-term pelvic pain",
+        "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/long-term-pelvic-pain/"
+      },
+      {
+        "title": "ACOG: Chronic pelvic pain",
+        "url": "https://www.acog.org/womens-health/faqs/chronic-pelvic-pain"
       }
     ],
     "related": [
@@ -111,8 +124,8 @@
     "keyword": "pelvic floor therapy what to expect",
     "researchNote": "Sources checked 2026-10-24. First-visit preparation and consent intent; local clinic processes clearly identified as examples, not universal service guarantees. New decision-support section checked 2026-10-27 against its linked primary sources; original publication and earlier source-check scope retained.",
     "datePublished": "2026-10-24",
-    "dateModified": "2026-10-28",
-    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026; the appointment decision sheet was checked October 26. The external-work and consent update was checked against DynamicHealth and CSP guidance October 27, 2026. The new What if symptoms flare after a session or home exercise section was checked against its linked clinical sources October 28, 2026."
+    "dateModified": "2026-10-31",
+    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026; the appointment decision sheet was checked October 26. The external-work and consent update was checked against DynamicHealth and CSP guidance October 27, 2026. The new What if symptoms flare after a session or home exercise section was checked against its linked clinical sources October 28, 2026. The new What if you are told stress is preventing progress? section was checked against its linked primary sources October 31, 2026."
   },
   {
     "slug": "pelvic-floor-exercises-after-c-section",

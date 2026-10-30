@@ -88,7 +88,7 @@
     "description": "Understand why pelvic heaviness or vaginal pressure needs assessment, what to record, when to seek urgent care and why more Kegels are not an automatic answer.",
     "category": "Bladder & symptoms",
     "datePublished": "2026-10-26",
-    "dateModified": "2026-10-26",
+    "dateModified": "2026-10-31",
     "sourcesChecked": "2026-10-26",
     "excerpt": "Describe the feeling, notice accompanying symptoms and get a clear follow-up plan without trying to diagnose yourself.",
     "quickAnswer": "New or persistent pelvic heaviness deserves assessment. Prolapse is one possible cause, but a feeling of pressure alone cannot identify it or tell you whether your pelvic floor needs strengthening. Arrange medical advice and mention changes in bladder or bowel function, pain, bleeding or a vaginal bulge.",
@@ -112,6 +112,11 @@
         "id": "record",
         "title": "Make a short symptom record",
         "html": "<p>Write a few useful observations without repeatedly checking inside the vagina or trying to push through the sensation:</p><ul><li>When it began and whether it is constant or comes and goes.</li><li>Where you feel it and your own words for it: heaviness, dragging, fullness or pressure.</li><li>Whether standing, lifting, bowel movements or another activity changes it.</li><li>Any pain, bleeding, bladder or bowel changes, and whether pregnancy is possible.</li><li>What it is stopping you doing and what you have already tried.</li></ul><p>Bring your previous test results or appointment summary if available. A clear timeline is often easier to discuss than a long list of possible diagnoses found online.</p>"
+      },
+      {
+        "id": "working-day",
+        "title": "If symptoms interfere with work, describe the tasks",
+        "html": "<p>When prolapse has been diagnosed, a working day can reveal patterns that a short appointment misses. <a href=\"https://www.rcog.org.uk/for-the-public/browse-our-patient-information/pelvic-organ-prolapse/\">RCOG notes that heaviness can worsen with prolonged standing and describes treatment choices including physiotherapy and pessaries</a>. A change during a shift does not tell you the prolapse stage or establish that you have caused damage.</p><p>Write down the task that becomes difficult: a long standing period, repeated lifting, carrying supplies or reaching the toilet on time. Bring that list to your clinician and ask which temporary adjustments are appropriate. Options to discuss might include varying tasks, changing how loads are handled or planning breaks; suitability depends on your findings and job.</p><table><thead><tr><th>Describe</th><th>Ask your clinician</th></tr></thead><tbody><tr><td>When symptoms begin during a shift</td><td>Which task changes should I try, and for how long?</td></tr><tr><td>The loads and movements involved</td><td>Are there individual restrictions or handling changes?</td></tr><tr><td>Access to toilets and rest</td><td>What practical arrangements would help my care plan?</td></tr><tr><td>What the current treatment has changed</td><td>When should we review support options?</td></tr></tbody></table><p>Ask for clear written advice if you need to discuss changes with an employer or occupational-health service. Share the functional information you are comfortable sharing; this guide cannot determine workplace rights or guarantee a particular accommodation. Avoid making a major job decision from a generic exercise rule before discussing your actual symptoms and options.</p>"
       },
       {
         "id": "follow-up",
@@ -146,6 +151,10 @@
       {
         "title": "NIDDK: Urinary retention symptoms",
         "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes"
+      },
+      {
+        "title": "RCOG: Pelvic organ prolapse",
+        "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/pelvic-organ-prolapse/"
       }
     ],
     "related": [
@@ -161,7 +170,8 @@
       "alt": "Illustration of a woman making brief notes for a health appointment at a kitchen table",
       "width": 1200,
       "height": 800
-    }
+    },
+    "sourceCheckNote": "Original sources were checked 2026-10-26. The new If symptoms interfere with work, describe the tasks section was checked against its linked primary sources October 31, 2026."
   },
   {
     "slug": "painful-periods-pelvic-floor",

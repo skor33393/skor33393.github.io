@@ -257,6 +257,11 @@
         "html": "<p>Pilates classes differ in exercises, equipment, pace and teaching. A mat class, a reformer session and individual rehabilitation can be very different experiences. Ask what is included rather than assuming that the word “core” guarantees a pelvic floor treatment.</p><p><a href=\"https://www.imperial.nhs.uk/our-services/physiotherapy/pelvic-health-physiotherapy\">Imperial College Healthcare</a> describes pelvic health exercise programmes that may combine specific pelvic floor work with wider strengthening or stretching, chosen according to the person's needs. That is a useful distinction: general movement and targeted rehabilitation can sit together, while serving different purposes.</p><p>If your physiotherapist has prescribed exercises, bring the names or a copy of the plan to your instructor. Ask which class movements overlap and which are additional. Avoid quietly replacing the prescribed work because two exercises have similar descriptions.</p>"
       },
       {
+        "id": "symptoms-after-pose",
+        "title": "What if symptoms started after a particular pose?",
+        "html": "<p>A symptom appearing after a shoulderstand, stretch or core exercise is worth reporting, but the sequence alone cannot prove that the movement caused pelvic floor dysfunction. Describe the exercise, when symptoms started and whether they continue outside practice. Avoid repeating a provocative pose to test your theory.</p><p>Pause the movement that brings on symptoms and ask a clinician whether you need assessment before returning to it. Give a concrete account: “This movement was new for me; afterward I noticed this symptom, and it has continued for this long.” Include changes in urinary or bowel function as well as pain.</p><p>New urinary urgency should not be automatically attributed to yoga. Our <a href=\"/pelvic_gym/articles/urinary-urgency-in-women/\">urgency guide</a> explains how to prepare for assessment. For pelvic pain with fever or difficulty peeing or pooing, seek urgent medical advice; severe or worsening pain requires emergency assessment, following <a href=\"https://www.nhs.uk/symptoms/pelvic-pain/\">NHS guidance</a>.</p><p>Before restarting, agree which movement to try, what modification is appropriate and what response should lead you to stop and seek review. A different pose, a shorter session or another activity may be discussed, but a general article cannot clear an inversion or prescribe a rehabilitation sequence for you.</p>"
+      },
+      {
         "id": "class-checklist",
         "title": "Questions to ask before your first class",
         "html": "<ul><li>What experience do you have adapting sessions for pelvic symptoms?</li><li>Can I use a simpler version or rest without disrupting the class?</li><li>Are there long holds, jumps or movements that need advance modification?</li><li>If a movement causes symptoms, how will we adapt the session?</li><li>Would an individual session help us agree modifications first?</li></ul><p>You can keep the conversation brief: “I am managing a pelvic health issue and may need to change some exercises.” Share more detail privately if you wish. You do not need to explain intimate symptoms to the group.</p><p>If you are pregnant, recently postpartum or recovering from surgery, use advice specific to that situation. A class advertised as gentle still needs to fit your current restrictions.</p>"
@@ -294,6 +299,10 @@
       {
         "title": "St George's: Pelvic floor muscle overactivity",
         "url": "https://www.stgeorges.nhs.uk/wp-content/uploads/2025/05/PHP_PFR.pdf"
+      },
+      {
+        "title": "NHS: Pelvic pain warning signs",
+        "url": "https://www.nhs.uk/symptoms/pelvic-pain/"
       }
     ],
     "related": [
@@ -303,7 +312,10 @@
     ],
     "cta": "assessment",
     "keyword": "yoga pilates pelvic floor",
-    "researchNote": "Class-selection and substitution intent. Primary randomized trial and hospital guidance checked 2026-10-24. Separates yoga trial evidence from Pilates and avoids claims that general core exercise replaces treatment."
+    "researchNote": "Class-selection and substitution intent. Primary randomized trial and hospital guidance checked 2026-10-24. Separates yoga trial evidence from Pilates and avoids claims that general core exercise replaces treatment.",
+    "datePublished": "2026-10-24",
+    "dateModified": "2026-10-31",
+    "sourceCheckNote": "Original sources were checked 2026-10-24. The new What if symptoms started after a particular pose? section was checked against its linked primary sources October 31, 2026."
   },
   {
     "slug": "pelvic-floor-and-heavy-lifting",

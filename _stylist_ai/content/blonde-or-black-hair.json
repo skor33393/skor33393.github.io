@@ -5,7 +5,7 @@
   "description": "Compare blonde, black and a middle option with your everyday wardrobe, then prepare a salon brief that includes upkeep and hair condition.",
   "category": "Color analysis",
   "datePublished": "2026-10-29",
-  "dateModified": "2026-10-29",
+  "dateModified": "2026-10-31",
   "sourcesChecked": "2026-10-29",
   "sortOrder": 0,
   "excerpt": "Compare blonde, black and a middle option with your everyday wardrobe, then prepare a salon brief that includes upkeep and hair condition.",
@@ -20,6 +20,11 @@
       "id": "compare",
       "title": "Compare three depths, not only two extremes",
       "html": "<p>Collect a light reference, a dark reference and one middle-depth brown. Keep the length and styling as comparable as you can. Salon sample locks or a wig can help you picture the direction without a permanent change.</p><ol><li>Choose one familiar top and your ordinary makeup.</li><li>Look at the options in the same place and light.</li><li>Compare the full head-and-shoulders view, then the whole outfit.</li><li>Repeat with a second top you wear often.</li><li>Note what you like about each option rather than assigning a score to your face.</li></ol><p>If you use photos, avoid filters and mismatched lighting. <a href=\"https://www.adobe.com/creativecloud/photography/technique/white-balance.html\">Adobe explains how white balance affects the color cast in a photograph</a>. A warm indoor picture and a cool outdoor picture make a poor comparison.</p>"
+    },
+    {
+      "id": "fair-skin",
+      "title": "Does fair skin rule out black hair?",
+      "html": "<p>Fair skin is not a styling rule that forbids a dark shade. You may prefer a strong light-dark contrast, or you may like a gentler frame around your face. Instead of asking whether black is “allowed,” compare the effect you want with the maintenance you are willing to accept.</p><p>Try three references: your current shade, a deep brown and a black. Keep styling, clothing and light as similar as possible. If someone says one looks too dark, ask what they mean: a stronger outline, less visible hair texture, or simply an unfamiliar look. Their preference can be useful without becoming a requirement.</p><p>Check an ordinary-day version as well as a dressed-up version. A color you like with elaborate makeup may feel different with your usual routine. You can enjoy either result; the point is to choose knowingly. Do not treat a change in redness, lighting or exposure between two pictures as proof of what the dye did.</p><p>Bring the preferred direction to a colorist and discuss your previous processing and the implications of changing it later. A reversible visual comparison and a permanent dye decision are different stages. You do not need to dye first to earn the right to explore the look.</p>"
     },
     {
       "id": "tone",
@@ -70,5 +75,6 @@
     "width": 1200,
     "height": 800,
     "alt": "Illustration of blonde, brown and black salon hair swatches beside a mirror and folded fabrics."
-  }
+  },
+  "sourceCheckNote": "Original sources were checked on 2026-10-29. The added comparison exercise was reviewed October 31, 2026; it is editorial styling guidance."
 }
