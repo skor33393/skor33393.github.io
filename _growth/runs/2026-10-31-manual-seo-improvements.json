@@ -1,6 +1,6 @@
 {
   "run_id": "2026-10-31-manual-seo-improvements",
-  "status": "deployment_pending",
+  "status": "completed",
   "new_question_articles": 0,
   "updated_articles": [
     "bladder-diary-for-women",
@@ -37,7 +37,7 @@
     "Four researched city pilot updates",
     "Contextual links in both blogs",
     "Official blank diary resource link",
-    "64responsive cover variants",
+    "64 responsive cover variants",
     "Saved future editorial standards and checkpoint schedule"
   ],
   "pending": [
@@ -50,13 +50,14 @@
   "validation": [
     "Both blog validators PASS",
     "City checks PASS",
-    "No duplicate authored city paragraphs/longsentences",
+    "No duplicate authored city paragraphs/long sentences",
     "Both analytics consent tests PASS",
-    "118protected landing files fingerprint-identical",
-    "Visual QA passed at360px,390px and1280px; no horizontal overflow in sampled pages; mobile800px cover selected"
+    "118 protected landing files fingerprint-identical",
+    "Visual QA passed at 360px, 390px and 1280px; no horizontal overflow in sampled pages; mobile 800px cover selected",
+    "236 live page and asset checks PASS after cache propagation"
   ],
-  "published_commit": null,
-  "verified_at": null,
+  "published_commit": "e12efd58e6c3e879762338045d7a79aa79e86109",
+  "verified_at": "2026-10-30T23:09:51.574671+00:00",
   "mobile_city_observation": {
     "viewport": [
       390,
@@ -65,5 +66,17 @@
     "h1_top_before": 851,
     "h1_top_after": 712.46,
     "local_shortcut_top": 586.16
+  },
+  "live_verification": {
+    "checked": 236,
+    "passed": 236,
+    "failed": [],
+    "verified_at": "2026-10-30T23:09:51.574671+00:00",
+    "published_commit": "e12efd58e6c3e879762338045d7a79aa79e86109",
+    "method": "234 URLs matched on the post-build full pass; the remaining two canonical URLs matched on the targeted recheck after cache propagation. Query-version checks also matched.",
+    "evidence": [
+      "live-verification-after-build-first-pass.json",
+      "live-verification-targeted-recheck.json"
+    ]
   }
 }

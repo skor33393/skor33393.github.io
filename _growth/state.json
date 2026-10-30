@@ -11,7 +11,8 @@
     "2026-10-28-2200": "completed",
     "2026-10-29-2200": "completed",
     "2026-10-30-manual-city-editorials": "completed",
-    "2026-10-30-2200": "completed"
+    "2026-10-30-2200": "completed",
+    "2026-10-31-manual-seo-improvements": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -476,5 +477,22 @@
     "verified_at": "2026-10-30T12:43:16.761209+00:00",
     "guides": 34,
     "new_articles": 0
+  },
+  "latest_seo_improvements": {
+    "run_id": "2026-10-31-manual-seo-improvements",
+    "status": "completed",
+    "published_commit": "e12efd58e6c3e879762338045d7a79aa79e86109",
+    "verified_at": "2026-10-30T23:09:51.574671+00:00",
+    "updated_articles": 19,
+    "new_topic_hubs": 3,
+    "new_question_articles": 0,
+    "live_checks_passed": 236,
+    "pending_dependencies": [
+      "HTTPS enforcement needs repository-owner settings access; available GitHub CLI account has no admin permission",
+      "Independent clinician review; private package prepared at user request",
+      "Original diary held outside public repository pending review",
+      "Real controlled photo-capture experiment remains future work; published diagram explicitly schematic",
+      "No measured CWV result; prior PageSpeed quota error"
+    ]
   }
 }
