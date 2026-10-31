@@ -1,16 +1,16 @@
 {
   "run_id": "2026-10-31-2200",
   "kind": "scheduled",
-  "status": "ready_to_publish",
+  "status": "completed",
   "started_at": "2026-10-31T17:59:20.108Z",
   "timezone": "Asia/Dubai",
   "scheduled_local": "22:00",
-  "scan_completed_at": "2026-10-31T18:22:43.659487+00:00",
+  "scan_completed_at": "2026-10-31T18:06:39.117Z",
   "windows": {
     "primary_start": "2026-10-30T18:08:01.258697+00:00",
-    "end": "2026-10-31T18:22:43.659487+00:00",
+    "end": "2026-10-31T18:06:39.117Z",
     "expanded": false,
-    "note": "All ten selected questions were posted after the previous successful scan. Older feed entries were not selected. Research was saved incrementally; end is the completion time of the verified research record."
+    "note": "All ten selected questions were posted after the previous successful scan. Feed captures are timestamped individually; end is the last saved Google research observation. Older feed entries were not selected."
   },
   "access_limits": [
     "Quora queries returned robots blocking; no dates, votes, answers or views inferred. No bypass attempted.",
@@ -648,9 +648,56 @@
     "qa_records": "Outside repository: seo-daily/2026-10-31/mobile-qa.json and desktop-qa.json",
     "limitations": [
       "Browser checks use Chromium viewport emulation; native Safari banner metadata verified, native iOS banner display not device-tested."
-    ]
+    ],
+    "live": {
+      "initial": {
+        "checked": 252,
+        "passed": 251,
+        "failed": [
+          {
+            "url": "https://bestme.mobi/pelvic_gym/articles/vulval-burning-after-urination/",
+            "status": "error",
+            "error": "HTTPError",
+            "matches_published_source": false
+          }
+        ]
+      },
+      "recheck": [
+        {
+          "url": "https://bestme.mobi/pelvic_gym/articles/vulval-burning-after-urination/",
+          "status": 200,
+          "matches_published_source": true
+        }
+      ],
+      "checked": 252,
+      "passed": 252,
+      "verified_at": "2026-10-31T18:25:25.673003+00:00"
+    },
+    "capacity_after_commit": {
+      "measurement": "Working files excluding Git/runtime/build caches; includes source and research files normally excluded by Jekyll, so this overestimates the static payload. Git object storage is measured separately.",
+      "working_file_bytes": 44305132,
+      "git_object_bytes": 70870016,
+      "published_site_limit_bytes": 1000000000,
+      "illustration_stop_threshold_bytes": 800000000,
+      "can_add_illustrations": true,
+      "remaining_to_site_limit_bytes": 955694868,
+      "reference": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
+    }
   },
   "deployment": {
-    "status": "not_pushed"
+    "status": "built_and_verified",
+    "commit": "4eb4319ce07031743c3880fa153adbc6e97d8aa8",
+    "pushed_at": "2026-10-31T18:24:50.773990+00:00",
+    "pages_built_at": "2026-10-31T18:24:47Z",
+    "verified_at": "2026-10-31T18:25:25.673003+00:00",
+    "checked": 252,
+    "passed": 252,
+    "note": "One transient HTTP error on an existing page passed a targeted canonical-URL recheck. All new pages/assets and changed public source match HTTPS output."
+  },
+  "published_commit": "4eb4319ce07031743c3880fa153adbc6e97d8aa8",
+  "verified_at": "2026-10-31T18:25:25.673003+00:00",
+  "notification": {
+    "channel": "current_chat",
+    "telegram": "Destination remains PENDING; no Telegram message sent."
   }
 }

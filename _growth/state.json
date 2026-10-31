@@ -2,7 +2,7 @@
   "schema_version": 1,
   "timezone": "Asia/Dubai",
   "schedule_local": "22:00 daily",
-  "last_successful_scan": "2026-10-30T18:08:01.258697+00:00",
+  "last_successful_scan": "2026-10-31T18:06:39.117Z",
   "runs": {
     "2026-10-26-initial": "completed",
     "2026-10-26-stylist-expansion": "completed",
@@ -12,7 +12,8 @@
     "2026-10-29-2200": "completed",
     "2026-10-30-manual-city-editorials": "completed",
     "2026-10-30-2200": "completed",
-    "2026-10-31-manual-seo-improvements": "completed"
+    "2026-10-31-manual-seo-improvements": "completed",
+    "2026-10-31-2200": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -267,6 +268,41 @@
         "run_id": "2026-10-30-2200",
         "status": "published",
         "verified_at": "2026-10-30T21:07:13.904002+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xjnh08/i_think_im_a_spring_or_autumn_but_im_unsure_what/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/spring-or-autumn/",
+        "run_id": "2026-10-31-2200",
+        "status": "published",
+        "verified_at": "2026-10-31T18:25:25.673003+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xjxe8y/warm_autumn_or_deep_autumn/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/true-autumn-or-deep-autumn/",
+        "run_id": "2026-10-31-2200",
+        "status": "published",
+        "verified_at": "2026-10-31T18:25:25.673003+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xjmwsh/light_summer_or_light_spring_silver_or_gold/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/light-spring-or-light-summer/",
+        "run_id": "2026-10-31-2200",
+        "status": "published",
+        "verified_at": "2026-10-31T18:25:25.673003+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xjuxzt/is_this_shade_of_pink_good_for_true_winter/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/choose-pink-for-winter-palette/",
+        "run_id": "2026-10-31-2200",
+        "status": "published",
+        "verified_at": "2026-10-31T18:25:25.673003+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xk93la/hair_dyed_black/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/blonde-or-black-hair/",
+        "run_id": "2026-10-31-2200",
+        "status": "updated",
+        "verified_at": "2026-10-31T18:25:25.673003+00:00"
       }
     ],
     "pelvic_gym": [
@@ -451,6 +487,41 @@
         "run_id": "2026-10-30-2200",
         "status": "updated",
         "verified_at": "2026-10-30T21:07:13.904002+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xjoonx/comment/19rwchhaln16r/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-relaxation/",
+        "run_id": "2026-10-31-2200",
+        "status": "updated",
+        "verified_at": "2026-10-31T18:25:25.673003+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xk8si0/persistent_bladder_pressure_and_urgency_to_urinate/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/urinary-urgency-in-women/",
+        "run_id": "2026-10-31-2200",
+        "status": "updated",
+        "verified_at": "2026-10-31T18:25:25.673003+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xjw5cu/urgent_incontinence_115_months_postpartum/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/postpartum-pelvic-floor-recovery/",
+        "run_id": "2026-10-31-2200",
+        "status": "updated",
+        "verified_at": "2026-10-31T18:25:25.673003+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xk1pme/do_you_feel_heavinesspressure_like_something_is/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-heaviness-pressure/",
+        "run_id": "2026-10-31-2200",
+        "status": "updated",
+        "verified_at": "2026-10-31T18:25:25.673003+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xk00ib/should_i_give_this_pt_more_time/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/",
+        "run_id": "2026-10-31-2200",
+        "status": "updated",
+        "verified_at": "2026-10-31T18:25:25.673003+00:00"
       }
     ]
   },
