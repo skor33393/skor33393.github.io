@@ -1,0 +1,656 @@
+{
+  "run_id": "2026-10-31-2200",
+  "kind": "scheduled",
+  "status": "ready_to_publish",
+  "started_at": "2026-10-31T17:59:20.108Z",
+  "timezone": "Asia/Dubai",
+  "scheduled_local": "22:00",
+  "scan_completed_at": "2026-10-31T18:22:43.659487+00:00",
+  "windows": {
+    "primary_start": "2026-10-30T18:08:01.258697+00:00",
+    "end": "2026-10-31T18:22:43.659487+00:00",
+    "expanded": false,
+    "note": "All ten selected questions were posted after the previous successful scan. Older feed entries were not selected. Research was saved incrementally; end is the completion time of the verified research record."
+  },
+  "access_limits": [
+    "Quora queries returned robots blocking; no dates, votes, answers or views inferred. No bypass attempted.",
+    "Web-tool Reddit feeds were cached and too old for freshness decisions. Used live www.reddit.com public compact-feed UI and original questions instead.",
+    "old.reddit.com required login; stopped that route and used accessible public www pages. No login, forum reply or message.",
+    "Google results reflected local Dubai/Russian UI context. No search volume or global rank inferred; AI Overview text was not a factual source.",
+    "NICE guidance pages/PDF returned 403; no repeated access attempts. Checked accessible NHS/NIDDK/hospital sources instead."
+  ],
+  "google_observations": [
+    {
+      "query": "light spring vs light summer",
+      "observed_at": "2026-10-31T18:06:39.117Z",
+      "paa": [],
+      "note": "Actual results included seasonal comparison guides, videos and image results. No PAA question module observed."
+    },
+    {
+      "query": "urge incontinence months after birth pelvic floor therapy",
+      "observed_at": "2026-10-31T18:06:39.117Z",
+      "paa": [
+        "Is it normal to experience urinary incontinence 10 months after childbirth?",
+        "Does pelvic floor therapy help with urge incontinence?",
+        "What is latchkey incontinence?",
+        "How long does postpartum urinary retention last?"
+      ],
+      "note": "Visible unexpanded questions; not new publication dates or measured demand volume."
+    }
+  ],
+  "selected": [
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "I think I'm a spring or autumn but I'm unsure, what do you think?",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xjnh08/i_think_im_a_spring_or_autumn_but_im_unsure_what/",
+      "posted_at": "2026-10-30T18:34:12.118000+0000",
+      "observed_at": "2026-10-31T18:01:57.281041+00:00",
+      "votes": 13,
+      "comments": 35,
+      "evidence": "Live public feed and selected original post/comment UI. Scores may change or be fuzzed; not reach or search volume.",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/spring-or-autumn/",
+      "slug": "spring-or-autumn",
+      "outcome": "published",
+      "reason": "35 comments and 13 votes; strongest discussion among the distinct warm-color comparison questions.",
+      "brief": {
+        "reader_decision": "Choose clearer or more muted warm colors for actual outfits.",
+        "overlap_decision": "Distinct from true-versus-soft Autumn: the decision crosses the Spring/Autumn boundary.",
+        "original_resource": "Three warm fabric pairs, labeled swatches and an outfit proportion trial.",
+        "app_role": "Suggested seasonal palette, combinations and camera color comparison."
+      },
+      "observation_note": "Timestamp of saved live feed; selected original page inspected afterward during the same run."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Warm Autumn or Deep Autumn?",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xjxe8y/warm_autumn_or_deep_autumn/",
+      "posted_at": "2026-10-31T01:27:07.712000+0000",
+      "observed_at": "2026-10-31T18:01:57.281041+00:00",
+      "votes": 1,
+      "comments": 13,
+      "evidence": "Live public feed and selected original post/comment UI. Scores may change or be fuzzed; not reach or search volume.",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/true-autumn-or-deep-autumn/",
+      "slug": "true-autumn-or-deep-autumn",
+      "outcome": "published",
+      "reason": "13 comments on a specific unresolved comparison, ahead of low-detail generic typing requests.",
+      "brief": {
+        "reader_decision": "Choose medium or deep warm outfit colors.",
+        "overlap_decision": "Distinct depth decision within Autumn; existing soft-Autumn and deep-Winter comparisons do not answer it.",
+        "original_resource": "Medium/deep/mixed outfit worksheet and labeled brown swatches.",
+        "app_role": "Compare a suggested palette and outfit color combinations."
+      },
+      "observation_note": "Timestamp of saved live feed; selected original page inspected afterward during the same run."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Light summer or light spring? Silver or Gold?",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xjmwsh/light_summer_or_light_spring_silver_or_gold/",
+      "posted_at": "2026-10-30T18:13:15.019000+0000",
+      "observed_at": "2026-10-31T18:01:57.281041+00:00",
+      "votes": 4,
+      "comments": 5,
+      "evidence": "Live public feed and selected original post/comment UI. Scores may change or be fuzzed; not reach or search volume.",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/light-spring-or-light-summer/",
+      "slug": "light-spring-or-light-summer",
+      "outcome": "published",
+      "reason": "5 comments and 4 votes; actual Google results corroborate the distinct comparison intent.",
+      "brief": {
+        "reader_decision": "Compare light warm and cool pastels when analyses disagree.",
+        "overlap_decision": "Existing neutral-undertone page is broad; this page isolates a light-palette decision.",
+        "original_resource": "Paired pastels, controlled depth comparison and questions for the analyst.",
+        "app_role": "Explore suggested colors without presenting an app as the final arbiter."
+      },
+      "observation_note": "Timestamp of saved live feed; selected original page inspected afterward during the same run."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "is this shade of pink good for true winter ?",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xjuxzt/is_this_shade_of_pink_good_for_true_winter/",
+      "posted_at": "2026-10-30T23:36:20.610000+0000",
+      "observed_at": "2026-10-31T18:01:57.281041+00:00",
+      "votes": 4,
+      "comments": 5,
+      "evidence": "Live public feed and selected original post/comment UI. Scores may change or be fuzzed; not reach or search volume.",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/choose-pink-for-winter-palette/",
+      "slug": "choose-pink-for-winter-palette",
+      "outcome": "published",
+      "reason": "5 comments and 4 votes on a concrete purchase; more actionable than another generic type-me article.",
+      "brief": {
+        "reader_decision": "Decide whether to buy a pink garment for real outfits.",
+        "overlap_decision": "Existing wardrobe checklist lacks the clear/icy/muted pink comparison.",
+        "original_resource": "Labeled pink swatches, three outfits and a native example palette screen.",
+        "app_role": "Use palette and camera comparison for a physical garment, not verification of retailer photos."
+      },
+      "observation_note": "Timestamp of saved live feed; selected original page inspected afterward during the same run."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Hair dyed black",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xk93la/hair_dyed_black/",
+      "posted_at": "2026-10-31T12:35:47.194000+0000",
+      "observed_at": "2026-10-31T18:01:57.281041+00:00",
+      "votes": 6,
+      "comments": 13,
+      "evidence": "Live public feed and selected original post/comment UI. Scores may change or be fuzzed; not reach or search volume.",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/blonde-or-black-hair/",
+      "slug": "blonde-or-black-hair",
+      "outcome": "updated",
+      "reason": "13 comments and 6 votes; higher-attention fresh hair question with an already-dyed decision gap.",
+      "brief": {
+        "reader_decision": "Decide what to do after already choosing black hair.",
+        "overlap_decision": "Update existing hair-depth guide; do not create a second hair-color URL.",
+        "original_resource": "A keep/style/discuss worksheet separates appearance from another chemical service.",
+        "app_role": "Use wardrobe palette ideas around the current hair color."
+      },
+      "observation_note": "Timestamp of saved live feed; selected original page inspected afterward during the same run."
+    },
+    {
+      "app": "pelvic_gym",
+      "platform": "Reddit",
+      "question": "Should I push down during a deep breath to feel the pelvic floor release? (generalized question from comment)",
+      "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xjoonx/comment/19rwchhaln16r/",
+      "posted_at": "2026-10-30T21:16:16.334000+0000",
+      "observed_at": null,
+      "votes": 5,
+      "comments": null,
+      "evidence": "Live public feed and selected original post/comment UI. Scores may change or be fuzzed; not reach or search volume.",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-relaxation/",
+      "slug": "pelvic-floor-relaxation",
+      "outcome": "updated",
+      "reason": "Selected question comment has 5 votes; parent discussion has 63 votes and 17 comments. Counts are not interchangeable.",
+      "brief": {
+        "reader_decision": "Know whether release requires pushing or a noticeable drop.",
+        "overlap_decision": "Existing relaxation guide is the best destination.",
+        "original_resource": "Four-row troubleshooting table and a clinician demonstration request.",
+        "app_role": "Assessment-first CTA; routine support only when strengthening is suitable."
+      },
+      "parent_engagement": {
+        "url": "https://www.reddit.com/r/PelvicFloor/comments/1xjoonx/diaphragmic_breathing_method_has_worked_for_me/",
+        "posted_at": "2026-10-30T19:20:43.606000+0000",
+        "votes": 63,
+        "comments": 17,
+        "note": "Parent is a personal account, not a question. The selected question is in a comment. No clinical claim is based on the account."
+      },
+      "observed_date": "2026-10-31",
+      "observation_note": "Inspected during this run; exact comment-observation timestamp was not recorded."
+    },
+    {
+      "app": "pelvic_gym",
+      "platform": "Reddit",
+      "question": "Persistent bladder pressure and urgency to urinate ?",
+      "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xk8si0/persistent_bladder_pressure_and_urgency_to_urinate/",
+      "posted_at": "2026-10-31T12:20:29.331000+0000",
+      "observed_at": "2026-10-31T18:01:37.440694+00:00",
+      "votes": 1,
+      "comments": 0,
+      "evidence": "Live public feed and selected original post/comment UI. Scores may change or be fuzzed; not reach or search volume.",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/urinary-urgency-in-women/",
+      "slug": "urinary-urgency-in-women",
+      "outcome": "updated",
+      "reason": "1 vote and 0 comments; lower attention but a concrete, relevant emptying concern. Higher-attention male-specific or diagnostic questions fall outside the app/editorial scope.",
+      "brief": {
+        "reader_decision": "Prepare for assessment of pressure that persists after peeing.",
+        "overlap_decision": "Existing urgency guide already distinguishes retention; expand that section.",
+        "original_resource": "Symptom-description table, postvoid measurement explanation and care thresholds.",
+        "app_role": "Does not diagnose or treat emptying problems; defer exercise choice until assessed."
+      },
+      "observation_note": "Timestamp of saved live feed; selected original page inspected afterward during the same run."
+    },
+    {
+      "app": "pelvic_gym",
+      "platform": "Reddit",
+      "question": "Urgent incontinence 11.5 months postpartum",
+      "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xjw5cu/urgent_incontinence_115_months_postpartum/",
+      "posted_at": "2026-10-31T00:30:25.758000+0000",
+      "observed_at": "2026-10-31T18:01:37.440694+00:00",
+      "votes": 5,
+      "comments": 0,
+      "evidence": "Live public feed and selected original post/comment UI. Scores may change or be fuzzed; not reach or search volume.",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/postpartum-pelvic-floor-recovery/",
+      "slug": "postpartum-pelvic-floor-recovery",
+      "outcome": "updated",
+      "reason": "5 votes; fresh persistent-leak concern corroborated by an actual Google related-question module.",
+      "brief": {
+        "reader_decision": "Request review when urgent leaks persist despite a home plan.",
+        "overlap_decision": "Expand postpartum guide rather than add a fixed-month recovery page.",
+        "original_resource": "Four-row review worksheet distinguishing leak pattern, exercise plan and bladder training.",
+        "app_role": "Organize prescribed strengthening when appropriate, not diagnose leakage or replace review."
+      },
+      "observation_note": "Timestamp of saved live feed; selected original page inspected afterward during the same run."
+    },
+    {
+      "app": "pelvic_gym",
+      "platform": "Reddit",
+      "question": "Do you feel heaviness/pressure like \"something is there\" in your pelvis when you move certain ways, do leg raises, raise your leg to put on pants?",
+      "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xk1pme/do_you_feel_heavinesspressure_like_something_is/",
+      "posted_at": "2026-10-31T05:13:52.062000+0000",
+      "observed_at": "2026-10-31T18:01:37.440694+00:00",
+      "votes": 2,
+      "comments": 2,
+      "evidence": "Live public feed and selected original post/comment UI. Scores may change or be fuzzed; not reach or search volume.",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-heaviness-pressure/",
+      "slug": "pelvic-heaviness-pressure",
+      "outcome": "updated",
+      "reason": "2 votes and 2 comments; a specific follow-up question adds value beyond the general symptom page.",
+      "brief": {
+        "reader_decision": "Describe movement-related pressure and ask what a previous scan assessed.",
+        "overlap_decision": "Existing heaviness guide is the clear overlap.",
+        "original_resource": "Original appointment script and guidance on describing activity without repeated provocation.",
+        "app_role": "Assessment-first; app is not a movement test or prolapse diagnostic tool."
+      },
+      "observation_note": "Timestamp of saved live feed; selected original page inspected afterward during the same run."
+    },
+    {
+      "app": "pelvic_gym",
+      "platform": "Reddit",
+      "question": "Should I give this PT more time?",
+      "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xk00ib/should_i_give_this_pt_more_time/",
+      "posted_at": "2026-10-31T03:40:19.864000+0000",
+      "observed_at": "2026-10-31T18:01:37.440694+00:00",
+      "votes": 2,
+      "comments": 1,
+      "evidence": "Live public feed and selected original post/comment UI. Scores may change or be fuzzed; not reach or search volume.",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/",
+      "slug": "pelvic-floor-therapy-what-to-expect",
+      "outcome": "updated",
+      "reason": "2 votes and 1 comment; distinct appointment-value concern, not another general symptom/diagnosis article.",
+      "brief": {
+        "reader_decision": "Decide whether the home plan and review arrangements are clear.",
+        "overlap_decision": "Update existing appointment guide and replace its shorter home-plan section.",
+        "original_resource": "Five-row handover worksheet and a request for written instructions.",
+        "app_role": "Follow an agreed strengthening routine if suitable; no replacement for clinician instructions."
+      },
+      "observation_note": "Timestamp of saved live feed; selected original page inspected afterward during the same run."
+    }
+  ],
+  "other_fresh_candidates": [
+    {
+      "app": "stylist_ai",
+      "question": "Can you guess me now? 😭",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xkadgb/can_you_guess_me_now/",
+      "posted_at": "2026-10-31T13:34:09.802000+0000",
+      "observed_at": "2026-10-31T18:01:57.281041+00:00",
+      "votes": 25,
+      "comments": 43,
+      "decision": "skip",
+      "reason": "Generic personal typing/jewelry or contact-lens intent; existing guides cover the reusable question, or the app does not support the requested product decision."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Which colour contact lenses would suit me?",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xk74z2/which_colour_contact_lenses_would_suit_me/",
+      "posted_at": "2026-10-31T10:51:12.159000+0000",
+      "observed_at": "2026-10-31T18:01:57.281041+00:00",
+      "votes": 1,
+      "comments": 1,
+      "decision": "skip",
+      "reason": "Generic personal typing/jewelry or contact-lens intent; existing guides cover the reusable question, or the app does not support the requested product decision."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Thoughts?",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xjwksg/thoughts/",
+      "posted_at": "2026-10-31T00:48:47.052000+0000",
+      "observed_at": "2026-10-31T18:01:57.281041+00:00",
+      "votes": 1,
+      "comments": 8,
+      "decision": "skip",
+      "reason": "Generic personal typing/jewelry or contact-lens intent; existing guides cover the reusable question, or the app does not support the requested product decision."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Please help type me-a girl is trying to get rid of some clothes!",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xjwf6d/please_help_type_mea_girl_is_trying_to_get_rid_of/",
+      "posted_at": "2026-10-31T00:41:37.085000+0000",
+      "observed_at": "2026-10-31T18:01:57.281041+00:00",
+      "votes": 2,
+      "comments": 7,
+      "decision": "skip",
+      "reason": "Generic personal typing/jewelry or contact-lens intent; existing guides cover the reusable question, or the app does not support the requested product decision."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Please type me!",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xjp7sy/please_type_me/",
+      "posted_at": "2026-10-30T19:41:02.809000+0000",
+      "observed_at": "2026-10-31T18:01:57.281041+00:00",
+      "votes": 2,
+      "comments": 3,
+      "decision": "skip",
+      "reason": "Generic personal typing/jewelry or contact-lens intent; existing guides cover the reusable question, or the app does not support the requested product decision."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "I tend to gravitate toward true summer colors, but I’m not sure if that’s my best coloring",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xjoci6/i_tend_to_gravitate_toward_true_summer_colors_but/",
+      "posted_at": "2026-10-30T19:07:34.399000+0000",
+      "observed_at": "2026-10-31T18:01:57.281041+00:00",
+      "votes": 2,
+      "comments": 10,
+      "decision": "skip",
+      "reason": "Generic personal typing/jewelry or contact-lens intent; existing guides cover the reusable question, or the app does not support the requested product decision."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "💛🤍 Silver or Gold SOS",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xjmyt8/silver_or_gold_sos/",
+      "posted_at": "2026-10-30T18:15:15.464000+0000",
+      "observed_at": "2026-10-31T18:01:57.281041+00:00",
+      "votes": 6,
+      "comments": 11,
+      "decision": "skip",
+      "reason": "Generic personal typing/jewelry or contact-lens intent; existing guides cover the reusable question, or the app does not support the requested product decision."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Out-of-scope individual diagnostic or treatment question (sensitive details omitted)",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xkg7fh/help/",
+      "posted_at": "2026-10-31T17:32:29.681000+0000",
+      "observed_at": "2026-10-31T18:01:37.440694+00:00",
+      "votes": 1,
+      "comments": 0,
+      "decision": "skip",
+      "reason": "Personal diagnosis, male-specific treatment, complex presentation or an overlapping intent without an additional useful resource; no new page warranted."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Out-of-scope individual diagnostic or treatment question (sensitive details omitted)",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xkfbpf/my_testicles_stay_high_so_often_in_a_day_any/",
+      "posted_at": "2026-10-31T16:57:45.766000+0000",
+      "observed_at": "2026-10-31T18:01:37.440694+00:00",
+      "votes": 4,
+      "comments": 0,
+      "decision": "skip",
+      "reason": "Personal diagnosis, male-specific treatment, complex presentation or an overlapping intent without an additional useful resource; no new page warranted."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Out-of-scope individual diagnostic or treatment question (sensitive details omitted)",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xkd92g/48m_seeking_opinion_on_early_ejaculation/",
+      "posted_at": "2026-10-31T15:33:45.881000+0000",
+      "observed_at": "2026-10-31T18:01:37.440694+00:00",
+      "votes": 3,
+      "comments": 1,
+      "decision": "skip",
+      "reason": "Personal diagnosis, male-specific treatment, complex presentation or an overlapping intent without an additional useful resource; no new page warranted."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Out-of-scope individual diagnostic or treatment question (sensitive details omitted)",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xkctc2/tight_pelvic_floor_or_pn_both/",
+      "posted_at": "2026-10-31T15:15:58.214000+0000",
+      "observed_at": "2026-10-31T18:01:37.440694+00:00",
+      "votes": 3,
+      "comments": 0,
+      "decision": "skip",
+      "reason": "Personal diagnosis, male-specific treatment, complex presentation or an overlapping intent without an additional useful resource; no new page warranted."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Out-of-scope individual diagnostic or treatment question (sensitive details omitted)",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xk6lus/pelvic_floor_muscles_so_tense_and_they_are_hard/",
+      "posted_at": "2026-10-31T10:19:58.157000+0000",
+      "observed_at": "2026-10-31T18:01:37.440694+00:00",
+      "votes": 1,
+      "comments": 0,
+      "decision": "skip",
+      "reason": "Personal diagnosis, male-specific treatment, complex presentation or an overlapping intent without an additional useful resource; no new page warranted."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Out-of-scope individual diagnostic or treatment question (sensitive details omitted)",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xk1rml/dead_penile_sensation/",
+      "posted_at": "2026-10-31T05:16:53.512000+0000",
+      "observed_at": "2026-10-31T18:01:37.440694+00:00",
+      "votes": 4,
+      "comments": 7,
+      "decision": "skip",
+      "reason": "Personal diagnosis, male-specific treatment, complex presentation or an overlapping intent without an additional useful resource; no new page warranted."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Out-of-scope individual diagnostic or treatment question (sensitive details omitted)",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xjw6oc/complex_issues_compounded_by_recent_trauma/",
+      "posted_at": "2026-10-31T00:32:10.961000+0000",
+      "observed_at": "2026-10-31T18:01:37.440694+00:00",
+      "votes": 3,
+      "comments": 1,
+      "decision": "skip",
+      "reason": "Personal diagnosis, male-specific treatment, complex presentation or an overlapping intent without an additional useful resource; no new page warranted."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Out-of-scope individual diagnostic or treatment question (sensitive details omitted)",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xjvrfa/im_tired_and_confused_and_just_have_no_clue_whats/",
+      "posted_at": "2026-10-31T00:12:18.866000+0000",
+      "observed_at": "2026-10-31T18:01:37.440694+00:00",
+      "votes": 5,
+      "comments": 2,
+      "decision": "skip",
+      "reason": "Personal diagnosis, male-specific treatment, complex presentation or an overlapping intent without an additional useful resource; no new page warranted."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Out-of-scope individual diagnostic or treatment question (sensitive details omitted)",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xjvpf4/if_you_have_hard_flaccid_cut_out_any_activities/",
+      "posted_at": "2026-10-31T00:09:46.067000+0000",
+      "observed_at": "2026-10-31T18:01:37.440694+00:00",
+      "votes": 5,
+      "comments": 10,
+      "decision": "skip",
+      "reason": "Personal diagnosis, male-specific treatment, complex presentation or an overlapping intent without an additional useful resource; no new page warranted."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Out-of-scope individual diagnostic or treatment question (sensitive details omitted)",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xjvg9z/28_level_1_uterine_prolapse/",
+      "posted_at": "2026-10-30T23:59:30.477000+0000",
+      "observed_at": "2026-10-31T18:01:37.440694+00:00",
+      "votes": 1,
+      "comments": 2,
+      "decision": "skip",
+      "reason": "Personal diagnosis, male-specific treatment, complex presentation or an overlapping intent without an additional useful resource; no new page warranted."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Out-of-scope individual diagnostic or treatment question (sensitive details omitted)",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xjpyoa/can_an_endometrial_polyp_cause_vaginal_discomfort/",
+      "posted_at": "2026-10-30T20:09:14.230000+0000",
+      "observed_at": "2026-10-31T18:01:37.440694+00:00",
+      "votes": 1,
+      "comments": 1,
+      "decision": "skip",
+      "reason": "Personal diagnosis, male-specific treatment, complex presentation or an overlapping intent without an additional useful resource; no new page warranted."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Diaphragmic breathing method (has worked for me very well)",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xjoonx/diaphragmic_breathing_method_has_worked_for_me/",
+      "posted_at": "2026-10-30T19:20:43.606000+0000",
+      "observed_at": "2026-10-31T18:01:37.440694+00:00",
+      "votes": 63,
+      "comments": 17,
+      "decision": "skip_parent_select_comment",
+      "reason": "Parent personal account is not itself a question; selected a concrete breathing question from its comments and verified guidance clinically."
+    }
+  ],
+  "selection_summary": "After filtering scope and overlap, prioritize visible discussion among useful fresh questions. Four distinct Stylist comparisons justify new URLs; the hair concern and five Pelvic questions improve existing pages. Generic high-attention type-me questions and unsupported diagnostic/treatment requests do not justify filler.",
+  "checked_sources": [
+    {
+      "type": "style",
+      "url": "https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/true-spring-a-comprehensive-guide",
+      "checked": "2026-10-31",
+      "scope": "Warm/clear seasonal framework; original comparisons authored separately."
+    },
+    {
+      "type": "style",
+      "url": "https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/true-autumn-a-comprehensive-guide",
+      "checked": "2026-10-31",
+      "scope": "Warm/muted seasonal framework."
+    },
+    {
+      "type": "style",
+      "url": "https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/dark-autumn-a-comprehensive-guide",
+      "checked": "2026-10-31",
+      "scope": "Deep/warm seasonal framework."
+    },
+    {
+      "type": "style",
+      "url": "https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/light-spring-a-comprehensive-guide",
+      "checked": "2026-10-31",
+      "scope": "Light Spring/Light Summer distinction."
+    },
+    {
+      "type": "style",
+      "url": "https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/true-winter-a-comprehensive-guide",
+      "checked": "2026-10-31",
+      "scope": "Cool/clear Winter palette framework."
+    },
+    {
+      "type": "photography",
+      "url": "https://www.adobe.com/creativecloud/photography/technique/white-balance.html",
+      "checked": "2026-10-31",
+      "scope": "White balance and photographic color casts."
+    },
+    {
+      "type": "clinical",
+      "url": "https://www.nhs.uk/conditions/urinary-incontinence/treatment/",
+      "checked": "2026-10-31",
+      "scope": "Treatment depends on leak type; bladder training usually at least six weeks, not a promised outcome."
+    },
+    {
+      "type": "clinical",
+      "url": "https://www.nhs.uk/conditions/pelvic-organ-prolapse/",
+      "checked": "2026-10-31",
+      "scope": "History/examination and assessment positions."
+    },
+    {
+      "type": "clinical",
+      "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes",
+      "checked": "2026-10-31",
+      "scope": "Possible retention symptoms and urgent inability-to-void/severe-abdominal-pain guidance."
+    },
+    {
+      "type": "clinical",
+      "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/diagnosis",
+      "checked": "2026-10-31",
+      "scope": "Postvoid residual measurement by a clinician."
+    },
+    {
+      "type": "clinical",
+      "url": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/",
+      "checked": "2026-10-31",
+      "scope": "Urinary symptoms and urgent warning signs."
+    },
+    {
+      "type": "clinical",
+      "url": "https://www.uhsussex.nhs.uk/resources/your-pelvic-health-physiotherapy-appointment/",
+      "checked": "2026-10-31",
+      "scope": "Individualized assessment, advice and exercises; worksheet is original decision support."
+    },
+    {
+      "type": "clinical",
+      "url": "https://www.nhsfife.org/services/all-services/patient-advice/overactive-pelvic-floor-muscles/",
+      "checked": "2026-10-31",
+      "scope": "Comfortable position, gentle breathing and physiotherapy support."
+    },
+    {
+      "type": "clinical",
+      "url": "https://www.royalberkshire.nhs.uk/media/yemfgc2z/physio-relaxing-your-pelvic-floor-muscles.pdf",
+      "checked": "2026-10-31",
+      "scope": "Page 2 explicitly distinguishes letting go from active pushing. Did not adopt its breath-hold or self-internal-treatment instructions. Leaflet reviewed July 2024; listed review due July 2026, so not described as newly reviewed."
+    }
+  ],
+  "outcomes": {
+    "stylist_ai": {
+      "target": 5,
+      "new": 4,
+      "updated": 1,
+      "shortfall": 0
+    },
+    "pelvic_gym": {
+      "target": 5,
+      "new": 0,
+      "updated": 5,
+      "shortfall": 0
+    }
+  },
+  "illustrations": [
+    {
+      "slug": "spring-or-autumn",
+      "path": "stylist_ai/blog/assets/illustrations/spring-or-autumn.webp",
+      "master": "/Users/aleksandrkorenev/.codex/generated_images/01a174fe-e0cd-7ec2-83ac-b41f47580db9/exec-c69afaf3-0ec7-4646-95ec-79be6860073e.png",
+      "bytes": 155800,
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "slug": "true-autumn-or-deep-autumn",
+      "path": "stylist_ai/blog/assets/illustrations/true-autumn-or-deep-autumn.webp",
+      "master": "/Users/aleksandrkorenev/.codex/generated_images/01a174fe-e0cd-7ec2-83ac-b41f47580db9/exec-b43363fd-2915-4c07-96ae-0d2475a7e13c.png",
+      "bytes": 107242,
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "slug": "light-spring-or-light-summer",
+      "path": "stylist_ai/blog/assets/illustrations/light-spring-or-light-summer.webp",
+      "master": "/Users/aleksandrkorenev/.codex/generated_images/01a174fe-e0cd-7ec2-83ac-b41f47580db9/exec-9e4fe10e-175e-49ab-94ec-6c52c4053a1b.png",
+      "bytes": 79262,
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "slug": "choose-pink-for-winter-palette",
+      "path": "stylist_ai/blog/assets/illustrations/choose-pink-for-winter-palette.webp",
+      "master": "/Users/aleksandrkorenev/.codex/generated_images/01a174fe-e0cd-7ec2-83ac-b41f47580db9/exec-7b19878f-2d66-448a-b787-0b8c40345c59.png",
+      "bytes": 86782,
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "additional_changes": [
+    "Contextual incoming links from color-depth-vs-brightness, neutral-undertone-color-season and buy-clothes-you-will-wear.",
+    "Regular Stylist topic hubs link the four new articles.",
+    "Eight responsive cover variants; new cover masters remain outside the repository."
+  ],
+  "review_status": "No independent clinician engaged or claimed; unpublished original diary remains private.",
+  "measurement": "Nov 7/14 pilot checkpoints not due. No traffic, indexing or ranking claim from publication.",
+  "validation": {
+    "status": "passed",
+    "checks": [
+      "Both site builds",
+      "Pelvic validator: 45 pages / 38 articles",
+      "Growth validator: 116 combined journal pages, links, metadata, date preservation and sitemaps",
+      "Both analytics consent test suites and Stylist JS syntax checks",
+      "34 city guides: isolation, banners, badges, locales and unique editorial audit",
+      "git diff --check",
+      "10 selected articles at 390px and 1280px: no horizontal overflow; one H1 and correct app destinations",
+      "Representative screenshots: Stylist cover, inline palette and Pelvic home-plan section; FAQ interaction passed"
+    ],
+    "protected_files_checked": 118,
+    "protected_changes": 0,
+    "capacity_after_assets": {
+      "measurement": "Working files excluding Git/runtime/build caches; includes source and research files normally excluded by Jekyll, so this overestimates the static payload. Git object storage is measured separately.",
+      "working_file_bytes": 44303103,
+      "git_object_bytes": 69379072,
+      "published_site_limit_bytes": 1000000000,
+      "illustration_stop_threshold_bytes": 800000000,
+      "can_add_illustrations": true,
+      "remaining_to_site_limit_bytes": 955696897,
+      "reference": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
+    },
+    "qa_records": "Outside repository: seo-daily/2026-10-31/mobile-qa.json and desktop-qa.json",
+    "limitations": [
+      "Browser checks use Chromium viewport emulation; native Safari banner metadata verified, native iOS banner display not device-tested."
+    ]
+  },
+  "deployment": {
+    "status": "not_pushed"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "run_id": "2026-10-31-2200",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "slug": "spring-or-autumn",
+      "prompt": "Use case: photorealistic-natural. Asset type: editorial illustration for a color-analysis article, landscape 3:2. A top-down fashion-styling table on warm ivory linen. Two separate coordinated sets of plain fabric swatches and simple folded garments: left clear warm coral, fresh leaf green and ivory; right muted terracotta, olive and camel. The grouping visibly compares clear warm colors with softer earthy warm colors. Beautiful tactile woven fabric, soft neutral daylight, restrained magazine styling, realistic color separation. No people, text, logos, watermarks, phones or interfaces. This is an editorial fabric composition, not a measured experiment."
+    },
+    {
+      "slug": "true-autumn-or-deep-autumn",
+      "prompt": "Use case: photorealistic-natural. Asset type: original editorial fashion illustration, landscape 3:2. Two neatly arranged warm-tone outfits on a pale cream table: one medium-depth terracotta knit with camel and moss fabrics; one rich dark chocolate knit with aubergine-brown and deep olive fabrics. The same scale of garments, tactile natural woven fabric and small matching fabric swatches, calm neutral daylight, refined magazine flat lay. Clear contrast of medium warmth-led styling and richer deep warm styling. No text, labels, faces, logos, watermarks or phones. Avoid leaves, pumpkins and seasonal holiday decoration."
+    },
+    {
+      "slug": "light-spring-or-light-summer",
+      "prompt": "Use case: photorealistic-natural. Asset type: editorial cover for a practical color-analysis article, landscape 3:2. Airy top-down composition of two light pastel fabric collections on a pale neutral tabletop. Left: pale peach, light warm aqua, creamy ivory; right: pale cool rose, powder blue, light lavender. Delicate cotton and fine knit textures, equivalent lightness and fabric sizes, two simple folded tops, ample negative space, soft neutral daylight. Elegant colorful fashion-magazine aesthetic. No text, people, logos, watermarks, app screen or jewelry. A fabric palette illustration, not a scientific or personal color test."
+    },
+    {
+      "slug": "choose-pink-for-winter-palette",
+      "prompt": "Use case: photorealistic-natural. Asset type: original editorial fashion blog cover, landscape 3:2. A neatly folded clear cool raspberry pink sweatshirt beside an icy pink cotton swatch, a muted dusty rose swatch, dark navy trousers and an ivory sneaker on a warm white studio surface. Organized as a practical wardrobe-shopping mood board with obvious differences among the three pink shades, natural cotton texture, soft neutral daylight, contemporary editorial photography. No person, text, lettering, brands, logos, watermark, phones or fabricated app UI."
+    }
+  ]
+}

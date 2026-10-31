@@ -27,6 +27,11 @@
       "html": "<p>Fair skin is not a styling rule that forbids a dark shade. You may prefer a strong light-dark contrast, or you may like a gentler frame around your face. Instead of asking whether black is “allowed,” compare the effect you want with the maintenance you are willing to accept.</p><p>Try three references: your current shade, a deep brown and a black. Keep styling, clothing and light as similar as possible. If someone says one looks too dark, ask what they mean: a stronger outline, less visible hair texture, or simply an unfamiliar look. Their preference can be useful without becoming a requirement.</p><p>Check an ordinary-day version as well as a dressed-up version. A color you like with elaborate makeup may feel different with your usual routine. You can enjoy either result; the point is to choose knowingly. Do not treat a change in redness, lighting or exposure between two pictures as proof of what the dye did.</p><p>Bring the preferred direction to a colorist and discuss your previous processing and the implications of changing it later. A reversible visual comparison and a permanent dye decision are different stages. You do not need to dye first to earn the right to explore the look.</p>"
     },
     {
+      "id": "already-dyed-black",
+      "title": "Already dyed black and wondering about brown?",
+      "html": "<p>Separate two decisions: whether you enjoy the current look, and whether you want another color process. A preference in a photograph is not a reason to make both decisions immediately. Start by wearing your usual clothes and hairstyle with the shade you have.</p><p>Make a small comparison note with three rows:</p><table><thead><tr><th>Look</th><th>What to record</th></tr></thead><tbody><tr><td>Current black with an everyday outfit</td><td>What you like about the overall effect, and what feels unfamiliar.</td></tr><tr><td>Current black with a different familiar top</td><td>Whether the clothing changes your preference.</td></tr><tr><td>A brown reference with similar styling</td><td>Whether you want less depth, a different tone or a different hairstyle.</td></tr></tbody></table><p>If an older brown-haired photo is your favorite, check whether it also has different light or makeup. Use a salon sample or comparable reference to discuss the color direction, rather than assuming that changing the dye will recreate the entire photograph.</p><p>For an actual change, tell a colorist what was used and when, and ask what is realistic for your hair now. This guide does not provide a color-removal formula or a waiting period. You can keep black because you like it, choose a softer direction later, or decide that changing the clothes is enough.</p>"
+    },
+    {
       "id": "tone",
       "title": "Choose tone after narrowing the depth",
       "html": "<p>Blonde includes many visual directions, and a dark shade can look softer or more inky. Once you have a preferred depth, compare references at roughly that same depth to discuss tone. Changing lightness and warmth together makes it harder to explain what you actually liked.</p><p>For this next decision, use our <a href=\"/stylist_ai/blog/warm-or-cool-hair-color/\">warm versus cool hair color guide</a>. You do not need to force the entire choice into one seasonal label.</p>"
@@ -50,6 +55,10 @@
     {
       "question": "Should I dye my hair to test which shade suits me?",
       "answer": "You can begin with references, salon sample locks or a wig. Discuss permanent changes with a colorist after you understand the upkeep and your hair condition."
+    },
+    {
+      "question": "Should I change black hair back to brown because other people prefer it?",
+      "answer": "Use their comments to identify an effect you might want, such as less depth or a different tone. Compare it with your own preferences and discuss any further processing with a colorist before changing the dye."
     }
   ],
   "sources": [
@@ -76,5 +85,5 @@
     "height": 800,
     "alt": "Illustration of blonde, brown and black salon hair swatches beside a mirror and folded fabrics."
   },
-  "sourceCheckNote": "Original sources were checked on 2026-10-29. The added comparison exercise was reviewed October 31, 2026; it is editorial styling guidance."
+  "sourceCheckNote": "Original sources were checked on 2026-10-29. The added comparison exercise was reviewed October 31, 2026; it is editorial styling guidance. The already-dyed-black wardrobe comparison was added October 31, 2026 as original editorial decision support; it gives no processing prescription."
 }

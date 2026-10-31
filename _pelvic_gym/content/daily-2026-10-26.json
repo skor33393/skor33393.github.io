@@ -120,8 +120,8 @@
       },
       {
         "id": "follow-up",
-        "title": "What if your first appointment did not find a cause?",
-        "html": "<p>Ask what was checked and what the result does and does not rule out. If the sensation persists, contact the service again with the change or lack of improvement. You can say: “The pressure is still happening after standing, and it is affecting my day. What is the next step?”</p><p>Discuss whether a pelvic health, gynecology or other assessment is appropriate to your symptoms. Ask when to return if the plan does not help, and which new symptoms should prompt earlier contact. You do not need to prove a diagnosis to request a review.</p><p>During any proposed examination, ask what it is intended to assess and discuss consent, comfort and a chaperone. Our <a href=\"/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/\">appointment guide</a> explains how to prepare.</p>"
+        "title": "What if pressure appears with one movement or a scan was normal?",
+        "html": "<p>Pressure during dressing, bending or lying in a particular position is worth describing, but it does not identify which structure is responsible. Avoid repeatedly provoking it to decide whether a muscle is tight or an organ has moved. Bring the ordinary activity that triggers the feeling to the assessment.</p><p>A scan and a clinical examination answer different questions. Ask what your previous investigation assessed and whether anything else needs checking. <a href=\"https://www.nhs.uk/conditions/pelvic-organ-prolapse/\">NHS prolapse information describes a symptom history and examination</a>, sometimes in different positions. An ultrasound report by itself is not a pelvic floor strength or relaxation assessment.</p><p>Use this short appointment script: “I feel pressure when I do [ordinary movement]. It settles after [time or change], or it does not settle. My previous test was [test]. What did it rule out, and would a pelvic examination or movement assessment add useful information?” Describe any bladder or bowel change, pain, bleeding or visible bulge too.</p><p>Ask which activities are reasonable while waiting and what changes should bring the review forward. Do not assume every movement is harmful, or push through a painful movement because a previous test was reassuring. If a particular task is uncomfortable, discuss a manageable alternative with your clinician instead of testing it repeatedly.</p><p>You can ask why an examination is proposed, request a chaperone and discuss consent. Our <a href=\"/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/\">appointment guide</a> helps you prepare; use the urgent-care section above if new warning signs develop.</p>"
       },
       {
         "id": "exercise",
@@ -137,6 +137,10 @@
       {
         "question": "Should I keep checking to see if anything has changed?",
         "answer": "Repeated self-examinations are not a reliable monitoring plan. Ask your clinician what to observe and when a reassessment is needed."
+      },
+      {
+        "question": "Does pressure when I lift a leg prove I have prolapse or tight muscles?",
+        "answer": "No. A movement-related sensation alone cannot establish either. Describe the activity and associated symptoms to a clinician, and ask what assessment is appropriate even if you have already had a scan."
       }
     ],
     "sources": [
@@ -171,7 +175,7 @@
       "width": 1200,
       "height": 800
     },
-    "sourceCheckNote": "Original sources were checked 2026-10-26. The new If symptoms interfere with work, describe the tasks section was checked against its linked primary sources October 31, 2026."
+    "sourceCheckNote": "Original sources were checked 2026-10-26. The new If symptoms interfere with work, describe the tasks section was checked against its linked primary sources October 31, 2026. The movement-related pressure and prior-investigation section was checked October 31, 2026 against NHS prolapse assessment guidance; the suggested appointment script is original decision support."
   },
   {
     "slug": "painful-periods-pelvic-floor",

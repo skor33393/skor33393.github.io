@@ -5,7 +5,7 @@
   "description": "If warm and cool labels both seem partly right, compare clothing in smaller steps and build a useful palette before forcing a seasonal answer.",
   "category": "Color analysis",
   "datePublished": "2026-10-29",
-  "dateModified": "2026-10-29",
+  "dateModified": "2026-10-31",
   "sourcesChecked": "2026-10-29",
   "sortOrder": 0,
   "excerpt": "If warm and cool labels both seem partly right, compare clothing in smaller steps and build a useful palette before forcing a seasonal answer.",
@@ -35,6 +35,11 @@
       "id": "palette",
       "title": "Make a small palette from the results",
       "html": "<p>Choose two familiar neutrals, two colors you liked in the comparisons and one optional accent. Build three outfits from those five choices before buying more. For example, navy and stone could support dusty rose, teal and a small burgundy detail if you enjoy those combinations.</p><p>Write practical notes: “teal with navy for work,” “rose with stone for weekends.” If a seasonal framework later groups those preferences neatly, use it. If it does not, the outfits still work for you. See our <a href=\"/stylist_ai/blog/build-a-wardrobe-color-palette/\">wardrobe palette guide</a> for turning the shortlist into repeat outfits.</p>"
+    },
+    {
+      "id": "next-comparison",
+      "title": "When both light palettes seem possible",
+      "html": "<p>If your results specifically alternate between two light palettes, use the <a href=\"/stylist_ai/blog/light-spring-or-light-summer/\">Light Spring versus Light Summer guide</a>. It keeps lightness consistent while you compare temperature and clarity.</p>"
     }
   ],
   "faqs": [

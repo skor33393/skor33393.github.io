@@ -305,8 +305,8 @@
       },
       {
         "id": "infection-retention",
-        "title": "Two important distinctions: infection and retention",
-        "html": "<p>A urinary infection may cause burning, increased frequency, urgency, lower abdominal discomfort or changes in urine. With urinary symptoms, any fever, shivering or pain in the back under the ribs needs urgent medical advice. Suspected UTI during pregnancy also needs urgent advice. <a href=\"https://www.nhs.uk/conditions/urinary-tract-infections-utis/\">The NHS explains UTI symptoms and urgent signs</a>.</p><p>Difficulty emptying is a separate concern. Urinary retention can sometimes involve frequent small amounts, a slow start or still feeling you need to go after finishing. If you cannot pass urine, seek immediate medical care. <a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes\">Read NIDDK’s retention guidance</a>.</p><p>Those distinctions matter because “try holding on longer” is not suitable advice for every person who makes frequent bathroom trips.</p>"
+        "title": "Pressure after peeing: what needs checking?",
+        "html": "<p>A bladder that still feels full after a toilet visit needs a clearer description than “urgency.” Tell the clinician whether the sensation is constant or sudden, whether your stream starts and stops, and whether you feel you finished emptying. <a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes\">NIDDK lists frequent small voids, a slow start or stream and still needing to urinate after finishing among possible retention symptoms</a>. The symptoms alone cannot confirm retention.</p><p><a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/diagnosis\">A clinician may measure urine remaining after a void</a> when investigating emptying problems. Passing some urine does not establish how much remains. Ask whether your pattern needs that assessment before trying progressively longer bathroom delays.</p><table><thead><tr><th>Bring this detail</th><th>Why it helps the conversation</th></tr></thead><tbody><tr><td>“The pressure stays after I finish” or “it settles and returns later”</td><td>Distinguishes a continuous sensation from separate episodes.</td></tr><tr><td>Normal flow, slow start, weak stream or stop-start flow</td><td>Makes emptying concerns explicit.</td></tr><tr><td>Burning, pain, blood, fever, leakage or nighttime disruption</td><td>Gives the clinician the associated symptoms and their impact.</td></tr></tbody></table><p><strong>Seek immediate medical care if you cannot urinate or have severe abdominal pain</strong>, as advised by NIDDK. With urinary symptoms, fever, shivering or back pain under the ribs needs urgent advice; suspected UTI in pregnancy also needs urgent advice. See <a href=\"https://www.nhs.uk/conditions/urinary-tract-infections-utis/\">NHS UTI guidance</a>. Absence of burning does not establish that a muscle exercise is the answer.</p><p>For a non-urgent appointment, bring a short <a href=\"/pelvic_gym/articles/bladder-diary-for-women/\">bladder diary</a> if practical, without delaying care to complete it. Keep strengthening and bladder training decisions separate until you understand what is being treated.</p>"
       },
       {
         "id": "in-the-moment",
@@ -337,6 +337,10 @@
       {
         "question": "Does passing only a little urine mean I should hold longer?",
         "answer": "Not necessarily. Small amounts can occur with different problems, including difficulty emptying. Discuss the pattern before starting a delay program, especially if you also have pain or a weak stream."
+      },
+      {
+        "question": "Why do I still feel bladder pressure after I have just peed?",
+        "answer": "There are several possible explanations, and the sensation does not tell you how much urine remains. Describe the pressure and any slow or interrupted flow to a clinician. Inability to urinate or severe abdominal pain needs immediate medical care."
       }
     ],
     "sources": [
@@ -378,8 +382,8 @@
     "keyword": "urinary urgency in women",
     "researchNote": "Researched 2026-10-24. Symptom-explanation and care-navigation intent. Differentiates urgency, infection and retention; no diagnosis from frequency or urine volume alone.",
     "datePublished": "2026-10-24",
-    "dateModified": "2026-10-29",
-    "sourceCheckNote": "Original guidance sources were checked on 2026-10-24. The new If urgency starts after a new therapy or exercise routine section was checked against its linked sources October 29, 2026."
+    "dateModified": "2026-10-31",
+    "sourceCheckNote": "Original guidance sources were checked on 2026-10-24. The new If urgency starts after a new therapy or exercise routine section was checked against its linked sources October 29, 2026. The pressure-after-voiding section was checked October 31, 2026 against NIDDK symptom and diagnostic guidance and NHS UTI guidance; earlier sections retain their existing source-check scope."
   },
   {
     "slug": "peeing-at-night-women",

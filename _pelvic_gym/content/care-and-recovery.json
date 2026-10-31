@@ -55,8 +55,8 @@
       },
       {
         "id": "home-plan",
-        "title": "Leave with a plan you can repeat accurately",
-        "html": "<p>For each exercise, record the position, movement, repetitions, rest and frequency. Ask what discomfort should make you stop and who to contact with questions. Demonstrate or explain the instructions back in your own words so that any misunderstanding can be corrected while you are together.</p><p>Finally, confirm the follow-up arrangement: whether you must book it, what to track and when the approach will be reviewed. Keep a note of one useful change in daily life as well as what you practiced. If nothing changes, that information belongs at the review too. Therapy is a process of assessment and adjustment; your job is to give an honest account, not to produce a perfect progress report.</p>"
+        "title": "Is the appointment giving you a usable home plan?",
+        "html": "<p>A useful session is not measured only by minutes of internal work. <a href=\"https://www.uhsussex.nhs.uk/resources/your-pelvic-health-physiotherapy-appointment/\">University Hospitals Sussex describes assessment, advice, exercises and treatment selected for the person’s needs</a>. If you leave unsure what to practice, ask for clarification before booking several more visits or guessing the dose yourself.</p><p>Use the final part of the appointment to complete this small handover:</p><table><thead><tr><th>Leave knowing</th><th>A question you can use</th></tr></thead><tbody><tr><td>The purpose</td><td>Which symptom or activity is this meant to help?</td></tr><tr><td>The exact practice</td><td>Can I demonstrate it back to you so you can check?</td></tr><tr><td>The dose and rest</td><td>How often, for how long, with how much rest?</td></tr><tr><td>The response plan</td><td>What should make me stop, change it or contact you?</td></tr><tr><td>The review point</td><td>What are we measuring, and when will we reassess?</td></tr></tbody></table><p>A worksheet with several movements circled may still need individual instructions. Ask the clinic to clarify the missing details in writing. If time is limited, you can say at the start: “My priority today is understanding and practicing the home plan.” That helps keep the session connected to your goal without assuming the therapist has chosen the wrong treatment.</p><p>If explanations remain unclear, discuss your concerns with the therapist or referring clinician and consider another qualified opinion. There is no universal number of appointments that proves a provider is right for you. Look for an understandable assessment, consent, a plan you can follow and a way to review its effect. Our <a href=\"/pelvic_gym/articles/find-pelvic-floor-physiotherapy/\">guide to finding physiotherapy</a> includes practical questions about service fit.</p>"
       }
     ],
     "faqs": [
@@ -75,6 +75,10 @@
       {
         "question": "Can I ask to begin therapy while staying clothed?",
         "answer": "Yes. Tell the clinic your preference and ask what assessment and treatment are possible, what remains uncertain, and how the plan will be reviewed. Options depend on your symptoms and the service."
+      },
+      {
+        "question": "Should I judge a pelvic floor appointment by how much internal treatment I receive?",
+        "answer": "No. Ask how the assessment and each treatment relate to your goals. Leave with clear home instructions and a review plan. Internal work is one possible approach and requires consent; more minutes do not automatically mean more useful care."
       }
     ],
     "sources": [
@@ -125,7 +129,7 @@
     "researchNote": "Sources checked 2026-10-24. First-visit preparation and consent intent; local clinic processes clearly identified as examples, not universal service guarantees. New decision-support section checked 2026-10-27 against its linked primary sources; original publication and earlier source-check scope retained.",
     "datePublished": "2026-10-24",
     "dateModified": "2026-10-31",
-    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026; the appointment decision sheet was checked October 26. The external-work and consent update was checked against DynamicHealth and CSP guidance October 27, 2026. The new What if symptoms flare after a session or home exercise section was checked against its linked clinical sources October 28, 2026. The new What if you are told stress is preventing progress? section was checked against its linked primary sources October 31, 2026."
+    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026; the appointment decision sheet was checked October 26. The external-work and consent update was checked against DynamicHealth and CSP guidance October 27, 2026. The new What if symptoms flare after a session or home exercise section was checked against its linked clinical sources October 28, 2026. The new What if you are told stress is preventing progress? section was checked against its linked primary sources October 31, 2026. The revised home-plan handover section was checked October 31, 2026 against University Hospitals Sussex appointment guidance. It does not prescribe a session length or judge an individual provider."
   },
   {
     "slug": "pelvic-floor-exercises-after-c-section",

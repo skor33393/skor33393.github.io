@@ -111,6 +111,11 @@
         "html": "<p>RCOG advises pelvic floor rehabilitation after birth and notes that specialist physiotherapists can assess bladder, bowel and pelvic symptoms. <a href=\"https://www.rcog.org.uk/for-the-public/perineal-tears-and-episiotomies-in-childbirth/your-pelvic-floor/\">Its pelvic floor information explains the role of physiotherapy.</a> Ask your midwife or physiotherapist when to start in your circumstances and what an appropriate contraction should feel like.</p><p>Do not use pain as a sign that an exercise is working. If squeezing hurts, feels confusing or is difficult to release, ask for help rather than adding repetitions. Our <a href=\"/pelvic_gym/articles/how-to-do-kegel-exercises/\">technique guide</a> can support a plan you have been given; our <a href=\"/pelvic_gym/articles/pelvic-floor-relaxation/\">relaxation guide</a> explains the other part of muscle control.</p>"
       },
       {
+        "id": "persistent-urge-leaks",
+        "title": "Still having urgent leaks months after birth?",
+        "html": "<p>Persistent leaks deserve a review even if you have practiced every exercise you were given. Describe whether leaking follows a cough or jump, comes with a sudden urgent need, or happens in both situations. The <a href=\"https://www.nhs.uk/conditions/urinary-incontinence/treatment/\">NHS explains that treatment depends on the type of incontinence</a>; bladder training may be offered for urge incontinence, while muscle training has a different role.</p><p>Do not interpret “keep practicing” as a requirement to continue an unclear or ineffective plan indefinitely. Ask for a review of what has changed, which symptoms remain and what the next step should be. A useful message is: “I have followed this plan, but urgent leaks still interrupt my day. Can we review the type of leakage, my technique and the bladder-management part of treatment?”</p><table><thead><tr><th>Take to the review</th><th>Ask</th></tr></thead><tbody><tr><td>A short record of urgency, leaks and activities</td><td>Are we treating stress leakage, urgency or both?</td></tr><tr><td>Your actual exercise routine, including rest</td><td>Does this still match the findings and my current symptoms?</td></tr><tr><td>Any bladder-training instructions</td><td>What should I do during an urgent episode, and how should we adapt the plan if I keep leaking?</td></tr><tr><td>The effect on sleep, walking or exercise</td><td>When will we review progress, and is another service appropriate?</td></tr></tbody></table><p>Bladder training is a structured treatment, not simply forcing yourself to wait until an accident happens. The NHS describes a course usually lasting at least six weeks; that is not a guarantee of recovery or a reason to postpone review of worsening symptoms. If squeezing hurts or you have trouble emptying, discuss that before increasing contractions or delaying toilet visits.</p><p>Use the <a href=\"/pelvic_gym/articles/bladder-training-vs-kegels/\">bladder training versus Kegels comparison</a> to prepare questions, and the <a href=\"/pelvic_gym/articles/urinary-urgency-in-women/\">urgency guide</a> for assessment and warning signs. Pelvic Gym can help organize a strengthening routine when that is part of your agreed care plan; an app cannot diagnose the leak type or replace the review.</p>"
+      },
+      {
         "id": "bowel-care",
         "title": "Include bladder, bowel and wound care",
         "html": "<p>After birth, constipation can make toilet visits uncomfortable. The NHS recommends fluids, fiber-rich foods and avoiding straining; ask your clinician if constipation persists. Tell them about stool leakage or difficulty controlling your bowel, too. <a href=\"https://www.nhs.uk/pregnancy/labour-and-birth/your-body/\">The NHS covers bladder and bowel changes after birth.</a></p><p>If you had a third- or fourth-degree tear, follow the care and follow-up plan you were given. Increasing wound pain, unusual odor, discharge, redness or fever can indicate infection and should be checked promptly. Bowel-control problems also warrant a conversation about specialist help. <a href=\"https://www.rcog.org.uk/for-the-public/perineal-tears-and-episiotomies-in-childbirth/third-and-fourth-degree-tears-oasi/\">RCOG explains care after a significant tear.</a></p>"
@@ -134,6 +139,10 @@
       {
         "question": "Does the postnatal check mean I can return to any exercise?",
         "answer": "No single appointment date tells you that every activity will feel comfortable. Discuss symptoms, healing and the activity you want to return to, then ask how to progress and when to review."
+      },
+      {
+        "question": "Should I just do more Kegels if urgent leaks continue months after birth?",
+        "answer": "Ask for a review rather than automatically increasing exercises. Urgency, stress leakage and mixed leakage can need different management. Bring your symptom record and current plan, especially if there is pain or difficulty emptying."
       }
     ],
     "sources": [
@@ -160,6 +169,10 @@
       {
         "title": "NHS: Pelvic pain",
         "url": "https://www.nhs.uk/symptoms/pelvic-pain/"
+      },
+      {
+        "title": "NHS: Non-surgical treatment for urinary incontinence",
+        "url": "https://www.nhs.uk/conditions/urinary-incontinence/treatment/"
       }
     ],
     "related": [
@@ -167,9 +180,11 @@
       "pelvic-floor-exercises-during-pregnancy",
       "running-and-pelvic-floor"
     ],
-    "cta": "routine",
+    "cta": "assessment",
     "keyword": "postpartum pelvic floor recovery",
-    "researchNote": "Researched 2026-10-24. Search intent: recovery after birth and when to seek help. No fixed recovery timetable or generic clearance; RCOG and NHS sources support cautious symptom-led planning."
+    "researchNote": "Researched 2026-10-24. Search intent: recovery after birth and when to seek help. No fixed recovery timetable or generic clearance; RCOG and NHS sources support cautious symptom-led planning.",
+    "dateModified": "2026-10-31",
+    "sourceCheckNote": "The section on persistent urgent leaks months after birth was checked October 31, 2026 against NHS incontinence treatment guidance. No recovery deadline or individualized training dose is prescribed."
   },
   {
     "slug": "tight-vs-weak-pelvic-floor",
@@ -399,8 +414,8 @@
       },
       {
         "id": "no-pushing",
-        "title": "Relaxation is different from bearing down",
-        "html": "<p>A release is a letting-go action, not a forceful downward push. Royal Berkshire makes this distinction explicitly in its <a href=\"https://www.royalberkshire.nhs.uk/media/yemfgc2z/physio-relaxing-your-pelvic-floor-muscles.pdf\">relaxation advice</a>. Avoid holding your breath to force a result.</p><p>You might hear the phrase “reverse Kegel.” Because people use that phrase differently, ask the person teaching it to explain the intended movement. Do not interpret it as straining as if trying to empty your bowels. If you cannot tell the difference between relaxing and pushing, that is a good question for a pelvic health physiotherapist, not a reason to push harder.</p><p>You also do not need to follow every stretch you see online. Keep this practice simple while you work out what is comfortable and appropriate for you.</p>"
+        "title": "Do you need to push or feel a distinct drop?",
+        "html": "<p>No. Do not force a downward movement to prove that the exercise is working. <a href=\"https://www.royalberkshire.nhs.uk/media/yemfgc2z/physio-relaxing-your-pelvic-floor-muscles.pdf\">Royal Berkshire’s relaxation leaflet distinguishes letting go from bearing down</a>. If a large breath makes you brace or strain, stop the deliberate exercise and let breathing return to its usual pattern.</p><p><a href=\"https://www.nhsfife.org/services/all-services/patient-advice/overactive-pelvic-floor-muscles/\">NHS Fife describes a comfortable position, a gentle abdominal breath and allowing the area between the sitting bones to relax</a>. It also describes physiotherapy support for learning how the muscles function. A particular sensation is not a substitute for that assessment.</p><table><thead><tr><th>What is making the practice difficult?</th><th>A useful next step</th></tr></thead><tbody><tr><td>You push down to create a stronger sensation</td><td>Stop pushing. Ask the clinician to check the difference between release and strain.</td></tr><tr><td>You cannot tell whether the muscles let go</td><td>Describe that uncertainty; do not turn the exercise into repeated maximum breaths.</td></tr><tr><td>Keeping your chest still makes you tense</td><td>Return to ordinary breathing and ask for a demonstration suited to you.</td></tr><tr><td>The practice brings pain, dizziness or more pressure</td><td>Stop and discuss the response before repeating it. Use the urgent-care guidance below when applicable.</td></tr></tbody></table><p>At an appointment, ask: “Could you watch me try this and explain what you want me to do differently?” Agree on a comfortable position and a stopping rule. Different teaching cues do not need to be combined into a harder exercise. You can also use our <a href=\"/pelvic_gym/articles/breathing-during-kegel-exercises/\">breathing-during-Kegels guide</a> to distinguish breathing during a prescribed contraction from a relaxation practice.</p>"
       },
       {
         "id": "daily-awareness",
@@ -430,6 +445,10 @@
       {
         "question": "Does a twitch during breathing prove my pelvic floor is releasing?",
         "answer": "No. The sensation alone cannot confirm that. Pause if it is uncomfortable or unexpected, and discuss repeated symptoms with your clinician rather than trying to make the twitch happen again."
+      },
+      {
+        "question": "Do I have to feel my pelvic floor drop to know the breathing is correct?",
+        "answer": "Do not force a sensation or push down to produce one. If you are unsure what release should feel like, ask a pelvic health physiotherapist to check your technique and explain the intended movement."
       }
     ],
     "sources": [
@@ -458,7 +477,7 @@
     "cta": "assessment",
     "keyword": "pelvic floor relaxation",
     "researchNote": "Researched 2026-10-24. Search intent: safe relaxation and breathing. Uses gentle release without bearing down, breath holding, self-internal treatment or forceful stretches. Assessment CTA for pain; source-derived paraphrases kept brief across the five-article set. New decision-support section checked 2026-10-27 against its linked primary sources; original publication and earlier source-check scope retained.",
-    "dateModified": "2026-10-27",
-    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. Sources supporting the new decision-support section were checked October 27, 2026."
+    "dateModified": "2026-10-31",
+    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. Sources supporting the new decision-support section were checked October 27, 2026. The revised breathing troubleshooting section was checked October 31, 2026 against Royal Berkshire and NHS Fife guidance. It does not adopt breathing percentages or treatment claims from personal accounts."
   }
 ]
