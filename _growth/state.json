@@ -2,7 +2,7 @@
   "schema_version": 1,
   "timezone": "Asia/Dubai",
   "schedule_local": "22:00 daily",
-  "last_successful_scan": "2026-10-31T18:06:39.117Z",
+  "last_successful_scan": "2026-11-01T18:22:00.410Z",
   "runs": {
     "2026-10-26-initial": "completed",
     "2026-10-26-stylist-expansion": "completed",
@@ -14,7 +14,7 @@
     "2026-10-30-2200": "completed",
     "2026-10-31-manual-seo-improvements": "completed",
     "2026-10-31-2200": "completed",
-    "2026-11-01-2200": "prepared"
+    "2026-11-01-2200": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -304,6 +304,41 @@
         "run_id": "2026-10-31-2200",
         "status": "updated",
         "verified_at": "2026-10-31T18:25:25.673003+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xkmqq2/may_i_ask_for_the_councils_advice_please/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/gold-or-silver-jewelry/",
+        "run_id": "2026-11-01-2200",
+        "status": "updated",
+        "verified_at": "2026-11-01T18:25:20.558288+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xkrbsl/soft_or_cool_summer_doubting_my_judgement/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/light-summer-or-true-summer/",
+        "run_id": "2026-11-01-2200",
+        "status": "published",
+        "verified_at": "2026-11-01T18:25:20.558288+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xksdvu/can_a_winterautumn_be_ethereal/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/ethereal-style-dark-color-palette/",
+        "run_id": "2026-11-01-2200",
+        "status": "published",
+        "verified_at": "2026-11-01T18:25:20.558288+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xkwiyn/comment/19rz6zq1xkddx/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/brown-or-cream-cardigan/",
+        "run_id": "2026-11-01-2200",
+        "status": "published",
+        "verified_at": "2026-11-01T18:25:20.558288+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xkwiyn/comment/19rzoa3dglccg/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/choose-shoe-color-for-dress/",
+        "run_id": "2026-11-01-2200",
+        "status": "published",
+        "verified_at": "2026-11-01T18:25:20.558288+00:00"
       }
     ],
     "pelvic_gym": [
@@ -523,6 +558,41 @@
         "run_id": "2026-10-31-2200",
         "status": "updated",
         "verified_at": "2026-10-31T18:25:25.673003+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xkwafe/hypotonia_or_hypertonia/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/tight-vs-weak-pelvic-floor/",
+        "run_id": "2026-11-01-2200",
+        "status": "updated",
+        "verified_at": "2026-11-01T18:25:20.558288+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xkiqxx/4_months_postpartum_need_encouragement/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/postpartum-pelvic-floor-recovery/",
+        "run_id": "2026-11-01-2200",
+        "status": "updated",
+        "verified_at": "2026-11-01T18:25:20.558288+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xkwvcd/pelvic_floor_spasms_after_sex/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/painful-sex-and-pelvic-floor/",
+        "run_id": "2026-11-01-2200",
+        "status": "updated",
+        "verified_at": "2026-11-01T18:25:20.558288+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xl40wl/postpartum_prolapse_spiraling/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-organ-prolapse-exercise/",
+        "run_id": "2026-11-01-2200",
+        "status": "updated",
+        "verified_at": "2026-11-01T18:25:20.558288+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xl7mu4/menstrual_disc_pelvic_floor_help/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/painful-periods-pelvic-floor/",
+        "run_id": "2026-11-01-2200",
+        "status": "updated",
+        "verified_at": "2026-11-01T18:25:20.558288+00:00"
       }
     ]
   },
