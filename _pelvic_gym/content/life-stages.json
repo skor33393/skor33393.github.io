@@ -106,6 +106,11 @@
         "html": "<p>After an uncomplicated birth, the NHS says gentle activity can begin when you feel ready. A complicated delivery or caesarean needs more individualized advice before strenuous exercise. Discuss higher-impact exercise with your healthcare professional. <a href=\"https://www.nhs.uk/baby/support-and-services/keeping-fit-and-healthy-with-a-baby/\">Read the NHS guidance on activity after birth.</a></p><p>Make the first decision small: what comfortable activity fits today? That might be a short walk or a brief movement break. Keep your maternity team’s instructions close by rather than trying to combine several online recovery schedules. If activity brings on leakage, heaviness or pain, record it and ask for guidance before increasing the challenge.</p><p>Practical support counts. Ask someone to carry shopping, hold the baby during an appointment or make it possible for you to rest. Recovery planning can include those arrangements alongside exercise.</p>"
       },
       {
+        "id": "leaks-after-toilet",
+        "title": "Leaking after you stand up from the toilet?",
+        "html": "<p>Describe this timing separately from a leak with coughing or a sudden urge on the way to the bathroom. A few drops after getting dressed and a larger unexplained leak may need different questions. The timing alone does not prove weakness or identify where urine remained.</p><p><a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes\">NIDDK lists leakage among possible symptoms of incomplete bladder emptying</a>, but leakage alone does not establish retention. If emptying is a concern, ask whether a <a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/diagnosis\">postvoid residual measurement</a> is appropriate; this is a clinical measurement of urine remaining after you pee.</p><p>Take this short description to your midwife, GP, physiotherapist or continence service:</p><ul><li><strong>When:</strong> while still sitting, on standing, or after walking away.</li><li><strong>Alongside it:</strong> urgency, slow flow, straining, a feeling of incomplete emptying, burning or pain.</li><li><strong>Change:</strong> whether the problem started or worsened after an exercise or another change to your plan.</li></ul><p>A useful message is: “I leak after leaving the toilet. This happens separately from urgency. Can we review emptying and the exercise instructions before I add more repetitions?” If a prescribed maneuver repeatedly worsens symptoms, pause that maneuver and ask its prescriber for advice. Do not increase squeezing or force urine out to test a theory.</p><p>Seek immediate care if you cannot pass urine or have severe abdominal pain. For a fuller explanation of assessment, see <a href=\"/pelvic_gym/articles/urinary-hesitancy-in-women/\">difficulty emptying and urinary hesitancy</a>. An app cannot check residual urine; strengthening should fit the assessed problem.</p>"
+      },
+      {
         "id": "exercises",
         "title": "How pelvic floor exercises fit into recovery",
         "html": "<p>RCOG advises pelvic floor rehabilitation after birth and notes that specialist physiotherapists can assess bladder, bowel and pelvic symptoms. <a href=\"https://www.rcog.org.uk/for-the-public/perineal-tears-and-episiotomies-in-childbirth/your-pelvic-floor/\">Its pelvic floor information explains the role of physiotherapy.</a> Ask your midwife or physiotherapist when to start in your circumstances and what an appropriate contraction should feel like.</p><p>Do not use pain as a sign that an exercise is working. If squeezing hurts, feels confusing or is difficult to release, ask for help rather than adding repetitions. Our <a href=\"/pelvic_gym/articles/how-to-do-kegel-exercises/\">technique guide</a> can support a plan you have been given; our <a href=\"/pelvic_gym/articles/pelvic-floor-relaxation/\">relaxation guide</a> explains the other part of muscle control.</p>"
@@ -173,6 +178,14 @@
       {
         "title": "NHS: Non-surgical treatment for urinary incontinence",
         "url": "https://www.nhs.uk/conditions/urinary-incontinence/treatment/"
+      },
+      {
+        "title": "NIDDK: Urinary retention symptoms and causes",
+        "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes"
+      },
+      {
+        "title": "NIDDK: Diagnosing urinary retention",
+        "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/diagnosis"
       }
     ],
     "related": [
@@ -183,8 +196,9 @@
     "cta": "assessment",
     "keyword": "postpartum pelvic floor recovery",
     "researchNote": "Researched 2026-10-24. Search intent: recovery after birth and when to seek help. No fixed recovery timetable or generic clearance; RCOG and NHS sources support cautious symptom-led planning.",
-    "dateModified": "2026-10-31",
-    "sourceCheckNote": "The section on persistent urgent leaks months after birth was checked October 31, 2026 against NHS incontinence treatment guidance. No recovery deadline or individualized training dose is prescribed."
+    "dateModified": "2026-11-01",
+    "sourceCheckNote": "The section on persistent urgent leaks months after birth was checked October 31, 2026 against NHS incontinence treatment guidance. No recovery deadline or individualized training dose is prescribed. The Leakage specifically after leaving the toilet section was checked against its linked sources on November 1, 2026.",
+    "datePublished": "2026-10-24"
   },
   {
     "slug": "tight-vs-weak-pelvic-floor",
@@ -209,6 +223,11 @@
         "id": "symptoms",
         "title": "What symptoms might prompt a conversation?",
         "html": "<p>A hypertonic pelvic floor may be associated with pelvic pain, painful sex, constipation, urinary frequency or difficulty starting a urine stream. These symptoms do not establish the diagnosis. <a href=\"https://my.clevelandclinic.org/health/diseases/22870-hypertonic-pelvic-floor\">Cleveland Clinic explains hypertonic pelvic floor symptoms.</a></p><p>Leaking during pressure-producing activities can occur with reduced support, while tension-related problems can also involve incontinence. That overlap is one reason a checklist cannot reliably separate “tight” from “weak.” <a href=\"https://www.royalberkshire.nhs.uk/media/yemfgc2z/physio-relaxing-your-pelvic-floor-muscles.pdf\">Royal Berkshire’s physiotherapy guidance describes overlapping symptoms.</a></p><p>Rather than scoring symptoms, write a sentence for each: where you feel it, what triggers it, how long it lasts and what it stops you doing. “Pain after sitting for an hour” gives your clinician something more useful than “I think I am too tight.”</p>"
+      },
+      {
+        "id": "different-assessments",
+        "title": "What if two therapists describe different problems?",
+        "html": "<p>“Tight” and “weak” are not opposite ends of one score. One assessment may emphasize resting tension and another force, endurance or coordination. The useful next step is to ask what each professional found and why it changes the plan, rather than choosing the label that sounds most convincing.</p><p><a href=\"https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/\">Cambridge University Hospitals explains that the pelvic floor needs strength, appropriate timing and the ability to relax</a>. <a href=\"https://my.clevelandclinic.org/health/diseases/22870-hypertonic-pelvic-floor\">Cleveland Clinic describes history and examination as part of assessing hypertonic function</a>. Neither explanation lets a home symptom quiz decide which finding applies now.</p><table><thead><tr><th>Ask the clinician</th><th>What the answer should clarify</th></tr></thead><tbody><tr><td>Which finding led to this recommendation?</td><td>Resting tension, release, contraction, endurance or another issue.</td></tr><tr><td>Has something changed since my earlier assessment?</td><td>Whether the new plan reflects current findings or needs reconciliation with previous notes.</td></tr><tr><td>What should I practice until the next visit?</td><td>The specific task, dose, rest and stopping rule.</td></tr><tr><td>What should make me contact you sooner?</td><td>New symptoms, worsening symptoms or uncertainty about the technique.</td></tr></tbody></table><p>With your permission, the services may be able to exchange their assessment summaries. Ask for one clear interim plan instead of combining two routines yourself. If an exercise increases pain or makes emptying harder, pause that exercise and contact the clinician who recommended it. Do not wait for the next routine appointment to report new loss of sensation or bowel control.</p><p>Pelvic Gym can support a strengthening routine after its role is clear. It cannot reconcile conflicting clinical findings or decide whether contractions or relaxation should come first.</p>"
       },
       {
         "id": "burning-description",
@@ -283,6 +302,10 @@
       {
         "title": "NHS: Pelvic pain",
         "url": "https://www.nhs.uk/symptoms/pelvic-pain/"
+      },
+      {
+        "title": "Cambridge University Hospitals: Female pelvic floor muscle exercises",
+        "url": "https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/"
       }
     ],
     "related": [
@@ -294,8 +317,8 @@
     "keyword": "tight vs weak pelvic floor",
     "researchNote": "Researched 2026-10-24. Search intent: differentiating muscle tension and weakness without self-diagnosis. Overlap and assessment emphasized; no internal self-exam, forceful stretch or strengthening CTA for pain.",
     "datePublished": "2026-10-24",
-    "dateModified": "2026-10-31",
-    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. The new Does burning prove that my pelvic floor is tight section was checked against its linked clinical sources October 28, 2026."
+    "dateModified": "2026-11-01",
+    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. The new Does burning prove that my pelvic floor is tight section was checked against its linked clinical sources October 28, 2026. The Different assessments and a written interim plan section was checked against its linked sources on November 1, 2026."
   },
   {
     "slug": "pelvic-floor-exercises-menopause",

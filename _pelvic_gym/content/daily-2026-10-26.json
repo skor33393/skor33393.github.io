@@ -184,7 +184,7 @@
     "description": "Learn why painful periods should not automatically be blamed on a tight pelvic floor, when to seek care and how to discuss symptoms with your clinician.",
     "category": "Bladder & symptoms",
     "datePublished": "2026-10-26",
-    "dateModified": "2026-10-26",
+    "dateModified": "2026-11-01",
     "sourcesChecked": "2026-10-26",
     "excerpt": "Pelvic floor care may be one part of a plan, but severe period pain needs its own explanation.",
     "quickAnswer": "Painful periods and pelvic floor tension can coexist, but cramps alone do not prove a tight pelvic floor. Seek medical advice if pain disrupts daily life or changes. A pelvic health assessment may help identify muscle-related symptoms alongside evaluation of menstrual pain; stronger Kegels are not the default treatment.",
@@ -203,6 +203,11 @@
         "id": "seek-help",
         "title": "When to ask for medical advice",
         "html": "<p>Book an appointment if period pain interrupts ordinary activities, your periods become more painful, heavier or irregular, or you have bleeding between periods. Mention pain during sex, urination or bowel movements too. <a href=\"https://www.nhs.uk/symptoms/period-pain/\">The NHS recommends urgent advice when pain is severe or worse than usual and painkillers have not helped</a>.</p><p>Do not assume a severe new pelvic pain is simply your usual period. For emergency warning signs, including fainting or heavy bleeding with pelvic pain, follow <a href=\"https://www.nhs.uk/symptoms/pelvic-pain/\">NHS pelvic pain guidance</a> and use your local emergency service. Possible pregnancy with pelvic pain also needs urgent advice.</p>"
+      },
+      {
+        "id": "menstrual-product-pain",
+        "title": "Cramps with a menstrual cup or disc: a separate question",
+        "html": "<p>If pain starts when you insert or wear a cup or disc, tell your clinician that it differs from your usual period cramps. Being able to use another vaginal product comfortably does not explain why this one hurts. Do not assume that you need stronger pelvic floor muscles, a larger product or repeated attempts through pain.</p><p><a href=\"https://www.fda.gov/medical-devices/products-and-medical-procedures/menstrual-product-options-facts-and-safe-use\">FDA menstrual-product guidance says to follow the product instructions and contact a healthcare provider for pain, fever or other unusual symptoms</a>. Stop using a product that causes pain and follow its removal instructions; seek help if you cannot remove it. A pad or period underwear can provide an external alternative while you arrange advice.</p><table><thead><tr><th>Note for the appointment</th><th>Useful distinction</th></tr></thead><tbody><tr><td>When discomfort begins</td><td>During insertion, while wearing the product, during removal or afterward.</td></tr><tr><td>Where you feel it</td><td>At the entrance, deeper in the pelvis, in the back or somewhere unclear.</td></tr><tr><td>What happens after removal</td><td>Whether it settles, continues or worsens.</td></tr><tr><td>Other symptoms</td><td>Bleeding changes, discharge, fever or difficulty passing urine.</td></tr></tbody></table><p>Keep the packaging or product name so the clinician can understand what you used; you do not need to send private photos to this site. Ask whether the pain needs a gynecological examination, a pelvic health assessment or both. For pain at the entrance, the <a href=\"/pelvic_gym/articles/painful-sex-and-pelvic-floor/#entrance-burning\">vulval pain section</a> explains why symptoms need assessment even when the area looks normal.</p><p>Use the warning signs above if pain is severe or accompanied by concerning symptoms. Pelvic Gym does not assess product fit or treat unexplained menstrual-product pain; its workouts are for strengthening when that is appropriate to your assessed needs.</p>"
       },
       {
         "id": "diary",
@@ -242,6 +247,10 @@
       {
         "title": "NHS: Pelvic pain",
         "url": "https://www.nhs.uk/symptoms/pelvic-pain/"
+      },
+      {
+        "title": "FDA: Menstrual product options and safe use",
+        "url": "https://www.fda.gov/medical-devices/products-and-medical-procedures/menstrual-product-options-facts-and-safe-use"
       }
     ],
     "related": [
@@ -257,6 +266,7 @@
       "alt": "Illustration of a woman resting with a wrapped hot-water bottle and a blanket",
       "width": 1200,
       "height": 800
-    }
+    },
+    "sourceCheckNote": "Existing article sources retain their previously recorded check dates. The Pain triggered by menstrual products rather than assuming ordinary cramps section was checked against its linked sources on November 1, 2026."
   }
 ]

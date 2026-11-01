@@ -10,7 +10,8 @@ TOPICS = [
                 ('Compare Summer and Winter', 'summer-or-winter-color-season'),
                 ('Separate clear and muted warm colors', 'spring-or-autumn'),
                 ('Choose the depth of a warm outfit', 'true-autumn-or-deep-autumn'),
-                ('Compare two light pastel directions', 'light-spring-or-light-summer')]),
+                ('Compare two light pastel directions', 'light-spring-or-light-summer'),
+                ('Compare pale and medium cool outfits', 'light-summer-or-true-summer')]),
     dict(slug='wear-and-shop-your-colors', title='Put your palette into an outfit',
          description='Build a wearable wardrobe palette, try color combinations with clothes you own, and make a practical decision before buying another garment.',
          intro='Keep the clothes that work for your life. Choose one outfit problem, then use color to help solve that specific problem.',
@@ -19,7 +20,9 @@ TOPICS = [
                 ('Use deeper colors in everyday outfits', 'deep-autumn-outfit-ideas'),
                 ('Check a purchase before paying', 'buy-clothes-you-will-wear'),
                 ('Choose a pink garment for your outfit', 'choose-pink-for-winter-palette'),
-                ('Plan a sun-protective outfit', 'sun-protective-outfits')]),
+                ('Plan a sun-protective outfit', 'sun-protective-outfits'),
+                ('Create an ethereal look with rich colors', 'ethereal-style-dark-color-palette'),
+                ('Choose a light or dark cardigan', 'brown-or-cream-cardigan')]),
     dict(slug='hair-jewelry-and-accessories', title='Choose the details around your face',
          description='Explore hair color, jewelry and accessories through practical comparisons that account for your current wardrobe, preferences and daily routine.',
          intro='You do not have to change everything together. Keep a familiar outfit and explore one detail at a time.',
@@ -28,7 +31,8 @@ TOPICS = [
                 ('Work with your gray hair', 'gray-hair-wardrobe-colors'),
                 ('Try an unusual hair color', 'choosing-unnatural-hair-color'),
                 ('Compare gold and silver', 'gold-or-silver-jewelry'),
-                ('Choose a practical hair accessory', 'choose-hair-accessories')])
+                ('Choose a practical hair accessory', 'choose-hair-accessories'),
+                ('Compare shoes with a dress', 'choose-shoe-color-for-dress')])
 ]
 
 def build(b):

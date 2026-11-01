@@ -5,7 +5,7 @@
   "description": "Unsure whether gold or silver jewelry suits you? Compare similar pieces, separate color from shine, and choose the metal you enjoy with your everyday outfits.",
   "category": "Accessories",
   "datePublished": "2026-10-26",
-  "dateModified": "2026-10-29",
+  "dateModified": "2026-11-01",
   "sortOrder": 6,
   "excerpt": "Compare the actual pieces you would wear. One wrist photo does not have to decide your jewelry collection.",
   "quickAnswer": "Try gold-colored and silver-colored pieces of similar size and finish with the same outfit, in the same light. Compare near your face if you are choosing earrings or a necklace. If you like both, you can wear both. The result is a jewelry preference; it does not have to establish your entire color season.",
@@ -22,8 +22,8 @@
     },
     {
       "id": "comparison-steps",
-      "title": "A ten-minute jewelry comparison",
-      "html": "<ol><li><strong>Choose the real context.</strong> Wear the top and usual makeup you would pair with the jewelry. For earrings, put your hair where you normally wear it.</li><li><strong>Keep the scene steady.</strong> Stay in the same spot and compare in the mirror. If taking pictures, keep distance, lighting and camera settings consistent and avoid filters.</li><li><strong>Swap one item.</strong> Compare two similar earrings or necklaces rather than changing the whole set at once.</li><li><strong>Look at the full outfit.</strong> Decide whether you like the piece’s color, size and visual prominence together.</li><li><strong>Repeat with another familiar top.</strong> A favorite with a cream shirt may not be your favorite with a blue dress. You are choosing useful combinations, not passing a test.</li></ol><p>Write down a specific preference, such as “the brushed silver earrings with my navy shirt.” That is more actionable than trying to prove a permanent warm or cool identity from a single photograph.</p>"
+      "title": "Make a four-outfit comparison card",
+      "html": "<p>Choose two tops you regularly wear and two jewelry pieces of similar size and finish. For earrings or a necklace, compare near your face; for a ring or bracelet, compare on your hand or wrist. Keep lighting and styling the same for each swap.</p><table><thead><tr><th>Try</th><th>Write one observation</th></tr></thead><tbody><tr><td>Blue or gray top + silver-colored piece</td><td>Does the jewelry feel quiet, noticeable or too shiny for what I want?</td></tr><tr><td>Same top + gold-colored piece</td><td>Do I prefer the warmer contrast, or simply this piece’s design?</td></tr><tr><td>Cream or brown top + silver-colored piece</td><td>Do I enjoy the contrast with the warmer clothes?</td></tr><tr><td>Same top + gold-colored piece</td><td>Do I enjoy the repeated warmth, or want a different finish?</td></tr></tbody></table><p>Choose the effect you want before calling a metal the winner. A piece that stands out can be exactly right for an outfit; blending in is not the only goal. If silver wins with one top and gold with the other, record those two combinations instead of forcing a universal result.</p><p>Repeat your favorite in an ordinary wearing situation before buying a set. If the two pieces differ greatly in scale or polish, compare a more similar pair next time. You are building a useful jewelry shortlist, not diagnosing an undertone from a single photograph.</p>"
     },
     {
       "id": "mixed-metals",
@@ -66,7 +66,7 @@
   "ctaTitle": "Connect your accessories to your outfits.",
   "ctaText": "Explore a suggested palette and outfit color combinations in Stylist AI, then try your favorite jewelry with the clothes you choose.",
   "keyword": "gold or silver jewelry? how to compare both",
-  "sourcesChecked": "2026-10-29",
+  "sourcesChecked": "2026-11-01",
   "illustration": {
     "src": "/stylist_ai/blog/assets/illustrations/gold-or-silver-jewelry.webp",
     "width": 1200,

@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "light-summer-or-true-summer",
+    "prompt": "Editorial fashion illustration for a useful comparison article. Landscape 3:2. Two small wardrobes arranged side by side on clean ivory background: left airy pale powder-blue blouse, pale lavender fabric and soft white trousers; right medium cool cornflower blue blouse, dusty plum fabric and cool gray trousers. Identical garment silhouettes and scale on both sides so color depth is the visible difference. Refined realistic fabric texture, natural soft daylight, balanced composition, no people, no text, no logos, no watermark. Use case product-mockup; article cover, not a scientific measurement.",
+    "production_path": "stylist_ai/blog/assets/illustrations/light-summer-or-true-summer.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "slug": "ethereal-style-dark-color-palette",
+    "prompt": "Editorial fashion illustration, landscape 3:2, sophisticated airy styling with rich colors. Two complete flat-lay outfits on warm ivory: one deep midnight navy flowing chiffon dress with translucent sleeves, small silver earrings and lavender sheer scarf; one espresso flowing dress with copper earrings and light peach chiffon scarf. The sheer layers billow gently, substantial opaque dresses beneath; texture and movement make the outfits ethereal even with dark colors. Clear readable outfit combinations, no people, no text, no logos, no watermark. Refined fashion magazine illustration, realistic textiles.",
+    "production_path": "stylist_ai/blog/assets/illustrations/ethereal-style-dark-color-palette.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "slug": "brown-or-cream-cardigan",
+    "prompt": "Editorial fashion comparison illustration landscape 3:2. Two identical flat-lay outfit silhouettes side by side: same simple muted blue midi dress and same chocolate brown loafers, left with a cropped cream crochet cardigan laid open on top, right with an identical cropped chocolate-brown crochet cardigan laid open. Preserve exact same dress and arrangement, only cardigan color changes. Natural ivory background, beautiful realistic knit detail, soft shadows, no people, no text, no logos, no watermark. Fashion article cover explaining layer color and contrast.",
+    "production_path": "stylist_ai/blog/assets/illustrations/brown-or-cream-cardigan.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "slug": "choose-shoe-color-for-dress",
+    "prompt": "Editorial wardrobe comparison illustration landscape 3:2. A muted dusty blue elegant midi dress laid neatly in center, below three evenly spaced alternatives of comfortable low block heel slingback shoes: dusty blue, chocolate brown, and silver metallic. Each shoe pair same low heel design, no stilettos. Soft ivory background, realistic leather and fabric texture, balanced elegant product styling, no people, no words, no logos, no watermark. Article cover about comparing color choices before buying shoes.",
+    "production_path": "stylist_ai/blog/assets/illustrations/choose-shoe-color-for-dress.webp",
+    "tool": "built-in image_gen"
+  }
+]
