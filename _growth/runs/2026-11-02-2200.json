@@ -1,7 +1,7 @@
 {
   "run_id": "2026-11-02-2200",
   "kind": "scheduled",
-  "status": "prepared",
+  "status": "completed",
   "started_at": "2026-11-02T18:12:02.279Z",
   "timezone": "Asia/Dubai",
   "scheduled_local": "22:00",
@@ -1239,13 +1239,36 @@
     "limitations": [
       "Native Safari banner metadata verified; native iOS rendering not device-tested."
     ],
-    "qa_records": "Private seo-daily/2026-11-02/mobile-qa.json, desktop-qa.json and screenshots."
+    "qa_records": "Outside publishing repository: seo-daily/2026-11-02 mobile-qa.json, desktop-qa.json and representative screenshots.",
+    "live": {
+      "checked": 276,
+      "passed": 276,
+      "failed": [],
+      "verified_at": "2026-11-02T18:32:24.727831+00:00"
+    },
+    "capacity_after_commit": {
+      "measurement": "Working files excluding Git/runtime/build caches; includes source and research files normally excluded by Jekyll, so this overestimates the static payload. Git object storage is measured separately.",
+      "working_file_bytes": 45350399,
+      "git_object_bytes": 73274368,
+      "published_site_limit_bytes": 1000000000,
+      "illustration_stop_threshold_bytes": 800000000,
+      "can_add_illustrations": true,
+      "remaining_to_site_limit_bytes": 954649601,
+      "reference": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
+    }
   },
   "deployment": {
-    "status": "not_pushed"
+    "status": "built_and_verified",
+    "commit": "a23082f7e5733458be66285abd11240556cc6128",
+    "pages_built_at": "2026-11-02T18:30:53Z",
+    "verified_at": "2026-11-02T18:32:24.727831+00:00",
+    "checked": 276,
+    "passed": 276
   },
   "notification": {
     "channel": "current_chat",
     "telegram": "Saved destination PENDING; no message sent."
-  }
+  },
+  "published_commit": "a23082f7e5733458be66285abd11240556cc6128",
+  "verified_at": "2026-11-02T18:32:24.727831+00:00"
 }

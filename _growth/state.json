@@ -2,7 +2,7 @@
   "schema_version": 1,
   "timezone": "Asia/Dubai",
   "schedule_local": "22:00 daily",
-  "last_successful_scan": "2026-11-01T18:22:00.410Z",
+  "last_successful_scan": "2026-11-02T18:17:30.106Z",
   "runs": {
     "2026-10-26-initial": "completed",
     "2026-10-26-stylist-expansion": "completed",
@@ -15,7 +15,7 @@
     "2026-10-31-manual-seo-improvements": "completed",
     "2026-10-31-2200": "completed",
     "2026-11-01-2200": "completed",
-    "2026-11-02-2200": "prepared"
+    "2026-11-02-2200": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -340,6 +340,41 @@
         "run_id": "2026-11-01-2200",
         "status": "published",
         "verified_at": "2026-11-01T18:25:20.558288+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xlf6im/autumn_or_winter/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/deep-autumn-or-deep-winter/",
+        "run_id": "2026-11-02-2200",
+        "status": "updated",
+        "verified_at": "2026-11-02T18:32:24.727831+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xlv3f8/light_spring_makeup/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/light-spring-makeup-colors/",
+        "run_id": "2026-11-02-2200",
+        "status": "published",
+        "verified_at": "2026-11-02T18:32:24.727831+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xlatbw/tried_some_light_drapes/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/color-depth-vs-brightness/",
+        "run_id": "2026-11-02-2200",
+        "status": "updated",
+        "verified_at": "2026-11-02T18:32:24.727831+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xlrdgw/comment/19s1defhfrjwh/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/petite-trousers-real-pockets/",
+        "run_id": "2026-11-02-2200",
+        "status": "published",
+        "verified_at": "2026-11-02T18:32:24.727831+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xlrdgw/comment/19s1ggo3yeum8/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/buy-clothes-you-will-wear/",
+        "run_id": "2026-11-02-2200",
+        "status": "updated",
+        "verified_at": "2026-11-02T18:32:24.727831+00:00"
       }
     ],
     "pelvic_gym": [
@@ -594,6 +629,41 @@
         "run_id": "2026-11-01-2200",
         "status": "updated",
         "verified_at": "2026-11-01T18:25:20.558288+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xlj4jl/realized_i_keep_all_my_weight_on_my_toes_when/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/tight-vs-weak-pelvic-floor/",
+        "run_id": "2026-11-02-2200",
+        "status": "updated",
+        "verified_at": "2026-11-02T18:32:24.727831+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xlw8cs/delayed_pelvic_floor_pain_days_after_running/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/running-and-pelvic-floor/",
+        "run_id": "2026-11-02-2200",
+        "status": "updated",
+        "verified_at": "2026-11-02T18:32:24.727831+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xlka77/what_helps_with_feelings_of_urgency/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/urinary-urgency-in-women/",
+        "run_id": "2026-11-02-2200",
+        "status": "updated",
+        "verified_at": "2026-11-02T18:32:24.727831+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xm3p73/pelvic_floor_therapy_during_pregnancy/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-exercises-during-pregnancy/",
+        "run_id": "2026-11-02-2200",
+        "status": "updated",
+        "verified_at": "2026-11-02T18:32:24.727831+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xm14ld/recurrent_abdominal_pain_since_delivery/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/postpartum-pelvic-floor-recovery/",
+        "run_id": "2026-11-02-2200",
+        "status": "updated",
+        "verified_at": "2026-11-02T18:32:24.727831+00:00"
       }
     ]
   },
