@@ -223,6 +223,11 @@
     ],
     "sections": [
       {
+        "id": "restrictions",
+        "title": "Short cervix, cervical stitch or prescribed pelvic rest?",
+        "html": "<p>If your maternity team has identified a short cervix, discussed a cervical stitch or prescribed activity restrictions, ask for an individual plan before starting or continuing a generic exercise routine. A routine for an uncomplicated pregnancy is not clearance for your situation.</p><p><a href=\"https://www.rcog.org.uk/for-the-public/browse-our-patient-information/cervical-stitch/\">RCOG’s cervical-stitch information describes care that depends on your circumstances</a>. The terms “pelvic rest,” “exercise restriction” and “bed rest” should not be treated as interchangeable instructions. Ask the team to spell out what your own restriction includes; do not add a bed-rest rule or remove a prescribed restriction yourself.</p><ul><li><strong>Muscle practice:</strong> are pelvic floor contractions appropriate for me now, and should any existing practice change?</li><li><strong>Therapy:</strong> which external assessments, internal examinations or manual treatments are permitted, and who should coordinate them?</li><li><strong>Daily activity:</strong> what does the restriction mean for walking, lifting, work and sexual activity in my case?</li><li><strong>Review:</strong> when will we reassess, and which symptoms should make me contact maternity triage sooner?</li></ul><p>Tell the pelvic health physiotherapist about the obstetric advice before an appointment. A helpful message is: “My maternity team has given me activity restrictions. Can you coordinate with them before we choose exercises or internal treatment?” Consent to any examination or treatment remains your choice.</p><p>Follow your maternity team’s urgent contact instructions for bleeding, fluid leakage, contractions or other concerning changes. If the instructions are unclear, contact the service for clarification. Pelvic Gym does not assess cervical risk or authorize birth-preparation exercises; use its workouts only when your treating team confirms that strengthening fits your current plan.</p>"
+      },
+      {
         "id": "evidence",
         "title": "What can exercises help with?",
         "html": "<p>Pelvic floor training is often included in pregnancy care to support bladder control. A <a href=\"https://www.cochrane.org/evidence/CD007471_how-effective-pelvic-floor-muscle-training-undertaken-during-pregnancy-or-after-birth-preventing-or\">Cochrane review published in 2020</a> found that pregnant women who were not leaking and undertook preventive training probably had fewer leaks later in pregnancy. Evidence for treating existing pregnancy-related leakage was less certain, and longer-term findings were limited.</p><p>That distinction matters. Preventing a problem and treating an established symptom are different questions. If you already leak, tell your midwife so you can discuss appropriate assessment and support rather than assuming the preventive routine is all you need.</p><p>Keep your expectations practical: learning the movement, following a suitable plan and asking about symptoms. This article does not promise an easier delivery, no tearing or a particular recovery speed.</p>"
@@ -278,6 +283,10 @@
       {
         "title": "ACOG: Physical activity during pregnancy and postpartum",
         "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period"
+      },
+      {
+        "title": "RCOG: Cervical stitch",
+        "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/cervical-stitch/"
       }
     ],
     "related": [
@@ -285,9 +294,11 @@
       "kegel-exercises-lying-sitting-standing",
       "postpartum-pelvic-floor-recovery"
     ],
-    "cta": "routine",
+    "cta": "assessment",
     "keyword": "pelvic floor exercises during pregnancy",
-    "researchNote": "Sources checked 2026-10-24. Distinguishes prevention from treatment evidence; dated Cochrane review identified. Avoids delivery or tear-prevention guarantees."
+    "researchNote": "Sources checked 2026-10-24. Distinguishes prevention from treatment evidence; dated Cochrane review identified. Avoids delivery or tear-prevention guarantees.",
+    "dateModified": "2026-11-02",
+    "sourceCheckNote": "Existing sources retain their previously recorded check dates. The Pregnancy restrictions and coordination with the maternity team section was checked against its linked sources on November 2, 2026."
   },
   {
     "slug": "pelvic-floor-exercises-after-hysterectomy",

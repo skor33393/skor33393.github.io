@@ -1,0 +1,24 @@
+{
+  "run_id": "2026-11-02-2200",
+  "generator": "Built-in image generation",
+  "images": [
+    {
+      "slug": "light-spring-makeup-colors",
+      "prompt": "Create a premium editorial beauty illustration for an educational Stylist AI journal article about choosing Light Spring makeup colors. Landscape 3:2 composition 1536x1024. On warm ivory background show three clearly separated neat groupings of real-looking makeup texture swatches, with a peach and a warm pink creamy smear, a light cocoa and a champagne eyeshadow powder swatch, and a sheer coral lipstick smear beside a more concentrated dab of exactly the same coral. Small unbranded closed makeup objects may anchor the layout. The visual must meaningfully show hue versus amount of pigment: one translucent coral wash and one opaque coral dab. Soft natural shadows, restrained photographic still-life style, beautiful high detail, no hands, no face, no text, no logos, no watermark. Enough whitespace to remain legible on mobile. Do not include any Color Passport text or fake app UI.",
+      "production_path": "stylist_ai/blog/assets/illustrations/light-spring-makeup-colors.webp",
+      "width": 1200,
+      "height": 800,
+      "master_storage": "Outside publishing repository",
+      "review": "Visually inspected; no text, logos or borrowed forum photos."
+    },
+    {
+      "slug": "petite-trousers-real-pockets",
+      "prompt": "Create a premium editorial illustration for a practical women's wardrobe article about checking petite trousers with usable pockets. Landscape 3:2 composition 1536x1024, warm ivory background. Carefully arranged navy tailored women's trousers with short inseam, folded neatly so one front side pocket opening is visible, a small plain smartphone partly inside the pocket with substantial portion supported by pocket, a soft measuring tape following the inseam, and two small fabric swatches coral and powder blue to the side. No model, no hands, no text, no logos, no watermark, no size claims. Realistic garment construction, clear pocket and measuring tape, subtle fashion-magazine soft lighting. This is a conceptual shopping illustration, no branded product, no fake app UI.",
+      "production_path": "stylist_ai/blog/assets/illustrations/petite-trousers-real-pockets.webp",
+      "width": 1200,
+      "height": 800,
+      "master_storage": "Outside publishing repository",
+      "review": "Visually inspected; no text, logos or borrowed forum photos."
+    }
+  ]
+}

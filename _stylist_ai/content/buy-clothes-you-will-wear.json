@@ -22,6 +22,11 @@
       "html": "<p>A fitting-room pose answers a narrower question than a normal day. Within the shop’s rules, sit, reach, walk and put on your usual outer layer. Check the pocket opening, neckline, sleeve movement and waistband in those positions. If you are shopping online, repeat this indoors while preserving the item’s return condition.</p><table><thead><tr><th>Your day includes</th><th>Try before keeping it</th></tr></thead><tbody><tr><td>Desk work</td><td>Sitting, reaching forward and wearing your usual layer</td></tr><tr><td>Walking or commuting</td><td>A normal stride with the intended shoes and bag</td></tr><tr><td>Frequent temperature changes</td><td>Putting on and removing the layers you already carry</td></tr><tr><td>An event</td><td>The full outfit, including sitting and any required underlayers</td></tr></tbody></table><p>Separate a fix you will arrange from a fix you merely imagine. If tailoring is essential, obtain a realistic quote and timing before treating it as solved. “I can probably make this comfortable” is a different decision from “it is comfortable now.”</p>"
     },
     {
+      "id": "fabric-before-label",
+      "title": "Shopping by fabric quality instead of a brand name",
+      "html": "<p>Turn “good-quality fabric” into requirements for the actual garment. For a simple skirt, that might mean the opacity you want, enough movement when you sit, a lining that stays comfortable and care you will realistically do. For a summer dress, it might mean a different weight and feel. One fiber name cannot answer all of those questions.</p><p><a href=\"https://www.ftc.gov/news-events/topics/tools-consumers/apparel-labeling\">The US FTC explains that most textile labels identify fiber content and other required information, with separate care-label requirements</a>. Treat the fiber percentage as a description to investigate, not a quality grade. A natural-fiber label or a high price does not tell you whether this particular item will meet your needs.</p><table><thead><tr><th>Ask about</th><th>What to verify</th></tr></thead><tbody><tr><td>Fabric specification</td><td>Fiber percentages, knit or weave, and weight if available.</td></tr><tr><td>Coverage and movement</td><td>Lining details and photos or video showing how the garment hangs.</td></tr><tr><td>Construction</td><td>Close views of seams, hems, fastening and any pockets.</td></tr><tr><td>Care</td><td>The finished garment’s care label, including drying.</td></tr></tbody></table><p>Try a search such as “lined midi skirt fabric composition” plus the silhouette you want, then ask: “Could you share the shell and lining composition, care instructions and a close photo of the inside seam?” Do not assume that missing specifications prove poor quality; they mean the listing has not answered your question yet.</p><p>Use the indoor movement check above when it arrives. If practical pockets are a requirement, the <a href=\"/stylist_ai/blog/petite-trousers-real-pockets/\">petite-trouser pocket checklist</a> shows how to request measurements before ordering. Choose the color with your existing outfits only after the garment passes the practical checks.</p>"
+    },
+    {
       "id": "care",
       "title": "Check the care routine while the decision is reversible",
       "html": "<p>Read the actual care label, including drying and ironing. The <a href=\"https://www.ftc.gov/business-guidance/resources/clothes-captioning-complying-care-labeling-rule\">FTC’s care-label guidance</a> explains that care instructions address the processes a garment needs. A fiber name alone does not replace the instructions for the finished item.</p><p>Compare that routine with what you are willing to do. If you avoid hand washing, a hand-wash item needs a clear reason to enter your everyday rotation. If professional cleaning is required, consider its practical cost and turnaround. This is a compatibility check, not a claim that one care method is always better.</p><p>For an online listing without care details, ask before ordering. When the garment arrives, check whether the label matches what you expected before removing tags or washing it.</p>"
@@ -65,6 +70,10 @@
     {
       "title": "FTC: Clothing care labels",
       "url": "https://www.ftc.gov/business-guidance/resources/clothes-captioning-complying-care-labeling-rule"
+    },
+    {
+      "title": "FTC: Apparel labeling",
+      "url": "https://www.ftc.gov/news-events/topics/tools-consumers/apparel-labeling"
     }
   ],
   "related": [
@@ -72,11 +81,11 @@
     "how-to-find-colorful-clothes",
     "hate-your-color-season-palette"
   ],
-  "sourceNote": "The purchase checklist and worked cost example are editorial tools, not validated predictors of how often someone will wear a garment.",
+  "sourceNote": "The purchase checklist and worked cost example are editorial tools, not validated predictors of how often someone will wear a garment. The fabric-shopping section and FTC labeling reference were checked November 2, 2026.",
   "ctaTitle": "Check the color part of your next purchase.",
   "ctaText": "Use Stylist AI to explore a suggested palette, outfit color combinations and camera-based color comparison. Bring those ideas back to your real wardrobe before deciding.",
   "datePublished": "2026-10-31",
-  "dateModified": "2026-10-31",
+  "dateModified": "2026-11-02",
   "sourcesChecked": "2026-10-31",
   "sortOrder": -1,
   "seoTitle": "Will you actually wear it? A better clothing purchase checklist | Stylist AI",

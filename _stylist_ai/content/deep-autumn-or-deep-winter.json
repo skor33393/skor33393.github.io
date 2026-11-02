@@ -5,7 +5,7 @@
   "description": "Torn between Deep Autumn and Deep Winter? Compare warm and cool fabrics at similar depths, separate preference from evidence and build an outfit before buying.",
   "category": "Color analysis",
   "datePublished": "2026-10-28",
-  "dateModified": "2026-10-28",
+  "dateModified": "2026-11-02",
   "sourcesChecked": "2026-10-28",
   "sortOrder": -2,
   "excerpt": "Torn between Deep Autumn and Deep Winter? Compare warm and cool fabrics at similar depths, separate preference from evidence and build an outfit before buying.",
@@ -20,6 +20,11 @@
       "id": "preference",
       "title": "Keep favorite colors in a separate column",
       "html": "<p>You might love chocolate, rust and olive because they fit your taste, your clothes or the mood you want. Keep that information: enjoying an outfit is a good reason to wear it. It simply answers a different question from whether you consistently prefer warmer or cooler fabrics beside your face.</p><p>Before trying anything on, make two short notes: “Colors I already love” and “What I want to compare.” For example: “I love brown coats; I want to compare a warm dark brown scarf with a cool charcoal scarf.” This gives a familiar favorite a fair comparison without requiring you to abandon it.</p>"
+    },
+    {
+      "id": "before-hair-appointment",
+      "title": "Choosing between the two before a hair appointment?",
+      "html": "<p>Separate two decisions: which deep clothing colors you prefer, and which hair change you want to maintain. A single drape photograph should not carry both decisions. Self-tan, makeup, dyed hair and a different camera setup can change what you are comparing; note them instead of treating every image as the same starting point.</p><p>Build a small appointment brief:</p><ul><li><strong>Your usual appearance:</strong> choose recent photos in comparable light, and identify any self-tan or temporary makeup. You do not need to reproduce an old photo exactly.</li><li><strong>Your clothing evidence:</strong> bring two deep tops you regularly enjoy, such as a warmer brown and a cooler navy. Explain what you like about each whole outfit.</li><li><strong>The hair decision:</strong> separate depth from tone. Ask the colorist to explain the difference between going darker and changing warmth at a similar depth.</li><li><strong>Maintenance:</strong> discuss your existing color history, upkeep and options before committing to a larger change.</li></ul><p>For a home comparison, keep the current appearance and lighting consistent through the pair; <a href=\"https://www.adobe.com/creativecloud/photography/technique/white-balance.html\">white balance can alter photographed color</a>. If you later repeat without temporary tan, treat that as a separate comparison. Neither session needs to settle an identity permanently.</p><p>A useful conclusion might be “I prefer these cooler deep tops with my current hair, but I want to discuss a softer brown hair option.” The <a href=\"/stylist_ai/blog/warm-or-cool-hair-color/\">warm-versus-cool hair guide</a> helps turn that into a focused consultation. Stylist AI can help shortlist clothing colors; it cannot predict a salon color result.</p>"
     },
     {
       "id": "pairs",
@@ -68,7 +73,7 @@
     "color-analysis-photo-lighting"
   ],
   "keyword": "Deep Autumn or Deep Winter? Compare warmth at the same depth",
-  "sourceNote": "Seasonal terms describe a styling framework. The comparisons and outfit examples are our editorial suggestions.",
+  "sourceNote": "Seasonal terms describe a styling framework. The comparisons and outfit examples are our editorial suggestions. The hair-appointment comparison was added November 2, 2026; its photography reference was checked that day.",
   "ctaTitle": "Explore colors for your next outfit.",
   "ctaText": "Use Stylist AI to explore a suggested seasonal palette, clothing color combinations and camera-based color comparison. Try the ideas with clothes you already own.",
   "illustration": {

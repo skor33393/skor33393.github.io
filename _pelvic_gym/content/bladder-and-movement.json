@@ -24,6 +24,11 @@
         "html": "<p>Healthy pelvic floor function includes contracting, releasing and responding to movement demands. Individual training may address strength, timing, relaxation or a combination. <a href=\"https://www.continence.org.au/living-with-incontinence/pelvic-floor-exercises/when-pelvic-floor-symptoms-affect-exercise/\">Continence Health Australia emphasizes this broader approach</a>.</p><p>A small laboratory study found that pelvic floor activity changed around foot strike and increased with running speed. It does not establish a safe pace for an individual runner or prove that a particular stride prevents leaks. <a href=\"https://pubmed.ncbi.nlm.nih.gov/27794169/\">Read the original running study</a>. Avoid turning every step into a deliberate maximal Kegel. If someone has prescribed a running-related muscle strategy, ask exactly when to use it and when to release.</p>"
       },
       {
+        "id": "delayed-pain",
+        "title": "What if pelvic pain starts a day or two after running?",
+        "html": "<p>Tell the clinician the actual delay. A comfortable run followed by pain later is a different history from pain on the first few steps. Timing can help an assessment, but it does not establish that running caused the pain or identify the tissue involved. Do not assume unexplained pelvic pain is ordinary post-exercise soreness.</p><p><a href=\"https://www.nhs.uk/symptoms/pelvic-pain/\">NHS guidance advises assessment for pelvic pain that persists or comes back</a>. After childbirth, <a href=\"https://www.cht.nhs.uk/services/clinical-services/physiotherapy-outpatients/womens-health/perinatal-pelvic-health-service/return-to-exercise\">Calderdale and Huddersfield NHS advises stopping exercise that brings on pain or other pelvic symptoms and seeking clinical guidance</a>. Pause the activity you suspect is provoking symptoms while you arrange advice, and ask what comfortable movement you can keep doing.</p><p>Add a short timeline to the log below:</p><ul><li><strong>During:</strong> how the run felt, its duration and any recent training change.</li><li><strong>After:</strong> when you first noticed pain and what you were doing then.</li><li><strong>Next day or later:</strong> whether it settled, returned or affected ordinary activities.</li><li><strong>Alongside it:</strong> urinary, bowel, bleeding or other symptoms.</li></ul><p>You do not need another run to prove the pattern. Ask whether the pain needs a medical assessment as well as a return-to-running review; do not add stronger contractions as a test of whether weakness is the problem.</p><p>Severe or worsening pelvic pain, fainting or heavy bleeding needs emergency assessment. Pain with fever, urinary difficulty or possible pregnancy needs urgent advice; use the linked NHS guidance. An exercise app cannot clear unexplained pain or set an individual return-to-running threshold.</p>"
+      },
+      {
         "id": "log",
         "title": "Make a short running-and-symptom log",
         "html": "<p>For the sessions you discuss with your clinician, use a few lines rather than an elaborate training spreadsheet:</p><ul><li><strong>Session:</strong> planned distance or duration, pace or effort, terrain and walk breaks.</li><li><strong>Symptom:</strong> leakage, urgency, heaviness, pain or another change.</li><li><strong>Timing:</strong> when it began and whether it continued afterward.</li><li><strong>Context:</strong> recent changes in training, illness, recovery or your usual routine.</li><li><strong>Impact:</strong> whether you stopped, changed the session or avoided running.</li></ul><p>An example entry is: “Easy group run; pressure began near the end; I changed to walking; pressure remained when I got home.” Record what happened without trying to label the tissue involved. Bring the log and your main goal, such as returning to a weekly social run.</p>"
@@ -74,6 +79,10 @@
       {
         "title": "Calderdale and Huddersfield NHS: Return to exercise",
         "url": "https://www.cht.nhs.uk/services/clinical-services/physiotherapy-outpatients/womens-health/perinatal-pelvic-health-service/return-to-exercise"
+      },
+      {
+        "title": "NHS: Pelvic pain and warning signs",
+        "url": "https://www.nhs.uk/symptoms/pelvic-pain/"
       }
     ],
     "related": [
@@ -83,7 +92,9 @@
     ],
     "cta": "assessment",
     "keyword": "running and pelvic floor",
-    "researchNote": "Researched 2026-10-24. Exercise symptom and return-to-running intent. Distinguishes research observations from individual clearance; no universal pace, return date or strength cutoff."
+    "researchNote": "Researched 2026-10-24. Exercise symptom and return-to-running intent. Distinguishes research observations from individual clearance; no universal pace, return date or strength cutoff.",
+    "dateModified": "2026-11-02",
+    "sourceCheckNote": "Existing sources retain their previously recorded check dates. The Pain that appears after a delay following running section was checked against its linked sources on November 2, 2026."
   },
   {
     "slug": "pelvic-floor-and-constipation",
@@ -320,8 +331,8 @@
       },
       {
         "id": "prepare",
-        "title": "Prepare a useful appointment note",
-        "html": "<p>A short summary can keep the appointment focused:</p><ul><li><strong>Onset:</strong> when the urgency started and whether it changed suddenly.</li><li><strong>Pattern:</strong> daytime, nighttime, certain places or particular activities.</li><li><strong>Associated symptoms:</strong> leakage, pain, burning or trouble emptying.</li><li><strong>Context:</strong> medicines, recent infection treatment or changes in your routine.</li><li><strong>Priority:</strong> what you want to do more comfortably.</li></ul><p>If you keep a <a href=\"/pelvic_gym/articles/bladder-diary-for-women/\">bladder diary</a>, bring it. Do not delay needed care while collecting perfect data. Ask what the working explanation is, what else needs checking and when to return if the first plan does not help.</p><p>You can say, “The urgency is affecting my commute, and I need a plan for that situation.” This gives your clinician a concrete goal alongside the symptom description.</p><p>If symptoms mainly disrupt work, mention bathroom access and whether you have been avoiding drinks to cope with the situation.</p>"
+        "title": "If several treatments have not helped, prepare a review summary",
+        "html": "<p>A persistent full-bladder sensation deserves a clear review even when the number of toilet visits seems ordinary. Describe the sensation and the actual voiding pattern separately. The feeling alone does not tell you how much urine remains; <a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/diagnosis\">NIDDK describes clinical measurement of residual urine</a> when emptying needs investigation.</p><p>Bring a compact treatment summary rather than trying to remember every change during the appointment:</p><table><thead><tr><th>Item</th><th>What to write</th></tr></thead><tbody><tr><td>Main problem</td><td>Constant pressure, sudden urges, frequent visits or leakage; distinguish them.</td></tr><tr><td>Each treatment</td><td>Name, who prescribed it, when it started and whether you still use it.</td></tr><tr><td>Response</td><td>What improved, stayed the same or worsened, with approximate timing.</td></tr><tr><td>Remaining goal</td><td>One activity affected, such as sleeping or completing a commute.</td></tr></tbody></table><p>Include prescribed medicines, over-the-counter products, physical therapy and home exercises. Do not stop or change medication doses on the basis of this article. Ask the responsible clinician or pharmacist to review the list and explain which changes, if any, are appropriate.</p><p>Useful questions are: “What is our current working explanation?” “Has emptying been checked if my symptoms suggest a problem?” and “Who is coordinating the next step, and when should I return if it does not help?” Bring an existing bladder record if you have one, but do not postpone care to collect perfect data.</p><p><a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes\">Inability to urinate or severe abdominal pain needs immediate medical care</a>. For ongoing symptoms, agree on one coordinated plan rather than layering new bladder delays and extra squeezing onto several treatments. Pelvic Gym can support an appropriate strengthening plan; it cannot determine why urgency persists.</p>"
       },
       {
         "id": "help",
@@ -382,8 +393,8 @@
     "keyword": "urinary urgency in women",
     "researchNote": "Researched 2026-10-24. Symptom-explanation and care-navigation intent. Differentiates urgency, infection and retention; no diagnosis from frequency or urine volume alone.",
     "datePublished": "2026-10-24",
-    "dateModified": "2026-10-31",
-    "sourceCheckNote": "Original guidance sources were checked on 2026-10-24. The new If urgency starts after a new therapy or exercise routine section was checked against its linked sources October 29, 2026. The pressure-after-voiding section was checked October 31, 2026 against NIDDK symptom and diagnostic guidance and NHS UTI guidance; earlier sections retain their existing source-check scope."
+    "dateModified": "2026-11-02",
+    "sourceCheckNote": "Original guidance sources were checked on 2026-10-24. The new If urgency starts after a new therapy or exercise routine section was checked against its linked sources October 29, 2026. The pressure-after-voiding section was checked October 31, 2026 against NIDDK symptom and diagnostic guidance and NHS UTI guidance; earlier sections retain their existing source-check scope. The Persistent symptoms and a coordinated treatment-review summary section was checked against its linked sources on November 2, 2026."
   },
   {
     "slug": "peeing-at-night-women",

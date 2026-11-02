@@ -5,7 +5,7 @@
   "description": "Separate dark from vivid and contrast from saturation when comparing clothes. Use simple fabric pairs to make color analysis more useful for everyday outfits.",
   "category": "Color analysis",
   "datePublished": "2026-10-26",
-  "dateModified": "2026-10-31",
+  "dateModified": "2026-11-02",
   "sourcesChecked": "2026-10-26",
   "excerpt": "A dark color is not necessarily a bright color, and a high-contrast outfit does not have to be vivid.",
   "quickAnswer": "Depth means how light or dark a color looks. In seasonal styling, brightness usually refers to how clear or vivid it is, while contrast is the difference between colors placed together. Compare these separately before deciding that one successful garment proves a season.",
@@ -19,6 +19,11 @@
       "id": "pairs",
       "title": "Choose a pair that answers one question",
       "html": "<p>For a depth comparison, start with two fabrics in a similar color family and with a similar finish, such as a medium blue and a deeper blue. For an intensity comparison, try a grayed teal and a clearer teal at roughly similar depth. The pairs will not be laboratory-perfect; simply note obvious differences.</p><p>Hold each near your face in the same setup. Ask which you prefer and whether the preference repeats in the mirror. Avoid comparing a pale beige knit with a vivid fuchsia satin blouse and calling the result a pure warm-versus-cool test.</p><p>If your wardrobe does not contain a useful pair, do not buy one just for the experiment. You can record “several things changed” and keep the preference without claiming an explanation.</p>"
+    },
+    {
+      "id": "light-spring-soft-summer",
+      "title": "Light Spring or Soft Summer? Separate two changes",
+      "html": "<p>This comparison mixes temperature and intensity. Light Spring points toward lighter, warmer, clearer colors; Soft Summer points toward cooler, more muted colors in <a href=\"https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/light-spring-a-comprehensive-guide\">The Concept Wardrobe’s Light Spring</a> and <a href=\"https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/soft-summer-a-comprehensive-guide\">Soft Summer</a> frameworks. Comparing one peach with one dusty blue changes the hue as well, so that single pair cannot tell you which quality drove the preference.</p><p>Use a four-fabric note if you already have suitable pieces. Keep them in a similar light-to-medium depth range and with comparable fabric finishes:</p><table><thead><tr><th></th><th>Clearer direction</th><th>More muted direction</th></tr></thead><tbody><tr><th>Warmer direction</th><td>A clearer peach</td><td>A grayer peach of similar depth</td></tr><tr><th>Cooler direction</th><td>A clearer cool pink</td><td>A dustier cool pink of similar depth</td></tr></tbody></table><p>First compare across each row to explore clarity. Then compare down a column to explore the warmer and cooler choices. These are practical approximations with real clothes, not calibrated diagnostic tests. If a fabric is much lighter or shinier, write down that extra difference.</p><p>Record a concrete result such as “I like the dustier versions in both rows” or “I like the clearer peach, but not the clearer pink.” A mixed result can still guide the next outfit. It does not require buying four new tops or forcing a seasonal answer. For two light palettes specifically, use <a href=\"/stylist_ai/blog/light-spring-or-light-summer/\">Light Spring versus Light Summer</a>; those are a different pair.</p>"
     },
     {
       "id": "contrast",
@@ -55,6 +60,14 @@
     {
       "title": "The Concept Wardrobe: Color dimensions",
       "url": "https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/seasonal-color-analysis-which-color-season-are-you"
+    },
+    {
+      "title": "The Concept Wardrobe: Light Spring",
+      "url": "https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/light-spring-a-comprehensive-guide"
+    },
+    {
+      "title": "The Concept Wardrobe: Soft Summer",
+      "url": "https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/soft-summer-a-comprehensive-guide"
     }
   ],
   "related": [
@@ -63,7 +76,7 @@
   ],
   "sortOrder": 22,
   "keyword": "Color depth vs. brightness: how to compare clothes",
-  "sourceNote": "The wardrobe comparisons and outfit ideas are our editorial suggestions, not validated personal diagnostic tests.",
+  "sourceNote": "The wardrobe comparisons and outfit ideas are our editorial suggestions, not validated personal diagnostic tests. The Light Spring and Soft Summer framework references were checked November 2, 2026; the four-fabric exercise is an original editorial comparison.",
   "ctaTitle": "Explore colors you want to wear.",
   "ctaText": "Use Stylist AI for a suggested seasonal palette, color combinations and camera-based color comparison. Bring your own preferences to every choice.",
   "illustration": {
