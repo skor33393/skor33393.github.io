@@ -1,0 +1,84 @@
+{
+  "slug": "find-discontinued-clothes",
+  "title": "How can you find a discontinued dress or sold-out piece you still want?",
+  "seoTitle": "How to Find Discontinued Clothes | Stylist AI",
+  "description": "Turn a remembered dress or sold-out favorite into a precise secondhand search. Identify the details, set useful alerts and check the garment before buying.",
+  "category": "Wardrobe & shopping",
+  "datePublished": "2026-11-03",
+  "dateModified": "2026-11-03",
+  "sourcesChecked": "2026-11-03",
+  "sortOrder": -8,
+  "excerpt": "Find the identifying details, separate exact matches from substitutes, and check fit before paying for the piece you missed.",
+  "quickAnswer": "Start with the brand, original product name or style code, then search again using its distinctive construction details. Save a narrow search for the exact item and a broader one for plausible matches. Before buying, confirm the label, measurements, condition and total cost. Finding the right name is only the first step; the actual garment still has to work for you.",
+  "sections": [
+    {
+      "id": "identify",
+      "title": "Build a small identification card",
+      "html": "<p>A remembered “green dress with a pretty collar” is hard to search for. Turn that memory into a short record before opening more shopping tabs. Use your own saved product link, receipt, wishlist or screenshot if you have one. An old listing can help identify the item even when it no longer offers stock.</p><table><thead><tr><th>Detail</th><th>What to write down</th></tr></thead><tbody><tr><td>Identity</td><td>Brand, collaboration, product name and style code, if known</td></tr><tr><td>Construction</td><td>Collar shape, sleeve, fastening, waist and hem</td></tr><tr><td>Appearance</td><td>Color family, print motif and distinctive trim</td></tr><tr><td>Requirements</td><td>Your useful measurements, condition limits and maximum total price</td></tr></tbody></table><p>Keep confirmed details separate from guesses. If you only think the dress was cotton, do not make cotton a compulsory search term yet. If the product name is unknown, leave that field empty instead of borrowing the name of a visually similar item.</p>"
+    },
+    {
+      "id": "search-example",
+      "title": "Search in three passes: a worked example",
+      "html": "<p>Imagine the item in the illustration: a teal dress with a scalloped collar, long sleeves and a gathered waist. This is an invented garment example, not a product we found for sale. Suppose you know its brand but not its official name.</p><ol><li><strong>Identity first:</strong> search the brand with “teal scalloped collar dress.” If you recover a product name or style code, try that exact wording next.</li><li><strong>Distinctive detail next:</strong> try the brand with “scallop collar dress,” leaving out the color. A seller may describe teal as green or blue.</li><li><strong>Shape last:</strong> try “long sleeve scalloped collar dress” without the brand. Treat these results as leads to inspect, not confirmed matches.</li></ol><p>Change one search constraint at a time. Removing the brand, color and collar together may produce many attractive dresses without helping you find the original. Compare the fastening and seam placement as well as the overall silhouette. Two similar prints do not establish that the garments are the same.</p><p>If you already know the exact name, try it both with and without quotation marks. Search tools differ in how they handle punctuation and exact phrases; compare the results rather than assuming one syntax works everywhere.</p>"
+    },
+    {
+      "id": "alerts",
+      "title": "Let a saved search do the repeated checking",
+      "html": "<p>Use the marketplace’s own saved-search feature where available. <a href=\"https://www.ebay.com/help/buying/search-tips/saved-searches?id=4051\">eBay documents saved searches, listing alerts and editable filters</a>. Check the notification settings you actually want; there is no need to receive every possible alert.</p><p>Keep two searches with different jobs:</p><ul><li><strong>Exact-item search:</strong> brand plus known product name or code, with only essential filters.</li><li><strong>Discovery search:</strong> brand plus the most distinctive detail, without a fragile color or size assumption.</li></ul><p>Review whether the alerts are useful. If every result is unrelated, add one identifying detail. If nothing appears, inspect whether a filter is excluding reasonable leads. Saving a search cannot make unavailable stock appear, and it does not guarantee that a seller’s title is accurate.</p><p>Choose a review date and a price ceiling before the hunt becomes a daily obligation. You can keep an alert running while deciding that you do not need the item immediately.</p>"
+    },
+    {
+      "id": "verify",
+      "title": "Check the actual garment before paying",
+      "html": "<p>Ask for the information missing from the listing. A useful message is: “Could you confirm the style label, show the collar and fastening clearly, and provide the garment’s laid-flat chest, waist and length measurements? Please also mention alterations and any damage.” Adapt the measurements to the item instead of sending a long generic checklist.</p><p>Compare those measurements with a garment you own that fits the way you want. A familiar brand size alone does not settle the fit of a different cut, older collection or altered piece. Establish how the seller measured so that you are comparing like with like.</p><p>Check photographs of the actual item, condition notes, delivery charges and the platform’s applicable return and buyer-protection terms before paying. Do not assume that every secondhand listing offers the same return rights. Keep the purchase within the marketplace’s normal checkout process.</p><p>For color, ask for a clear photograph in ordinary even light if the existing pictures conflict. A listing photograph is still an imperfect basis for a precise shade match. Our <a href=\"/stylist_ai/blog/color-analysis-photo-lighting/\">photo-comparison guide</a> explains why the whole scene matters.</p>"
+    },
+    {
+      "id": "substitute",
+      "title": "Decide what makes a substitute worthwhile",
+      "html": "<p>Write three non-negotiable features and two flexible ones. In our example, the collar, long sleeves and comfortable waist might be essential; the exact teal and button count might be flexible. Another reader could choose the reverse because the color is the entire appeal.</p><p>Then test a substitute against that brief. Buying a cheaper dress you do not actually like can be more disappointing than leaving the search open. Equally, you may discover that a similar silhouette in a color you already wear solves the wardrobe problem well enough.</p><p>Picture two outfits before buying: one with shoes and a layer you own, another for the occasion you have in mind. Use our <a href=\"/stylist_ai/blog/buy-clothes-you-will-wear/\">purchase checklist</a> if the excitement of finding it is outrunning the reasons to wear it.</p>"
+    },
+    {
+      "id": "app-role",
+      "title": "Use color tools after you have a credible match",
+      "html": "<p>Stylist AI can help explore a seasonal palette, clothing color combinations and camera-based color comparisons. Use that for the outfit decision: how a candidate color might work with your existing clothes.</p><p>The app does not locate discontinued stock, authenticate a resale listing or measure garment fit. Keep those checks in the shopping process above. Once the piece meets your practical requirements, use your palette as one source of outfit ideas alongside the colors you enjoy wearing.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What if I do not know the original product name?",
+      "answer": "Start with the brand and two distinctive construction details. Look for an old product page or a clear label photograph, then refine the search with confirmed information."
+    },
+    {
+      "question": "Should I buy the first listing in my usual size?",
+      "answer": "Check the actual measurements, alterations, condition, total cost and applicable return terms first. The size label alone is not enough to settle the fit."
+    },
+    {
+      "question": "Can Stylist AI find the sold-out item for me?",
+      "answer": "No. Use retailer and marketplace search tools to find stock. Stylist AI helps explore clothing colors and combinations once you have a candidate."
+    }
+  ],
+  "sources": [
+    {
+      "title": "eBay: Saved searches and alerts",
+      "url": "https://www.ebay.com/help/buying/search-tips/saved-searches?id=4051"
+    },
+    {
+      "title": "Adobe: White balance and photographic color",
+      "url": "https://www.adobe.com/creativecloud/photography/technique/white-balance.html"
+    }
+  ],
+  "related": [
+    "buy-clothes-you-will-wear",
+    "build-a-wardrobe-color-palette",
+    "how-to-find-colorful-clothes"
+  ],
+  "keyword": "how to find discontinued clothes",
+  "sourceNote": "The identification card, search example and purchase checklist are original editorial tools. The illustrated dress is an invented example, not a listing or a tested product.",
+  "ctaTitle": "Plan the outfit around your find",
+  "ctaText": "Explore a seasonal palette and clothing color combinations with Stylist AI, then choose the version you will enjoy wearing.",
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/illustrations/find-discontinued-clothes.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Illustrated teal dress with a scalloped collar, a matching reference picture, a label detail and measuring tape."
+  }
+}

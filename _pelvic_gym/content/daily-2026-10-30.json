@@ -40,6 +40,11 @@
         "html": "<p>Start with a clinician who can review the symptom in context. Depending on the findings, the next step may involve bowel, gynecological or pelvic health care. Ask why a particular examination or test is suggested and how the result would change the plan.</p><p>You can use three questions at the appointment: “What possibilities are we checking first?”, “What would make you investigate further?” and “Who should I contact if the pain continues?” If an examination is proposed, discuss what it involves and give or withhold consent after the explanation.</p><p>A previous reassuring test is useful information, but persistent symptoms still need a follow-up plan. Bring the report rather than assuming that “normal tests” describes everything that has or has not been assessed.</p>"
       },
       {
+        "id": "after-treatment",
+        "title": "What if treatment has healed but the pain continues?",
+        "html": "<p>Separate the outcome of the treated problem from the symptom that remains. A clinician confirming that a treated area has healed is useful information; it does not by itself identify the cause of continuing burning or deeper pain. Do not conclude that pelvic floor tension must be the only remaining explanation.</p><p>Contact the treating service or your usual clinician with a concise comparison:</p><ul><li><strong>Before treatment:</strong> which symptom led to the procedure.</li><li><strong>What improved:</strong> the change the treatment achieved.</li><li><strong>What remains or is new:</strong> pain timing, a new lump or protruding sensation, emptying difficulty, bleeding or a changed bowel pattern.</li><li><strong>What you need next:</strong> whether the symptom requires another examination or a coordinated pelvic health assessment.</li></ul><p>For example: “The treated problem has improved, but burning after bowel movements continues and sitting is uncomfortable. Can we review what is still causing symptoms and agree the next step?” Keep the actual report or discharge information with this note. You do not need to provide a theory to justify follow-up.</p><p><a href=\"https://www.nhs.uk/symptoms/anal-pain/\">The NHS advises assessment when anal pain persists and warns against self-diagnosing from the symptom pattern</a>. Report a new protruding sensation rather than assuming it is a muscle spasm or trying to reproduce it. Follow the warning signs above if bleeding, fever or severe symptoms occur. Increasing relaxation sessions or adding strengthening is not a substitute for review when the current plan is not helping.</p>"
+      },
+      {
         "id": "exercise",
         "title": "Keep exercise decisions tied to the findings",
         "html": "<p>Pain does not tell you that more squeezing is needed. <a href=\"https://www.stgeorges.nhs.uk/wp-content/uploads/2025/05/PHP_PFR.pdf\">St George’s guidance</a> explains that when muscles are both tense and weak, tension is addressed before deciding whether strengthening would help. An exercise app cannot make that assessment.</p><p>Ask your clinician what the intended target is: comfortable release, bowel coordination, strength or another issue. If strengthening is recommended later, Pelvic Gym can organize guided practice that matches that plan. It does not treat the cause of unexplained bowel-related pain.</p><p>For related reading, see <a href=\"/pelvic_gym/articles/pelvic-floor-and-constipation/\">pelvic floor and constipation</a> and <a href=\"/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/\">what a pelvic health appointment can involve</a>.</p>"
@@ -85,14 +90,15 @@
     "cta": "assessment",
     "researchNote": "General assessment and care-navigation information. No diagnosis from forum details, no exercise prescription for pain and no claim that the app treats bowel or gynecological disease.",
     "datePublished": "2026-10-31",
-    "dateModified": "2026-10-31",
+    "dateModified": "2026-11-03",
     "sourcesChecked": "2026-10-31",
     "illustration": {
       "src": "/pelvic_gym/assets/illustrations/pelvic-pain-after-bowel-movement.webp",
       "width": 1200,
       "height": 800,
       "alt": "A woman making brief symptom notes in a notebook at home, with a glass of water beside her."
-    }
+    },
+    "sourceCheckNote": "Existing sources retain their previously recorded check dates. The What if treatment has healed but the pain continues? section was checked against its linked sources on November 3, 2026."
   },
   {
     "slug": "vulval-burning-after-urination",

@@ -5,7 +5,7 @@
   "description": "Considering a color analyst or personal stylist? Compare what each service offers, questions to ask before booking, and ways to turn advice into useful outfits.",
   "category": "Color analysis",
   "datePublished": "2026-10-26",
-  "dateModified": "2026-10-31",
+  "dateModified": "2026-11-03",
   "sortOrder": 8,
   "excerpt": "A season label is only part of the service. Decide what you need help with and what you want to take home.",
   "quickAnswer": "Professional color analysis may be worthwhile if you want guided fabric comparisons and help applying the result to your clothes. Before booking, check the process, deliverables and total price. If your main problem is fit, outfit planning or shopping, a broader styling service may suit that need better. No appointment guarantees that you will love every recommended color.",
@@ -19,6 +19,11 @@
       "id": "service-types",
       "title": "Color analysis and personal styling can cover different work",
       "html": "<p>Service names are not enough to establish what is included. For example, <a href=\"https://www.houseofcolour.com/blog/what-is-a-color-analysis-and-why-do-you-need-one\">House of Colour’s description of its color-analysis process</a> discusses fabric draping and a palette to use afterward. That is a provider’s description of its own service, not evidence that every appointment uses the same method.</p><p>A personal styling package might also include wardrobe review, outfit building or shopping support. Ask directly. If your main concern is garment fit, a session focused only on color may leave the original problem unresolved.</p>"
+    },
+    {
+      "id": "compare-quotes",
+      "title": "How do you compare two local appointment quotes?",
+      "html": "<p>Ask each provider for the same information, then compare the complete visit rather than the headline price. Travel and a missing deliverable can change the practical value of a lower quote. Check current details directly; an old recommendation does not confirm today’s price, location or package.</p><table><thead><tr><th>Put on one comparison sheet</th><th>Why it matters</th></tr></thead><tbody><tr><td>Current fee and appointment length</td><td>Clarifies the actual service you can book</td></tr><tr><td>Individual or shared appointment</td><td>Shows how the session time will be used</td></tr><tr><td>Included palette and written guidance</td><td>Separates the consultation from optional purchases</td></tr><tr><td>Travel cost, travel time and access</td><td>Makes the visit feasible for your day</td></tr><tr><td>Follow-up and cancellation terms</td><td>Clarifies what happens after booking and afterward</td></tr></tbody></table><p>For example, suppose one appointment includes a physical swatch but requires a long journey, while a nearer one provides a digital palette and a follow-up call. Neither package is automatically better. If your goal is shopping in person with a pocket reference, ask whether the second service offers a physical option and what it costs. If you mainly need outfit ideas, the follow-up may matter more.</p><p>A concise inquiry is: “I want help choosing colors for clothes I already own. Could you confirm the total price, what I take away, whether we can discuss those clothes, and what follow-up is included?” Keep the replies beside your original goal. For a smaller color-combination task, you can first try Stylist AI or the wardrobe exercises below, then decide whether a personal consultation would add the help you still need.</p>"
     },
     {
       "id": "before-booking",
@@ -66,5 +71,6 @@
   "related": [
     "soft-summer-or-soft-autumn",
     "hate-your-color-season-palette"
-  ]
+  ],
+  "sourceCheckNote": "The quote-comparison worksheet was added November 3, 2026. It contains no current provider prices, rankings or promises; existing provider references retain their previous check dates."
 }

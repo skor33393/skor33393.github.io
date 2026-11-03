@@ -431,6 +431,11 @@
         "html": "<p><a href=\"https://www.wchc.nhs.uk/services/pelvic-health/learn-to-breathe/\">Wirral Community Health</a> suggests a comfortable supported position and placing a hand near the lower ribs or belly to notice movement with breathing. Its pelvic floor guidance pairs the outward breath with activation and the inward breath with relaxation.</p><p>You can begin by simply observing a few comfortable breaths without doing Kegels. There is nothing to score. Notice whether you are rushing to start the next instruction or trying to manufacture a very large breath. The goal is a pattern you can comfortably return to, not a dramatic visible movement.</p><p>If you have been given a particular position because of pregnancy, pain or surgery, keep using it. This breathing cue does not require lying flat or changing your existing restrictions.</p>"
       },
       {
+        "id": "air-and-movement",
+        "title": "Does the air need to reach the pelvic floor?",
+        "html": "<p>No. <a href=\"https://www.nhlbi.nih.gov/health/lungs/breathing-benefits\">NHLBI explains that inhaled air travels into the lungs as the diaphragm moves downward and the chest expands</a>. “Breathe into your belly” is a teaching image for movement, not a route that air must travel through your abdomen or pelvis. You do not need to hold a breath until it seems to reach a lower point.</p><p><a href=\"https://www.nhsfife.org/services/all-services/physiotherapy/pelvic-health-physiotherapy/pelvic-pain/\">NHS Fife uses an image of the tummy filling while allowing the pelvic floor to soften on inhalation</a>. If that image makes you force the breath, ask for a different cue. Belly movement by itself does not measure whether the pelvic floor has released.</p><p>Take the confusing instruction back in three parts:</p><ol><li><strong>The cue:</strong> “I was told to breathe into the pelvis.”</li><li><strong>What you actually do:</strong> “I take a bigger breath and hold it because I cannot feel movement lower down.”</li><li><strong>The question:</strong> “Can you show me a comfortable version and explain whether this is relaxation or strengthening?”</li></ol><p>Until that is clear, return to ordinary breathing instead of adding pressure, longer holds or stronger contractions. Stop a deliberate practice that causes dizziness, pain or breathlessness. A new breathing difficulty deserves medical advice in its own right; severe difficulty breathing needs emergency help. An app’s countdown cannot assess either breathing or muscle release.</p>"
+      },
+      {
         "id": "long-holds",
         "title": "What if the hold is longer than one breath?",
         "html": "<p>A sustained contraction can continue while you breathe. The Bath leaflet describes progressing to a hold through a further breathing cycle before releasing. It leaves hold length and repetition count to the person's physiotherapist.</p><p>Suppose your written plan calls for a hold longer than one comfortable exhale. The instruction is not to stretch that exhale until you run out of air. Ask your clinician to help you coordinate ordinary breathing through the hold. If you find yourself taking a big recovery gasp afterward, record that observation.</p><p>Keep the two jobs separate in your notes: “hold duration” and “breathing stayed comfortable.” Reaching the number on the timer does not settle the second question.</p>"
@@ -482,6 +487,10 @@
       {
         "title": "NHS Fife: Pelvic pain and relaxation breathing",
         "url": "https://www.nhsfife.org/services/all-services/physiotherapy/pelvic-health-physiotherapy/pelvic-pain/"
+      },
+      {
+        "title": "NHLBI: How inhalation and exhalation work",
+        "url": "https://www.nhlbi.nih.gov/health/lungs/breathing-benefits"
       }
     ],
     "related": [
@@ -493,7 +502,7 @@
     "keyword": "breathing during kegel exercises",
     "researchNote": "Breathing-coordination search intent. Distinct Bath PHY043, Wirral and St George hospital resources checked 2026-10-24. Distinguishes learning cue from longer holds and includes tension/pain assessment without a universal dose.",
     "datePublished": "2026-10-24",
-    "dateModified": "2026-10-29",
-    "sourceCheckNote": "Original guidance sources were checked on 2026-10-24. The new Relax on the inhale or exhale? Check the purpose of the cue section was checked against its linked sources October 29, 2026."
+    "dateModified": "2026-11-03",
+    "sourceCheckNote": "Original guidance sources were checked on 2026-10-24. The new Relax on the inhale or exhale? Check the purpose of the cue section was checked against its linked sources October 29, 2026. The Does the air need to reach the pelvic floor? section was checked against its linked sources on November 3, 2026."
   }
 ]

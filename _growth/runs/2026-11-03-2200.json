@@ -1,0 +1,1305 @@
+{
+  "run_id": "2026-11-03-2200",
+  "kind": "scheduled",
+  "status": "prepared",
+  "started_at": "2026-11-03T17:59:32.456Z",
+  "timezone": "Asia/Dubai",
+  "scheduled_local": "22:00",
+  "scan_completed_at": "2026-11-03T18:12:53.009663+00:00",
+  "windows": {
+    "primary_start": "2026-11-02T18:17:30.106Z",
+    "end": "2026-11-03T18:12:53.009663+00:00",
+    "expanded": false,
+    "note": "All ten selected source questions posted since the prior scan. Older feed entries were inspected only as overlap context."
+  },
+  "access_limits": [
+    "Quora robots blocking prevented usable relevant questions or engagement. Search fallback produced irrelevant results; no bypass.",
+    "Actual Google results read in localized Russian UI; no search volume or global rank inferred, AI overview excluded.",
+    "Public Reddit read-only; no forum replies or messages. Source case histories, usernames and photos not retained.",
+    "Initial NHLBI /breathing path unavailable; official search located /breathing-benefits and content was read."
+  ],
+  "selected": [
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Does olive skin mean I cannot use a seasonal palette?",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xmgp7p/olive_skin_doesnt_affect_your_color_season/",
+      "posted_at": "2026-11-03T02:13:04.313000+0000",
+      "observed_between": [
+        "2026-11-03T18:00:00Z",
+        "2026-11-03T18:07:00Z"
+      ],
+      "votes": 33,
+      "comments": 35,
+      "evidence": "Metadata read from public Reddit feed DOM and original question read. Votes may change or be fuzzed. No user photos or case histories retained.",
+      "slug": "olive-skin-color-analysis",
+      "outcome": "updated",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/olive-skin-color-analysis/",
+      "reason": "33 votes and 35 comments: strongest fresh general styling discussion. The claim-based post raises the question of palette exceptions; no community claim adopted as fact.",
+      "brief": {
+        "reader_decision": "Keep useful palette colors while testing the actual dimension behind mixed preferences.",
+        "overlap_decision": "Existing olive guide; add a practical exception audit rather than another olive URL.",
+        "original_resource": "Keep/investigate/leave-aside wardrobe audit.",
+        "app_role": "Suggested palettes supply comparison ideas; no guaranteed typing."
+      }
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Does comparing cream and white tell me whether I am warm or cool?",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xmuudj/am_i_warm_or_cool/",
+      "posted_at": "2026-11-03T14:46:07.109000+0000",
+      "observed_between": [
+        "2026-11-03T18:00:00Z",
+        "2026-11-03T18:07:00Z"
+      ],
+      "votes": 3,
+      "comments": 16,
+      "evidence": "Metadata read from public Reddit feed DOM and original question read. Votes may change or be fuzzed. No user photos or case histories retained.",
+      "slug": "neutral-undertone-color-season",
+      "outcome": "updated",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/neutral-undertone-color-season/",
+      "reason": "3 votes and 16 comments, with a specific two-fabric question and actual Google results corroborating this search intent.",
+      "brief": {
+        "reader_decision": "Make a neutral-clothing choice without overinterpreting one pair.",
+        "overlap_decision": "Existing neutral-undertone page; focused worked example replaces need for new white-test page.",
+        "original_resource": "Observation/conclusion/unresolved table and same-session comparison.",
+        "app_role": "Organize combinations around the selected neutral."
+      }
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Should I keep wearing a blonde wig or change my natural hair color?",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xmlivw/should_i_keep_going_with_the_blonde/",
+      "posted_at": "2026-11-03T06:21:02.898000+0000",
+      "observed_between": [
+        "2026-11-03T18:00:00Z",
+        "2026-11-03T18:07:00Z"
+      ],
+      "votes": 0,
+      "comments": 33,
+      "evidence": "Metadata read from public Reddit feed DOM and original question read. Votes may change or be fuzzed. No user photos or case histories retained.",
+      "slug": "blonde-or-black-hair",
+      "outcome": "updated",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/blonde-or-black-hair/",
+      "reason": "0 votes but 33 comments: substantial visible discussion of a reversible wig choice; distinct application beyond the existing general hair comparison.",
+      "brief": {
+        "reader_decision": "Separate wig wear, hairstyle preference and a salon color decision.",
+        "overlap_decision": "Update existing light-versus-dark hair destination.",
+        "original_resource": "Color/cut/occasion comparison and consultation wording.",
+        "app_role": "Explore clothes with either look; cannot predict processing results."
+      }
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "How can I find a discontinued garment I still want?",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xmpx6s/whats_your_one_that_got_away_item/",
+      "posted_at": "2026-11-03T10:54:52.861000+0000",
+      "observed_between": [
+        "2026-11-03T18:00:00Z",
+        "2026-11-03T18:07:00Z"
+      ],
+      "votes": 5,
+      "comments": 2,
+      "evidence": "Metadata read from public Reddit feed DOM and original question read. Votes may change or be fuzzed. No user photos or case histories retained.",
+      "slug": "find-discontinued-clothes",
+      "outcome": "published",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/find-discontinued-clothes/",
+      "reason": "5 votes and 2 comments. The fresh discussion concerns searching for missed/discontinued pieces; a distinct shopping task after typing duplicates are filtered.",
+      "brief": {
+        "reader_decision": "Identify a missed garment, search secondhand and verify the actual item.",
+        "overlap_decision": "No existing article covers exact-item discovery and saved searches; new URL.",
+        "original_resource": "Identification card, original three-pass dress search, seller inquiry and illustration.",
+        "app_role": "Clothing-color combinations after identity, fit and condition checks; no stock-finding feature."
+      }
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "How can I compare local color-analysis experiences and costs?",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xmq364/any_recommendations_for_in_person_analysts_in_the/",
+      "posted_at": "2026-11-03T11:04:05.512000+0000",
+      "observed_between": [
+        "2026-11-03T18:00:00Z",
+        "2026-11-03T18:07:00Z"
+      ],
+      "votes": 2,
+      "comments": 0,
+      "evidence": "Metadata read from public Reddit feed DOM and original question read. Votes may change or be fuzzed. No user photos or case histories retained.",
+      "slug": "is-professional-color-analysis-worth-it",
+      "outcome": "updated",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/is-professional-color-analysis-worth-it/",
+      "reason": "2 votes and 0 comments. Fresh booking question permits a useful quote worksheet, without inventing North West UK provider recommendations or prices.",
+      "brief": {
+        "reader_decision": "Compare total visit value for a specific wardrobe goal.",
+        "overlap_decision": "Existing professional-analysis comparison; no additional city page.",
+        "original_resource": "Five-row quote sheet and worked trade-off between travel, swatches and follow-up.",
+        "app_role": "Smaller palette experiment before deciding whether personal help is needed."
+      }
+    },
+    {
+      "app": "pelvic_gym",
+      "platform": "Reddit",
+      "question": "Does breathing air need to reach my pelvic floor?",
+      "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xm7d0i/help_please/",
+      "posted_at": "2026-11-02T19:45:30.564000+0000",
+      "observed_between": [
+        "2026-11-03T18:00:00Z",
+        "2026-11-03T18:07:00Z"
+      ],
+      "votes": 6,
+      "comments": 16,
+      "evidence": "Metadata read from public Reddit feed DOM and original question read. Votes may change or be fuzzed. No user photos or case histories retained.",
+      "slug": "breathing-during-kegel-exercises",
+      "outcome": "updated",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/breathing-during-kegel-exercises/",
+      "reason": "6 votes and 16 comments: strongest qualifying fresh pelvic question after testimonials and diagnosis requests are excluded. Google PAA also asks about belly breathing and relaxation sensations.",
+      "brief": {
+        "reader_decision": "Clarify an anatomical misunderstanding without forced breath holds.",
+        "overlap_decision": "Existing breathing guide; no duplicate relaxation page.",
+        "original_resource": "Cue/action/question handoff example and checked explanation that inhaled air enters lungs.",
+        "app_role": "Cannot assess breathing or release; no extra contractions for pain."
+      }
+    },
+    {
+      "app": "pelvic_gym",
+      "platform": "Reddit",
+      "question": "How do I plan time off work and pelvic therapy around laparoscopy?",
+      "question_url": "https://www.reddit.com/r/Endo/comments/1xmxd2t/how_long_should_i_take_off_of_work/",
+      "posted_at": "2026-11-03T16:20:42.705000+0000",
+      "observed_between": [
+        "2026-11-03T18:00:00Z",
+        "2026-11-03T18:07:00Z"
+      ],
+      "votes": 1,
+      "comments": 14,
+      "evidence": "Metadata read from public Reddit feed DOM and original question read. Votes may change or be fuzzed. No user photos or case histories retained.",
+      "slug": "pelvic-floor-therapy-endometriosis",
+      "outcome": "updated",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-therapy-endometriosis/",
+      "reason": "1 vote and 14 comments on a fresh surgery-planning question; relevant care-coordination gap, not a request for an app-generated recovery timetable.",
+      "brief": {
+        "reader_decision": "Obtain procedure-specific work and rehabilitation instructions.",
+        "overlap_decision": "Existing endometriosis-care page expanded; no broad surgery recovery portal.",
+        "original_resource": "Commute/duties/therapy table and contingency question if operative treatment changes the plan.",
+        "app_role": "Strengthening only when the treating team considers it appropriate."
+      }
+    },
+    {
+      "app": "pelvic_gym",
+      "platform": "Reddit",
+      "question": "What if pain continues after the previously treated problem has healed?",
+      "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xmoi1l/pain_after_a_bowel_movement_what_has_helped_you/",
+      "posted_at": "2026-11-03T09:27:46.455000+0000",
+      "observed_between": [
+        "2026-11-03T18:00:00Z",
+        "2026-11-03T18:07:00Z"
+      ],
+      "votes": 3,
+      "comments": 2,
+      "evidence": "Metadata read from public Reddit feed DOM and original question read. Votes may change or be fuzzed. No user photos or case histories retained.",
+      "slug": "pelvic-pain-after-bowel-movement",
+      "outcome": "updated",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-pain-after-bowel-movement/",
+      "reason": "3 votes and 2 comments. General follow-up question applies beyond the source poster; personal procedure and intimate details not reproduced.",
+      "brief": {
+        "reader_decision": "Distinguish treatment outcome from persistent symptoms and request review.",
+        "overlap_decision": "Existing bowel-pain guide; focused treatment-to-review handoff.",
+        "original_resource": "Before/improved/remains/next-decision checklist and appointment wording.",
+        "app_role": "No strengthening as a diagnostic experiment."
+      }
+    },
+    {
+      "app": "pelvic_gym",
+      "platform": "Reddit",
+      "question": "What should I do when pelvic or bladder symptoms flare after a settled period?",
+      "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xmypro/first_big_flare_in_years_looking_for_kind_words/",
+      "posted_at": "2026-11-03T17:10:11.904000+0000",
+      "observed_between": [
+        "2026-11-03T18:00:00Z",
+        "2026-11-03T18:07:00Z"
+      ],
+      "votes": 1,
+      "comments": 0,
+      "evidence": "Metadata read from public Reddit feed DOM and original question read. Votes may change or be fuzzed. No user photos or case histories retained.",
+      "slug": "pelvic-floor-relaxation",
+      "outcome": "updated",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-relaxation/",
+      "reason": "1 vote and 0 comments on a recent crosspost; no engagement assigned from embedded original. Distinct current-plan review need.",
+      "brief": {
+        "reader_decision": "Seek a review and distinguish comfort measures from condition treatment.",
+        "overlap_decision": "Existing relaxation guide; adds flare branch with IC-specific strengthening caution.",
+        "original_resource": "Baseline/change/plan/decision note, without predicting prognosis.",
+        "app_role": "Not a flare-management service; avoid inappropriate strengthening."
+      }
+    },
+    {
+      "app": "pelvic_gym",
+      "platform": "Reddit",
+      "question": "How do I find current pelvic physiotherapy after a difficult previous appointment?",
+      "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xmbjfc/pt_raleigh_nc/",
+      "posted_at": "2026-11-02T22:24:47.810000+0000",
+      "observed_between": [
+        "2026-11-03T18:00:00Z",
+        "2026-11-03T18:07:00Z"
+      ],
+      "votes": 1,
+      "comments": 0,
+      "evidence": "Metadata read from public Reddit feed DOM and original question read. Votes may change or be fuzzed. No user photos or case histories retained.",
+      "slug": "find-pelvic-floor-physiotherapy",
+      "outcome": "updated",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/find-pelvic-floor-physiotherapy/",
+      "reason": "1 vote and 0 comments. Fresh directory-verification and consent concern; useful access task rather than an unsupported local provider ranking.",
+      "brief": {
+        "reader_decision": "Verify current clinician availability and screen for consent/support needs.",
+        "overlap_decision": "Existing access guide; no thin local clinic page.",
+        "original_resource": "Current-service checks and four prebooking questions.",
+        "app_role": "Cannot replace clinical assessment while searching."
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "app": "stylist_ai",
+      "question": "Type me please",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xmz4f8/type_me_please/",
+      "posted_at": "2026-11-03T17:24:47.007000+0000",
+      "votes": 2,
+      "comments": 0,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Gold or Silver?",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xmz0m5/gold_or_silver/",
+      "posted_at": "2026-11-03T17:20:58.008000+0000",
+      "votes": 2,
+      "comments": 4,
+      "decision": "skip",
+      "reason": "Jewelry comparison already substantially covered, including four-outfit example; no new gap."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Does comparing cream and white tell me whether I am warm or cool?",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xmuudj/am_i_warm_or_cool/",
+      "posted_at": "2026-11-03T14:46:07.109000+0000",
+      "votes": 3,
+      "comments": 16,
+      "decision": "selected",
+      "reason": "3 votes and 16 comments, with a specific two-fabric question and actual Google results corroborating this search intent."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Blond or brunette.. or maybe copper? Help!",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xmuj8k/blond_or_brunette_or_maybe_copper_help/",
+      "posted_at": "2026-11-03T14:34:14.076000+0000",
+      "votes": 2,
+      "comments": 3,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "type me please",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xmt7nd/type_me_please/",
+      "posted_at": "2026-11-03T13:41:01.721000+0000",
+      "votes": 1,
+      "comments": 1,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "How can I compare local color-analysis experiences and costs?",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xmq364/any_recommendations_for_in_person_analysts_in_the/",
+      "posted_at": "2026-11-03T11:04:05.512000+0000",
+      "votes": 2,
+      "comments": 0,
+      "decision": "selected",
+      "reason": "2 votes and 0 comments. Fresh booking question permits a useful quote worksheet, without inventing North West UK provider recommendations or prices."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "What season do you think I am?",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xmnovx/what_season_do_you_think_i_am/",
+      "posted_at": "2026-11-03T08:37:05.297000+0000",
+      "votes": 10,
+      "comments": 13,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Should I keep wearing a blonde wig or change my natural hair color?",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xmlivw/should_i_keep_going_with_the_blonde/",
+      "posted_at": "2026-11-03T06:21:02.898000+0000",
+      "votes": 0,
+      "comments": 33,
+      "decision": "selected",
+      "reason": "0 votes but 33 comments: substantial visible discussion of a reversible wig choice; distinct application beyond the existing general hair comparison."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "What is my color season?",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xmikkt/what_is_my_color_season/",
+      "posted_at": "2026-11-03T03:42:34.687000+0000",
+      "votes": 1,
+      "comments": 4,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Does olive skin mean I cannot use a seasonal palette?",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xmgp7p/olive_skin_doesnt_affect_your_color_season/",
+      "posted_at": "2026-11-03T02:13:04.313000+0000",
+      "votes": 33,
+      "comments": 35,
+      "decision": "selected",
+      "reason": "33 votes and 35 comments: strongest fresh general styling discussion. The claim-based post raises the question of palette exceptions; no community claim adopted as fact."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "I know I'm cool toned but which am I",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xmchuc/i_know_im_cool_toned_but_which_am_i/",
+      "posted_at": "2026-11-02T23:04:38.914000+0000",
+      "votes": 0,
+      "comments": 5,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Winter or autumn?",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xmc5pl/winter_or_autumn/",
+      "posted_at": "2026-11-02T22:50:26.079000+0000",
+      "votes": 26,
+      "comments": 34,
+      "decision": "skip",
+      "reason": "High-attention overlap with Deep Autumn/Winter guide substantially updated yesterday; no new generalizable gap."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Redo with more drapes",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xm9ysz/redo_with_more_drapes/",
+      "posted_at": "2026-11-02T21:23:37.413000+0000",
+      "votes": 5,
+      "comments": 18,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Can anyone help me without drapes narrow it down",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xm9gt7/can_anyone_help_me_without_drapes_narrow_it_down/",
+      "posted_at": "2026-11-02T21:04:25.858000+0000",
+      "votes": 2,
+      "comments": 6,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Hii! What do you think my type is?",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xm8nvs/hii_what_do_you_think_my_type_is/",
+      "posted_at": "2026-11-02T20:33:24.701000+0000",
+      "votes": 2,
+      "comments": 8,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Please help type me (redone with the drapes labeled this time)!",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xm8a4e/please_help_type_me_redone_with_the_drapes/",
+      "posted_at": "2026-11-02T20:19:11.435000+0000",
+      "votes": 0,
+      "comments": 7,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Type me pleasee",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xm6z5n/type_me_pleasee/",
+      "posted_at": "2026-11-02T19:31:15.495000+0000",
+      "votes": 5,
+      "comments": 10,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Trying again- autumn vs summer?",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xm4j6b/trying_again_autumn_vs_summer/",
+      "posted_at": "2026-11-02T18:04:40.151000+0000",
+      "votes": 1,
+      "comments": 8,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Typed as a spring 40 yrs ago",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xm40i1/typed_as_a_spring_40_yrs_ago/",
+      "posted_at": "2026-11-02T17:46:25.478000+0000",
+      "votes": 12,
+      "comments": 20,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Type me please ❤️",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xm30z2/type_me_please/",
+      "posted_at": "2026-11-02T17:11:19.947000+0000",
+      "votes": 1,
+      "comments": 13,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "What metal suits best?",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xlwlgr/what_metal_suits_best/",
+      "posted_at": "2026-11-02T13:03:15.738000+0000",
+      "votes": 4,
+      "comments": 8,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Light Spring Makeup",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xlv3f8/light_spring_makeup/",
+      "posted_at": "2026-11-02T11:49:58.013000+0000",
+      "votes": 17,
+      "comments": 17,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "silver or gold?",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xlj3u9/silver_or_gold/",
+      "posted_at": "2026-11-02T00:31:26.693000+0000",
+      "votes": 7,
+      "comments": 35,
+      "decision": "skip",
+      "reason": "Jewelry comparison already substantially covered, including four-outfit example; no new gap."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Help! I think I'm an Autumn, not sure?",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xlifur/help_i_think_im_an_autumn_not_sure/",
+      "posted_at": "2026-11-02T00:00:31.366000+0000",
+      "votes": 2,
+      "comments": 27,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Type me,",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xlh6zr/type_me/",
+      "posted_at": "2026-11-01T23:03:43.815000+0000",
+      "votes": 1,
+      "comments": 4,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Autumn… or cool summer?",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xlffsl/autumn_or_cool_summer/",
+      "posted_at": "2026-11-01T21:47:12.087000+0000",
+      "votes": 1,
+      "comments": 5,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Autumn or winter???",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xlf6im/autumn_or_winter/",
+      "posted_at": "2026-11-01T21:36:35.404000+0000",
+      "votes": 52,
+      "comments": 122,
+      "decision": "skip",
+      "reason": "High-attention overlap with Deep Autumn/Winter guide substantially updated yesterday; no new generalizable gap."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Silver or Gold Jewelry?",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xlc8t2/silver_or_gold_jewelry/",
+      "posted_at": "2026-11-01T19:37:35.455000+0000",
+      "votes": 50,
+      "comments": 161,
+      "decision": "skip",
+      "reason": "Jewelry comparison already substantially covered, including four-outfit example; no new gap."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Tried some light drapes",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xlatbw/tried_some_light_drapes/",
+      "posted_at": "2026-11-01T18:41:07.907000+0000",
+      "votes": 2,
+      "comments": 7,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "deep autumn vs. vampy makeup",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xl7z78/deep_autumn_vs_vampy_makeup/",
+      "posted_at": "2026-11-01T16:51:40.263000+0000",
+      "votes": 1,
+      "comments": 8,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "I need to dye my hair!",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xl5gyz/i_need_to_dye_my_hair/",
+      "posted_at": "2026-11-01T15:11:36.002000+0000",
+      "votes": 7,
+      "comments": 5,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Gold or silver?",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xl4op2/gold_or_silver/",
+      "posted_at": "2026-11-01T14:39:13.448000+0000",
+      "votes": 6,
+      "comments": 33,
+      "decision": "skip",
+      "reason": "Jewelry comparison already substantially covered, including four-outfit example; no new gap."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Help me with my colours please",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xl4dh5/help_me_with_my_colours_please/",
+      "posted_at": "2026-11-01T14:25:50.426000+0000",
+      "votes": 1,
+      "comments": 25,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Please help type me!",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xl1das/please_help_type_me/",
+      "posted_at": "2026-11-01T12:03:18.482000+0000",
+      "votes": 11,
+      "comments": 46,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Hair, Makeup, Skincare, Fitness, and Fragrance Thread - November 03, 2026",
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/1xmq0s4/hair_makeup_skincare_fitness_and_fragrance_thread/",
+      "posted_at": "2026-11-03T11:00:34.488000+0000",
+      "votes": 1,
+      "comments": 2,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "General Discussion - November 03, 2026",
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/1xmq0s0/general_discussion_november_03_2026/",
+      "posted_at": "2026-11-03T11:00:34.164000+0000",
+      "votes": 5,
+      "comments": 6,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "How can I find a discontinued garment I still want?",
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/1xmpx6s/whats_your_one_that_got_away_item/",
+      "posted_at": "2026-11-03T10:54:52.861000+0000",
+      "votes": 5,
+      "comments": 2,
+      "decision": "selected",
+      "reason": "5 votes and 2 comments. The fresh discussion concerns searching for missed/discontinued pieces; a distinct shopping task after typing duplicates are filtered."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Daily Questions Thread November 03, 2026",
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/1xmn4wq/daily_questions_thread_november_03_2026/",
+      "posted_at": "2026-11-03T08:00:57.603000+0000",
+      "votes": 6,
+      "comments": 1,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Recent Purchases November 02, 2026",
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/1xlu841/recent_purchases_november_02_2026/",
+      "posted_at": "2026-11-02T11:00:59.272000+0000",
+      "votes": 9,
+      "comments": 8,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Fashion news - November 02, 2026",
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/1xlu83y/fashion_news_november_02_2026/",
+      "posted_at": "2026-11-02T11:00:58.924000+0000",
+      "votes": 1,
+      "comments": 1,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Daily Questions Thread November 02, 2026",
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/1xlrdgw/daily_questions_thread_november_02_2026/",
+      "posted_at": "2026-11-02T08:00:55.397000+0000",
+      "votes": 5,
+      "comments": 28,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Does this fit me? November 01 2026",
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/1xl0asg/does_this_fit_me_november_01_2026/",
+      "posted_at": "2026-11-01T11:01:43.944000+0000",
+      "votes": 12,
+      "comments": 7,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "WAYWT - November 01, 2026",
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/1xkwiyv/waywt_november_01_2026/",
+      "posted_at": "2026-11-01T07:01:39.276000+0000",
+      "votes": 3,
+      "comments": 6,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "stylist_ai",
+      "question": "Daily Questions Thread November 01, 2026",
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/1xkwiyn/daily_questions_thread_november_01_2026/",
+      "posted_at": "2026-11-01T07:01:38.512000+0000",
+      "votes": 7,
+      "comments": 24,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xmyv64/quien_más_tiene_dolor_de_pene/",
+      "posted_at": "2026-11-03T17:15:44.035000+0000",
+      "votes": 1,
+      "comments": 0,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "What should I do when pelvic or bladder symptoms flare after a settled period?",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xmypro/first_big_flare_in_years_looking_for_kind_words/",
+      "posted_at": "2026-11-03T17:10:11.904000+0000",
+      "votes": 1,
+      "comments": 0,
+      "decision": "selected",
+      "reason": "1 vote and 0 comments on a recent crosspost; no engagement assigned from embedded original. Distinct current-plan review need."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xmokmc/could_frequent_masturbation_have_caused_pelvic/",
+      "posted_at": "2026-11-03T09:32:21.174000+0000",
+      "votes": 3,
+      "comments": 11,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "What if pain continues after the previously treated problem has healed?",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xmoi1l/pain_after_a_bowel_movement_what_has_helped_you/",
+      "posted_at": "2026-11-03T09:27:46.455000+0000",
+      "votes": 3,
+      "comments": 2,
+      "decision": "selected",
+      "reason": "3 votes and 2 comments. General follow-up question applies beyond the source poster; personal procedure and intimate details not reproduced."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xmo481/sensory_testing_shows_altered_sensory_function_in/",
+      "posted_at": "2026-11-03T09:04:08.406000+0000",
+      "votes": 8,
+      "comments": 1,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xmkmhm/bladder_wall_thickening/",
+      "posted_at": "2026-11-03T05:30:10.622000+0000",
+      "votes": 2,
+      "comments": 2,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xmdnhe/anyone_have_urethral_inflammation_with_pelvic/",
+      "posted_at": "2026-11-02T23:53:55.300000+0000",
+      "votes": 5,
+      "comments": 4,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "How do I find current pelvic physiotherapy after a difficult previous appointment?",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xmbjfc/pt_raleigh_nc/",
+      "posted_at": "2026-11-02T22:24:47.810000+0000",
+      "votes": 1,
+      "comments": 0,
+      "decision": "selected",
+      "reason": "1 vote and 0 comments. Fresh directory-verification and consent concern; useful access task rather than an unsupported local provider ranking."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xm8coa/my_story_and_how_i_started_to_recover/",
+      "posted_at": "2026-11-02T20:21:48.132000+0000",
+      "votes": 21,
+      "comments": 8,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Does breathing air need to reach my pelvic floor?",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xm7d0i/help_please/",
+      "posted_at": "2026-11-02T19:45:30.564000+0000",
+      "votes": 6,
+      "comments": 16,
+      "decision": "selected",
+      "reason": "6 votes and 16 comments: strongest qualifying fresh pelvic question after testimonials and diagnosis requests are excluded. Google PAA also asks about belly breathing and relaxation sensations."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xm753m/hypertonic_pelvic_floor_after_emselectro_muscle/",
+      "posted_at": "2026-11-02T19:37:22.114000+0000",
+      "votes": 1,
+      "comments": 0,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xm1zeg/postpartum_prolapse_spiraling/",
+      "posted_at": "2026-11-02T16:33:24.884000+0000",
+      "votes": 2,
+      "comments": 6,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xm0b9i/likely_pudendal_neuralgia_for_atleast_34_years/",
+      "posted_at": "2026-11-02T15:31:42.936000+0000",
+      "votes": 5,
+      "comments": 12,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xm05wy/28_stage_1_uterine_prolapse/",
+      "posted_at": "2026-11-02T15:26:21.430000+0000",
+      "votes": 2,
+      "comments": 2,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xlz30z/hypertension_fixed_but_penis_still_weird/",
+      "posted_at": "2026-11-02T14:45:18.348000+0000",
+      "votes": 2,
+      "comments": 5,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xlxap6/low_abdominal_pain_and_pressure/",
+      "posted_at": "2026-11-02T13:33:31.877000+0000",
+      "votes": 2,
+      "comments": 0,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xlw8cs/delayed_pelvic_floor_pain_days_after_running/",
+      "posted_at": "2026-11-02T12:46:26.656000+0000",
+      "votes": 4,
+      "comments": 2,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xlt594/hello_everyone_i_have_a_question_since_hfrelated/",
+      "posted_at": "2026-11-02T09:56:32.366000+0000",
+      "votes": 1,
+      "comments": 1,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xlsh0k/potential_ideas_for_tight_pelvic_floor_causes_and/",
+      "posted_at": "2026-11-02T09:13:04.376000+0000",
+      "votes": 0,
+      "comments": 2,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xlo5dw/pls_read_full_story_and_help_me_recover_from_this/",
+      "posted_at": "2026-11-02T04:47:19.104000+0000",
+      "votes": 5,
+      "comments": 2,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xll9lm/random_burning_around_my_belly_button/",
+      "posted_at": "2026-11-02T02:16:47.131000+0000",
+      "votes": 2,
+      "comments": 3,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xlka77/what_helps_with_feelings_of_urgency/",
+      "posted_at": "2026-11-02T01:28:14.886000+0000",
+      "votes": 3,
+      "comments": 4,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xlj4jl/realized_i_keep_all_my_weight_on_my_toes_when/",
+      "posted_at": "2026-11-02T00:32:25.373000+0000",
+      "votes": 34,
+      "comments": 19,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xlh9b8/could_accutane_cause_chronic_pelvic_floor/",
+      "posted_at": "2026-11-01T23:06:36.366000+0000",
+      "votes": 0,
+      "comments": 2,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xlgz3b/levator_ani_nervesmuscles_and_prospects_of_healing/",
+      "posted_at": "2026-11-01T22:53:55.971000+0000",
+      "votes": 6,
+      "comments": 19,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xlfahn/dor_no_testiculo_direito/",
+      "posted_at": "2026-11-01T21:41:07.196000+0000",
+      "votes": 1,
+      "comments": 4,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xlajhd/dolor_de_pene_y_alivio_cuando_tengo_sensación_de/",
+      "posted_at": "2026-11-01T18:30:28.084000+0000",
+      "votes": 1,
+      "comments": 0,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xl6st2/i_need_pelvic_floor_treatment_but_the_clinic/",
+      "posted_at": "2026-11-01T16:05:05.796000+0000",
+      "votes": 4,
+      "comments": 19,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xl2ar9/i_really_need_some_help_has_anyone_experienced_a/",
+      "posted_at": "2026-11-01T12:52:01.148000+0000",
+      "votes": 2,
+      "comments": 11,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xl1mja/luts_and_bph/",
+      "posted_at": "2026-11-01T12:16:49.946000+0000",
+      "votes": 1,
+      "comments": 7,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xl02qb/pain_during_ejaculation/",
+      "posted_at": "2026-11-01T10:48:25.392000+0000",
+      "votes": 4,
+      "comments": 5,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xkwvcd/pelvic_floor_spasms_after_sex/",
+      "posted_at": "2026-11-01T07:23:08.659000+0000",
+      "votes": 2,
+      "comments": 0,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xkwafe/hypotonia_or_hypertonia/",
+      "posted_at": "2026-11-01T06:46:55.280000+0000",
+      "votes": 4,
+      "comments": 4,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xkjqy1/foot_arch_tingling_and_toe_contractions_linked_to/",
+      "posted_at": "2026-10-31T19:55:52.002000+0000",
+      "votes": 5,
+      "comments": 11,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xkiqxx/4_months_postpartum_need_encouragement/",
+      "posted_at": "2026-10-31T19:14:28.255000+0000",
+      "votes": 2,
+      "comments": 6,
+      "decision": "skip",
+      "reason": "Outside primary window; expansion not required."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/Endo/comments/1xmxgbj/when_do_ryeqo_side_effects_end_after_you_stop/",
+      "posted_at": "2026-11-03T16:23:51.167000+0000",
+      "votes": 1,
+      "comments": 2,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "How do I plan time off work and pelvic therapy around laparoscopy?",
+      "url": "https://www.reddit.com/r/Endo/comments/1xmxd2t/how_long_should_i_take_off_of_work/",
+      "posted_at": "2026-11-03T16:20:42.705000+0000",
+      "votes": 1,
+      "comments": 14,
+      "decision": "selected",
+      "reason": "1 vote and 14 comments on a fresh surgery-planning question; relevant care-coordination gap, not a request for an app-generated recovery timetable."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/Endo/comments/1xmx52x/confused_cyst_on_ovary/",
+      "posted_at": "2026-11-03T16:12:35.768000+0000",
+      "votes": 2,
+      "comments": 0,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/Endo/comments/1xmtmzz/how_did_you_know_you_have_endo/",
+      "posted_at": "2026-11-03T13:58:59.698000+0000",
+      "votes": 2,
+      "comments": 5,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/Endo/comments/1xmt4um/why_am_i_not_able_to_feel_sex_at_all_but_im_able/",
+      "posted_at": "2026-11-03T13:37:29.873000+0000",
+      "votes": 3,
+      "comments": 2,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/Endo/comments/1xmsnsk/auricular_tens/",
+      "posted_at": "2026-11-03T13:16:20.198000+0000",
+      "votes": 1,
+      "comments": 0,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/Endo/comments/1xmsgbi/stuck_in_luteal_hell_how_to_make_myself_menstruate/",
+      "posted_at": "2026-11-03T13:06:38.740000+0000",
+      "votes": 1,
+      "comments": 1,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/Endo/comments/1xmrery/agreed_to_private_surgery/",
+      "posted_at": "2026-11-03T12:15:40.010000+0000",
+      "votes": 2,
+      "comments": 0,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/Endo/comments/1xmr532/endo_pain/",
+      "posted_at": "2026-11-03T12:01:51.432000+0000",
+      "votes": 2,
+      "comments": 0,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Other pelvic-health question, procedure or personal account; case detail omitted",
+      "url": "https://www.reddit.com/r/Endo/comments/1xmqn96/i_need_help_deciding_what_to_do/",
+      "posted_at": "2026-11-03T11:35:49.032000+0000",
+      "votes": 1,
+      "comments": 0,
+      "decision": "skip",
+      "reason": "Personal diagnosis, testimonial, procedure-specific treatment or already-covered intent without a useful distinct addition."
+    }
+  ],
+  "google_observations": [
+    {
+      "query": "cream or white warm cool undertone color analysis",
+      "observed_at": "2026-11-03T18:07:03.889Z",
+      "questions": [],
+      "result_titles": [
+        "Cool vs Warm Undertone Test | Color Analysis Blog",
+        "Warm vs Cool Undertones: How to Tell Which You Are",
+        "How Do I Know if I Should Wear White or Cream?"
+      ],
+      "related_searches": [
+        "Pink undertone is cool or warm",
+        "Pale skin cool undertones best colors",
+        "Fair skin warm undertones clothes",
+        "Ivory skin tone",
+        "Warm pale skin"
+      ],
+      "note": "Actual Google results; no PAA block visible, related searches recorded verbatim. Localized Russian UI, personalized results. AI overview excluded from factual evidence."
+    },
+    {
+      "query": "pelvic floor breathing air belly relaxation flare",
+      "observed_at": "2026-11-03T18:05:27.428Z",
+      "questions": [
+        "Is belly breathing good for the pelvic floor?",
+        "Does your pelvic floor relax when you inhale or exhale?",
+        "How to do pelvic floor relaxation breathing?",
+        "What does it feel like when your pelvic floor relaxes?"
+      ],
+      "results": [
+        "UCLH: Breathing and the Pelvic Floor",
+        "Milton Keynes University Hospital: Patient Information Pelvic Floor Relaxation",
+        "University Hospitals Plymouth: Pelvic Floor Relaxation"
+      ],
+      "note": "Actual Google results and collapsed People also ask labels, localized Russian UI; no volume or global ranking inferred; AI overview not used."
+    }
+  ],
+  "selection_summary": "One distinct new shopping task and nine substantial intent-matched updates. High-attention repeated typing and jewelry queries skipped where existing coverage answers them.",
+  "outcomes": {
+    "stylist_ai": {
+      "target": 5,
+      "new": 1,
+      "updated": 4,
+      "shortfall": 0
+    },
+    "pelvic_gym": {
+      "target": 5,
+      "new": 0,
+      "updated": 5,
+      "shortfall": 0
+    }
+  },
+  "checked_sources": [
+    {
+      "url": "https://www.adobe.com/creativecloud/photography/technique/white-balance.html",
+      "checked": "2026-11-03",
+      "scope": "Photographic color effects, not season validity."
+    },
+    {
+      "url": "https://www.ebay.com/help/buying/search-tips/saved-searches?id=4051",
+      "checked": "2026-11-03",
+      "scope": "Saved searches, alerts and editable filters."
+    },
+    {
+      "url": "https://www.nhlbi.nih.gov/health/lungs/breathing-benefits",
+      "checked": "2026-11-03",
+      "scope": "Inhaled air travels into lungs; diaphragm movement."
+    },
+    {
+      "url": "https://www.nhsfife.org/services/all-services/physiotherapy/pelvic-health-physiotherapy/pelvic-pain/",
+      "checked": "2026-11-03",
+      "scope": "Breathing teaching image and comfortable release."
+    },
+    {
+      "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/interstitial-cystitis-bladder-pain-syndrome/treatment",
+      "checked": "2026-11-03",
+      "scope": "Individual care, stress support and IC strengthening caution."
+    },
+    {
+      "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/laparoscopy-recovering-well/",
+      "checked": "2026-11-03",
+      "scope": "Procedure- and work-dependent recovery; no fixed days prescribed."
+    },
+    {
+      "url": "https://www.mcht.nhs.uk/our-services/specialist-pelvic-health-physiotherapy-service",
+      "checked": "2026-11-03",
+      "scope": "Consent, declining internal examination and chaperone discussion."
+    },
+    {
+      "url": "https://www.nhs.uk/symptoms/anal-pain/",
+      "checked": "2026-11-03",
+      "scope": "Persistent symptoms warrant assessment; warning signs."
+    },
+    {
+      "url": "https://www.nhs.uk/symptoms/pelvic-pain/",
+      "checked": "2026-11-03",
+      "scope": "Routine/urgent/emergency distinctions."
+    }
+  ],
+  "illustrations": [
+    {
+      "slug": "find-discontinued-clothes",
+      "path": "stylist_ai/blog/assets/illustrations/find-discontinued-clothes.webp",
+      "bytes": 176568,
+      "width": 1200,
+      "height": 800,
+      "master": "Outside publishing repository",
+      "responsive_widths": [
+        400,
+        800
+      ]
+    }
+  ],
+  "additional_changes": [
+    "Two contextual incoming links and a regular shopping-topic route.",
+    "Article content uses existing approved templates; no product UI design changes."
+  ],
+  "review_status": "No clinician engaged or review claimed. Original draft diary remains outside repository.",
+  "measurement": "November 7 and 14 cohort checks not yet due. Publication is not proof of indexing or visits.",
+  "validation": {
+    "status": "passed",
+    "checks": [
+      "Both builds; 123 journal pages validated.",
+      "JavaScript syntax and both analytics consent suites.",
+      "34 city guides isolation/banner/locales and editorial duplication audit.",
+      "git diff --check"
+    ],
+    "capacity_after_assets": {
+      "measurement": "Working files excluding Git/runtime/build caches; includes source and research files normally excluded by Jekyll, so this overestimates the static payload. Git object storage is measured separately.",
+      "working_file_bytes": 45691346,
+      "git_object_bytes": 73315328,
+      "published_site_limit_bytes": 1000000000,
+      "illustration_stop_threshold_bytes": 800000000,
+      "can_add_illustrations": true,
+      "remaining_to_site_limit_bytes": 954308654,
+      "reference": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
+    },
+    "protected_files_checked": 199,
+    "protected_changes": 0,
+    "limitations": [
+      "Native Safari banner metadata checked; no native iOS device test."
+    ],
+    "layout": "All ten selected articles checked at 390px and 1280px: one H1, no body/table overflow, correct app banner IDs, two Apple badges, loaded primary images. Representative screenshots inspected and new FAQ opened successfully."
+  },
+  "deployment": {
+    "status": "not_pushed"
+  },
+  "notification": {
+    "channel": "current_chat",
+    "telegram": "Saved destination PENDING; no Telegram message sent."
+  }
+}

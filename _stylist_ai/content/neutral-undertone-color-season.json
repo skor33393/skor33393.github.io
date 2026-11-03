@@ -5,7 +5,7 @@
   "description": "If warm and cool labels both seem partly right, compare clothing in smaller steps and build a useful palette before forcing a seasonal answer.",
   "category": "Color analysis",
   "datePublished": "2026-10-29",
-  "dateModified": "2026-10-31",
+  "dateModified": "2026-11-03",
   "sourcesChecked": "2026-10-29",
   "sortOrder": 0,
   "excerpt": "If warm and cool labels both seem partly right, compare clothing in smaller steps and build a useful palette before forcing a seasonal answer.",
@@ -20,6 +20,11 @@
       "id": "pairs",
       "title": "Compare one color variable at a time",
       "html": "<p>Choose two items with similar lightness, fabric and shape but different warm-cool direction. A muted rose and soft terracotta are one possible pair. A bright orange sweater beside a pale gray blouse changes too much at once to isolate temperature.</p><table><thead><tr><th>Question</th><th>Keep similar</th><th>Change</th></tr></thead><tbody><tr><td>Warmer or cooler?</td><td>Depth and intensity</td><td>Warm-cool direction</td></tr><tr><td>Softer or clearer?</td><td>Color family and depth</td><td>Intensity</td></tr><tr><td>Quieter or bolder outfit?</td><td>The main top</td><td>Contrast with the other pieces</td></tr></tbody></table><p>These are practical comparisons, not laboratory controls. Work with what you own. If two items differ in several ways, note that limitation and describe the whole look you preferred.</p>"
+    },
+    {
+      "id": "cream-white",
+      "title": "Can cream versus white settle warm or cool?",
+      "html": "<p>A cream-and-white pair is a useful clothing choice, but it is a narrow comparison. A bright white cotton shirt and a cream wool knit differ in texture, neckline and brightness as well as their warm-cool appearance. Prefer one complete garment if you like; do not assume the comparison isolated undertone.</p><p>For a more focused trial, use similar plain fabrics, show a comparable amount near the face, and keep the rest of the outfit fixed. Compare cream, white, then cream again in the same session. If the background changes between photographs, use the <a href=\"/stylist_ai/blog/color-analysis-photo-lighting/\">repeatable photo setup</a> before interpreting the result.</p><table><thead><tr><th>Observation</th><th>Useful conclusion</th><th>Still unresolved</th></tr></thead><tbody><tr><td>You prefer this cream top twice</td><td>It is a promising everyday neutral</td><td>Whether all warmer colors will appeal</td></tr><tr><td>You prefer white with navy, cream with brown</td><td>The outfit changes your choice</td><td>Whether one neutral is a universal winner</td></tr><tr><td>The result reverses between photos</td><td>The comparison is not stable enough</td><td>Your seasonal label</td></tr></tbody></table><p>Next, try a second color family at similar depth rather than buying a full warm or cool wardrobe. A muted rose versus a soft terracotta, for example, asks a different and more useful follow-up than repeating the same two photos indefinitely. Record the actual garment you would wear. Stylist AI can help organize color combinations around that neutral; it does not make this two-fabric exercise a definitive test.</p>"
     },
     {
       "id": "light",
@@ -72,5 +77,6 @@
     "width": 1200,
     "height": 800,
     "alt": "A fan of paired warm and cool fabric swatches beside a small oval mirror on ivory linen."
-  }
+  },
+  "sourceCheckNote": "The new practical comparison was added November 3, 2026. Photographic color guidance was checked against Adobe; the comparison tables are original editorial suggestions."
 }

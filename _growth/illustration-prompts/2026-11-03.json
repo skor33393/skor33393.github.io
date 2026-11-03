@@ -1,0 +1,15 @@
+{
+  "run_id": "2026-11-03-2200",
+  "generator": "Built-in image generation",
+  "images": [
+    {
+      "slug": "find-discontinued-clothes",
+      "prompt": "Use case: illustration-story. Asset type: landscape 3:2 editorial illustration for a practical fashion article about finding a discontinued garment secondhand. Create a refined hand-painted gouache and pencil illustration on warm ivory paper: a deep teal long-sleeved dress with a distinctive scalloped collar laid flat on a table, beside a small photograph of that same dress, a blank garment label close-up, a soft measuring tape, and a notebook containing only simple drawn shape details (collar, buttons, hem) with no writing. Clear visual story: identify a garment by its distinctive construction details, then check measurements. Soft natural shadows, muted navy, teal, coral accent. Spacious balanced composition, tactile fabric and paper. No people, no brand logos, no text, no phone or app interface, no website mockup, no watermark. Make garment details anatomically and mechanically plausible.",
+      "production_path": "stylist_ai/blog/assets/illustrations/find-discontinued-clothes.webp",
+      "width": 1200,
+      "height": 800,
+      "master_storage": "Outside publishing repository",
+      "review": "Inspected: clear garment details, no text, logos, fake interface or forum photos."
+    }
+  ]
+}

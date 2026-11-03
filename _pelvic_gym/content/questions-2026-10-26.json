@@ -6,7 +6,7 @@
     "description": "Learn how pelvic floor therapy may fit into endometriosis care, why more Kegels may not help, and what to ask before starting a home exercise routine.",
     "category": "Bladder & symptoms",
     "datePublished": "2026-10-26",
-    "dateModified": "2026-10-31",
+    "dateModified": "2026-11-03",
     "sourcesChecked": "2026-10-26",
     "excerpt": "Understand the role of pelvic health physiotherapy, its limits, and the questions that make a home plan more useful.",
     "quickAnswer": "Pelvic health physiotherapy may help address muscle tension and movement-related problems that accompany endometriosis pain. It does not remove endometriosis or replace assessment and treatment by your medical team. The appropriate plan may focus on relaxation and coordination rather than strengthening. Do not assume that pelvic pain means you need more Kegels.",
@@ -35,6 +35,11 @@
         "id": "home-plan",
         "title": "Can I do the exercises at home?",
         "html": "<p>A useful home plan is one your therapist has chosen and explained for you. Ask to practice the instructions during the appointment, then repeat back what you understood. Record the movement, position, rest, frequency and any limits the therapist gives you.</p><p>For example, a helpful note might say: “I understand the starting position, but I cannot tell when I have released the contraction.” That gives your therapist something to check. It is more actionable than silently adding extra repetitions.</p><p>If cost or appointment availability is a barrier, tell the clinic. Ask about referral options, public or community services, the cost of an assessment, and how follow-up might work. Availability varies. Copying a routine from a stranger is not a substitute for knowing whether their problem resembles yours.</p><p>Choose a simple way to record how your agreed goal is changing. You might note whether sitting through a meeting is easier, alongside any symptom flare. Bring that record to the review; it does not need to be a perfect diary.</p>"
+      },
+      {
+        "id": "surgery-work",
+        "title": "How should work and pelvic therapy be planned around a laparoscopy?",
+        "html": "<p>Ask what procedure is expected and how the advice would change if treatment is performed as well as diagnosis. “Laparoscopy” describes the surgical approach, not one fixed amount of recovery time. <a href=\"https://www.rcog.org.uk/for-the-public/browse-our-patient-information/laparoscopy-recovering-well/\">RCOG distinguishes diagnostic and operative procedures and explains that return to work also depends on the job</a>. Its general guide has a defined scope and does not replace your surgical team’s instructions.</p><p>Bring a description of an actual workday rather than only your job title:</p><table><thead><tr><th>Task</th><th>Question for the team</th></tr></thead><tbody><tr><td>Commute and driving</td><td>What restrictions apply, and when should I reassess readiness?</td></tr><tr><td>Sitting or standing</td><td>Would shorter shifts, position changes or breaks help the return plan?</td></tr><tr><td>Lifting and physical duties</td><td>Which tasks have specific limits after my procedure?</td></tr><tr><td>Existing pelvic therapy</td><td>Which exercises or treatments should pause, and who clears their return?</td></tr></tbody></table><p>A useful preoperative question is: “If you find and treat more than expected, who will update my work advice and rehabilitation instructions?” After surgery, ask for the plan to reflect what was actually done. Keep the discharge instructions available to the physiotherapist rather than relying on a remembered estimate.</p><p>For planning, arrange a review point and a way to adjust work duties if needed. Do not use an app streak or an earlier recovery story as clearance to resume contractions or internal therapy. Pelvic Gym can support a suitable strengthening plan later; it cannot determine postoperative readiness.</p>"
       },
       {
         "id": "when-to-seek-care",
@@ -81,6 +86,10 @@
       {
         "title": "NHS: Pelvic pain and when to seek help",
         "url": "https://www.nhs.uk/symptoms/pelvic-pain/"
+      },
+      {
+        "title": "RCOG: Laparoscopy recovery and returning to work",
+        "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/laparoscopy-recovering-well/"
       }
     ],
     "related": [
@@ -89,6 +98,7 @@
       "pelvic-floor-relaxation"
     ],
     "cta": "assessment",
-    "keyword": "pelvic floor therapy endometriosis"
+    "keyword": "pelvic floor therapy endometriosis",
+    "sourceCheckNote": "Existing sources retain their previously recorded check dates. The How should work and pelvic therapy be planned around a laparoscopy? section was checked against its linked sources on November 3, 2026."
   }
 ]

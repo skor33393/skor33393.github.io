@@ -5,7 +5,7 @@
   "description": "Confused by olive skin and conflicting color-season advice? Separate photo shifts from outfit preferences and compare actual fabrics without forcing a label.",
   "category": "Color analysis",
   "datePublished": "2026-10-26",
-  "dateModified": "2026-10-31",
+  "dateModified": "2026-11-03",
   "sortOrder": 4,
   "excerpt": "If the labels keep changing, make the comparison smaller. Start with the clothes in front of you.",
   "quickAnswer": "An olive skin description does not give you a complete wardrobe palette. If seasonal advice conflicts, compare actual fabrics in consistent light and separate different questions: light versus dark, muted versus vivid, and warmer versus cooler-looking colors. Record what you enjoy wearing without forcing every preference into one season.",
@@ -19,6 +19,11 @@
       "id": "photographs",
       "title": "Check the photograph before judging the garment",
       "html": "<p><a href=\"https://www.adobe.com/creativecloud/photography/technique/white-balance.html\">Adobe explains that white balance affects how colors appear in photographs</a>. If your face, wall and clothing all look warmer in one image, do not attribute that entire change to the garment beside you.</p><p>Use the same position, background and light for a comparison. Avoid beauty filters, and check the mirror as well as the images. If a cloud passes or the camera changes exposure noticeably, repeat the pair rather than comparing incompatible pictures. A photograph is useful evidence about that photograph; it is not a perfectly calibrated view of your coloring.</p>"
+    },
+    {
+      "id": "palette-exceptions",
+      "title": "Does liking only part of a palette mean the season is wrong?",
+      "html": "<p>Keep two questions separate: whether a palette gives you useful outfit ideas, and whether every shade in it is a favorite. You do not have to enjoy the entire set to use it. Equally, calling your skin olive is not a reason to limit every experiment to grayish or earthy colors.</p><p>Try a small wardrobe audit with three columns:</p><table><thead><tr><th>Keep</th><th>Investigate</th><th>Leave aside</th></tr></thead><tbody><tr><td>A deep blue top you repeatedly wear</td><td>A clear blue and a muted blue at similar depth</td><td>A shade you dislike regardless of the label</td></tr><tr><td>A rose scarf that works with several outfits</td><td>A warmer and a cooler rose with similar intensity</td><td>A garment rejected because of its fit, not its color</td></tr></tbody></table><p>This is an original sorting example, not a proposed palette for everyone with olive skin. The “investigate” column is where you learn something; the “leave aside” column stops a disliked garment or uncomfortable cut from being mistaken for a color result.</p><p>If you repeatedly enjoy clearer shades, keep exploring them. If subdued shades are your favorites, use that preference without turning it into a rule for other people. One exception does not settle a season, and the label should not overrule a complete outfit you love. Use the <a href=\"/stylist_ai/blog/color-depth-vs-brightness/\">depth and brightness comparison</a> to make the next test specific. Stylist AI’s suggested palette can supply ideas for that test, while your own garments remain the practical reference.</p>"
     },
     {
       "id": "earth-tones",
@@ -76,5 +81,5 @@
     "soft-summer-or-soft-autumn",
     "gold-or-silver-jewelry"
   ],
-  "sourceCheckNote": "Original sources were checked on 2026-10-26. The added comparison exercise was reviewed October 31, 2026; it is editorial styling guidance."
+  "sourceCheckNote": "The new practical comparison was added November 3, 2026. Photographic color guidance was checked against Adobe; the comparison tables are original editorial suggestions."
 }

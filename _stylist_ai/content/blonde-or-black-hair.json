@@ -5,7 +5,7 @@
   "description": "Compare blonde, black and a middle option with your everyday wardrobe, then prepare a salon brief that includes upkeep and hair condition.",
   "category": "Color analysis",
   "datePublished": "2026-10-29",
-  "dateModified": "2026-10-31",
+  "dateModified": "2026-11-03",
   "sourcesChecked": "2026-10-29",
   "sortOrder": 0,
   "excerpt": "Compare blonde, black and a middle option with your everyday wardrobe, then prepare a salon brief that includes upkeep and hair condition.",
@@ -20,6 +20,11 @@
       "id": "compare",
       "title": "Compare three depths, not only two extremes",
       "html": "<p>Collect a light reference, a dark reference and one middle-depth brown. Keep the length and styling as comparable as you can. Salon sample locks or a wig can help you picture the direction without a permanent change.</p><ol><li>Choose one familiar top and your ordinary makeup.</li><li>Look at the options in the same place and light.</li><li>Compare the full head-and-shoulders view, then the whole outfit.</li><li>Repeat with a second top you wear often.</li><li>Note what you like about each option rather than assigning a score to your face.</li></ol><p>If you use photos, avoid filters and mismatched lighting. <a href=\"https://www.adobe.com/creativecloud/photography/technique/white-balance.html\">Adobe explains how white balance affects the color cast in a photograph</a>. A warm indoor picture and a cool outdoor picture make a poor comparison.</p>"
+    },
+    {
+      "id": "wig-test",
+      "title": "What if you like a blonde wig more than your natural dark hair?",
+      "html": "<p>Decide whether you want to wear the wig, change your hair color, or simply keep both looks available. Liking a wig is already a valid reason to enjoy wearing it. It does not obligate you to turn the look into a permanent color change.</p><p>Separate three things in your comparison:</p><table><thead><tr><th>Part of the look</th><th>Question to answer</th></tr></thead><tbody><tr><td>Color</td><td>Do you like the lighter frame around your face with ordinary clothes?</td></tr><tr><td>Cut and volume</td><td>Would the appeal remain with your usual length, parting and styling?</td></tr><tr><td>Occasion</td><td>Do you want it for daily wear, occasional outfits or a special event?</td></tr></tbody></table><p>Try the wig with one familiar daytime outfit and one outfit where you want a stronger change. Keep light and makeup comparable when checking the color; then judge the full styled look on its own terms. A party photograph may capture a favorite mood without answering the everyday-wear question.</p><p>For a salon consultation, describe which part you want to borrow: “the lightness around the face,” “this beige-blonde direction,” or “the softer outline.” Ask the colorist what can be achieved from your current hair and processing history. A wig shows a visual direction; it does not demonstrate what dye or lightening will do to your own hair.</p><p>You can also keep the wig and build a few outfits around it. Use Stylist AI for clothing color ideas with each look rather than assuming that enjoying blonde requires replacing all the colors you wear with dark hair.</p>"
     },
     {
       "id": "fair-skin",
@@ -85,5 +90,5 @@
     "height": 800,
     "alt": "Illustration of blonde, brown and black salon hair swatches beside a mirror and folded fabrics."
   },
-  "sourceCheckNote": "Original sources were checked on 2026-10-29. The added comparison exercise was reviewed October 31, 2026; it is editorial styling guidance. The already-dyed-black wardrobe comparison was added October 31, 2026 as original editorial decision support; it gives no processing prescription."
+  "sourceCheckNote": "The new practical comparison was added November 3, 2026. Photographic color guidance was checked against Adobe; the comparison tables are original editorial suggestions."
 }

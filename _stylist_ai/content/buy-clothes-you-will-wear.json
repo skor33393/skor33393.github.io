@@ -49,7 +49,7 @@
     {
       "id": "next-comparison",
       "title": "A specific color-shopping example",
-      "html": "<p>Buying a pink garment? The <a href=\"/stylist_ai/blog/choose-pink-for-winter-palette/\">Winter-palette pink checklist</a> shows how to compare a product image, your own palette and three practical outfit options.</p>"
+      "html": "<p>Buying a pink garment? The <a href=\"/stylist_ai/blog/choose-pink-for-winter-palette/\">Winter-palette pink checklist</a> shows how to compare a product image, your own palette and three practical outfit options.</p><p>If the exact garment you wanted has disappeared from sale, use our <a href=\"/stylist_ai/blog/find-discontinued-clothes/\">guide to finding discontinued clothes</a> to identify it, set a focused search and check a secondhand match.</p>"
     }
   ],
   "faqs": [

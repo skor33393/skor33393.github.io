@@ -461,6 +461,11 @@
         "html": "<p>A new twitch, vibration or spasm during breathing is not a reliable sign that the exercise is releasing tension, nor does it identify a particular diagnosis. Stop the deliberate exercise and return to your ordinary breathing. Do not take bigger breaths, push downward or repeat the movement to chase a release.</p><p>For a review, note the position, whether you were inhaling or exhaling, whether you were deliberately pushing, and whether the sensation settled when you stopped. Describe pain, urinary changes or other accompanying symptoms too. Ask the clinician who gave you the practice whether to adjust it or pause it until assessed.</p><p><a href=\"https://www.nhsfife.org/services/all-services/physiotherapy/pelvic-health-physiotherapy/pelvic-pain/\">NHS Fife’s breathing guidance</a> uses a comfortable position and allows the pelvic floor to soften during inhalation. It does not require a dramatic sensation. If attention to the area increases discomfort or distress, ask for another way to work toward your goal.</p><p>Persistent or recurring pain needs medical advice. For severe or worsening pelvic pain, or pain with faintness or heavy bleeding, seek emergency care; <a href=\"https://www.nhs.uk/symptoms/pelvic-pain/\">NHS guidance gives the full warning signs</a>. An app workout is not the next step for unexplained painful spasms.</p>"
       },
       {
+        "id": "returning-flare",
+        "title": "What if symptoms return after a long settled period?",
+        "html": "<p>A flare after a better period is a reason to review the current situation, not proof that you must restart every treatment or that all progress has disappeared. Do not assume that new pain or a urinary change has the same explanation as an earlier episode. Use the care guidance below for new warning signs.</p><p>For people with diagnosed interstitial cystitis or bladder pain syndrome, <a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/interstitial-cystitis-bladder-pain-syndrome/treatment\">NIDDK describes individualized care and pelvic floor physiotherapy when appropriate</a>. It cautions against pelvic floor strengthening with IC symptoms unless you are working with a physical therapist. A return of bladder discomfort is therefore not a reason to increase Kegel workouts.</p><p>Prepare a short review note with four headings:</p><ul><li><strong>Previous baseline:</strong> what daily activities had become manageable.</li><li><strong>Current change:</strong> what is different, when it began and what now limits the day.</li><li><strong>Plan tried:</strong> which previously agreed steps you used and how you responded.</li><li><strong>Decision needed:</strong> who will review the flare and what to do while waiting.</li></ul><p>If stress or worry has increased, mention it without treating that as the whole diagnosis. NIDDK includes stress management and support among care options; that does not mean symptoms are imaginary or that calming down is a guaranteed treatment. Ask your clinician to distinguish a comfort measure from treatment of the underlying problem.</p><p>A possible message is: “Symptoms have returned after a settled period. My usual plan is not enough this time. Can we review the change and agree which measures are suitable now?” Pelvic Gym is a strengthening tool, not a flare-management service. Follow the clinician’s current plan before considering workouts.</p>"
+      },
+      {
         "id": "assessment",
         "title": "When breathing practice is not enough",
         "html": "<p>Pelvic pain has many potential causes, and NHS Fife advises checking with a doctor to rule out other explanations. Physiotherapy may include relaxation teaching and other individualized approaches. <a href=\"https://www.nhsfife.org/services/all-services/patient-advice/overactive-pelvic-floor-muscles/\">Read its guidance on overactive pelvic floor muscles.</a></p><p>Book an assessment for persistent pain, painful sex or difficulty emptying. Seek emergency medical care now for severe or worsening pelvic pain, fainting, or heavy vaginal bleeding. Pelvic pain with fever, blood in urine or difficulty passing urine needs urgent medical advice. <a href=\"https://www.nhs.uk/symptoms/pelvic-pain/\">NHS pelvic pain guidance explains warning signs.</a></p><p>This is a gentle educational practice, not a diagnosis or treatment promise. The right next step for painful symptoms is professional assessment, even if a few breaths temporarily make you feel more comfortable.</p>"
@@ -500,6 +505,10 @@
       {
         "title": "NHS: Pelvic pain",
         "url": "https://www.nhs.uk/symptoms/pelvic-pain/"
+      },
+      {
+        "title": "NIDDK: Treatment of interstitial cystitis",
+        "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/interstitial-cystitis-bladder-pain-syndrome/treatment"
       }
     ],
     "related": [
@@ -510,7 +519,7 @@
     "cta": "assessment",
     "keyword": "pelvic floor relaxation",
     "researchNote": "Researched 2026-10-24. Search intent: safe relaxation and breathing. Uses gentle release without bearing down, breath holding, self-internal treatment or forceful stretches. Assessment CTA for pain; source-derived paraphrases kept brief across the five-article set. New decision-support section checked 2026-10-27 against its linked primary sources; original publication and earlier source-check scope retained.",
-    "dateModified": "2026-10-31",
-    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. Sources supporting the new decision-support section were checked October 27, 2026. The revised breathing troubleshooting section was checked October 31, 2026 against Royal Berkshire and NHS Fife guidance. It does not adopt breathing percentages or treatment claims from personal accounts."
+    "dateModified": "2026-11-03",
+    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. Sources supporting the new decision-support section were checked October 27, 2026. The revised breathing troubleshooting section was checked October 31, 2026 against Royal Berkshire and NHS Fife guidance. It does not adopt breathing percentages or treatment claims from personal accounts. The What if symptoms return after a long settled period? section was checked against its linked sources on November 3, 2026."
   }
 ]
