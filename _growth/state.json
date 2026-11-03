@@ -2,7 +2,7 @@
   "schema_version": 1,
   "timezone": "Asia/Dubai",
   "schedule_local": "22:00 daily",
-  "last_successful_scan": "2026-11-02T18:17:30.106Z",
+  "last_successful_scan": "2026-11-03T18:12:53.009663+00:00",
   "runs": {
     "2026-10-26-initial": "completed",
     "2026-10-26-stylist-expansion": "completed",
@@ -16,7 +16,7 @@
     "2026-10-31-2200": "completed",
     "2026-11-01-2200": "completed",
     "2026-11-02-2200": "completed",
-    "2026-11-03-2200": "prepared"
+    "2026-11-03-2200": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -376,6 +376,41 @@
         "run_id": "2026-11-02-2200",
         "status": "updated",
         "verified_at": "2026-11-02T18:32:24.727831+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xmgp7p/olive_skin_doesnt_affect_your_color_season/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/olive-skin-color-analysis/",
+        "run_id": "2026-11-03-2200",
+        "status": "updated",
+        "verified_at": "2026-11-03T18:17:07.316885+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xmuudj/am_i_warm_or_cool/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/neutral-undertone-color-season/",
+        "run_id": "2026-11-03-2200",
+        "status": "updated",
+        "verified_at": "2026-11-03T18:17:07.316885+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xmlivw/should_i_keep_going_with_the_blonde/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/blonde-or-black-hair/",
+        "run_id": "2026-11-03-2200",
+        "status": "updated",
+        "verified_at": "2026-11-03T18:17:07.316885+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xmpx6s/whats_your_one_that_got_away_item/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/find-discontinued-clothes/",
+        "run_id": "2026-11-03-2200",
+        "status": "published",
+        "verified_at": "2026-11-03T18:17:07.316885+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xmq364/any_recommendations_for_in_person_analysts_in_the/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/is-professional-color-analysis-worth-it/",
+        "run_id": "2026-11-03-2200",
+        "status": "updated",
+        "verified_at": "2026-11-03T18:17:07.316885+00:00"
       }
     ],
     "pelvic_gym": [
@@ -665,6 +700,41 @@
         "run_id": "2026-11-02-2200",
         "status": "updated",
         "verified_at": "2026-11-02T18:32:24.727831+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xm7d0i/help_please/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/breathing-during-kegel-exercises/",
+        "run_id": "2026-11-03-2200",
+        "status": "updated",
+        "verified_at": "2026-11-03T18:17:07.316885+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/Endo/comments/1xmxd2t/how_long_should_i_take_off_of_work/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-therapy-endometriosis/",
+        "run_id": "2026-11-03-2200",
+        "status": "updated",
+        "verified_at": "2026-11-03T18:17:07.316885+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xmoi1l/pain_after_a_bowel_movement_what_has_helped_you/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-pain-after-bowel-movement/",
+        "run_id": "2026-11-03-2200",
+        "status": "updated",
+        "verified_at": "2026-11-03T18:17:07.316885+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xmypro/first_big_flare_in_years_looking_for_kind_words/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-relaxation/",
+        "run_id": "2026-11-03-2200",
+        "status": "updated",
+        "verified_at": "2026-11-03T18:17:07.316885+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xmbjfc/pt_raleigh_nc/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/find-pelvic-floor-physiotherapy/",
+        "run_id": "2026-11-03-2200",
+        "status": "updated",
+        "verified_at": "2026-11-03T18:17:07.316885+00:00"
       }
     ]
   },

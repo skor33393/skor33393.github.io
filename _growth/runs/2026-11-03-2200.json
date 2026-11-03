@@ -1,7 +1,7 @@
 {
   "run_id": "2026-11-03-2200",
   "kind": "scheduled",
-  "status": "prepared",
+  "status": "completed",
   "started_at": "2026-11-03T17:59:32.456Z",
   "timezone": "Asia/Dubai",
   "scheduled_local": "22:00",
@@ -1293,13 +1293,37 @@
     "limitations": [
       "Native Safari banner metadata checked; no native iOS device test."
     ],
-    "layout": "All ten selected articles checked at 390px and 1280px: one H1, no body/table overflow, correct app banner IDs, two Apple badges, loaded primary images. Representative screenshots inspected and new FAQ opened successfully."
+    "layout": "All ten selected articles checked at 390px and 1280px: one H1, no body/table overflow, correct app banner IDs, two Apple badges, loaded primary images. Representative screenshots inspected and new FAQ opened successfully.",
+    "live": {
+      "checked": 280,
+      "passed": 280,
+      "failed": [],
+      "verified_at": "2026-11-03T18:17:07.316885+00:00"
+    },
+    "capacity_after_commit": {
+      "measurement": "Working files excluding Git/runtime/build caches; includes source and research files normally excluded by Jekyll, so this overestimates the static payload. Git object storage is measured separately.",
+      "working_file_bytes": 45752405,
+      "git_object_bytes": 74191872,
+      "published_site_limit_bytes": 1000000000,
+      "illustration_stop_threshold_bytes": 800000000,
+      "can_add_illustrations": true,
+      "remaining_to_site_limit_bytes": 954247595,
+      "reference": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
+    },
+    "qa_records": "Outside publishing repository: seo-daily/2026-11-03 mobile-qa.json, desktop-qa.json and representative screenshots."
   },
   "deployment": {
-    "status": "not_pushed"
+    "status": "built_and_verified",
+    "commit": "4b700491ba03b3ff11781f648414bafe400ff5cf",
+    "pages_built_at": "2026-11-03T18:16:01Z",
+    "verified_at": "2026-11-03T18:17:07.316885+00:00",
+    "checked": 280,
+    "passed": 280
   },
   "notification": {
     "channel": "current_chat",
     "telegram": "Saved destination PENDING; no Telegram message sent."
-  }
+  },
+  "published_commit": "4b700491ba03b3ff11781f648414bafe400ff5cf",
+  "verified_at": "2026-11-03T18:17:07.316885+00:00"
 }
