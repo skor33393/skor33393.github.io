@@ -8,6 +8,8 @@ Record four fields in each internal brief: (1) the reader's concrete decision or
 
 Serve an existing intent by materially improving its page. Create a new URL only for a distinct useful task. Never pad to a fixed word count, invent firsthand testing, copy competitor wording/images, or fill a daily quota with near-duplicates. Preserve publication dates; update modification/source dates only when warranted.
 
+Google Trends is an additional daily research source from 2026-11-04; follow `_growth/GOOGLE-TRENDS.md`. Aim for one relevant verified recent rising-search question per app within the existing five. Give the reader a durable answer and a concrete app use case. Relative growth, a high normalized score or a related query alone does not prove substantial demand, easy ranking or clinical validity. Do not force unrelated news, manufacture recency, put growth percentages into evergreen titles, or duplicate an existing answer to chase a trend. Keep trend selection evidence internal unless the article genuinely needs a sourced discussion of search behavior.
+
 ## Show useful evidence
 
 For visual styling tasks, show the comparison with labeled colors, an original diagram, real licensed captures or the current app workflow. Decorative cover art does not substitute for the substantive example. Clearly distinguish a schematic or demo profile from an actual measured experiment; never describe ad fixtures as new analysis. Respect the user's existing product copy/model preferences and do not add unsolicited AI/approximate-color captions.
