@@ -5,7 +5,7 @@
   "description": "Get more useful color analysis photos with consistent light, simple fabric comparisons and a checklist for spotting camera color shifts before drawing conclusions.",
   "category": "Color analysis",
   "datePublished": "2026-10-26",
-  "dateModified": "2026-10-31",
+  "dateModified": "2026-11-04",
   "sourcesChecked": "2026-10-31",
   "excerpt": "If every photo seems to suggest a different season, check the setup before changing your wardrobe.",
   "quickAnswer": "Use one soft, even light source, keep your camera and background steady, and compare real fabrics without filters. Check whether the background changes color between shots. Consistency makes comparisons more useful, but a selfie still cannot guarantee a definitive seasonal label.",
@@ -19,6 +19,11 @@
       "id": "setup",
       "title": "Keep a small setup consistent",
       "html": "<ol><li>Choose a plain, unobtrusive background and put the phone in a stable position.</li><li>Use the same camera, distance and framing for every picture. Keep the face and fabric comfortably in frame.</li><li>Turn off beauty filters and color effects. Avoid editing each picture separately to make it look nicer.</li><li>For a comparison of your coloring, remove color cosmetics if you are comfortable doing so. For an outfit decision with your usual makeup, keep that makeup the same throughout.</li><li>Start with two or three plain fabrics you already own. Photograph them in one short session before the light changes noticeably.</li></ol><p>A small repeatable set is easier to interpret than twenty pictures from holidays, cars and different rooms.</p>"
+    },
+    {
+      "id": "roots-eyes-tan",
+      "title": "Can roots, eyes in sunlight or a tan settle your season?",
+      "html": "<p>Those descriptions do not replace a controlled clothing comparison. A close view of roots, eyes photographed in direct sun and a tanned holiday portrait are different observations, often made under different conditions. Putting them into one checklist does not make them comparable.</p><p><a href=\"https://www.adobe.com/creativecloud/photography/technique/white-balance.html\">Adobe's explanation of white balance</a> shows why lighting and camera processing matter to photographed color. Start by distinguishing what changed in the scene from what changed in your appearance. A brighter-looking eye color in one photograph is not enough to choose a seasonal palette.</p><table><thead><tr><th>Observation</th><th>Useful next step</th></tr></thead><tbody><tr><td>Roots differ from highlighted lengths</td><td>Keep hair arranged consistently through one fabric comparison.</td></tr><tr><td>Eyes look different in direct sun</td><td>Use comfortable, even light for the outfit comparison instead.</td></tr><tr><td>Older photos show a different skin-to-hair contrast</td><td>Treat those as a separate appearance and lighting context.</td></tr></tbody></table><p>For example, compare a light blue and a medium blue top with your current hair in the same session. Record which outfit you prefer now. If you repeat months later, keep that as a new comparison rather than mixing both sessions into a single vote. You do not need to change your skin or hair to make the test work.</p><p>The useful result can be “I want more medium blue near my face at the moment.” Stylist AI can supply palette ideas for that choice; a few physical traits do not make its suggested profile a definitive answer.</p>"
     },
     {
       "id": "small-drape-set",
@@ -71,5 +76,6 @@
     "alt": "Illustration of a woman comparing blue fabric beside a window with a phone on a tripod",
     "width": 1200,
     "height": 800
-  }
+  },
+  "sourceCheckNote": "Earlier source checks retain their recorded dates. The Can roots, eyes in sunlight or a tan settle your season? section was checked on November 4, 2026."
 }

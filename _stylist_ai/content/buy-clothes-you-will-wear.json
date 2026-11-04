@@ -17,6 +17,11 @@
       "html": "<p>Instead of listing ten possible outfits, assemble one you would genuinely wear this week. Include shoes, underwear, outerwear and a bag if they matter. “This top goes with jeans” leaves unanswered whether the neckline works under your jacket or the length sits comfortably with your actual jeans.</p><p>Take a photo or write a concrete pairing: plum cardigan, cream shirt, straight indigo jeans, brown loafers. Then identify any extra purchase the outfit requires. If you need new shoes and a new layer to make it work, include those costs in the decision rather than calling the cardigan an inexpensive addition.</p><p>For color, choose the role: replacement neutral, familiar accent, or deliberate experiment. Our <a href=\"/stylist_ai/blog/build-a-wardrobe-color-palette/\">wardrobe palette guide</a> helps turn a color shortlist into real combinations. A new color is easier to evaluate beside clothes you own than beside an entire coordinated shop display.</p>"
     },
     {
+      "id": "rare-size",
+      "title": "What if the rare piece is only available in the wrong size?",
+      "html": "<p>Scarcity can make an unresolved fit problem feel like an opportunity you must not miss. Before buying a vintage or discontinued garment, separate the fact that you found it from the question of whether this particular example can work.</p><p>Ask for measurements taken with the fastening closed, clear interior photos and any known alteration history. Compare them with a similar garment you already wear comfortably. Do not assume a size label, a side zip or a fiber description tells you how much room can be added.</p><p>If alteration is essential, show the details to a qualified alterations professional before paying. Ask whether the proposed change is feasible, what it would look like, its likely cost and whether they need to inspect the garment in person. An unverified plan to let it out is still a risk, especially when returns are unavailable.</p><table><thead><tr><th>What you know</th><th>Decision</th></tr></thead><tbody><tr><td>It fits comfortably as measured and tried</td><td>Continue the normal condition, care and price checks.</td></tr><tr><td>It needs an alteration that has been assessed</td><td>Include the quote, timing and remaining uncertainty in the total decision.</td></tr><tr><td>It only works if an unknown amount can be added</td><td>Wait for an answer or leave it; rarity does not resolve the fit.</td></tr></tbody></table><p>Write a stopping rule before the search: “I will not buy a nonreturnable dress that depends on an unconfirmed bust alteration.” Choose the limit relevant to you. You do not need to make your body fit a scarce garment. The <a href=\"/stylist_ai/blog/find-discontinued-clothes/\">discontinued-clothing search guide</a> can help keep a search open for a better match.</p><p>Use Stylist AI for color and outfit ideas once those practical questions are answered. A palette match cannot make an uncomfortable garment worth keeping.</p>"
+    },
+    {
       "id": "movement",
       "title": "Try the ordinary movements that reveal friction",
       "html": "<p>A fitting-room pose answers a narrower question than a normal day. Within the shop’s rules, sit, reach, walk and put on your usual outer layer. Check the pocket opening, neckline, sleeve movement and waistband in those positions. If you are shopping online, repeat this indoors while preserving the item’s return condition.</p><table><thead><tr><th>Your day includes</th><th>Try before keeping it</th></tr></thead><tbody><tr><td>Desk work</td><td>Sitting, reaching forward and wearing your usual layer</td></tr><tr><td>Walking or commuting</td><td>A normal stride with the intended shoes and bag</td></tr><tr><td>Frequent temperature changes</td><td>Putting on and removing the layers you already carry</td></tr><tr><td>An event</td><td>The full outfit, including sitting and any required underlayers</td></tr></tbody></table><p>Separate a fix you will arrange from a fix you merely imagine. If tailoring is essential, obtain a realistic quote and timing before treating it as solved. “I can probably make this comfortable” is a different decision from “it is comfortable now.”</p>"
@@ -85,7 +90,7 @@
   "ctaTitle": "Check the color part of your next purchase.",
   "ctaText": "Use Stylist AI to explore a suggested palette, outfit color combinations and camera-based color comparison. Bring those ideas back to your real wardrobe before deciding.",
   "datePublished": "2026-10-31",
-  "dateModified": "2026-11-02",
+  "dateModified": "2026-11-04",
   "sourcesChecked": "2026-10-31",
   "sortOrder": -1,
   "seoTitle": "Will you actually wear it? A better clothing purchase checklist | Stylist AI",
@@ -95,5 +100,6 @@
     "width": 1200,
     "height": 800,
     "alt": "A woman comparing a plum cardigan with an existing cream shirt, jeans and teal skirt at home."
-  }
+  },
+  "sourceCheckNote": "Earlier source checks retain their recorded dates. The What if the rare piece is only available in the wrong size? section was checked on November 4, 2026."
 }

@@ -267,6 +267,11 @@
         "html": "<ul><li>What experience do you have adapting sessions for pelvic symptoms?</li><li>Can I use a simpler version or rest without disrupting the class?</li><li>Are there long holds, jumps or movements that need advance modification?</li><li>If a movement causes symptoms, how will we adapt the session?</li><li>Would an individual session help us agree modifications first?</li></ul><p>You can keep the conversation brief: “I am managing a pelvic health issue and may need to change some exercises.” Share more detail privately if you wish. You do not need to explain intimate symptoms to the group.</p><p>If you are pregnant, recently postpartum or recovering from surgery, use advice specific to that situation. A class advertised as gentle still needs to fit your current restrictions.</p>"
       },
       {
+        "id": "hypermobility",
+        "title": "How should a home programme account for hypermobility?",
+        "html": "<p>Ask for a programme that considers both your joint needs and the findings of your pelvic assessment. Being very flexible does not tell you whether your pelvic floor needs strengthening, relaxation or coordination work. A promise that a generic core routine will “take the load off” the pelvic floor is not an individualized plan.</p><p>The <a href=\"https://www.nhs.uk/conditions/joint-hypermobility-syndrome/\">NHS describes strength and fitness work as part of care for joint hypermobility syndrome</a>, while advising against deliberately overextending joints. <a href=\"https://www.nhsinform.scot/illnesses-and-conditions/muscle-bone-and-joints/conditions-that-can-affect-multiple-parts-of-the-body/joint-hypermobility/\">NHS inform emphasizes knowledgeable physiotherapy and pacing</a>. These are general joint-care principles, not evidence that one online class treats pelvic pain.</p><p>Take a proposed home programme to your physiotherapist and ask them to mark up four things:</p><ol><li>The goal of each exercise: joint support, general conditioning or a specific pelvic task.</li><li>The range and version appropriate for you, rather than the largest movement shown on screen.</li><li>The amount and rest pattern to start with, plus what response means you should stop or seek review.</li><li>The review point and how to change the plan if pain, pressure or bladder symptoms increase.</li></ol><p>For example: “I want to keep moving at home, but I need to know which parts of this class fit my joints and my pelvic symptoms.” This is more actionable than choosing between a programme labelled strengthening and one labelled release. A suitable plan may have different goals for different muscles.</p><p>Pelvic Gym can organize prescribed strengthening practice when that fits your care. It does not assess joint hypermobility, design whole-body rehabilitation or replace individualized treatment for pain.</p>"
+      },
+      {
         "id": "squeeze",
         "title": "Should I squeeze throughout the class?",
         "html": "<p>Do not interpret every mention of the pelvic floor as an instruction to maintain a constant clench. <a href=\"https://www.stgeorges.nhs.uk/wp-content/uploads/2025/05/PHP_PFR.pdf\">St George's guidance on muscle overactivity</a> explains that excessive pelvic floor exercise without enough relaxation can contribute to problems. Muscles need the ability to release as well as contract.</p><p>If an instruction conflicts with your treatment plan, ask for clarification. “Should I maintain this contraction, release between repetitions or leave it out?” is a practical question. If a movement brings on pain, leakage or a feeling of pressure, stop that movement and arrange a review if symptoms persist.</p>"
@@ -303,6 +308,14 @@
       {
         "title": "NHS: Pelvic pain warning signs",
         "url": "https://www.nhs.uk/symptoms/pelvic-pain/"
+      },
+      {
+        "title": "NHS: Joint hypermobility syndrome",
+        "url": "https://www.nhs.uk/conditions/joint-hypermobility-syndrome/"
+      },
+      {
+        "title": "NHS inform: Joint hypermobility",
+        "url": "https://www.nhsinform.scot/illnesses-and-conditions/muscle-bone-and-joints/conditions-that-can-affect-multiple-parts-of-the-body/joint-hypermobility/"
       }
     ],
     "related": [
@@ -314,8 +327,8 @@
     "keyword": "yoga pilates pelvic floor",
     "researchNote": "Class-selection and substitution intent. Primary randomized trial and hospital guidance checked 2026-10-24. Separates yoga trial evidence from Pilates and avoids claims that general core exercise replaces treatment.",
     "datePublished": "2026-10-24",
-    "dateModified": "2026-10-31",
-    "sourceCheckNote": "Original sources were checked 2026-10-24. The new What if symptoms started after a particular pose? section was checked against its linked primary sources October 31, 2026."
+    "dateModified": "2026-11-04",
+    "sourceCheckNote": "Original sources were checked 2026-10-24. The new What if symptoms started after a particular pose? section was checked against its linked primary sources October 31, 2026. The How should a home programme account for hypermobility? section was checked against its linked sources on November 4, 2026."
   },
   {
     "slug": "pelvic-floor-and-heavy-lifting",

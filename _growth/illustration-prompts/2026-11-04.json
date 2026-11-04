@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-04",
+  "tool": "Built-in image_gen",
+  "prompts": [
+    {
+      "slug": "navy-pleated-skirt-outfits",
+      "prompt": "Use case: photorealistic-natural. Asset type: editorial blog illustration, landscape 3:2. Primary request: three side-by-side fashion flat-lay outfits, each repeating the same navy accordion-pleated midi skirt. Left: cream fine knit and cognac knee-high boots. Middle: muted dusty rose blouse and burgundy flats. Right: light blue shirt and dark brown loafers. Neutral warm ivory background, realistic fabric textures, deliberate generous spacing, full garments and shoes visible. Attractive clean magazine photography, soft daylight, overhead view. No people, no text, no brands, no logos, no UI, no watermark."
+    },
+    {
+      "slug": "wedding-guest-dress-color",
+      "prompt": "Use case: photorealistic-natural. Asset type: editorial blog illustration, landscape 3:2. Primary request: three elegant midi dresses on identical simple wooden hangers spaced along a rack against a pale neutral wall. The same restrained full-skirt silhouette with short sleeves, in dusty rose, medium blue and rich plum, each fully visible. Under the rack a small pair of understated shoes and a clutch. This illustrates choosing clearly colored wedding guest outfits and preserving the silhouette one loves. Soft natural window light, authentic fabric texture, uncluttered fashion editorial. No white dress, bridal veil, model, text, logo, brand or watermark."
+    },
+    {
+      "slug": "choose-glasses-frame-color",
+      "prompt": "Use case: photorealistic-natural. Asset type: editorial blog illustration, landscape 3:2. Primary request: overhead studio still life of four different optical eyeglass frames on ivory paper: thin soft gold oval wire frame, thin silver rounded rectangle frame, translucent muted rose acetate oval frame, dark tortoiseshell gently upswept frame. Lenses clear with subtle realistic reflections, no sunglasses. Group each pair beside a small cloth swatch of cream, slate blue, dusty rose or deep navy to illustrate shape and color comparison. Refined realistic product photography with soft shadows, precise symmetrical construction, ample spacing. No faces, prescriptions, numbers, text, logos, brands or watermark."
+    }
+  ],
+  "master_location": "Outside publishing repository in Codex generated_images",
+  "purpose": "Original editorial article illustrations in existing approved blog templates"
+}

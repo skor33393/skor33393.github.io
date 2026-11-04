@@ -24,7 +24,9 @@ TOPICS = [
                 ('Create an ethereal look with rich colors', 'ethereal-style-dark-color-palette'),
                 ('Choose a light or dark cardigan', 'brown-or-cream-cardigan'),
                 ('Find petite trousers with usable pockets', 'petite-trousers-real-pockets'),
-                ('Track down a discontinued garment', 'find-discontinued-clothes')]),
+                ('Track down a discontinued garment', 'find-discontinued-clothes'),
+                ('Build an outfit around a navy skirt', 'navy-pleated-skirt-outfits'),
+                ('Choose wedding-guest color and style', 'wedding-guest-dress-color')]),
     dict(slug='hair-jewelry-and-accessories', title='Choose the details around your face',
          description='Explore hair color, jewelry and accessories through practical comparisons that account for your current wardrobe, preferences and daily routine.',
          intro='You do not have to change everything together. Keep a familiar outfit and explore one detail at a time.',
@@ -35,7 +37,8 @@ TOPICS = [
                 ('Compare gold and silver', 'gold-or-silver-jewelry'),
                 ('Choose a practical hair accessory', 'choose-hair-accessories'),
                 ('Compare shoes with a dress', 'choose-shoe-color-for-dress'),
-                ('Try Light Spring makeup colors', 'light-spring-makeup-colors')])
+                ('Try Light Spring makeup colors', 'light-spring-makeup-colors'),
+                ('Compare glasses shape and color', 'choose-glasses-frame-color')])
 ]
 
 def build(b):

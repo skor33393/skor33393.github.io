@@ -7,7 +7,7 @@
     "category": "Bladder & symptoms",
     "excerpt": "A slow start or weak stream is a symptom to explain before choosing pelvic floor exercises.",
     "datePublished": "2026-10-28",
-    "dateModified": "2026-10-29",
+    "dateModified": "2026-11-04",
     "sourcesChecked": "2026-10-28",
     "quickAnswer": "Urinary hesitancy means difficulty starting or maintaining urine flow. Pelvic floor coordination can contribute, but it is only one possible cause. Arrange assessment for a new or persistent change instead of adding Kegels. If you cannot urinate or have severe abdominal pain, seek immediate medical care.",
     "takeaways": [
@@ -40,6 +40,11 @@
         "id": "leak-and-empty",
         "title": "Can leakage and difficulty emptying happen together?",
         "html": "<p>Tell the clinician about both symptoms, even if one bothers you more. A leak with a cough and a slow or interrupted stream are different observations. Improvement in one does not establish that the other is resolved or that every symptom needs the same exercise.</p><p><a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes\">NIDDK lists leakage among possible symptoms of chronic retention</a>, alongside difficulty emptying. This does not mean your leak is caused by retention; it explains why leakage cannot be used as proof that the bladder is empty or that more strengthening is the answer.</p><table><thead><tr><th>Record separately</th><th>Examples of useful detail</th></tr></thead><tbody><tr><td>Leakage</td><td>With cough, with urgency, or without warning?</td></tr><tr><td>Flow</td><td>Delayed start, weak stream, or stopping and starting?</td></tr><tr><td>Afterward</td><td>Comfortable, still needing to go, or dribbling?</td></tr><tr><td>Exercise response</td><td>Which symptom changed, and which stayed?</td></tr></tbody></table><p>Ask whether emptying needs to be assessed before changing your programme. Avoid using forceful pushing or repeated squeezing during urination as a home test. Seek immediate care if you cannot pass urine.</p>"
+      },
+      {
+        "id": "small-amounts",
+        "title": "Does passing a small amount mean the bladder is empty?",
+        "html": "<p>No. Passing some urine does not establish that you have emptied adequately. <a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes\">NIDDK includes frequent small amounts, a slow stream and a continuing urge among possible retention symptoms</a>. Those symptoms still need assessment even when you can pass a little; they do not diagnose retention by themselves.</p><p>If toilet visits have become prolonged or repeatedly produce only small amounts, contact a clinician rather than extending each attempt or adding a bladder-holding programme. Describe the change from your normal pattern, whether there is pain and what happens between visits. Pelvic pain with difficulty peeing needs urgent medical advice under <a href=\"https://www.nhs.uk/symptoms/pelvic-pain/\">NHS guidance</a>. An inability to urinate or severe abdominal pain requires immediate care.</p><p>A concise handoff might be: “I am passing urine, but the stream is much weaker and I keep feeling I need to go. Can we check whether I am emptying properly?” Ask whether a <a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/diagnosis\">postvoid residual measurement</a> is appropriate. The amount left can be measured; it cannot be inferred reliably from how long you sat or the strength of the urge.</p><p>Bring relevant medicines and previous test results to the discussion. Do not use repeated squeezing, forceful pushing or a Pelvic Gym workout to test whether the cause is muscular. Getting an emptying problem assessed comes before choosing an exercise schedule.</p>"
       },
       {
         "id": "care",
@@ -102,6 +107,6 @@
       "height": 800,
       "alt": "A fully clothed woman discussing a symptom notebook with a health professional in a calm consultation room."
     },
-    "sourceCheckNote": "Original guidance sources were checked on 2026-10-28. The new Can leakage and difficulty emptying happen together? section was checked against its linked sources October 29, 2026."
+    "sourceCheckNote": "Original guidance sources were checked on 2026-10-28. The new Can leakage and difficulty emptying happen together? section was checked against its linked sources October 29, 2026. The Does passing a small amount mean the bladder is empty? section was checked against its linked sources on November 4, 2026."
   }
 ]
