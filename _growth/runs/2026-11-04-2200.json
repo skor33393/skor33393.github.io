@@ -1,7 +1,7 @@
 {
   "run_id": "2026-11-04-2200",
   "kind": "scheduled",
-  "status": "prepared",
+  "status": "completed",
   "started_at": "2026-11-04T18:07:39.880Z",
   "timezone": "Asia/Dubai",
   "scheduled_local": "22:00",
@@ -10,7 +10,8 @@
     "primary_start": "2026-11-03T18:12:53.009663+00:00",
     "end": "2026-11-04T18:26:05.386485+00:00",
     "expanded": false,
-    "note": "All ten selected questions posted since prior scan, including fresh comments on the prior day’s fashion thread. Older Quora and older feed entries are supporting/context only."
+    "note": "All ten selected questions posted since prior scan, including fresh comments on the prior day’s fashion thread. Older Quora and older feed entries are supporting/context only.",
+    "watermark_note": "Next run starts at the earliest feed observation, conservatively rechecking the research interval. Already-selected URLs remain in article history; this avoids missing questions posted during writing and deployment."
   },
   "selected": [
     {
@@ -1397,13 +1398,39 @@
       "Smart App Banner metadata checked; no native iOS device test."
     ],
     "layout": "All ten pages checked at 390x844 and 1280x900; one four-column content table condensed, then passed recheck. No page overflow, one H1 and no broken loaded images.",
-    "qa_records": "Private seo-daily/2026-11-04 mobile-qa.json and desktop-qa.json; screenshots outside repository."
+    "qa_records": "Outside publishing repository: seo-daily/2026-11-04 mobile-qa.json, desktop-qa.json and representative screenshots.",
+    "faq": "Navy-skirt native details control opened and its answer was visible.",
+    "live_mobile": "Published navy-skirt article inspected at 390px; correct canonical, both App Store links, no overflow; live screenshot saved privately.",
+    "live": {
+      "checked": 292,
+      "passed": 292,
+      "failed": [],
+      "verified_at": "2026-11-04T18:30:29.365851+00:00"
+    },
+    "capacity_after_commit": {
+      "measurement": "Working files excluding Git/runtime/build caches; includes source and research files normally excluded by Jekyll, so this overestimates the static payload. Git object storage is measured separately.",
+      "working_file_bytes": 46299199,
+      "git_object_bytes": 75273216,
+      "published_site_limit_bytes": 1000000000,
+      "illustration_stop_threshold_bytes": 800000000,
+      "can_add_illustrations": true,
+      "remaining_to_site_limit_bytes": 953700801,
+      "reference": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
+    }
   },
   "deployment": {
-    "status": "not_pushed"
+    "status": "built_and_verified",
+    "commit": "18230929b510ed5587537b224087a23e54cd722e",
+    "pages_built_at": "2026-11-04T18:28:45Z",
+    "verified_at": "2026-11-04T18:30:29.365851+00:00",
+    "checked": 292,
+    "passed": 292
   },
   "notification": {
     "channel": "current_chat",
     "telegram": "Saved destination PENDING; no Telegram sent."
-  }
+  },
+  "next_scan_watermark": "2026-11-04T18:08:54.303Z",
+  "published_commit": "18230929b510ed5587537b224087a23e54cd722e",
+  "verified_at": "2026-11-04T18:30:29.365851+00:00"
 }

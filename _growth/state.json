@@ -2,7 +2,7 @@
   "schema_version": 1,
   "timezone": "Asia/Dubai",
   "schedule_local": "22:00 daily",
-  "last_successful_scan": "2026-11-03T18:12:53.009663+00:00",
+  "last_successful_scan": "2026-11-04T18:08:54.303Z",
   "runs": {
     "2026-10-26-initial": "completed",
     "2026-10-26-stylist-expansion": "completed",
@@ -17,7 +17,7 @@
     "2026-11-01-2200": "completed",
     "2026-11-02-2200": "completed",
     "2026-11-03-2200": "completed",
-    "2026-11-04-2200": "prepared"
+    "2026-11-04-2200": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -412,6 +412,41 @@
         "run_id": "2026-11-03-2200",
         "status": "updated",
         "verified_at": "2026-11-03T18:17:07.316885+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xniu0e/whats_my_season/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/color-analysis-photo-lighting/",
+        "run_id": "2026-11-04-2200",
+        "status": "updated",
+        "verified_at": "2026-11-04T18:30:29.365851+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xmn4wq/comment/19s3sq6ds98v7/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/wedding-guest-dress-color/",
+        "run_id": "2026-11-04-2200",
+        "status": "published",
+        "verified_at": "2026-11-04T18:30:29.365851+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xmn4wq/comment/19s40k6ax5f6s/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/buy-clothes-you-will-wear/",
+        "run_id": "2026-11-04-2200",
+        "status": "updated",
+        "verified_at": "2026-11-04T18:30:29.365851+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xmn4wq/comment/19s39jtnf7yg0/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/choose-glasses-frame-color/",
+        "run_id": "2026-11-04-2200",
+        "status": "published",
+        "verified_at": "2026-11-04T18:30:29.365851+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xniked/comment/19s4thv5pfyw5/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/navy-pleated-skirt-outfits/",
+        "run_id": "2026-11-04-2200",
+        "status": "published",
+        "verified_at": "2026-11-04T18:30:29.365851+00:00"
       }
     ],
     "pelvic_gym": [
@@ -736,6 +771,41 @@
         "run_id": "2026-11-03-2200",
         "status": "updated",
         "verified_at": "2026-11-03T18:17:07.316885+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xn0iwt/does_anyone_feel_their_attraction_to_people/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/painful-sex-and-pelvic-floor/",
+        "run_id": "2026-11-04-2200",
+        "status": "updated",
+        "verified_at": "2026-11-04T18:30:29.365851+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xngqad/using_wand_without_a_ptprofessional/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/kegel-weights-and-trainers/",
+        "run_id": "2026-11-04-2200",
+        "status": "updated",
+        "verified_at": "2026-11-04T18:30:29.365851+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xn3u4d/programs/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/yoga-pilates-and-pelvic-floor/",
+        "run_id": "2026-11-04-2200",
+        "status": "updated",
+        "verified_at": "2026-11-04T18:30:29.365851+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xn3naj/what_in_tarnation_urination/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/urinary-hesitancy-in-women/",
+        "run_id": "2026-11-04-2200",
+        "status": "updated",
+        "verified_at": "2026-11-04T18:30:29.365851+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xnrve7/anal_fissures/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-pain-after-bowel-movement/",
+        "run_id": "2026-11-04-2200",
+        "status": "updated",
+        "verified_at": "2026-11-04T18:30:29.365851+00:00"
       }
     ]
   },
