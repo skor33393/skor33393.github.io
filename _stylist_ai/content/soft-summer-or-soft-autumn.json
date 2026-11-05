@@ -5,7 +5,7 @@
   "description": "Conflicting color analysis results? Compare Soft Summer and Soft Autumn with a simple fabric test, better photos, and a practical way to choose your next outfit.",
   "category": "Color analysis",
   "datePublished": "2026-10-26",
-  "dateModified": "2026-10-31",
+  "dateModified": "2026-11-05",
   "excerpt": "One person says Summer. Another says Autumn. Here’s how to turn mixed opinions into a useful wardrobe decision.",
   "quickAnswer": "In the common 12-season framework, Soft Summer and Soft Autumn both emphasize muted colors; Soft Summer leans cooler and Soft Autumn warmer. If opinions disagree, compare similarly soft fabrics in the same light, keep the photo setup consistent, and look for a repeated preference across several colors. You do not need a unanimous season label to choose an outfit you enjoy.",
   "sections": [
@@ -23,6 +23,11 @@
       "id": "fabric-comparison",
       "title": "A small fabric comparison you can do with what you own",
       "html": "<p>Here is our suggested decision worksheet. It is a practical way to organize your observations, not a validated color-analysis test.</p><ol><li><strong>Choose one decision.</strong> For example: “Which of these two sweaters would I wear with my usual jeans?” Avoid testing your entire wardrobe at once.</li><li><strong>Pick a reasonably comparable pair.</strong> Two plain, similarly soft-looking fabrics make the question clearer than a pale pastel versus a neon print. If one is much darker, note that difference.</li><li><strong>Keep your setup steady.</strong> Use the same spot, background, camera distance and lighting. Avoid filters and beauty effects. For a comparison of your coloring, try it without color cosmetics; for an everyday outfit decision, your usual makeup is relevant, but keep it the same for both.</li><li><strong>Swap the fabric, not the whole scene.</strong> Hold each near your face. Look in the mirror as well as at the photos. If the wall or your whole face changes brightness or color between pictures, the camera may have changed the comparison.</li><li><strong>Write one observation.</strong> “I prefer the gray-blue near my face” is useful. “I am definitely a Summer forever” is more than this one comparison can tell you.</li><li><strong>Try another pair later.</strong> Keep a short list of shades you repeatedly enjoy wearing. An unclear pair can stay unclear.</li></ol><p>Stop if you find yourself scrutinizing every shadow or freckle. The goal is to make getting dressed easier. A color preference is not a verdict on your appearance.</p>"
+    },
+    {
+      "id": "third-option",
+      "title": "What if neither soft palette feels right?",
+      "html": "<p>A choice between Soft Summer and Soft Autumn can become a false starting point if you have not compared softness separately. If both sets leave you uncertain, you do not have to keep adding warmer and cooler drapes to the same two piles.</p><p>Try a small three-garment shortlist: a muted cooler top, a muted warmer top, and a clearer-looking top at a similar depth. Keep the neckline and texture as similar as your wardrobe allows. The third top asks whether you prefer a clearer effect; it does not prove a Spring or Winter label.</p><table><thead><tr><th>What happens</th><th>Useful next step</th></tr></thead><tbody><tr><td>You repeatedly prefer one muted top</td><td>Keep it as an outfit option and try another comparable pair.</td></tr><tr><td>You prefer the clearer top</td><td>Explore intensity before narrowing the season further.</td></tr><tr><td>You prefer different tops with different outfits</td><td>Keep those combinations rather than forcing one winner.</td></tr></tbody></table><p>Use current, consistent photos for the comparison. An older hair-color photo may answer a different styling question, and <a href=\"https://www.adobe.com/creativecloud/photography/technique/white-balance.html\">photographic white balance can shift the appearance of the scene</a>. You do not need to reinterpret your features to justify enjoying the clearer garment. Our <a href=\"/stylist_ai/blog/color-depth-vs-brightness/\">depth-versus-brightness guide</a> helps isolate the next clothing decision.</p>"
     },
     {
       "id": "keep-a-record",
@@ -71,5 +76,6 @@
   "related": [
     "olive-skin-color-analysis",
     "is-professional-color-analysis-worth-it"
-  ]
+  ],
+  "sourceCheckNote": "Earlier sections retain their recorded source-check dates. The What if neither soft palette feels right? section was checked against its linked sources on November 5, 2026. Its worked examples and question prompts are editorial resources."
 }

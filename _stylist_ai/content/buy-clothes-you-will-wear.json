@@ -17,6 +17,11 @@
       "html": "<p>Instead of listing ten possible outfits, assemble one you would genuinely wear this week. Include shoes, underwear, outerwear and a bag if they matter. “This top goes with jeans” leaves unanswered whether the neckline works under your jacket or the length sits comfortably with your actual jeans.</p><p>Take a photo or write a concrete pairing: plum cardigan, cream shirt, straight indigo jeans, brown loafers. Then identify any extra purchase the outfit requires. If you need new shoes and a new layer to make it work, include those costs in the decision rather than calling the cardigan an inexpensive addition.</p><p>For color, choose the role: replacement neutral, familiar accent, or deliberate experiment. Our <a href=\"/stylist_ai/blog/build-a-wardrobe-color-palette/\">wardrobe palette guide</a> helps turn a color shortlist into real combinations. A new color is easier to evaluate beside clothes you own than beside an entire coordinated shop display.</p>"
     },
     {
+      "id": "online-color",
+      "title": "Can an online photo settle whether a jacket fits your palette?",
+      "html": "<p>If the purchase depends on a very specific shade, treat the product photo as one piece of evidence. A color name such as “teal” does not establish how warm, cool, light or muted the fabric will look beside your own clothes. <a href=\"https://www.adobe.com/creativecloud/photography/technique/white-balance.html\">Adobe explains how white balance affects the color appearance of a photograph</a>. You usually do not know how a retailer’s image was lit or adjusted.</p><table><thead><tr><th>Before ordering</th><th>Decision it helps with</th></tr></thead><tbody><tr><td>Compare the available photos of the exact colorway</td><td>If they disagree markedly, keep the shade question open.</td></tr><tr><td>Ask whether a fabric sample or in-store viewing is available</td><td>Decide whether you can compare the real material first.</td></tr><tr><td>Check the item’s return conditions and costs</td><td>Decide whether an in-person trial after delivery is affordable.</td></tr></tbody></table><p>For example, suppose a blue-green jacket appears pale in one image and dark in another. If you would only keep the pale version and it is final sale, the uncertainty matters. Wait for better evidence or choose a more reversible option. If you would enjoy either shade with three outfits you already own, the same uncertainty may matter less.</p><p>After delivery, try it beside those outfits in ordinary daylight while keeping it in returnable condition. Stylist AI’s palette and camera-based color comparison can help explore combinations with the garment in front of you; sampling a screenshot cannot certify the color of fabric you have not seen. For an upcoming office celebration, start with the <a href=\"/stylist_ai/blog/work-holiday-party-no-dress-code/\">work-party outfit guide</a> before buying a special piece.</p>"
+    },
+    {
       "id": "rare-size",
       "title": "What if the rare piece is only available in the wrong size?",
       "html": "<p>Scarcity can make an unresolved fit problem feel like an opportunity you must not miss. Before buying a vintage or discontinued garment, separate the fact that you found it from the question of whether this particular example can work.</p><p>Ask for measurements taken with the fastening closed, clear interior photos and any known alteration history. Compare them with a similar garment you already wear comfortably. Do not assume a size label, a side zip or a fiber description tells you how much room can be added.</p><p>If alteration is essential, show the details to a qualified alterations professional before paying. Ask whether the proposed change is feasible, what it would look like, its likely cost and whether they need to inspect the garment in person. An unverified plan to let it out is still a risk, especially when returns are unavailable.</p><table><thead><tr><th>What you know</th><th>Decision</th></tr></thead><tbody><tr><td>It fits comfortably as measured and tried</td><td>Continue the normal condition, care and price checks.</td></tr><tr><td>It needs an alteration that has been assessed</td><td>Include the quote, timing and remaining uncertainty in the total decision.</td></tr><tr><td>It only works if an unknown amount can be added</td><td>Wait for an answer or leave it; rarity does not resolve the fit.</td></tr></tbody></table><p>Write a stopping rule before the search: “I will not buy a nonreturnable dress that depends on an unconfirmed bust alteration.” Choose the limit relevant to you. You do not need to make your body fit a scarce garment. The <a href=\"/stylist_ai/blog/find-discontinued-clothes/\">discontinued-clothing search guide</a> can help keep a search open for a better match.</p><p>Use Stylist AI for color and outfit ideas once those practical questions are answered. A palette match cannot make an uncomfortable garment worth keeping.</p>"
@@ -79,6 +84,10 @@
     {
       "title": "FTC: Apparel labeling",
       "url": "https://www.ftc.gov/news-events/topics/tools-consumers/apparel-labeling"
+    },
+    {
+      "title": "Adobe: White balance",
+      "url": "https://www.adobe.com/creativecloud/photography/technique/white-balance.html"
     }
   ],
   "related": [
@@ -90,7 +99,7 @@
   "ctaTitle": "Check the color part of your next purchase.",
   "ctaText": "Use Stylist AI to explore a suggested palette, outfit color combinations and camera-based color comparison. Bring those ideas back to your real wardrobe before deciding.",
   "datePublished": "2026-10-31",
-  "dateModified": "2026-11-04",
+  "dateModified": "2026-11-05",
   "sourcesChecked": "2026-10-31",
   "sortOrder": -1,
   "seoTitle": "Will you actually wear it? A better clothing purchase checklist | Stylist AI",
@@ -101,5 +110,5 @@
     "height": 800,
     "alt": "A woman comparing a plum cardigan with an existing cream shirt, jeans and teal skirt at home."
   },
-  "sourceCheckNote": "Earlier source checks retain their recorded dates. The What if the rare piece is only available in the wrong size? section was checked on November 4, 2026."
+  "sourceCheckNote": "Earlier source checks retain their recorded dates. The What if the rare piece is only available in the wrong size? section was checked on November 4, 2026. The Can an online photo settle whether a jacket fits your palette? section was checked against its linked sources on November 5, 2026. Its worked examples and question prompts are editorial resources."
 }

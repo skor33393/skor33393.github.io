@@ -5,7 +5,7 @@
   "description": "Considering a color analyst or personal stylist? Compare what each service offers, questions to ask before booking, and ways to turn advice into useful outfits.",
   "category": "Color analysis",
   "datePublished": "2026-10-26",
-  "dateModified": "2026-11-03",
+  "dateModified": "2026-11-05",
   "sortOrder": 8,
   "excerpt": "A season label is only part of the service. Decide what you need help with and what you want to take home.",
   "quickAnswer": "Professional color analysis may be worthwhile if you want guided fabric comparisons and help applying the result to your clothes. Before booking, check the process, deliverables and total price. If your main problem is fit, outfit planning or shopping, a broader styling service may suit that need better. No appointment guarantees that you will love every recommended color.",
@@ -24,6 +24,11 @@
       "id": "compare-quotes",
       "title": "How do you compare two local appointment quotes?",
       "html": "<p>Ask each provider for the same information, then compare the complete visit rather than the headline price. Travel and a missing deliverable can change the practical value of a lower quote. Check current details directly; an old recommendation does not confirm today’s price, location or package.</p><table><thead><tr><th>Put on one comparison sheet</th><th>Why it matters</th></tr></thead><tbody><tr><td>Current fee and appointment length</td><td>Clarifies the actual service you can book</td></tr><tr><td>Individual or shared appointment</td><td>Shows how the session time will be used</td></tr><tr><td>Included palette and written guidance</td><td>Separates the consultation from optional purchases</td></tr><tr><td>Travel cost, travel time and access</td><td>Makes the visit feasible for your day</td></tr><tr><td>Follow-up and cancellation terms</td><td>Clarifies what happens after booking and afterward</td></tr></tbody></table><p>For example, suppose one appointment includes a physical swatch but requires a long journey, while a nearer one provides a digital palette and a follow-up call. Neither package is automatically better. If your goal is shopping in person with a pocket reference, ask whether the second service offers a physical option and what it costs. If you mainly need outfit ideas, the follow-up may matter more.</p><p>A concise inquiry is: “I want help choosing colors for clothes I already own. Could you confirm the total price, what I take away, whether we can discuss those clothes, and what follow-up is included?” Keep the replies beside your original goal. For a smaller color-combination task, you can first try Stylist AI or the wardrobe exercises below, then decide whether a personal consultation would add the help you still need.</p>"
+    },
+    {
+      "id": "season-count",
+      "title": "Should 12 versus 16 seasons decide which appointment you book?",
+      "html": "<p>Ask which system the analyst uses and what you will receive, rather than treating the largest number as a quality score. Two services can both advertise sixteen palettes while organizing them differently.</p><p>For example, the <a href=\"https://imageinstitute.com/color-analysis-system/\">International Image Institute describes sixteen palettes as four home seasons plus twelve sub-seasons</a>. <a href=\"https://stylewithdc.com/blogs/blog/16-season-color-analysis-faqs\">Style with DC describes a version with additional bridge labels, including Soft Spring and Deep Summer</a>. These are the providers’ descriptions of their own methods, not independent evidence that either gives better outcomes.</p><table><thead><tr><th>Ask the analyst</th><th>Why the answer helps</th></tr></thead><tbody><tr><td>What is the system’s name, and can I see an example palette?</td><td>You can compare the actual deliverable instead of a category count.</td></tr><tr><td>How do you explain a result that differs from my earlier analysis?</td><td>You learn whether the appointment includes a usable comparison.</td></tr><tr><td>Will we apply the result to an item I already own?</td><td>You can judge the service against a real clothing decision.</td></tr></tbody></table><p>Imagine two available appointments. One offers sixteen categories and a palette file; the other uses twelve and includes time comparing two jackets you bring. If your problem is choosing a jacket, the second format may be more useful to you. If you specifically want to understand another framework, the first might fit—but ask how that discussion is included. This is a decision example, not a recommendation of a provider.</p><p>Keep the exact framework name with any result. Do not assume that a label transfers directly into every app or palette collection. In Stylist AI, explore the actual suggested colors and combinations beside your existing clothes; a matching season name alone does not make two palettes identical.</p>"
     },
     {
       "id": "before-booking",
@@ -55,6 +60,14 @@
     {
       "title": "House of Colour: Its color-analysis process",
       "url": "https://www.houseofcolour.com/blog/what-is-a-color-analysis-and-why-do-you-need-one"
+    },
+    {
+      "title": "International Image Institute: Its color-analysis systems",
+      "url": "https://imageinstitute.com/color-analysis-system/"
+    },
+    {
+      "title": "Style with DC: Its 16-season framework",
+      "url": "https://stylewithdc.com/blogs/blog/16-season-color-analysis-faqs"
     }
   ],
   "sourceNote": "Outfit examples and decision exercises are our styling suggestions, not measured rules about attractiveness.",
@@ -72,5 +85,5 @@
     "soft-summer-or-soft-autumn",
     "hate-your-color-season-palette"
   ],
-  "sourceCheckNote": "The quote-comparison worksheet was added November 3, 2026. It contains no current provider prices, rankings or promises; existing provider references retain their previous check dates."
+  "sourceCheckNote": "The quote-comparison worksheet was added November 3, 2026. It contains no current provider prices, rankings or promises; existing provider references retain their previous check dates. The Should 12 versus 16 seasons decide which appointment you book? section was checked against its linked sources on November 5, 2026. Its worked examples and question prompts are editorial resources."
 }

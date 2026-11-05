@@ -5,7 +5,7 @@
   "description": "Unsure whether gold or silver jewelry suits you? Compare similar pieces, separate color from shine, and choose the metal you enjoy with your everyday outfits.",
   "category": "Accessories",
   "datePublished": "2026-10-26",
-  "dateModified": "2026-11-01",
+  "dateModified": "2026-11-05",
   "sortOrder": 6,
   "excerpt": "Compare the actual pieces you would wear. One wrist photo does not have to decide your jewelry collection.",
   "quickAnswer": "Try gold-colored and silver-colored pieces of similar size and finish with the same outfit, in the same light. Compare near your face if you are choosing earrings or a necklace. If you like both, you can wear both. The result is a jewelry preference; it does not have to establish your entire color season.",
@@ -24,6 +24,11 @@
       "id": "comparison-steps",
       "title": "Make a four-outfit comparison card",
       "html": "<p>Choose two tops you regularly wear and two jewelry pieces of similar size and finish. For earrings or a necklace, compare near your face; for a ring or bracelet, compare on your hand or wrist. Keep lighting and styling the same for each swap.</p><table><thead><tr><th>Try</th><th>Write one observation</th></tr></thead><tbody><tr><td>Blue or gray top + silver-colored piece</td><td>Does the jewelry feel quiet, noticeable or too shiny for what I want?</td></tr><tr><td>Same top + gold-colored piece</td><td>Do I prefer the warmer contrast, or simply this piece’s design?</td></tr><tr><td>Cream or brown top + silver-colored piece</td><td>Do I enjoy the contrast with the warmer clothes?</td></tr><tr><td>Same top + gold-colored piece</td><td>Do I enjoy the repeated warmth, or want a different finish?</td></tr></tbody></table><p>Choose the effect you want before calling a metal the winner. A piece that stands out can be exactly right for an outfit; blending in is not the only goal. If silver wins with one top and gold with the other, record those two combinations instead of forcing a universal result.</p><p>Repeat your favorite in an ordinary wearing situation before buying a set. If the two pieces differ greatly in scale or polish, compare a more similar pair next time. You are building a useful jewelry shortlist, not diagnosing an undertone from a single photograph.</p>"
+    },
+    {
+      "id": "hair-tiebreaker",
+      "title": "Should red hair or freckles break a gold-versus-silver tie?",
+      "html": "<p>For the purchase in front of you, compare the actual pieces with your current look. A prediction based on a feature description does not tell you whether you prefer the earrings you are trying. You can enjoy gold with one outfit and silver with another without resolving a complete season label.</p><p>Use two short rounds. First, compare similar earrings with your hair worn as you usually wear it and one familiar top. Then, if you often tie your hair back, repeat with it tied back. Keep the jewelry, lighting and top the same. This asks how you want the finished look to work in two ordinary situations.</p><ul><li><strong>Same preference both ways:</strong> you have a practical favorite for this outfit.</li><li><strong>Different preference:</strong> keep two styling combinations; neither observation needs to invalidate the other.</li><li><strong>No clear preference:</strong> use comfort, design, price and likely wear to decide, or keep both options open.</li></ul><p>If photos disagree, return to the mirror and repeat under consistent conditions rather than treating hair color as a final vote. <a href=\"https://www.adobe.com/creativecloud/photography/technique/white-balance.html\">White balance affects photographic color</a>; our <a href=\"/stylist_ai/blog/color-analysis-photo-lighting/\">photo guide</a> explains how to keep comparisons steadier. Stylist AI can suggest accessory color combinations, while the actual piece and the way you wear it remain part of your decision.</p>"
     },
     {
       "id": "mixed-metals",
@@ -60,6 +65,10 @@
     {
       "title": "GIA: Gold alloys and jewelry color",
       "url": "https://4cs.gia.edu/en-us/blog/buying-guide-white-yellow-rose-gold-engagement-rings/"
+    },
+    {
+      "title": "Adobe: White balance",
+      "url": "https://www.adobe.com/creativecloud/photography/technique/white-balance.html"
     }
   ],
   "sourceNote": "Outfit examples and decision exercises are our styling suggestions, not measured rules about attractiveness.",
@@ -76,5 +85,6 @@
   "related": [
     "olive-skin-color-analysis",
     "unexpected-outfit-color-combinations"
-  ]
+  ],
+  "sourceCheckNote": "Earlier sections retain their recorded source-check dates. The Should red hair or freckles break a gold-versus-silver tie? section was checked against its linked sources on November 5, 2026. Its worked examples and question prompts are editorial resources."
 }

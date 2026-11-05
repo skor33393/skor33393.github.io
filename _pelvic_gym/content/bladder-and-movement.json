@@ -146,6 +146,11 @@
         "html": "<p>Describe a new shape change alongside consistency, frequency, straining and whether you feel emptied. Shape alone does not establish a pelvic floor cause or rule out another bowel problem. Do not use a photo comparison as a diagnosis.</p><p>Arrange medical advice for an unexplained change that persists or recurs, particularly with bleeding, pain or weight loss. <a href=\"https://www.nhs.uk/conditions/bowel-cancer/symptoms/\">The NHS advises getting changes in bowel habit checked</a>; these symptoms can have several causes and do not by themselves mean cancer.</p><ul><li>Note when the change started and whether it occurs every time.</li><li>Record hard, soft or loose stool separately from its shape.</li><li>Mention new medicines, constipation treatments and any pain or bleeding.</li><li>Ask what needs checking before attributing the change to muscle tension.</li></ul><p>Seek urgent advice for black or dark-red stool or bloody diarrhea; heavy or continuous bleeding needs emergency care. The linked NHS guidance explains these distinctions. Do not wait for a routine pelvic floor appointment when warning signs occur.</p>"
       },
       {
+        "id": "test-followup",
+        "title": "What if a bowel test was reassuring but symptoms continue?",
+        "html": "<p>Bring the actual report and a description of what has persisted or changed to your clinician. A reassuring result is useful information, but ask what that particular test evaluated before using it to explain every remaining symptom. A previous test also does not make new leakage or a continuing change in bowel habit something you must ignore.</p><p><a href=\"https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/diagnosis\">NIDDK describes different investigations for different questions</a>: endoscopy can look inside the bowel, while anorectal manometry evaluates relevant muscle pressures and function, and a balloon-expulsion test assesses expelling a small balloon. These are examples of tests a clinician may consider, not a list you need to request or undergo.</p><table><thead><tr><th>Take to the follow-up</th><th>Ask</th></tr></thead><tbody><tr><td>Your earlier report and its date</td><td>What did this result assess, and what did it not assess?</td></tr><tr><td>Persistent shape, consistency or emptying changes</td><td>What explanation or further assessment is appropriate now?</td></tr><tr><td>Leakage, urgency or soiling</td><td>Should a continence or bowel service be involved?</td></tr></tbody></table><p>The <a href=\"https://www.nhs.uk/conditions/bowel-incontinence/\">NHS recommends medical advice for bowel leakage and changes in stools that are not improving</a>. Its urgent advice includes black or dark-red stool and bloody diarrhea. Follow the <a href=\"#seek-help\">warning signs below</a> rather than waiting for a routine exercise appointment when urgent symptoms occur.</p><p>A stool’s shape cannot tell an app which muscles need strengthening or relaxation. Pelvic Gym is not a bowel-function test or a substitute for clinician-led coordination retraining. Use a strengthening routine only if it has a defined role in the plan agreed after assessment.</p>"
+      },
+      {
         "id": "training-change",
         "title": "If bowel emptying worsens after changing your workouts",
         "html": "<p>A change after adding abdominal or glute exercises is useful information to bring to an assessment. Timing alone does not tell you whether the cause is muscle coordination, stool consistency, a medicine or something else. Avoid prescribing yourself extra core work or more Kegels to correct an assumed imbalance.</p><p>Take a short comparison note to your clinician: the exercises you changed, when the bowel symptoms changed, whether stools are hard or soft, and whether you feel blocked or incompletely emptied. You do not need to reproduce a painful workout to make the record convincing. Ask what activity you can continue comfortably while the cause is assessed.</p><p>If muscle coordination is involved, <a href=\"https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/treatment\">NIDDK describes biofeedback as a way to retrain the muscles used for bowel movements</a>. Ask what skill the treatment is teaching and how it differs from a strengthening plan. A timed Kegel app does not measure bowel coordination or replace this care.</p><p>Worsening symptoms deserve a review rather than waiting for a fitness programme to fix them. Use the warning signs below to decide when prompt medical care is needed.</p>"
@@ -190,6 +195,14 @@
       {
         "title": "NHS: Bowel changes and warning signs",
         "url": "https://www.nhs.uk/conditions/bowel-cancer/symptoms/"
+      },
+      {
+        "title": "NIDDK: Diagnosing constipation",
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/diagnosis"
+      },
+      {
+        "title": "NHS: Bowel incontinence",
+        "url": "https://www.nhs.uk/conditions/bowel-incontinence/"
       }
     ],
     "related": [
@@ -200,8 +213,8 @@
     "cta": "assessment",
     "keyword": "pelvic floor and constipation",
     "researchNote": "Researched 2026-10-24. Bowel-emptying and muscle-coordination intent. No laxative prescription, internal manipulation, forced bearing down or blanket strengthening recommendation. New decision-support section checked 2026-10-27 against its linked primary sources; original publication and earlier source-check scope retained.",
-    "dateModified": "2026-10-31",
-    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. Sources supporting the new decision-support section were checked October 27, 2026. The new What happens at biofeedback for difficult emptying section was checked against its linked clinical sources October 28, 2026. The new What if stool becomes narrow, flat or ribbon-like? section was checked against its linked sources October 29, 2026.",
+    "dateModified": "2026-11-05",
+    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. Sources supporting the new decision-support section were checked October 27, 2026. The new What happens at biofeedback for difficult emptying section was checked against its linked clinical sources October 28, 2026. The new What if stool becomes narrow, flat or ribbon-like? section was checked against its linked sources October 29, 2026. The What if a bowel test was reassuring but symptoms continue? section was checked against its linked sources on November 5, 2026. Its worked examples and question prompts are editorial resources.",
     "datePublished": "2026-10-24"
   },
   {
@@ -237,6 +250,11 @@
         "id": "plan",
         "title": "Ask for a starting point and a stopping rule",
         "html": "<p>Kent Community Health recommends reviewing a bladder record with a professional and adapting the plan to the individual. Its guidance includes staying calm, slowing breathing and using distraction to manage urgency. <a href=\"https://www.kentcht.nhs.uk/leaflet/bladder-retraining/\">Read Kent’s bladder retraining leaflet</a>.</p><p>Ask for answers you can take home:</p><ul><li>Which symptoms are we trying to improve?</li><li>What is my starting bathroom plan, and when may it change?</li><li>Which urge-management technique is appropriate for me?</li><li>What should I do if there is pain, leakage or difficulty emptying?</li><li>When should I return for review?</li></ul><p>A schedule copied from another person does not supply those answers. Do not impose a fixed interval on every day, ignore a painful full bladder or apply a daytime plan automatically throughout the night.</p>"
+      },
+      {
+        "id": "constant-sensation",
+        "title": "What if the urge feels constant rather than coming in episodes?",
+        "html": "<p>Describe that distinction before trying to extend the time between toilet visits. “A feeling that stays all day” and “a sudden wave that settles” are different reports. Neither description alone identifies the cause, and frequent small amounts do not prove that the bladder is empty. <a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes\">NIDDK includes frequent small voids and persistent post-void urge among possible retention symptoms</a>.</p><p>Bring a concise account to the clinician: whether the sensation changes after urination, whether the stream is difficult to start, and whether there is pain. Mention previous tests and whether the present symptoms are the same as when those tests were done. Ask what has been established and what still needs checking before deciding on bladder training.</p><p>If training is appropriate, ask how the plan handles a sensation that does not fade. A useful written plan should specify the starting interval, the response to symptoms and the point at which you contact the clinician. <a href=\"https://www.kentcht.nhs.uk/leaflet/bladder-retraining/\">Kent Community Health bases its example schedule on a bladder record reviewed by a professional</a>; it is not a target to copy regardless of your symptoms.</p><p>Do not turn this into a contest to hold longer, restrict drinks to avoid the toilet or add repeated Kegels to suppress every sensation. Seek immediate care if you cannot urinate or have severe abdominal pain. Pelvic Gym guides strengthening when that approach fits your care plan; it does not assess emptying or provide an individualized bladder-training schedule.</p>"
       },
       {
         "id": "combined",
@@ -288,7 +306,9 @@
     ],
     "cta": "assessment",
     "keyword": "bladder training vs kegels",
-    "researchNote": "Researched 2026-10-24. Treatment-comparison intent. No universal hold interval or fluid target; infection and retention precautions precede training instructions."
+    "researchNote": "Researched 2026-10-24. Treatment-comparison intent. No universal hold interval or fluid target; infection and retention precautions precede training instructions.",
+    "dateModified": "2026-11-05",
+    "sourceCheckNote": "Earlier sections retain their recorded source-check dates. The What if the urge feels constant rather than coming in episodes? section was checked against its linked sources on November 5, 2026. Its worked examples and question prompts are editorial resources."
   },
   {
     "slug": "urinary-urgency-in-women",

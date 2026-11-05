@@ -179,6 +179,11 @@
         "html": "<p>Biofeedback makes a body signal visible or audible. <a href=\"https://www.kentcht.nhs.uk/leaflet/biofeedback-for-the-pelvic-floor/\">Kent Community Health</a> explains a clinical system that reads pelvic muscle electrical activity through a probe and displays it on a screen. That system measures activity; it does not send a stimulating current into the muscle. Consumer products vary, so check exactly what a particular device measures.</p><p>Ask what its numbers mean, how placement affects the reading, and who will help interpret an unexpected result. A display is only useful if you understand the action being measured. Also check whether the product is a sensor, a weight, an electrical stimulator or a combination. These terms are not interchangeable.</p>"
       },
       {
+        "id": "score-and-pain",
+        "title": "What if the device says “correct” but you ache afterward?",
+        "html": "<p>Do not let a score overrule new pelvic pain or aching after a session. A display reports information from the device; it does not establish that the exercise dose is suitable for you or explain a symptom that appears later. Pause the provoking exercise and ask a pelvic-health clinician how to proceed rather than increasing the difficulty.</p><p><a href=\"https://elht.nhs.uk/services/physiotherapy-pelvic-obstetric-and-gynaecological/physiotherapy-pelvic-obstetric-and-gynaecological\">East Lancashire Hospitals advises specialist physiotherapy advice for pain during pelvic floor exercise or abdominal or pelvic pain afterward</a>. This applies to the symptom, regardless of whether you used a timer, a game or a sensor. It is not a claim that one named product caused an injury.</p><table><thead><tr><th>Bring to the review</th><th>Question it can help answer</th></tr></thead><tbody><tr><td>The exact device and routine used</td><td>What does its feedback measure, and how was it interpreted?</td></tr><tr><td>When discomfort began and how long it lasted</td><td>Does the plan need changing or another assessment?</td></tr><tr><td>Other exercise done that day</td><td>Is the total routine different from the agreed dose?</td></tr></tbody></table><p>Read the safety instructions for that exact device and tell the clinician about insertion discomfort or difficulty releasing. Do not repeatedly test the same session to prove the score was right. For severe, worsening or associated urgent symptoms, follow the <a href=\"/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/#after-session\">care guidance in our therapy guide</a>.</p><p>Switching to Pelvic Gym would not resolve an unexplained painful response. The app is an option for organizing suitable strengthening after the plan has been clarified; it does not measure contraction quality or certify pain-free practice.</p>"
+      },
+      {
         "id": "evidence",
         "title": "Does adding biofeedback improve results?",
         "html": "<p>A <a href=\"https://www.cochrane.org/evidence/CD009252_exercise-pelvic-floor-muscles-more-effective-treating-unintentional-passing-urine-incontinence-women\">2025 Cochrane review</a> found that adding biofeedback to pelvic floor training made little or no difference to incontinence-related quality of life and probably little or no difference to reported cure or improvement. Most participants had stress incontinence. This does not rule out an individual use for feedback, but it does challenge the assumption that buying a sensor guarantees better results.</p><p>When a product cites a study, look for the exact device, participant group and comparison treatment. “Pelvic floor training helps” is not the same claim as “this particular product improves outcomes beyond training.” Testimonials cannot answer that comparison.</p>"
@@ -216,6 +221,10 @@
       {
         "title": "Imperial College Healthcare: Pelvic health physiotherapy",
         "url": "https://www.imperial.nhs.uk/our-services/physiotherapy/pelvic-health-physiotherapy"
+      },
+      {
+        "title": "East Lancashire Hospitals: Pelvic floor exercise and pain",
+        "url": "https://elht.nhs.uk/services/physiotherapy-pelvic-obstetric-and-gynaecological/physiotherapy-pelvic-obstetric-and-gynaecological"
       }
     ],
     "related": [
@@ -225,7 +234,9 @@
     ],
     "cta": "routine",
     "keyword": "kegel app vs biofeedback trainer",
-    "researchNote": "Product-category comparison intent. Clinical sources and 2025 systematic review checked 2026-10-24. Pelvic Gym described only as guided iPhone exercise plans; no sensor, diagnosis, outcome superiority or connectivity claims."
+    "researchNote": "Product-category comparison intent. Clinical sources and 2025 systematic review checked 2026-10-24. Pelvic Gym described only as guided iPhone exercise plans; no sensor, diagnosis, outcome superiority or connectivity claims.",
+    "dateModified": "2026-11-05",
+    "sourceCheckNote": "Earlier sections retain their recorded source-check dates. The What if the device says “correct” but you ache afterward? section was checked against its linked sources on November 5, 2026. Its worked examples and question prompts are editorial resources."
   },
   {
     "slug": "yoga-pilates-and-pelvic-floor",
