@@ -2,7 +2,7 @@
   "schema_version": 1,
   "timezone": "Asia/Dubai",
   "schedule_local": "22:00 daily",
-  "last_successful_scan": "2026-11-04T18:08:54.303Z",
+  "last_successful_scan": "2026-11-05T17:56:16.547Z",
   "runs": {
     "2026-10-26-initial": "completed",
     "2026-10-26-stylist-expansion": "completed",
@@ -18,7 +18,7 @@
     "2026-11-02-2200": "completed",
     "2026-11-03-2200": "completed",
     "2026-11-04-2200": "completed",
-    "2026-11-05-2200": "prepared"
+    "2026-11-05-2200": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -448,6 +448,41 @@
         "run_id": "2026-11-04-2200",
         "status": "published",
         "verified_at": "2026-11-04T18:30:29.365851+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xod28l/comment/19s6e473tr97k/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/work-holiday-party-no-dress-code/",
+        "run_id": "2026-11-05-2200",
+        "status": "published",
+        "verified_at": "2026-11-05T18:45:37.204819+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xogrxb/is_this_jacket_too_cool_for_light_spring/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/buy-clothes-you-will-wear/",
+        "run_id": "2026-11-05-2200",
+        "status": "updated",
+        "verified_at": "2026-11-05T18:45:37.204819+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xnxb97/soft_summer_or_soft_autumn_or_something_else/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/soft-summer-or-soft-autumn/",
+        "run_id": "2026-11-05-2200",
+        "status": "updated",
+        "verified_at": "2026-11-05T18:45:37.204819+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xoku9z/why_is_this_so_hard/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/gold-or-silver-jewelry/",
+        "run_id": "2026-11-05-2200",
+        "status": "updated",
+        "verified_at": "2026-11-05T18:45:37.204819+00:00"
+      },
+      {
+        "question_url": "https://www.google.com/search?q=16+season+color+analysis+vs+12&hl=en",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/is-professional-color-analysis-worth-it/",
+        "run_id": "2026-11-05-2200",
+        "status": "updated",
+        "verified_at": "2026-11-05T18:45:37.204819+00:00"
       }
     ],
     "pelvic_gym": [
@@ -807,6 +842,41 @@
         "run_id": "2026-11-04-2200",
         "status": "updated",
         "verified_at": "2026-11-04T18:30:29.365851+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xon7oa/does_it_get_less_vulnerable_and_uncomfortable/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/",
+        "run_id": "2026-11-05-2200",
+        "status": "updated",
+        "verified_at": "2026-11-05T18:45:37.204819+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xogk4e/needing_to_pee_247_literally/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/bladder-training-vs-kegels/",
+        "run_id": "2026-11-05-2200",
+        "status": "updated",
+        "verified_at": "2026-11-05T18:45:37.204819+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xoh8z7/normal_to_ache_after_perifit/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/kegel-app-vs-biofeedback-trainer/",
+        "run_id": "2026-11-05-2200",
+        "status": "updated",
+        "verified_at": "2026-11-05T18:45:37.204819+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xo7a43/i_am_getting_anxious_please_help/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-and-constipation/",
+        "run_id": "2026-11-05-2200",
+        "status": "updated",
+        "verified_at": "2026-11-05T18:45:37.204819+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xo59o6/very_weak_pelvic_floor_contractions_what_helped/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/how-to-do-kegel-exercises/",
+        "run_id": "2026-11-05-2200",
+        "status": "updated",
+        "verified_at": "2026-11-05T18:45:37.204819+00:00"
       }
     ]
   },
