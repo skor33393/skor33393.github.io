@@ -184,7 +184,7 @@
     "description": "Learn why painful periods should not automatically be blamed on a tight pelvic floor, when to seek care and how to discuss symptoms with your clinician.",
     "category": "Bladder & symptoms",
     "datePublished": "2026-10-26",
-    "dateModified": "2026-11-01",
+    "dateModified": "2026-11-06",
     "sourcesChecked": "2026-10-26",
     "excerpt": "Pelvic floor care may be one part of a plan, but severe period pain needs its own explanation.",
     "quickAnswer": "Painful periods and pelvic floor tension can coexist, but cramps alone do not prove a tight pelvic floor. Seek medical advice if pain disrupts daily life or changes. A pelvic health assessment may help identify muscle-related symptoms alongside evaluation of menstrual pain; stronger Kegels are not the default treatment.",
@@ -198,6 +198,11 @@
         "id": "different",
         "title": "Period cramps are not a pelvic floor test",
         "html": "<p><a href=\"https://www.nhs.uk/symptoms/period-pain/\">NHS guidance explains that period cramps occur as the womb tightens</a>. Sometimes painful periods have another cause, such as endometriosis, adenomyosis, fibroids or infection. A symptom that occurs during a period therefore should not automatically be attributed to the pelvic floor.</p><p><a href=\"https://www.nhsfife.org/services/all-services/patient-advice/overactive-pelvic-floor-muscles/\">NHS Fife lists endometriosis and other painful conditions as possible triggers for overactive pelvic floor muscles</a>. This supports considering muscle problems as part of an assessment; it does not mean that treating muscle tension will treat every cause of period pain.</p>"
+      },
+      {
+        "id": "rectal-cycle",
+        "title": "What if rectal aching or spasms happen around your period?",
+        "html": "<p>Tell a clinician about the timing and location rather than assuming it is ordinary period cramping or a tight muscle. The <a href=\"https://www.nhs.uk/conditions/endometriosis/\">NHS lists pain when passing stool among possible endometriosis symptoms</a>; this is one possible explanation to assess, not a diagnosis from a sensation. The absence of one familiar symptom, such as very heavy bleeding, does not settle the cause.</p><p>For the next appointment, separate three details: whether the discomfort occurs with a bowel movement, whether it also happens at rest, and whether it recurs at a similar point in your cycle. Add the effect on normal activity. You do not need to label it “spasm” accurately to describe a pain that deserves attention.</p><p>A useful question is: “Does the cycle pattern change what should be assessed, and should the bowel symptoms and pelvic floor symptoms be considered together?” Bring previous diagnoses or test reports, but do not wait for several more cycles to seek advice about continuing or concerning pain.</p><p><a href=\"https://www.nhs.uk/symptoms/period-pain/\">NHS period-pain guidance recommends review for pain when passing stool or pain that interferes with usual activities</a>. Use the urgent-care guidance above when pain is severe or worse than usual. Pelvic Gym does not diagnose or treat endometriosis; adding contractions is not a way to test whether a rectal symptom comes from the pelvic floor.</p>"
       },
       {
         "id": "seek-help",
@@ -251,6 +256,10 @@
       {
         "title": "FDA: Menstrual product options and safe use",
         "url": "https://www.fda.gov/medical-devices/products-and-medical-procedures/menstrual-product-options-facts-and-safe-use"
+      },
+      {
+        "title": "NHS: Endometriosis",
+        "url": "https://www.nhs.uk/conditions/endometriosis/"
       }
     ],
     "related": [
@@ -267,6 +276,6 @@
       "width": 1200,
       "height": 800
     },
-    "sourceCheckNote": "Existing article sources retain their previously recorded check dates. The Pain triggered by menstrual products rather than assuming ordinary cramps section was checked against its linked sources on November 1, 2026."
+    "sourceCheckNote": "Existing article sources retain their previously recorded check dates. The Pain triggered by menstrual products rather than assuming ordinary cramps section was checked against its linked sources on November 1, 2026. The What if rectal aching or spasms happen around your period? section was checked on November 6, 2026. Its examples and appointment prompts are editorial resources."
   }
 ]

@@ -7,7 +7,7 @@
     "category": "Getting started",
     "excerpt": "Make the first step smaller: identify the barrier, ask the right service questions and plan a useful appointment.",
     "datePublished": "2026-10-29",
-    "dateModified": "2026-11-03",
+    "dateModified": "2026-11-06",
     "sourcesChecked": "2026-10-29",
     "quickAnswer": "Start with a clinician or local pelvic health service and ask how referrals work for your symptoms. Before booking, check relevant experience, total costs, appointment format and what an assessment may involve. Tell the service about practical or comfort needs early; you do not have to agree to an examination just to ask for help.",
     "takeaways": [
@@ -50,6 +50,11 @@
         "id": "waiting",
         "title": "Make a plan for the waiting period",
         "html": "<p>Ask who to contact if symptoms change while you wait, and whether a cancellation appointment is an option. Keep a short symptom note and the details of previous treatment. Avoid assembling several exercise programmes to compensate for the wait, especially when you have pain or trouble emptying.</p><p><strong>Seek immediate medical care if you cannot urinate or have severe abdominal pain</strong>, as advised by <a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes\">NIDDK</a>. Severe or worsening pelvic pain, or pelvic pain with faintness, needs emergency assessment. <a href=\"https://www.nhs.uk/symptoms/pelvic-pain/\">The NHS lists urgent and emergency pelvic-pain signs</a>. A routine physiotherapy waiting list should not delay that care.</p>"
+      },
+      {
+        "id": "long-gaps",
+        "title": "What if follow-up appointments are several weeks apart?",
+        "html": "<p>Ask for a plan that works across the actual gap. Appointment availability alone does not tell you whether the care is adequate for your symptoms. Equally, you should not have to guess what to do if the first plan becomes painful or unmanageable.</p><table><thead><tr><th>Clarify with the service</th><th>Why it matters</th></tr></thead><tbody><tr><td>The next review date and earlier-contact route</td><td>You know where to report a problem before that date</td></tr><tr><td>One prioritized home task, checked together</td><td>You leave with a skill you can reproduce</td></tr><tr><td>What to change or stop if symptoms worsen</td><td>You avoid improvising extra treatment</td></tr><tr><td>Cancellation, remote or alternative-service options</td><td>You can explore access without assuming coverage</td></tr></tbody></table><p>A message might say: “My next review is in six weeks. This part of the plan is unclear, and these symptoms are limiting my day. What should I do before the appointment, and is an earlier review appropriate?” Give the relevant facts; you do not need to argue for another person’s appointment frequency.</p><p>If insurance or a referral system is involved, ask that organization directly about authorizations, costs and alternative providers. Rules vary; this guide cannot establish an entitlement to a particular number of visits. Our <a href=\"/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/#home-plan\">home-plan checklist</a> helps clarify what the current appointment should leave you able to do.</p><p>Do not use an exercise app to fill a clinical-care gap involving pain or difficult emptying. Follow the <a href=\"https://www.nhs.uk/symptoms/pelvic-pain/\">NHS urgent and emergency pelvic-pain guidance</a> when those signs occur, rather than waiting for the next routine slot.</p>"
       },
       {
         "id": "app",
@@ -103,6 +108,6 @@
       "height": 800,
       "alt": "A fully clothed woman using a notebook during a video conversation about a healthcare appointment."
     },
-    "sourceCheckNote": "Existing sources retain their previously recorded check dates. The What if recommendations are old or a previous visit felt wrong? section was checked against its linked sources on November 3, 2026."
+    "sourceCheckNote": "Existing sources retain their previously recorded check dates. The What if recommendations are old or a previous visit felt wrong? section was checked against its linked sources on November 3, 2026. The What if follow-up appointments are several weeks apart? section was checked on November 6, 2026. Its examples and appointment prompts are editorial resources."
   }
 ]

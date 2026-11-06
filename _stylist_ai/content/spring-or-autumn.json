@@ -5,7 +5,7 @@
   "description": "Compare clear and earthy warm colors with three fabric pairs, a simple outfit trial and a useful next step when Spring and Autumn both seem possible.",
   "category": "Color analysis",
   "datePublished": "2026-10-31",
-  "dateModified": "2026-10-31",
+  "dateModified": "2026-11-06",
   "sourcesChecked": "2026-10-31",
   "sortOrder": -2,
   "excerpt": "Compare clear and earthy warm colors with three fabric pairs, a simple outfit trial and a useful next step when Spring and Autumn both seem possible.",
@@ -20,6 +20,11 @@
       "id": "three-pairs",
       "title": "Build a comparison with what you own",
       "html": "<figure class=\"evidence-module\"><div class=\"demo-pair\"><div><h3>Clearer warm direction</h3><ul class=\"example-swatches\"><li><i style=\"--color:#ee795f\" aria-hidden=\"true\"></i>Coral</li><li><i style=\"--color:#88af4d\" aria-hidden=\"true\"></i>Leaf green</li><li><i style=\"--color:#4daf9a\" aria-hidden=\"true\"></i>Warm aqua</li></ul></div><div><h3>Earthier warm direction</h3><ul class=\"example-swatches\"><li><i style=\"--color:#b5684d\" aria-hidden=\"true\"></i>Clay</li><li><i style=\"--color:#777d49\" aria-hidden=\"true\"></i>Olive</li><li><i style=\"--color:#607d70\" aria-hidden=\"true\"></i>Muted teal</li></ul></div></div><figcaption>Illustrative color directions for choosing fabrics. These pairs also differ somewhat in depth; use the closest available garments and note that limitation.</figcaption></figure><p>Borrow plain tops, scarves or fabric pieces rather than shopping for six exact shades. Aim for similar size, texture and lightness within each pair. A shiny coral satin beside a dark olive wool changes too many things at once.</p><ol><li>Compare one warm reddish pair: a clearer coral and a quieter clay.</li><li>Try a green pair: fresh leaf green and a subdued olive.</li><li>Repeat with a blue-green pair, such as warm aqua and a muted teal.</li></ol><p>A consistent preference across several families is more useful for planning outfits than loving one particular sweater. If your favorites split, keep the specific shades rather than forcing a unanimous result.</p>"
+    },
+    {
+      "id": "red-garment",
+      "title": "Is this red too dark for True Spring?",
+      "html": "<p>Separate the garment’s warmth, depth and clarity. A warm red can be clear and vivid, or deeper and more muted. “Red” alone does not decide which direction it suggests, and a dark-looking product photograph may include shadows or a different exposure.</p><p>Try the red beside a clear coral and a muted brick or rust garment if you own them. Keep the light steady. Compare the plain fabric rather than a glossy highlight or shadow, then put it into the actual outfit. Our <a href=\"/stylist_ai/blog/color-depth-vs-brightness/\">depth and brightness guide</a> explains why those are different questions.</p><table><thead><tr><th>What you notice</th><th>What to try</th></tr></thead><tbody><tr><td>The red looks warm and clear</td><td>Wear it with a familiar clear accent or light neutral</td></tr><tr><td>It looks much deeper or more muted than your usual colors</td><td>Try it as a smaller accent before buying a large garment</td></tr><tr><td>The photograph and real fabric disagree</td><td>Make the decision from the actual item where possible</td></tr></tbody></table><p>A red shoe is also a different styling decision from a red sweater beside your face. Try the shoe with trousers or a skirt you already wear and decide whether you like the complete look. You do not need to certify every accessory as belonging exclusively to one season. Stylist AI can suggest combinations; its palette is a useful reference rather than a purchase permission slip.</p>"
     },
     {
       "id": "fair-comparison",
@@ -75,5 +80,6 @@
     "width": 1200,
     "height": 800,
     "alt": "Clear coral, green and ivory fabrics beside earthier clay, olive and camel clothing."
-  }
+  },
+  "sourceCheckNote": "Earlier sections retain their recorded source-check dates. The Is this red too dark for True Spring? section was checked on November 6, 2026. Its examples and appointment prompts are editorial resources."
 }

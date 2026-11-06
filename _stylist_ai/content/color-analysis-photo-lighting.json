@@ -5,7 +5,7 @@
   "description": "Get more useful color analysis photos with consistent light, simple fabric comparisons and a checklist for spotting camera color shifts before drawing conclusions.",
   "category": "Color analysis",
   "datePublished": "2026-10-26",
-  "dateModified": "2026-11-04",
+  "dateModified": "2026-11-06",
   "sourcesChecked": "2026-10-31",
   "excerpt": "If every photo seems to suggest a different season, check the setup before changing your wardrobe.",
   "quickAnswer": "Use one soft, even light source, keep your camera and background steady, and compare real fabrics without filters. Check whether the background changes color between shots. Consistency makes comparisons more useful, but a selfie still cannot guarantee a definitive seasonal label.",
@@ -34,6 +34,11 @@
       "id": "camera-check",
       "title": "Check the background before judging your skin",
       "html": "<p>Swap the fabric and look at an unchanged part of the scene, such as the wall. If it suddenly looks warmer, cooler, brighter or darker, the pictures are not a clean comparison. Camera processing or lighting may have changed alongside the garment.</p><p>Retake the pair and compare in the mirror too. If your camera offers manual controls that you already understand, consistent settings may help; simply locking focus or exposure does not guarantee fixed white balance on every phone. Do not turn a camera setting into a promise of accurate seasonal typing.</p><p>Keep an uncertain pair marked uncertain. You can prefer one sweater without deciding why, and you can postpone a purchase if the evidence keeps changing.</p><figure class=\"evidence-module\"><div class=\"demo-pair\"><div><h3>Frame A</h3><div class=\"photo-scene\" style=\"--wall:#d8d8d4;--fabric:#657e91\" role=\"img\" aria-label=\"Diagram A: blue fabric against a neutral gray wall\"><span></span></div><p>Check an unchanged area: the wall.</p></div><div><h3>Frame B</h3><div class=\"photo-scene\" style=\"--wall:#e4d0ad;--fabric:#798477\" role=\"img\" aria-label=\"Diagram B: both wall and fabric have shifted toward yellow\"><span></span></div><p>If the wall shifts too, repeat the setup.</p></div></div><figcaption>A schematic of a whole-scene color shift. This shows what to look for; it is not a pair of measured photographs.</figcaption></figure><p>Use this three-frame check with your own clothes: photograph A, then B, then A again. Compare the first and last background before comparing the garments. If they differ noticeably, fix the light or camera setup first.</p><table><thead><tr><th>Frame</th><th>What to keep</th><th>What to note</th></tr></thead><tbody><tr><td>A</td><td>Position, background and camera</td><td>First garment and lighting</td></tr><tr><td>B</td><td>The same setup</td><td>Second garment; did the wall change?</td></tr><tr><td>A again</td><td>The original garment</td><td>Does it resemble the first frame?</td></tr></tbody></table><p>Once the setup is steady, use the <a href=\"/stylist_ai/blog/soft-summer-or-soft-autumn/#fabric-comparison\">two-fabric comparison</a> to turn the pictures into a clothing decision.</p>"
+    },
+    {
+      "id": "makeup-and-settings",
+      "title": "Should you cover redness or change camera settings before draping?",
+      "html": "<p>Decide what you want the comparison to answer. For a usual-outfit decision, keep your usual makeup the same across the photographs. If you are comparing your coloring without makeup, adding a green corrector to just one session changes that starting point. Do not mix corrected and uncorrected pictures as though only the fabric changed.</p><p>You do not have to conceal redness to make a clothing choice, and the exercise should not become a search for something wrong with your face. If your skin is uncomfortable or your appearance is temporarily different, you can postpone the comparison. Skin care and medical treatment are separate from choosing a palette.</p><p>For the camera, follow the controls available on your particular phone. Turning off a filter, locking exposure and setting white balance are different operations. <a href=\"https://www.adobe.com/creativecloud/photography/technique/white-balance.html\">Adobe describes white balance as a whole-image color adjustment</a>; an exposure lock alone is not a promise that every phone keeps color processing fixed.</p><ol><li>Take a small set with the same camera and no changing effects.</li><li>Repeat the first fabric at the end.</li><li>If the wall or repeated fabric changes, shorten the session or change the light setup.</li><li>If automatic processing remains inconsistent, use the mirror for the outfit choice and keep the photographs marked inconclusive.</li></ol><p>Saving more pictures will not fix a comparison where sunlight moved from direct sun to shade. Use the repeat check before uploading the set to any analysis service.</p>"
     },
     {
       "id": "real-vs-digital",
@@ -77,5 +82,5 @@
     "width": 1200,
     "height": 800
   },
-  "sourceCheckNote": "Earlier source checks retain their recorded dates. The Can roots, eyes in sunlight or a tan settle your season? section was checked on November 4, 2026."
+  "sourceCheckNote": "Earlier source checks retain their recorded dates. The Can roots, eyes in sunlight or a tan settle your season? section was checked on November 4, 2026. The Should you cover redness or change camera settings before draping? section was checked on November 6, 2026. Its examples and appointment prompts are editorial resources."
 }

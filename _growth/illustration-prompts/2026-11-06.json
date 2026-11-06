@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "bright-spring-or-bright-winter",
+    "mode": "built-in image_gen",
+    "prompt": "Create an original editorial illustration for a styling article, landscape 3:2. Premium hand-painted gouache with subtle paper grain, ivory background. Overhead flat lay of two neat sets of actual soft fabric swatches of similar medium lightness and equally vivid saturation. Left: warm clear coral red, warm leaf green, clear turquoise. Right: cooler clear raspberry red, blue green emerald, cobalt. Arrange corresponding colors in aligned pairs, ample whitespace, soft realistic folds. Small minimal dark charcoal headings exactly 'WARM + CLEAR' over left, 'COOL + CLEAR' over right. No person, faces, phones, logos, seasonal objects, gradients or additional text. These illustrate two wardrobe directions; no before/after or tested-result claim."
+  },
+  {
+    "slug": "light-summer-eyeshadow",
+    "mode": "built-in image_gen",
+    "prompt": "Original editorial beauty illustration, landscape 3:2, elegant textured gouache on ivory. Overhead close-up of three unbranded single eyeshadow pans, spaced horizontally: light cool pink-taupe, medium gray-mauve, soft blue-gray. Each has a matching neat powdered swatch beneath. One clean fine makeup brush diagonal along lower right, a small folded muted blue fabric corner along upper left. Clear restrained layout so a reader can see three shades with different roles: base, definition, optional accent. No face, eye, body, brands, logos, typography, app interface, product packaging or medical claims. Soft daylight, richly detailed powder texture."
+  },
+  {
+    "slug": "gas-leakage-pelvic-floor",
+    "mode": "built-in image_gen",
+    "prompt": "Original calm health-journal editorial illustration, landscape 3:2, cream background with sage and muted terracotta accents, gentle gouache/paper style. Three paper note cards side by side on a desk, clearly legible short headings exactly 'SENSATION', 'CONTROL', 'EMPTYING'. Beneath each heading simple nonverbal symbols respectively a soft abstract wave, a small calendar check, a speech bubble with a question mark. A pencil and closed notebook nearby, airy uncluttered composition. Purpose is preparing questions for a healthcare appointment about bowel symptoms. No anatomy, toilets, exercise poses, people, phones, product interface, symptom scale, prescription, diagnostic arrows or promises."
+  }
+]

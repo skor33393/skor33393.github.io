@@ -5,6 +5,7 @@ TOPICS = [
          intro='Start with the evidence you are comparing. A useful photo setup comes before deciding between two seasonal labels.',
          steps=[('Start with a repeatable photo', 'color-analysis-photo-lighting'),
                 ('Separate depth from brightness', 'color-depth-vs-brightness'),
+                ('Compare clear warm and cool colors', 'bright-spring-or-bright-winter'),
                 ('Compare two muted directions', 'soft-summer-or-soft-autumn'),
                 ('Explore neutral undertones', 'neutral-undertone-color-season'),
                 ('Compare Summer and Winter', 'summer-or-winter-color-season'),
@@ -39,6 +40,7 @@ TOPICS = [
                 ('Choose a practical hair accessory', 'choose-hair-accessories'),
                 ('Compare shoes with a dress', 'choose-shoe-color-for-dress'),
                 ('Try Light Spring makeup colors', 'light-spring-makeup-colors'),
+                ('Choose Light Summer eyeshadow', 'light-summer-eyeshadow'),
                 ('Compare glasses shape and color', 'choose-glasses-frame-color')])
 ]
 
