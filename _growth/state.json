@@ -2,7 +2,7 @@
   "schema_version": 1,
   "timezone": "Asia/Dubai",
   "schedule_local": "22:00 daily",
-  "last_successful_scan": "2026-11-05T17:56:16.547Z",
+  "last_successful_scan": "2026-11-06T17:58:08.400Z",
   "runs": {
     "2026-10-26-initial": "completed",
     "2026-10-26-stylist-expansion": "completed",
@@ -19,7 +19,7 @@
     "2026-11-03-2200": "completed",
     "2026-11-04-2200": "completed",
     "2026-11-05-2200": "completed",
-    "2026-11-06-2200": "prepared"
+    "2026-11-06-2200": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -484,6 +484,41 @@
         "run_id": "2026-11-05-2200",
         "status": "updated",
         "verified_at": "2026-11-05T18:45:37.204819+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xovyv8/i_suspect_spring/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/bright-spring-or-bright-winter/",
+        "run_id": "2026-11-06-2200",
+        "status": "published",
+        "verified_at": "2026-11-06T18:35:06.560035+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xp92nk/which_hair_color_suits_me_best/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/warm-or-cool-hair-color/",
+        "run_id": "2026-11-06-2200",
+        "status": "updated",
+        "verified_at": "2026-11-06T18:35:06.560035+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xoziym/are_these_true_spring_red/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/spring-or-autumn/",
+        "run_id": "2026-11-06-2200",
+        "status": "updated",
+        "verified_at": "2026-11-06T18:35:06.560035+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xoyamb/eyeshadow_palettes_for_light_summer/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/light-summer-eyeshadow/",
+        "run_id": "2026-11-06-2200",
+        "status": "published",
+        "verified_at": "2026-11-06T18:35:06.560035+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xphg6j/question_about_draping/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/color-analysis-photo-lighting/",
+        "run_id": "2026-11-06-2200",
+        "status": "updated",
+        "verified_at": "2026-11-06T18:35:06.560035+00:00"
       }
     ],
     "pelvic_gym": [
@@ -878,6 +913,41 @@
         "run_id": "2026-11-05-2200",
         "status": "updated",
         "verified_at": "2026-11-05T18:45:37.204819+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xp05js/not_lightning_butt_per_say_but_does_anyone_have/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/painful-periods-pelvic-floor/",
+        "run_id": "2026-11-06-2200",
+        "status": "updated",
+        "verified_at": "2026-11-06T18:35:06.560035+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xov7ii/diagnosed_with_dysenergic_defecation_and_adhd_on/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-and-constipation/",
+        "run_id": "2026-11-06-2200",
+        "status": "updated",
+        "verified_at": "2026-11-06T18:35:06.560035+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xpie0s/frustrated_with_kaiser/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/find-pelvic-floor-physiotherapy/",
+        "run_id": "2026-11-06-2200",
+        "status": "updated",
+        "verified_at": "2026-11-06T18:35:06.560035+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xp9r63/first_appointment/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/tight-vs-weak-pelvic-floor/",
+        "run_id": "2026-11-06-2200",
+        "status": "updated",
+        "verified_at": "2026-11-06T18:35:06.560035+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xpembl/constant_gas_sensations_and_possible_involuntary/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/gas-leakage-pelvic-floor/",
+        "run_id": "2026-11-06-2200",
+        "status": "published",
+        "verified_at": "2026-11-06T18:35:06.560035+00:00"
       }
     ]
   },

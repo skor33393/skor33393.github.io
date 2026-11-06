@@ -1,7 +1,7 @@
 {
   "run_id": "2026-11-06-2200",
   "kind": "scheduled",
-  "status": "prepared",
+  "status": "completed",
   "started_at": "2026-11-06T17:58:08.400Z",
   "timezone": "Asia/Dubai",
   "scheduled_local": "22:00",
@@ -1493,13 +1493,37 @@
     "qa_records": "Outside publishing repository in seo-daily/2026-11-06.",
     "limitations": [
       "Native Safari Smart App Banner metadata checked; no iOS device test."
-    ]
+    ],
+    "live": {
+      "checked": 308,
+      "passed": 308,
+      "failed": [],
+      "verified_at": "2026-11-06T18:35:06.560035+00:00"
+    },
+    "capacity_after_commit": {
+      "measurement": "Working files excluding Git/runtime/build caches; includes source and research files normally excluded by Jekyll, so this overestimates the static payload. Git object storage is measured separately.",
+      "working_file_bytes": 47386464,
+      "git_object_bytes": 77923328,
+      "published_site_limit_bytes": 1000000000,
+      "illustration_stop_threshold_bytes": 800000000,
+      "can_add_illustrations": true,
+      "remaining_to_site_limit_bytes": 952613536,
+      "reference": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
+    },
+    "live_mobile": "Published Bright Spring versus Bright Winter article checked at 390px: expected title/canonical, responsive 400px cover loaded, correct Smart App Banner metadata and no overflow. Screenshot saved privately."
   },
   "deployment": {
-    "status": "not_pushed"
+    "status": "built_and_verified",
+    "commit": "fe6e8727672d533f808333efc769dbb8e59b7e2a",
+    "pages_built_at": "2026-11-06T18:32:42Z",
+    "verified_at": "2026-11-06T18:35:06.560035+00:00",
+    "checked": 308,
+    "passed": 308
   },
   "notification": {
     "channel": "current_chat",
     "telegram": "Destination remains PENDING; no Telegram sent."
-  }
+  },
+  "published_commit": "fe6e8727672d533f808333efc769dbb8e59b7e2a",
+  "verified_at": "2026-11-06T18:35:06.560035+00:00"
 }
