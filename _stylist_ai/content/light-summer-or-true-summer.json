@@ -5,7 +5,7 @@
   "description": "Compare Light Summer and True Summer using pale and medium-depth outfits, a practical yellow comparison and a repeatable fabric check.",
   "category": "Color analysis",
   "datePublished": "2026-11-01",
-  "dateModified": "2026-11-06",
+  "dateModified": "2026-11-07",
   "sourcesChecked": "2026-11-01",
   "sortOrder": -5,
   "excerpt": "Compare Light Summer and True Summer using pale and medium-depth outfits, a practical yellow comparison and a repeatable fabric check.",
@@ -30,6 +30,11 @@
       "id": "keep-setup-steady",
       "title": "Keep the comparison steady",
       "html": "<p><a href=\"https://www.adobe.com/creativecloud/photography/technique/white-balance.html\">Adobe explains how white balance affects photographic color</a>. Keep the light, background, camera position and styling unchanged when comparing photos. Avoid alternating between a filtered selfie and an unedited mirror photograph.</p><p>Cover dyed hair with the same neutral fabric for both pictures if that helps you focus on clothing; then remove it and consider the outfit with your current hair too. Your real wardrobe needs to work with how you look now. A tinted brow or chosen hair color does not need to become another variable halfway through the comparison.</p><p>Use three columns in a note: “garment,” “combination I prefer,” and “what I still want to compare.” Stop when you have a practical next outfit. For a different boundary, see <a href=\"/stylist_ai/blog/light-spring-or-light-summer/\">Light Spring versus Light Summer</a>; for muted warmth, use <a href=\"/stylist_ai/blog/soft-summer-or-soft-autumn/\">Soft Summer versus Soft Autumn</a>.</p>"
+    },
+    {
+      "id": "pastels-wash-out",
+      "title": "What if I was typed Summer but pastels feel washed out?",
+      "html": "<p>You do not have to adopt an all-pastel wardrobe. In <a href=\"https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/true-summer-a-comprehensive-guide\">The Concept Wardrobe’s True Summer system</a>, the palette spans a range of lightness, including medium shades. Other systems may use the same label differently, so ask your analyst which palette and examples their recommendation refers to.</p><p>Try a three-look comparison with pieces you own: a pale blue top alone; the same top with a medium-blue or cool-gray layer; then a medium-blue top with the same bottom. Keep light and styling consistent. Note whether the change you prefer is at the neckline, in the layer or across the whole outfit.</p><p>For example, liking the pale top under a medium layer suggests a useful way to wear it. Preferring the medium top gives you a purchase direction. Neither observation requires changing your hair color to make the label work. Do not use wet hair in one photograph and dry hair in another as a controlled depth comparison.</p><p>Keep the successful outfit and bring the specific comparison to your analyst if the recommendation still feels confusing. Stylist AI can suggest related color combinations to explore; the useful outcome is a wearable combination, not a requirement to keep the palest option.</p>"
     },
     {
       "id": "use-the-palette",
@@ -79,5 +84,6 @@
     "width": 1200,
     "height": 800,
     "alt": "Two coordinated outfits compare pale blue and lavender with medium blue, dusty plum and gray."
-  }
+  },
+  "sourceCheckNote": "The What if I was typed Summer but pastels feel washed out? section was checked on November 7, 2026. Earlier source-check dates remain unchanged."
 }

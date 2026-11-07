@@ -5,7 +5,7 @@
   "description": "Separate dark from vivid and contrast from saturation when comparing clothes. Use simple fabric pairs to make color analysis more useful for everyday outfits.",
   "category": "Color analysis",
   "datePublished": "2026-10-26",
-  "dateModified": "2026-11-02",
+  "dateModified": "2026-11-07",
   "sourcesChecked": "2026-10-26",
   "excerpt": "A dark color is not necessarily a bright color, and a high-contrast outfit does not have to be vivid.",
   "quickAnswer": "Depth means how light or dark a color looks. In seasonal styling, brightness usually refers to how clear or vivid it is, while contrast is the difference between colors placed together. Compare these separately before deciding that one successful garment proves a season.",
@@ -39,6 +39,11 @@
       "id": "apply",
       "title": "Use the distinctions while shopping",
       "html": "<p>If a top feels almost right, ask for a version that is darker, lighter, clearer or more muted instead of searching only by seasonal label. Retail color names are broad; compare the garments you can actually buy.</p><p>Stylist AI can help you explore palettes and camera-based color comparisons, but a result is still a styling suggestion. Use these terms to understand your preference and build outfits around it, rather than chasing a single number or a perfect label.</p><p>If the question is a seasonal label, compare <a href=\"/stylist_ai/blog/summer-or-winter-color-season/\">Summer and Winter directions</a> only after separating depth and intensity.</p>"
+    },
+    {
+      "id": "foundation-label",
+      "title": "Can a foundation scan tell me my contrast or color season?",
+      "html": "<p>A foundation shade label and an outfit comparison answer different questions. “Fair,” “warm” and an intensity number on a product match refer to that brand’s system. They do not supply a universal clothing-season result. Ask what the number means in the specific product range rather than translating it into high or low contrast.</p><p>Keep two separate notes. In the first, record the actual foundation you matched and the conditions in which you tried it. In the second, record clothing comparisons: for example, “prefer a medium blue neckline to a very pale blue one.” One result does not need to cancel the other.</p><p>For outfit contrast, keep a familiar top and compare two bottoms or layers with different light-dark relationships. For color intensity, compare a clearer and grayer fabric of similar depth. The examples earlier in this guide explain the distinction. A photograph of facial features, or a grayscale filter alone, does not answer whether you will enjoy the resulting outfit.</p><p>If the shopping question is a work wardrobe, try one of our <a href=\"/stylist_ai/blog/personal-style-casual-office/\">casual-office outfit formulas</a>. Stylist AI’s palette suggestions can help shortlist clothes; they should not be treated as a foundation shade prescription.</p>"
     },
     {
       "id": "next-comparison",
@@ -84,5 +89,6 @@
     "alt": "Illustration of folded blue fabrics at several depths beside muted and vivid teal fabrics",
     "width": 1200,
     "height": 800
-  }
+  },
+  "sourceCheckNote": "The Can a foundation scan tell me my contrast or color season? section was checked on November 7, 2026. Earlier source-check dates remain unchanged."
 }

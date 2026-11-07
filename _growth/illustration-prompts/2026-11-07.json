@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "personal-style-casual-office",
+    "prompt": "Use case: illustration-story. Editorial fashion illustration for an article about keeping personal style in a casual office. Landscape 3:2. Three distinct full outfits arranged in equal columns on an ivory background, no people: left navy wide-leg trousers, dusty blue soft collared shirt and loafers; center olive midi skirt, cream fine-knit top, burgundy cardigan and plain flats; right charcoal relaxed trousers, muted rose shirt, teal structured overshirt and simple sneakers. Neat flat-lay silhouettes, believable garment shapes, painterly paper texture and subtle shadows. The illustration is a practical outfit menu. No words, letters, logos, smartphone, watermark or decorative flowers. All items fit well within edges.",
+    "production_path": "stylist_ai/blog/assets/illustrations/personal-style-casual-office.webp",
+    "bytes": 79046,
+    "generator": "Built-in image_gen"
+  },
+  {
+    "slug": "comfortable-home-outfits-without-dresses",
+    "prompt": "Use case: illustration-story. Landscape 3:2 editorial wardrobe illustration. Three comfortable, androgynous home outfit formulas laid flat in separate columns: forest green elastic-waist straight-leg trousers with matching green roomy tee; navy loose cotton trousers with a dusty blue boxy tee and navy soft overshirt; terracotta roomy short-sleeve utility coveralls with a visible front opening and functional pockets. Each is paired with plain flat house shoes. Ivory paper background, clear clothing shapes, soft shadows, muted rich colors, tactile hand-painted textile detail. No bodies, words, logos, phone, watermark or unnecessary decoration. Leave margin around every outfit. Useful fashion guide, not a product advertisement.",
+    "production_path": "stylist_ai/blog/assets/illustrations/comfortable-home-outfits-without-dresses.webp",
+    "bytes": 80688,
+    "generator": "Built-in image_gen"
+  },
+  {
+    "slug": "choose-nude-nail-color",
+    "prompt": "Use case: illustration-story. Landscape 3:2 educational beauty editorial still life on warm ivory paper. Exactly three pairs of artificial nail sample sticks arranged as a tidy comparison board. Left pair: peach-beige versus rose-beige at similar lightness. Center pair: pale rosy beige versus medium rosy taupe. Right pair: translucent soft pink versus opaque soft pink. Show realistic nail-shaped sample tips and subtle finish differences, no real hand or body. A small neutral-gray sleeve fabric lies below, not covering samples. Soft studio light, refined painterly photoreal detail, generous white space, no labels, words, numerals, logos, watermarks or app UI.",
+    "production_path": "stylist_ai/blog/assets/illustrations/choose-nude-nail-color.webp",
+    "bytes": 45152,
+    "generator": "Built-in image_gen"
+  },
+  {
+    "slug": "postpartum-bowel-urgency",
+    "prompt": "Use case: illustration-story. Landscape 3:2 calm patient-education editorial illustration of a practical appointment preparation scene: an open notebook with three simple icon-only rows showing a small clock, a simple calendar and a work bag; beside it a pencil, a closed folder of care notes and a pair of keys. An understated baby blanket folded at the far edge suggests postpartum context. Warm cream and muted teal palette, clean restrained gouache style, clear hierarchy, generous margins. No written text, fake medical measurements, body anatomy, baby, exercises, pills, clinician endorsement, app screen, logos or watermarks. The image should communicate planning a medical conversation and return to work, not self-treatment.",
+    "production_path": "pelvic_gym/assets/illustrations/postpartum-bowel-urgency.webp",
+    "bytes": 74708,
+    "generator": "Built-in image_gen"
+  }
+]

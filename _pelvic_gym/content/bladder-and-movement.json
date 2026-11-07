@@ -360,6 +360,11 @@
         "html": "<p>A persistent full-bladder sensation deserves a clear review even when the number of toilet visits seems ordinary. Describe the sensation and the actual voiding pattern separately. The feeling alone does not tell you how much urine remains; <a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/diagnosis\">NIDDK describes clinical measurement of residual urine</a> when emptying needs investigation.</p><p>Bring a compact treatment summary rather than trying to remember every change during the appointment:</p><table><thead><tr><th>Item</th><th>What to write</th></tr></thead><tbody><tr><td>Main problem</td><td>Constant pressure, sudden urges, frequent visits or leakage; distinguish them.</td></tr><tr><td>Each treatment</td><td>Name, who prescribed it, when it started and whether you still use it.</td></tr><tr><td>Response</td><td>What improved, stayed the same or worsened, with approximate timing.</td></tr><tr><td>Remaining goal</td><td>One activity affected, such as sleeping or completing a commute.</td></tr></tbody></table><p>Include prescribed medicines, over-the-counter products, physical therapy and home exercises. Do not stop or change medication doses on the basis of this article. Ask the responsible clinician or pharmacist to review the list and explain which changes, if any, are appropriate.</p><p>Useful questions are: “What is our current working explanation?” “Has emptying been checked if my symptoms suggest a problem?” and “Who is coordinating the next step, and when should I return if it does not help?” Bring an existing bladder record if you have one, but do not postpone care to collect perfect data.</p><p><a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes\">Inability to urinate or severe abdominal pain needs immediate medical care</a>. For ongoing symptoms, agree on one coordinated plan rather than layering new bladder delays and extra squeezing onto several treatments. Pelvic Gym can support an appropriate strengthening plan; it cannot determine why urgency persists.</p>"
       },
       {
+        "id": "after-activity",
+        "title": "What if urgency repeatedly flares after sex or a particular activity?",
+        "html": "<p>Tell your clinician about the sequence, including a delay until the following day. A repeatable trigger is useful information, but it does not by itself establish an infection, muscle problem or bladder pain syndrome. <a href=\"https://www.nhs.uk/conditions/interstitial-cystitis/\">NHS guidance describes testing to exclude other causes of bladder symptoms</a>; a previous negative culture should be discussed in the context of the symptoms you have now.</p><p>Use a concise sequence rather than a self-diagnosis: “This activity is followed by urgency the next day, symptoms last about this long, and these other symptoms occur.” Include pain, bleeding, discharge, difficulty emptying and whether symptoms settle between episodes. You can describe the activity privately to the clinician without needing to share intimate details elsewhere.</p><p>Ask what to pause or modify while the cause is assessed, what any physiotherapy is intended to address and when to return if it does not help. Do not keep provoking symptoms as a home test or add a strengthening routine just because the problem follows activity.</p><p>Pelvic pain with urinary symptoms, fever, blood or difficulty passing urine needs urgent advice under the <a href=\"https://www.nhs.uk/symptoms/pelvic-pain/\">NHS pelvic-pain guidance</a>. Severe or worsening pain requires emergency care. Pelvic Gym is relevant only if an assessment later identifies suitable strengthening as part of the plan.</p>"
+      },
+      {
         "id": "help",
         "title": "When to seek help sooner",
         "html": "<p>Blood in urine needs prompt medical assessment even if it is a small amount or happens once. <a href=\"https://www.nhs.uk/symptoms/blood-in-urine/\">The NHS explains why it should be checked</a>. Do not assume it comes from a workout or an irritated bladder.</p><p>This educational guide cannot diagnose urgency. Persistent symptoms after treatment, new pain or a changing pattern are reasons to contact your clinician again. A review is a normal part of finding the right approach, not evidence that you failed at self-care.</p>"
@@ -407,6 +412,10 @@
       {
         "title": "NIDDK: Diagnosing urinary retention",
         "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/diagnosis"
+      },
+      {
+        "title": "NHS: Bladder pain syndrome",
+        "url": "https://www.nhs.uk/conditions/interstitial-cystitis/"
       }
     ],
     "related": [
@@ -418,8 +427,8 @@
     "keyword": "urinary urgency in women",
     "researchNote": "Researched 2026-10-24. Symptom-explanation and care-navigation intent. Differentiates urgency, infection and retention; no diagnosis from frequency or urine volume alone.",
     "datePublished": "2026-10-24",
-    "dateModified": "2026-11-02",
-    "sourceCheckNote": "Original guidance sources were checked on 2026-10-24. The new If urgency starts after a new therapy or exercise routine section was checked against its linked sources October 29, 2026. The pressure-after-voiding section was checked October 31, 2026 against NIDDK symptom and diagnostic guidance and NHS UTI guidance; earlier sections retain their existing source-check scope. The Persistent symptoms and a coordinated treatment-review summary section was checked against its linked sources on November 2, 2026."
+    "dateModified": "2026-11-07",
+    "sourceCheckNote": "The What if urgency repeatedly flares after sex or a particular activity? section was checked on November 7, 2026. Earlier source-check dates remain unchanged."
   },
   {
     "slug": "peeing-at-night-women",
@@ -642,6 +651,11 @@
         "html": "<p>Individual responses differ. Royal Devon’s fluid advice notes that some people find particular drinks more troublesome than others. <a href=\"https://www.royaldevon.nhs.uk/media/vlbbn420/healthy-fluid-advice-rd-25-006-001.pdf\">See its discussion of drink choices</a>.</p><p>A useful plan should explain what you are testing and why. If you have several dietary restrictions already, ask for help before removing more options. The aim is a sustainable routine that supports hydration and comfort, not a “perfect bladder diet.”</p><p>Also separate hydration from treatment. Drinking a particular juice does not replace assessment for a suspected infection. The NHS notes that cranberry products do not treat a UTI that has already started. <a href=\"https://www.nhs.uk/conditions/urinary-tract-infections-utis/\">Read the NHS UTI guidance</a>.</p>"
       },
       {
+        "id": "symptoms-persist",
+        "title": "What if symptoms continue after I start drinking normally?",
+        "html": "<p>Persistent urgency or burning should not automatically be attributed to an earlier period of low fluid intake. Improvement after changing drinks is useful to report, but it does not establish the cause or predict how long symptoms will last. A previous negative urine test also does not settle every possible explanation.</p><p><a href=\"https://www.nhs.uk/conditions/interstitial-cystitis/\">NHS bladder pain syndrome guidance</a> describes assessment to rule out other causes and notes that symptoms can resemble other conditions. Ask your clinician what the existing tests addressed and whether the current pattern needs further review. Do not diagnose bladder pain syndrome from this comparison.</p><p>Prepare a short timeline: when symptoms started; medicines or supplements used around that time; what you changed; what improved; and what remains. Bring the actual product names to the clinician without stopping, restarting or changing doses on your own. This makes the discussion more useful than deciding that dehydration must have caused permanent damage.</p><p>Follow the fluid advice appropriate for your health rather than forcing large amounts to flush symptoms away. If you have pelvic pain with difficulty urinating, fever or blood in urine, use the <a href=\"https://www.nhs.uk/symptoms/pelvic-pain/\">urgent-care guidance</a>. Pelvic Gym cannot determine whether a symptom is related to a drink, medicine, infection or another condition.</p>"
+      },
+      {
         "id": "get-help",
         "title": "When drinks are not the main question",
         "html": "<p>Seek assessment for persistent or new urinary symptoms, especially burning, pain or difficulty emptying. Blood in urine needs prompt medical attention even if it happens only once. <a href=\"https://www.nhs.uk/symptoms/blood-in-urine/\">See NHS advice on blood in urine</a>.</p><p>This article is educational. If an exercise plan is already appropriate for you, drink habits can sit alongside it. They do not replace checking <a href=\"/pelvic_gym/articles/urinary-urgency-in-women/\">new urgency</a> or getting help when symptoms change. Bring your observations so the next step is based on your experience rather than a blanket rule.</p>"
@@ -681,6 +695,10 @@
       {
         "title": "NHS: Blood in urine",
         "url": "https://www.nhs.uk/symptoms/blood-in-urine/"
+      },
+      {
+        "title": "NHS: Bladder pain syndrome",
+        "url": "https://www.nhs.uk/conditions/interstitial-cystitis/"
       }
     ],
     "related": [
@@ -690,6 +708,8 @@
     ],
     "cta": "routine",
     "keyword": "water caffeine bladder habits",
-    "researchNote": "Researched 2026-10-24. Fluid and caffeine habit-change intent. No fixed fluid dose, universal avoidance list or claim that a drink treats infection."
+    "researchNote": "Researched 2026-10-24. Fluid and caffeine habit-change intent. No fixed fluid dose, universal avoidance list or claim that a drink treats infection.",
+    "dateModified": "2026-11-07",
+    "sourceCheckNote": "The What if symptoms continue after I start drinking normally? section was checked on November 7, 2026. Earlier source-check dates remain unchanged."
   }
 ]

@@ -1,0 +1,1475 @@
+{
+  "run_id": "2026-11-07-2200",
+  "kind": "scheduled",
+  "status": "deployment_pending",
+  "started_at": "2026-11-07T17:57:45.367Z",
+  "timezone": "Asia/Dubai",
+  "scheduled_local": "22:00",
+  "scan_completed_at": "2026-11-07T18:19:01.767104+00:00",
+  "next_scan_watermark": "2026-11-07T17:57:45.367Z",
+  "windows": {
+    "primary_start": "2026-11-06T17:58:08.400Z",
+    "end": "2026-11-07T18:19:01.767104+00:00",
+    "expanded": false,
+    "note": "Ten fresh question intents since previous watermark; conservative next watermark is run start."
+  },
+  "selected": [
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "What can I wear at home to feel put together without a dress?",
+      "question_wording": "Editorial generalization of a public question, not a verbatim quotation.",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xpqlcn/masc_equivalent_of_a_house_dress/",
+      "posted_at": "2026-11-06T22:48:56.105000+0000",
+      "observed_at": "2026-11-07T18:02:44.586Z",
+      "votes": 94,
+      "comments": 78,
+      "original_question_read": true,
+      "slug": "comfortable-home-outfits-without-dresses",
+      "section": null,
+      "outcome": "published",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/comfortable-home-outfits-without-dresses/",
+      "reason": "94 votes and 78 comments: strongest fresh fashion question, with a concrete comfort and color-coordination task.",
+      "brief": {
+        "reader_decision": "Choose a comfortable small rotation with a masculine or androgynous silhouette.",
+        "overlap_decision": "New: home comfort and movement constraints differ from general wardrobe shopping.",
+        "original_resource": "Three illustrated outfit formulas and an ordinary-task try-on.",
+        "app_role": "Suggested clothing palette and combinations."
+      }
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "How can I keep personal style in a casual office?",
+      "question_wording": "Editorial generalization of a public question, not a verbatim quotation.",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xpjxrm/how_do_you_balance_personal_style_with_office/",
+      "posted_at": "2026-11-06T18:16:17.255000+0000",
+      "observed_at": "2026-11-07T18:02:44.586Z",
+      "votes": 38,
+      "comments": 47,
+      "original_question_read": true,
+      "slug": "personal-style-casual-office",
+      "section": null,
+      "outcome": "published",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/personal-style-casual-office/",
+      "reason": "38 votes and 47 comments: strong fresh question about a first job and usable existing clothes.",
+      "brief": {
+        "reader_decision": "Choose work outfits within the actual employer policy.",
+        "overlap_decision": "New: daily workplace policy and comfort differ from the existing holiday-party article.",
+        "original_resource": "Three illustrated non-jeans outfits, concrete policy questions and five-day wardrobe note.",
+        "app_role": "Color shortlist for a practical wardrobe gap."
+      }
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Why does nude polish look orange or too bold on me?",
+      "question_wording": "Editorial generalization of a public question, not a verbatim quotation.",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xpt28f/dose_this_colour_work_for_me_or_dose_it_not/",
+      "posted_at": "2026-11-07T00:43:54.932000+0000",
+      "observed_at": "2026-11-07T18:01:20.563Z",
+      "votes": 0,
+      "comments": 32,
+      "original_question_read": true,
+      "slug": "choose-nude-nail-color",
+      "section": null,
+      "outcome": "published",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/choose-nude-nail-color/",
+      "reason": "32 comments despite 0 net votes; a focused product-choice gap. Older public Quora question corroborates intent without providing current popularity.",
+      "brief": {
+        "reader_decision": "Choose the effect, then compare warmth, depth and coverage.",
+        "overlap_decision": "New: jewelry and makeup articles do not cover nail finish and opacity.",
+        "original_resource": "Six illustrated nail samples and a salon handoff example.",
+        "app_role": "Seasonal suggestions to explore; actual polish remains the final check."
+      }
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Can a foundation scan tell me my contrast or color season?",
+      "question_wording": "Editorial generalization of a public question, not a verbatim quotation.",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xppbjd/contrast_level_and_color_season/",
+      "posted_at": "2026-11-06T21:54:03.788000+0000",
+      "observed_at": "2026-11-07T18:01:20.563Z",
+      "votes": 6,
+      "comments": 17,
+      "original_question_read": true,
+      "slug": "color-depth-vs-brightness",
+      "section": "foundation-label",
+      "outcome": "updated",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/color-depth-vs-brightness/",
+      "reason": "6 votes and 17 comments; the original includes a product shade scan and confusion about contrast.",
+      "brief": {
+        "reader_decision": "Keep a foundation match separate from clothing comparisons.",
+        "overlap_decision": "Update the existing depth/brightness explanation.",
+        "original_resource": "Separate product and outfit notes, followed by a real outfit comparison.",
+        "app_role": "Clothing shortlist, not a foundation prescription."
+      }
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "What if I was typed Summer but pastels seem washed out?",
+      "question_wording": "Editorial generalization of a public question, not a verbatim quotation.",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xpqf7p/i_was_previously_typed_as_a_true_summer_but/",
+      "posted_at": "2026-11-06T22:41:13.159000+0000",
+      "observed_at": "2026-11-07T18:01:20.563Z",
+      "votes": 5,
+      "comments": 17,
+      "original_question_read": true,
+      "slug": "light-summer-or-true-summer",
+      "section": "pastels-wash-out",
+      "outcome": "updated",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/light-summer-or-true-summer/",
+      "reason": "5 votes and 17 comments; specific conflict between a prior analysis and pale clothing.",
+      "brief": {
+        "reader_decision": "Choose a useful depth without changing hair to fit a label.",
+        "overlap_decision": "Expand the existing pale-versus-medium Summer comparison.",
+        "original_resource": "Three-look top/layer comparison and analyst follow-up.",
+        "app_role": "Related color combinations for the preferred outfit."
+      }
+    },
+    {
+      "app": "pelvic_gym",
+      "platform": "Reddit",
+      "question": "What if I feel clenched even when lying down?",
+      "question_wording": "Editorial generalization of a public question, not a verbatim quotation.",
+      "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xpq3ok/anyone_deal_with_a_constant_clenchingtight/",
+      "posted_at": "2026-11-06T22:27:06.510000+0000",
+      "observed_at": "2026-11-07T18:01:57.032Z",
+      "votes": 6,
+      "comments": 3,
+      "original_question_read": true,
+      "slug": "pelvic-floor-relaxation",
+      "section": "constant-clench",
+      "outcome": "updated",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-relaxation/",
+      "reason": "6 votes and 3 comments; strongest selected relevant fresh tension question.",
+      "brief": {
+        "reader_decision": "Describe persistent sensations and seek assessment without repeated self-testing.",
+        "overlap_decision": "Update relaxation guide; do not create another tight-floor diagnosis page.",
+        "original_resource": "Location/timing appointment message and limits on self-testing.",
+        "app_role": "No diagnostic or flare-care role; strengthening only when later appropriate."
+      }
+    },
+    {
+      "app": "pelvic_gym",
+      "platform": "Reddit",
+      "question": "What should I do about bowel urgency after childbirth before returning to work?",
+      "question_wording": "Editorial generalization of a public question, not a verbatim quotation.",
+      "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xq1sra/bowel_urgency_4_months_pp/",
+      "posted_at": "2026-11-07T08:50:30.421000+0000",
+      "observed_at": "2026-11-07T18:01:57.032Z",
+      "votes": 1,
+      "comments": 4,
+      "original_question_read": true,
+      "slug": "postpartum-bowel-urgency",
+      "section": null,
+      "outcome": "published",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/postpartum-bowel-urgency/",
+      "reason": "1 vote and 4 comments; clear new bowel-control and return-to-work question.",
+      "brief": {
+        "reader_decision": "Seek a bowel-specific review and practical interim plan.",
+        "overlap_decision": "New: postpartum overview and wind-control page do not address stool urgency and work access in depth.",
+        "original_resource": "Four-detail appointment table and workday planning example.",
+        "app_role": "Only a clinician-approved strengthening component, not bowel assessment or biofeedback."
+      }
+    },
+    {
+      "app": "pelvic_gym",
+      "platform": "Reddit",
+      "question": "What if bladder symptoms continue after I start drinking normally?",
+      "question_wording": "Editorial generalization of a public question, not a verbatim quotation.",
+      "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xps4um/can_severe_dehydration_cause_longterm_bladder_or/",
+      "posted_at": "2026-11-07T00:00:20.640000+0000",
+      "observed_at": "2026-11-07T18:01:57.032Z",
+      "votes": 2,
+      "comments": 1,
+      "original_question_read": true,
+      "slug": "bladder-habits-water-caffeine",
+      "section": "symptoms-persist",
+      "outcome": "updated",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/bladder-habits-water-caffeine/",
+      "reason": "2 votes and 1 comment; distinct causal confusion after a fluid change.",
+      "brief": {
+        "reader_decision": "Bring a timeline and current symptoms to a clinician.",
+        "overlap_decision": "Update existing fluids article, no new dehydration diagnosis.",
+        "original_resource": "Medication/change/symptom timeline and questions about existing tests.",
+        "app_role": "Cannot identify fluid, medicine or disease causes."
+      }
+    },
+    {
+      "app": "pelvic_gym",
+      "platform": "Reddit",
+      "question": "What should I ask when pelvic therapy leads to a referral for osteopathy?",
+      "question_wording": "Editorial generalization of a public question, not a verbatim quotation.",
+      "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xq4plq/experiences_with_osteopath_and_ic_and_pelvic/",
+      "posted_at": "2026-11-07T11:59:46.390000+0000",
+      "observed_at": "2026-11-07T18:01:57.032Z",
+      "votes": 1,
+      "comments": 0,
+      "original_question_read": true,
+      "slug": "find-pelvic-floor-physiotherapy",
+      "section": "another-provider",
+      "outcome": "updated",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/find-pelvic-floor-physiotherapy/",
+      "reason": "1 vote and no comments; low attention but a distinct referral-evidence and care-coordination decision.",
+      "brief": {
+        "reader_decision": "Clarify the intended target, evidence, review and medical responsibility.",
+        "overlap_decision": "Update care-access guide, no claim that osteopathy treats bladder disease.",
+        "original_resource": "Four-part referral checklist using official evidence limitations.",
+        "app_role": "Does not assess manual treatment or replace care."
+      }
+    },
+    {
+      "app": "pelvic_gym",
+      "platform": "Reddit",
+      "question": "What if urinary urgency repeatedly appears after sex or an activity?",
+      "question_wording": "Editorial generalization of a public question, not a verbatim quotation.",
+      "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xpzc3h/urgencia_urinaria_que_no_se_va/",
+      "posted_at": "2026-11-07T06:16:06.914000+0000",
+      "observed_at": "2026-11-07T18:01:57.032Z",
+      "votes": 1,
+      "comments": 2,
+      "original_question_read": true,
+      "slug": "urinary-urgency-in-women",
+      "section": "after-activity",
+      "outcome": "updated",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/urinary-urgency-in-women/",
+      "reason": "1 vote and 2 comments; fresh Spanish-language question generalized into the authorized English content without personal details.",
+      "brief": {
+        "reader_decision": "Report delayed symptom timing and ask what to modify while assessed.",
+        "overlap_decision": "Update urgency guide with trigger timing, not another broad bladder article.",
+        "original_resource": "Sequence-based appointment summary and care escalation.",
+        "app_role": "Only relevant if assessment later supports strengthening."
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "app": "stylist_ai",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xqb5ry/what_season_am_i/",
+      "posted_at": "2026-11-07T16:59:40.483000+0000",
+      "observed_at": "2026-11-07T18:01:20.563Z",
+      "votes": 1,
+      "comments": 4,
+      "question": "What season am I?",
+      "decision": "skip",
+      "reason": "Already-covered season/jewelry/hair intent or weaker app-specific task, including garment maintenance."
+    },
+    {
+      "app": "stylist_ai",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xqauf2/white_or_yellow_gold_please_help/",
+      "posted_at": "2026-11-07T16:46:07.853000+0000",
+      "observed_at": "2026-11-07T18:01:20.563Z",
+      "votes": 0,
+      "comments": 2,
+      "question": "White or yellow gold? Please help 😭",
+      "decision": "skip",
+      "reason": "Already-covered season/jewelry/hair intent or weaker app-specific task, including garment maintenance."
+    },
+    {
+      "app": "stylist_ai",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xq8e1a/i_cant_decide_whether_to_go_lighter_or_darker_im/",
+      "posted_at": "2026-11-07T15:01:29.133000+0000",
+      "observed_at": "2026-11-07T18:01:20.563Z",
+      "votes": 1,
+      "comments": 6,
+      "question": "I can't decide whether to go lighter or darker. I'm leaning towards light. If I could, I would do silver!",
+      "decision": "skip",
+      "reason": "Already-covered season/jewelry/hair intent or weaker app-specific task, including garment maintenance."
+    },
+    {
+      "app": "stylist_ai",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xq6nj1/gold_or_silver/",
+      "posted_at": "2026-11-07T13:41:36.820000+0000",
+      "observed_at": "2026-11-07T18:01:20.563Z",
+      "votes": 9,
+      "comments": 37,
+      "question": "Gold or silver?",
+      "decision": "skip",
+      "reason": "Already-covered season/jewelry/hair intent or weaker app-specific task, including garment maintenance."
+    },
+    {
+      "app": "stylist_ai",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xq6fut/gold_or_silver/",
+      "posted_at": "2026-11-07T13:31:30.420000+0000",
+      "observed_at": "2026-11-07T18:01:20.563Z",
+      "votes": 9,
+      "comments": 12,
+      "question": "Gold or silver ?",
+      "decision": "skip",
+      "reason": "Already-covered season/jewelry/hair intent or weaker app-specific task, including garment maintenance."
+    },
+    {
+      "app": "stylist_ai",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xpt28f/dose_this_colour_work_for_me_or_dose_it_not/",
+      "posted_at": "2026-11-07T00:43:54.932000+0000",
+      "observed_at": "2026-11-07T18:01:20.563Z",
+      "votes": 0,
+      "comments": 32,
+      "question": "Why does nude polish look orange or too bold on me?",
+      "decision": "selected",
+      "reason": "32 comments despite 0 net votes; a focused product-choice gap. Older public Quora question corroborates intent without providing current popularity."
+    },
+    {
+      "app": "stylist_ai",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xpqf7p/i_was_previously_typed_as_a_true_summer_but/",
+      "posted_at": "2026-11-06T22:41:13.159000+0000",
+      "observed_at": "2026-11-07T18:01:20.563Z",
+      "votes": 5,
+      "comments": 17,
+      "question": "What if I was typed Summer but pastels seem washed out?",
+      "decision": "selected",
+      "reason": "5 votes and 17 comments; specific conflict between a prior analysis and pale clothing."
+    },
+    {
+      "app": "stylist_ai",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xppfry/whats_my_color_season/",
+      "posted_at": "2026-11-06T21:59:08.017000+0000",
+      "observed_at": "2026-11-07T18:01:20.563Z",
+      "votes": 5,
+      "comments": 5,
+      "question": "What’s my color season?",
+      "decision": "skip",
+      "reason": "Already-covered season/jewelry/hair intent or weaker app-specific task, including garment maintenance."
+    },
+    {
+      "app": "stylist_ai",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xppbjd/contrast_level_and_color_season/",
+      "posted_at": "2026-11-06T21:54:03.788000+0000",
+      "observed_at": "2026-11-07T18:01:20.563Z",
+      "votes": 6,
+      "comments": 17,
+      "question": "Can a foundation scan tell me my contrast or color season?",
+      "decision": "selected",
+      "reason": "6 votes and 17 comments; the original includes a product shade scan and confusion about contrast."
+    },
+    {
+      "app": "stylist_ai",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xpojgn/im_so_confused_what_am_i/",
+      "posted_at": "2026-11-06T21:21:11.764000+0000",
+      "observed_at": "2026-11-07T18:01:20.563Z",
+      "votes": 6,
+      "comments": 7,
+      "question": "I'm so confused: What am I!",
+      "decision": "skip",
+      "reason": "Already-covered season/jewelry/hair intent or weaker app-specific task, including garment maintenance."
+    },
+    {
+      "app": "stylist_ai",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xpog1u/what_season_am_i/",
+      "posted_at": "2026-11-06T21:17:22.088000+0000",
+      "observed_at": "2026-11-07T18:01:20.563Z",
+      "votes": 15,
+      "comments": 68,
+      "question": "What season am I?",
+      "decision": "skip",
+      "reason": "Already-covered season/jewelry/hair intent or weaker app-specific task, including garment maintenance."
+    },
+    {
+      "app": "stylist_ai",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xplq1h/soft_summer_or_soft_autumn/",
+      "posted_at": "2026-11-06T19:25:36.513000+0000",
+      "observed_at": "2026-11-07T18:01:20.563Z",
+      "votes": 17,
+      "comments": 46,
+      "question": "Soft Summer or Soft Autumn?",
+      "decision": "skip",
+      "reason": "Already-covered season/jewelry/hair intent or weaker app-specific task, including garment maintenance."
+    },
+    {
+      "app": "stylist_ai",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xpl3c3/silver_or_gold/",
+      "posted_at": "2026-11-06T19:00:50.594000+0000",
+      "observed_at": "2026-11-07T18:01:20.563Z",
+      "votes": 10,
+      "comments": 31,
+      "question": "Silver or gold?",
+      "decision": "skip",
+      "reason": "Already-covered season/jewelry/hair intent or weaker app-specific task, including garment maintenance."
+    },
+    {
+      "app": "stylist_ai",
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xpkjoq/thanks_for_helping_me_out/",
+      "posted_at": "2026-11-06T18:39:43.802000+0000",
+      "observed_at": "2026-11-07T18:01:20.563Z",
+      "votes": 4,
+      "comments": 7,
+      "question": "Thanks for helping me out!:)",
+      "decision": "skip",
+      "reason": "Already-covered season/jewelry/hair intent or weaker app-specific task, including garment maintenance."
+    },
+    {
+      "app": "stylist_ai",
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/1xq1137/daily_questions_thread_november_07_2026/",
+      "posted_at": "2026-11-07T08:00:49.894000+0000",
+      "observed_at": "2026-11-07T18:02:44.586Z",
+      "votes": 3,
+      "comments": 18,
+      "question": "Daily Questions Thread November 07, 2026",
+      "decision": "skip",
+      "reason": "Already-covered season/jewelry/hair intent or weaker app-specific task, including garment maintenance."
+    },
+    {
+      "app": "stylist_ai",
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/1xpqlcn/masc_equivalent_of_a_house_dress/",
+      "posted_at": "2026-11-06T22:48:56.105000+0000",
+      "observed_at": "2026-11-07T18:02:44.586Z",
+      "votes": 94,
+      "comments": 78,
+      "question": "What can I wear at home to feel put together without a dress?",
+      "decision": "selected",
+      "reason": "94 votes and 78 comments: strongest fresh fashion question, with a concrete comfort and color-coordination task."
+    },
+    {
+      "app": "stylist_ai",
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/1xpq8fg/how_to_keep_dark_wash_jeans_actually_dark/",
+      "posted_at": "2026-11-06T22:32:49.242000+0000",
+      "observed_at": "2026-11-07T18:02:44.586Z",
+      "votes": 16,
+      "comments": 30,
+      "question": "How to keep dark wash jeans actually dark?",
+      "decision": "skip",
+      "reason": "Already-covered season/jewelry/hair intent or weaker app-specific task, including garment maintenance."
+    },
+    {
+      "app": "stylist_ai",
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/1xpjxrm/how_do_you_balance_personal_style_with_office/",
+      "posted_at": "2026-11-06T18:16:17.255000+0000",
+      "observed_at": "2026-11-07T18:02:44.586Z",
+      "votes": 38,
+      "comments": 47,
+      "question": "How can I keep personal style in a casual office?",
+      "decision": "selected",
+      "reason": "38 votes and 47 comments: strong fresh question about a first job and usable existing clothes."
+    },
+    {
+      "app": "pelvic_gym",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xqce9m/any_idea_why_this_happened/",
+      "posted_at": "2026-11-07T17:51:22.581000+0000",
+      "observed_at": "2026-11-07T18:01:57.032Z",
+      "votes": 1,
+      "comments": 0,
+      "question": "Unselected health question; intimate details not retained.",
+      "decision": "skip",
+      "reason": "Male-specific care, minor self-diagnosis, individual drug/procedure decision, testimonial or an already-covered symptom. No generalized treatment claims from anecdotes."
+    },
+    {
+      "app": "pelvic_gym",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xq9ttf/fixed_my_hypertonic_pelvic_floor_and_just_had_an/",
+      "posted_at": "2026-11-07T16:03:15.430000+0000",
+      "observed_at": "2026-11-07T18:01:57.032Z",
+      "votes": 17,
+      "comments": 3,
+      "question": "Unselected health question; intimate details not retained.",
+      "decision": "skip",
+      "reason": "Male-specific care, minor self-diagnosis, individual drug/procedure decision, testimonial or an already-covered symptom. No generalized treatment claims from anecdotes."
+    },
+    {
+      "app": "pelvic_gym",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xq6rql/deep_chronic_fissure_above_dentate_line_and/",
+      "posted_at": "2026-11-07T13:47:31.111000+0000",
+      "observed_at": "2026-11-07T18:01:57.032Z",
+      "votes": 1,
+      "comments": 0,
+      "question": "Unselected health question; intimate details not retained.",
+      "decision": "skip",
+      "reason": "Male-specific care, minor self-diagnosis, individual drug/procedure decision, testimonial or an already-covered symptom. No generalized treatment claims from anecdotes."
+    },
+    {
+      "app": "pelvic_gym",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xq6n5u/23m_deep_chronic_fissure_above_dentate_line_and/",
+      "posted_at": "2026-11-07T13:41:05.797000+0000",
+      "observed_at": "2026-11-07T18:01:57.032Z",
+      "votes": 1,
+      "comments": 0,
+      "question": "Unselected health question; intimate details not retained.",
+      "decision": "skip",
+      "reason": "Male-specific care, minor self-diagnosis, individual drug/procedure decision, testimonial or an already-covered symptom. No generalized treatment claims from anecdotes."
+    },
+    {
+      "app": "pelvic_gym",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xq4plq/experiences_with_osteopath_and_ic_and_pelvic/",
+      "posted_at": "2026-11-07T11:59:46.390000+0000",
+      "observed_at": "2026-11-07T18:01:57.032Z",
+      "votes": 1,
+      "comments": 0,
+      "question": "What should I ask when pelvic therapy leads to a referral for osteopathy?",
+      "decision": "selected",
+      "reason": "1 vote and no comments; low attention but a distinct referral-evidence and care-coordination decision."
+    },
+    {
+      "app": "pelvic_gym",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xq33cj/suggestions_and_maybe_encouragement/",
+      "posted_at": "2026-11-07T10:16:15.725000+0000",
+      "observed_at": "2026-11-07T18:01:57.032Z",
+      "votes": 4,
+      "comments": 1,
+      "question": "Unselected health question; intimate details not retained.",
+      "decision": "skip",
+      "reason": "Male-specific care, minor self-diagnosis, individual drug/procedure decision, testimonial or an already-covered symptom. No generalized treatment claims from anecdotes."
+    },
+    {
+      "app": "pelvic_gym",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xq2ng5/tva_activation_help/",
+      "posted_at": "2026-11-07T09:47:05.729000+0000",
+      "observed_at": "2026-11-07T18:01:57.032Z",
+      "votes": 1,
+      "comments": 3,
+      "question": "Unselected health question; intimate details not retained.",
+      "decision": "skip",
+      "reason": "Male-specific care, minor self-diagnosis, individual drug/procedure decision, testimonial or an already-covered symptom. No generalized treatment claims from anecdotes."
+    },
+    {
+      "app": "pelvic_gym",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xq270l/ed_issues/",
+      "posted_at": "2026-11-07T09:16:32.906000+0000",
+      "observed_at": "2026-11-07T18:01:57.032Z",
+      "votes": 3,
+      "comments": 1,
+      "question": "Unselected health question; intimate details not retained.",
+      "decision": "skip",
+      "reason": "Male-specific care, minor self-diagnosis, individual drug/procedure decision, testimonial or an already-covered symptom. No generalized treatment claims from anecdotes."
+    },
+    {
+      "app": "pelvic_gym",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xq1sra/bowel_urgency_4_months_pp/",
+      "posted_at": "2026-11-07T08:50:30.421000+0000",
+      "observed_at": "2026-11-07T18:01:57.032Z",
+      "votes": 1,
+      "comments": 4,
+      "question": "What should I do about bowel urgency after childbirth before returning to work?",
+      "decision": "selected",
+      "reason": "1 vote and 4 comments; clear new bowel-control and return-to-work question."
+    },
+    {
+      "app": "pelvic_gym",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xpzc3h/urgencia_urinaria_que_no_se_va/",
+      "posted_at": "2026-11-07T06:16:06.914000+0000",
+      "observed_at": "2026-11-07T18:01:57.032Z",
+      "votes": 1,
+      "comments": 2,
+      "question": "What if urinary urgency repeatedly appears after sex or an activity?",
+      "decision": "selected",
+      "reason": "1 vote and 2 comments; fresh Spanish-language question generalized into the authorized English content without personal details."
+    },
+    {
+      "app": "pelvic_gym",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xpxnqh/srus_and_pelvic_floor_dysfunctional/",
+      "posted_at": "2026-11-07T04:40:41.847000+0000",
+      "observed_at": "2026-11-07T18:01:57.032Z",
+      "votes": 3,
+      "comments": 3,
+      "question": "Unselected health question; intimate details not retained.",
+      "decision": "skip",
+      "reason": "Male-specific care, minor self-diagnosis, individual drug/procedure decision, testimonial or an already-covered symptom. No generalized treatment claims from anecdotes."
+    },
+    {
+      "app": "pelvic_gym",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xpxhkw/finasteride_ruined_my_life/",
+      "posted_at": "2026-11-07T04:31:10.186000+0000",
+      "observed_at": "2026-11-07T18:01:57.032Z",
+      "votes": 20,
+      "comments": 48,
+      "question": "Unselected health question; intimate details not retained.",
+      "decision": "skip",
+      "reason": "Male-specific care, minor self-diagnosis, individual drug/procedure decision, testimonial or an already-covered symptom. No generalized treatment claims from anecdotes."
+    },
+    {
+      "app": "pelvic_gym",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xpvq47/nyc_doctor_recommendation_for_mens_sexual_health/",
+      "posted_at": "2026-11-07T02:56:57.895000+0000",
+      "observed_at": "2026-11-07T18:01:57.032Z",
+      "votes": 4,
+      "comments": 1,
+      "question": "Unselected health question; intimate details not retained.",
+      "decision": "skip",
+      "reason": "Male-specific care, minor self-diagnosis, individual drug/procedure decision, testimonial or an already-covered symptom. No generalized treatment claims from anecdotes."
+    },
+    {
+      "app": "pelvic_gym",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xptv6h/linzess_has_failed_me_again/",
+      "posted_at": "2026-11-07T01:22:03.103000+0000",
+      "observed_at": "2026-11-07T18:01:57.032Z",
+      "votes": 2,
+      "comments": 6,
+      "question": "Unselected health question; intimate details not retained.",
+      "decision": "skip",
+      "reason": "Male-specific care, minor self-diagnosis, individual drug/procedure decision, testimonial or an already-covered symptom. No generalized treatment claims from anecdotes."
+    },
+    {
+      "app": "pelvic_gym",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xpsegu/vaginal_zapspinches/",
+      "posted_at": "2026-11-07T00:11:48.926000+0000",
+      "observed_at": "2026-11-07T18:01:57.032Z",
+      "votes": 1,
+      "comments": 0,
+      "question": "Unselected health question; intimate details not retained.",
+      "decision": "skip",
+      "reason": "Male-specific care, minor self-diagnosis, individual drug/procedure decision, testimonial or an already-covered symptom. No generalized treatment claims from anecdotes."
+    },
+    {
+      "app": "pelvic_gym",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xps4um/can_severe_dehydration_cause_longterm_bladder_or/",
+      "posted_at": "2026-11-07T00:00:20.640000+0000",
+      "observed_at": "2026-11-07T18:01:57.032Z",
+      "votes": 2,
+      "comments": 1,
+      "question": "What if bladder symptoms continue after I start drinking normally?",
+      "decision": "selected",
+      "reason": "2 votes and 1 comment; distinct causal confusion after a fluid change."
+    },
+    {
+      "app": "pelvic_gym",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xpq3ok/anyone_deal_with_a_constant_clenchingtight/",
+      "posted_at": "2026-11-06T22:27:06.510000+0000",
+      "observed_at": "2026-11-07T18:01:57.032Z",
+      "votes": 6,
+      "comments": 3,
+      "question": "What if I feel clenched even when lying down?",
+      "decision": "selected",
+      "reason": "6 votes and 3 comments; strongest selected relevant fresh tension question."
+    },
+    {
+      "app": "pelvic_gym",
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xpmd54/botox_with_prolaps/",
+      "posted_at": "2026-11-06T19:51:54.989000+0000",
+      "observed_at": "2026-11-07T18:01:57.032Z",
+      "votes": 3,
+      "comments": 10,
+      "question": "Unselected health question; intimate details not retained.",
+      "decision": "skip",
+      "reason": "Male-specific care, minor self-diagnosis, individual drug/procedure decision, testimonial or an already-covered symptom. No generalized treatment claims from anecdotes."
+    }
+  ],
+  "selection_summary": "Three new Stylist guides and two updates; one new Pelvic guide and four updates. Separate city work not counted.",
+  "outcomes": {
+    "stylist_ai": {
+      "target": 5,
+      "new": 3,
+      "updated": 2,
+      "shortfall": 0
+    },
+    "pelvic_gym": {
+      "target": 5,
+      "new": 1,
+      "updated": 4,
+      "shortfall": 0
+    }
+  },
+  "google_trends": {
+    "status": "no_suitable_trend",
+    "windows": [
+      {
+        "country": "US",
+        "window": "Past 7 days",
+        "seeds": [
+          "color analysis",
+          "pelvic floor"
+        ],
+        "seed_type": "Search terms",
+        "search_type": "Web Search",
+        "category": "All categories",
+        "observed_between": [
+          "2026-11-07T18:01:57Z",
+          "2026-11-07T18:19:01.767104+00:00"
+        ],
+        "exact_comparison_dates": null,
+        "explore_url": "https://trends.google.com/trends/explore?date=now%207-d&geo=US&q=color%20analysis,pelvic%20floor&hl=en",
+        "queries": {
+          "rising": {
+            "color analysis": [
+              {
+                "rank": 1,
+                "query": "google scholar",
+                "metric": "Breakout",
+                "url": "https://trends.google.com/trends/explore?q=google+scholar&date=now+7-d&geo=US"
+              },
+              {
+                "rank": 2,
+                "query": "the indicator phenolphthalein is added to the _____________.",
+                "metric": "+300%",
+                "url": "https://trends.google.com/trends/explore?q=the+indicator+phenolphthalein+is+added+to+the+_____________.&date=now+7-d&geo=US"
+              },
+              {
+                "rank": 3,
+                "query": "color analysis upload photo free",
+                "metric": "+200%",
+                "url": "https://trends.google.com/trends/explore?q=color+analysis+upload+photo+free&date=now+7-d&geo=US"
+              },
+              {
+                "rank": 4,
+                "query": "diy color analysis",
+                "metric": "+160%",
+                "url": "https://trends.google.com/trends/explore?q=diy+color+analysis&date=now+7-d&geo=US"
+              },
+              {
+                "rank": 5,
+                "query": "how to make sushi",
+                "metric": "+120%",
+                "url": "https://trends.google.com/trends/explore?q=how+to+make+sushi&date=now+7-d&geo=US"
+              }
+            ],
+            "pelvic floor": [
+              {
+                "rank": 1,
+                "query": "tight pelvic floor symptoms male",
+                "metric": "+250%",
+                "url": "https://trends.google.com/trends/explore?q=tight+pelvic+floor+symptoms+male&date=now+7-d&geo=US"
+              },
+              {
+                "rank": 2,
+                "query": "tight pelvic floor symptoms female",
+                "metric": "+90%",
+                "url": "https://trends.google.com/trends/explore?q=tight+pelvic+floor+symptoms+female&date=now+7-d&geo=US"
+              },
+              {
+                "rank": 3,
+                "query": "best pelvic floor therapist near me",
+                "metric": "+90%",
+                "url": "https://trends.google.com/trends/explore?q=best+pelvic+floor+therapist+near+me&date=now+7-d&geo=US"
+              },
+              {
+                "rank": 4,
+                "query": "pelvic floor exercise device",
+                "metric": "+90%",
+                "url": "https://trends.google.com/trends/explore?q=pelvic+floor+exercise+device&date=now+7-d&geo=US"
+              },
+              {
+                "rank": 5,
+                "query": "high tone pelvic floor dysfunction",
+                "metric": "+70%",
+                "url": "https://trends.google.com/trends/explore?q=high+tone+pelvic+floor+dysfunction&date=now+7-d&geo=US"
+              }
+            ]
+          },
+          "top": {
+            "color analysis": [
+              {
+                "rank": 1,
+                "query": "what is color analysis",
+                "metric": "100",
+                "url": "https://trends.google.com/trends/explore?q=what+is+color+analysis&date=now+7-d&geo=US"
+              },
+              {
+                "rank": 2,
+                "query": "color analysis near me",
+                "metric": "64",
+                "url": "https://trends.google.com/trends/explore?q=color+analysis+near+me&date=now+7-d&geo=US"
+              },
+              {
+                "rank": 3,
+                "query": "color palette analysis",
+                "metric": "63",
+                "url": "https://trends.google.com/trends/explore?q=color+palette+analysis&date=now+7-d&geo=US"
+              },
+              {
+                "rank": 4,
+                "query": "color palette",
+                "metric": "63",
+                "url": "https://trends.google.com/trends/explore?q=color+palette&date=now+7-d&geo=US"
+              },
+              {
+                "rank": 5,
+                "query": "season color analysis",
+                "metric": "42",
+                "url": "https://trends.google.com/trends/explore?q=season+color+analysis&date=now+7-d&geo=US"
+              }
+            ],
+            "pelvic floor": [
+              {
+                "rank": 1,
+                "query": "pelvic floor therapy",
+                "metric": "100",
+                "url": "https://trends.google.com/trends/explore?q=pelvic+floor+therapy&date=now+7-d&geo=US"
+              },
+              {
+                "rank": 2,
+                "query": "pelvic floor exercises",
+                "metric": "53",
+                "url": "https://trends.google.com/trends/explore?q=pelvic+floor+exercises&date=now+7-d&geo=US"
+              },
+              {
+                "rank": 3,
+                "query": "physical therapy pelvic floor",
+                "metric": "38",
+                "url": "https://trends.google.com/trends/explore?q=physical+therapy+pelvic+floor&date=now+7-d&geo=US"
+              },
+              {
+                "rank": 4,
+                "query": "pelvic floor dysfunction",
+                "metric": "33",
+                "url": "https://trends.google.com/trends/explore?q=pelvic+floor+dysfunction&date=now+7-d&geo=US"
+              },
+              {
+                "rank": 5,
+                "query": "pelvic pain",
+                "metric": "29",
+                "url": "https://trends.google.com/trends/explore?q=pelvic+pain&date=now+7-d&geo=US"
+              }
+            ]
+          }
+        },
+        "scope": "First five displayed related queries, or all if fewer. Scores and growth are relative, not search volume."
+      },
+      {
+        "country": "US",
+        "window": "Past 30 days",
+        "seeds": [
+          "color analysis",
+          "pelvic floor"
+        ],
+        "seed_type": "Search terms",
+        "search_type": "Web Search",
+        "category": "All categories",
+        "observed_between": [
+          "2026-11-07T18:01:57Z",
+          "2026-11-07T18:19:01.767104+00:00"
+        ],
+        "exact_comparison_dates": null,
+        "explore_url": "https://trends.google.com/trends/explore?date=today%201-m&geo=US&q=color%20analysis,pelvic%20floor&hl=en",
+        "queries": {
+          "rising": {
+            "color analysis": [
+              {
+                "rank": 1,
+                "query": "color palette test",
+                "metric": "Breakout",
+                "url": "https://trends.google.com/trends/explore?q=color+palette+test&date=today+1-m&geo=US"
+              },
+              {
+                "rank": 2,
+                "query": "color analysis portland oregon",
+                "metric": "Breakout",
+                "url": "https://trends.google.com/trends/explore?q=color+analysis+portland+oregon&date=today+1-m&geo=US"
+              },
+              {
+                "rank": 3,
+                "query": "color analysis seattle",
+                "metric": "Breakout",
+                "url": "https://trends.google.com/trends/explore?q=color+analysis+seattle&date=today+1-m&geo=US"
+              },
+              {
+                "rank": 4,
+                "query": "house of colour",
+                "metric": "Breakout",
+                "url": "https://trends.google.com/trends/explore?q=house+of+colour&date=today+1-m&geo=US"
+              },
+              {
+                "rank": 5,
+                "query": "kibbe body types",
+                "metric": "Breakout",
+                "url": "https://trends.google.com/trends/explore?q=kibbe+body+types&date=today+1-m&geo=US"
+              }
+            ],
+            "pelvic floor": [
+              {
+                "rank": 1,
+                "query": "men's pelvic floor exercises",
+                "metric": "Breakout",
+                "url": "https://trends.google.com/trends/explore?q=men%27s+pelvic+floor+exercises&date=today+1-m&geo=US"
+              },
+              {
+                "rank": 2,
+                "query": "elvie pelvic floor trainer",
+                "metric": "Breakout",
+                "url": "https://trends.google.com/trends/explore?q=elvie+pelvic+floor+trainer&date=today+1-m&geo=US"
+              },
+              {
+                "rank": 3,
+                "query": "tight pelvic floor symptoms female",
+                "metric": "Breakout",
+                "url": "https://trends.google.com/trends/explore?q=tight+pelvic+floor+symptoms+female&date=today+1-m&geo=US"
+              },
+              {
+                "rank": 4,
+                "query": "ati physical therapy",
+                "metric": "Breakout",
+                "url": "https://trends.google.com/trends/explore?q=ati+physical+therapy&date=today+1-m&geo=US"
+              },
+              {
+                "rank": 5,
+                "query": "pelvic floor exercises for men pictures",
+                "metric": "Breakout",
+                "url": "https://trends.google.com/trends/explore?q=pelvic+floor+exercises+for+men+pictures&date=today+1-m&geo=US"
+              }
+            ]
+          },
+          "top": {
+            "color analysis": [
+              {
+                "rank": 1,
+                "query": "what is color analysis",
+                "metric": "100",
+                "url": "https://trends.google.com/trends/explore?q=what+is+color+analysis&date=today+1-m&geo=US"
+              },
+              {
+                "rank": 2,
+                "query": "color palette",
+                "metric": "64",
+                "url": "https://trends.google.com/trends/explore?q=color+palette&date=today+1-m&geo=US"
+              },
+              {
+                "rank": 3,
+                "query": "color analysis palette",
+                "metric": "63",
+                "url": "https://trends.google.com/trends/explore?q=color+analysis+palette&date=today+1-m&geo=US"
+              },
+              {
+                "rank": 4,
+                "query": "color analysis near me",
+                "metric": "62",
+                "url": "https://trends.google.com/trends/explore?q=color+analysis+near+me&date=today+1-m&geo=US"
+              },
+              {
+                "rank": 5,
+                "query": "season color analysis",
+                "metric": "41",
+                "url": "https://trends.google.com/trends/explore?q=season+color+analysis&date=today+1-m&geo=US"
+              }
+            ],
+            "pelvic floor": [
+              {
+                "rank": 1,
+                "query": "pelvic floor therapy",
+                "metric": "100",
+                "url": "https://trends.google.com/trends/explore?q=pelvic+floor+therapy&date=today+1-m&geo=US"
+              },
+              {
+                "rank": 2,
+                "query": "pelvic floor exercises",
+                "metric": "58",
+                "url": "https://trends.google.com/trends/explore?q=pelvic+floor+exercises&date=today+1-m&geo=US"
+              },
+              {
+                "rank": 3,
+                "query": "physical therapy pelvic floor",
+                "metric": "38",
+                "url": "https://trends.google.com/trends/explore?q=physical+therapy+pelvic+floor&date=today+1-m&geo=US"
+              },
+              {
+                "rank": 4,
+                "query": "pelvic floor dysfunction",
+                "metric": "37",
+                "url": "https://trends.google.com/trends/explore?q=pelvic+floor+dysfunction&date=today+1-m&geo=US"
+              },
+              {
+                "rank": 5,
+                "query": "pelvic floor pain",
+                "metric": "32",
+                "url": "https://trends.google.com/trends/explore?q=pelvic+floor+pain&date=today+1-m&geo=US"
+              }
+            ]
+          }
+        },
+        "scope": "First five displayed related queries, or all if fewer. Scores and growth are relative, not search volume."
+      },
+      {
+        "country": "CA",
+        "window": "Past 7 days",
+        "seeds": [
+          "color analysis",
+          "pelvic floor"
+        ],
+        "seed_type": "Search terms",
+        "search_type": "Web Search",
+        "category": "All categories",
+        "observed_between": [
+          "2026-11-07T18:01:57Z",
+          "2026-11-07T18:19:01.767104+00:00"
+        ],
+        "exact_comparison_dates": null,
+        "explore_url": "https://trends.google.com/trends/explore?date=now%207-d&geo=CA&q=color%20analysis,pelvic%20floor&hl=en",
+        "queries": {
+          "rising": {
+            "color analysis": [
+              {
+                "rank": 1,
+                "query": "color analysis test free",
+                "metric": "Breakout",
+                "url": "https://trends.google.com/trends/explore?q=color+analysis+test+free&date=now+7-d&geo=CA"
+              },
+              {
+                "rank": 2,
+                "query": "personal color analysis",
+                "metric": "+80%",
+                "url": "https://trends.google.com/trends/explore?q=personal+color+analysis&date=now+7-d&geo=CA"
+              }
+            ],
+            "pelvic floor": [
+              {
+                "rank": 1,
+                "query": "signs of pelvic floor dysfunction",
+                "metric": "Breakout",
+                "url": "https://trends.google.com/trends/explore?q=signs+of+pelvic+floor+dysfunction&date=now+7-d&geo=CA"
+              },
+              {
+                "rank": 2,
+                "query": "do men have a pelvic floor",
+                "metric": "+200%",
+                "url": "https://trends.google.com/trends/explore?q=do+men+have+a+pelvic+floor&date=now+7-d&geo=CA"
+              },
+              {
+                "rank": 3,
+                "query": "hypertonic pelvic floor dysfunction",
+                "metric": "+140%",
+                "url": "https://trends.google.com/trends/explore?q=hypertonic+pelvic+floor+dysfunction&date=now+7-d&geo=CA"
+              },
+              {
+                "rank": 4,
+                "query": "signs of weak pelvic floor",
+                "metric": "+90%",
+                "url": "https://trends.google.com/trends/explore?q=signs+of+weak+pelvic+floor&date=now+7-d&geo=CA"
+              },
+              {
+                "rank": 5,
+                "query": "pelvic floor physical therapist",
+                "metric": "+90%",
+                "url": "https://trends.google.com/trends/explore?q=pelvic+floor+physical+therapist&date=now+7-d&geo=CA"
+              }
+            ]
+          },
+          "top": {
+            "color analysis": [
+              {
+                "rank": 1,
+                "query": "color palette analysis",
+                "metric": "100",
+                "url": "https://trends.google.com/trends/explore?q=color+palette+analysis&date=now+7-d&geo=CA"
+              },
+              {
+                "rank": 2,
+                "query": "colour analysis",
+                "metric": "72",
+                "url": "https://trends.google.com/trends/explore?q=colour+analysis&date=now+7-d&geo=CA"
+              },
+              {
+                "rank": 3,
+                "query": "color season analysis",
+                "metric": "62",
+                "url": "https://trends.google.com/trends/explore?q=color+season+analysis&date=now+7-d&geo=CA"
+              },
+              {
+                "rank": 4,
+                "query": "color analysis near me",
+                "metric": "36",
+                "url": "https://trends.google.com/trends/explore?q=color+analysis+near+me&date=now+7-d&geo=CA"
+              },
+              {
+                "rank": 5,
+                "query": "personal color analysis",
+                "metric": "33",
+                "url": "https://trends.google.com/trends/explore?q=personal+color+analysis&date=now+7-d&geo=CA"
+              }
+            ],
+            "pelvic floor": [
+              {
+                "rank": 1,
+                "query": "pelvic floor physiotherapy",
+                "metric": "100",
+                "url": "https://trends.google.com/trends/explore?q=pelvic+floor+physiotherapy&date=now+7-d&geo=CA"
+              },
+              {
+                "rank": 2,
+                "query": "pelvic physiotherapy",
+                "metric": "99",
+                "url": "https://trends.google.com/trends/explore?q=pelvic+physiotherapy&date=now+7-d&geo=CA"
+              },
+              {
+                "rank": 3,
+                "query": "physiotherapy",
+                "metric": "99",
+                "url": "https://trends.google.com/trends/explore?q=physiotherapy&date=now+7-d&geo=CA"
+              },
+              {
+                "rank": 4,
+                "query": "pelvic floor exercises",
+                "metric": "54",
+                "url": "https://trends.google.com/trends/explore?q=pelvic+floor+exercises&date=now+7-d&geo=CA"
+              },
+              {
+                "rank": 5,
+                "query": "pelvic floor therapy",
+                "metric": "43",
+                "url": "https://trends.google.com/trends/explore?q=pelvic+floor+therapy&date=now+7-d&geo=CA"
+              }
+            ]
+          }
+        },
+        "scope": "First five displayed related queries, or all if fewer. Scores and growth are relative, not search volume."
+      },
+      {
+        "country": "CA",
+        "window": "Past 30 days",
+        "seeds": [
+          "color analysis",
+          "pelvic floor"
+        ],
+        "seed_type": "Search terms",
+        "search_type": "Web Search",
+        "category": "All categories",
+        "observed_between": [
+          "2026-11-07T18:01:57Z",
+          "2026-11-07T18:19:01.767104+00:00"
+        ],
+        "exact_comparison_dates": null,
+        "explore_url": "https://trends.google.com/trends/explore?date=today%201-m&geo=CA&q=color%20analysis,pelvic%20floor&hl=en",
+        "queries": {
+          "rising": {
+            "color analysis": [
+              {
+                "rank": 1,
+                "query": "cheapest flights to tokyo",
+                "metric": "Breakout",
+                "url": "https://trends.google.com/trends/explore?q=cheapest+flights+to+tokyo&date=today+1-m&geo=CA"
+              },
+              {
+                "rank": 2,
+                "query": "best time to visit maldives",
+                "metric": "Breakout",
+                "url": "https://trends.google.com/trends/explore?q=best+time+to+visit+maldives&date=today+1-m&geo=CA"
+              },
+              {
+                "rank": 3,
+                "query": "spring color analysis",
+                "metric": "Breakout",
+                "url": "https://trends.google.com/trends/explore?q=spring+color+analysis&date=today+1-m&geo=CA"
+              },
+              {
+                "rank": 4,
+                "query": "color analysis near me",
+                "metric": "Breakout",
+                "url": "https://trends.google.com/trends/explore?q=color+analysis+near+me&date=today+1-m&geo=CA"
+              },
+              {
+                "rank": 5,
+                "query": "color analysis online",
+                "metric": "Breakout",
+                "url": "https://trends.google.com/trends/explore?q=color+analysis+online&date=today+1-m&geo=CA"
+              }
+            ],
+            "pelvic floor": [
+              {
+                "rank": 1,
+                "query": "pelvic floor exercises pregnancy",
+                "metric": "Breakout",
+                "url": "https://trends.google.com/trends/explore?q=pelvic+floor+exercises+pregnancy&date=today+1-m&geo=CA"
+              },
+              {
+                "rank": 2,
+                "query": "pelvic floor diagram",
+                "metric": "Breakout",
+                "url": "https://trends.google.com/trends/explore?q=pelvic+floor+diagram&date=today+1-m&geo=CA"
+              },
+              {
+                "rank": 3,
+                "query": "vaginismus",
+                "metric": "Breakout",
+                "url": "https://trends.google.com/trends/explore?q=vaginismus&date=today+1-m&geo=CA"
+              },
+              {
+                "rank": 4,
+                "query": "pelvic floor muscle dysfunction",
+                "metric": "Breakout",
+                "url": "https://trends.google.com/trends/explore?q=pelvic+floor+muscle+dysfunction&date=today+1-m&geo=CA"
+              },
+              {
+                "rank": 5,
+                "query": "pelvic floor physiotherapy toronto",
+                "metric": "Breakout",
+                "url": "https://trends.google.com/trends/explore?q=pelvic+floor+physiotherapy+toronto&date=today+1-m&geo=CA"
+              }
+            ]
+          },
+          "top": {
+            "color analysis": [
+              {
+                "rank": 1,
+                "query": "color season analysis",
+                "metric": "100",
+                "url": "https://trends.google.com/trends/explore?q=color+season+analysis&date=today+1-m&geo=CA"
+              },
+              {
+                "rank": 2,
+                "query": "free color analysis",
+                "metric": "76",
+                "url": "https://trends.google.com/trends/explore?q=free+color+analysis&date=today+1-m&geo=CA"
+              },
+              {
+                "rank": 3,
+                "query": "color palette analysis",
+                "metric": "71",
+                "url": "https://trends.google.com/trends/explore?q=color+palette+analysis&date=today+1-m&geo=CA"
+              },
+              {
+                "rank": 4,
+                "query": "cheapest flights to tokyo",
+                "metric": "60",
+                "url": "https://trends.google.com/trends/explore?q=cheapest+flights+to+tokyo&date=today+1-m&geo=CA"
+              },
+              {
+                "rank": 5,
+                "query": "personal color analysis",
+                "metric": "49",
+                "url": "https://trends.google.com/trends/explore?q=personal+color+analysis&date=today+1-m&geo=CA"
+              }
+            ],
+            "pelvic floor": [
+              {
+                "rank": 1,
+                "query": "physiotherapy",
+                "metric": "100",
+                "url": "https://trends.google.com/trends/explore?q=physiotherapy&date=today+1-m&geo=CA"
+              },
+              {
+                "rank": 2,
+                "query": "pelvic physiotherapy",
+                "metric": "100",
+                "url": "https://trends.google.com/trends/explore?q=pelvic+physiotherapy&date=today+1-m&geo=CA"
+              },
+              {
+                "rank": 3,
+                "query": "pelvic floor exercises",
+                "metric": "61",
+                "url": "https://trends.google.com/trends/explore?q=pelvic+floor+exercises&date=today+1-m&geo=CA"
+              },
+              {
+                "rank": 4,
+                "query": "pelvic floor therapy",
+                "metric": "50",
+                "url": "https://trends.google.com/trends/explore?q=pelvic+floor+therapy&date=today+1-m&geo=CA"
+              },
+              {
+                "rank": 5,
+                "query": "physio pelvic floor",
+                "metric": "41",
+                "url": "https://trends.google.com/trends/explore?q=physio+pelvic+floor&date=today+1-m&geo=CA"
+              }
+            ]
+          }
+        },
+        "scope": "First five displayed related queries, or all if fewer. Scores and growth are relative, not search volume."
+      }
+    ],
+    "candidate_checks": [
+      {
+        "query": "diy color analysis",
+        "country": "US",
+        "window": "Past 7 days",
+        "observed_at": "2026-11-07T18:06:59.304Z",
+        "explore_url": "https://trends.google.com/trends/explore?date=now%207-d&geo=US&q=diy%20color%20analysis,tight%20pelvic%20floor%20symptoms%20female&hl=en",
+        "nonzero_hourly_points": 2,
+        "displayed_hourly_points": 169,
+        "outcome": "insufficient_data",
+        "reason": "Sparse direct series in this comparison; related-query growth alone does not establish reliable demand."
+      },
+      {
+        "query": "tight pelvic floor symptoms female",
+        "country": "US",
+        "window": "Past 7 days",
+        "observed_at": "2026-11-07T18:06:59.304Z",
+        "explore_url": "https://trends.google.com/trends/explore?date=now%207-d&geo=US&q=diy%20color%20analysis,tight%20pelvic%20floor%20symptoms%20female&hl=en",
+        "nonzero_hourly_points": 0,
+        "displayed_hourly_points": 169,
+        "outcome": "insufficient_data",
+        "reason": "Sparse direct series in this comparison; related-query growth alone does not establish reliable demand."
+      }
+    ],
+    "rejections": [
+      "Chemistry, generic academic search, sushi and travel associations are irrelevant.",
+      "Male-specific symptoms and competitor navigation are unsuitable for this women-focused care task.",
+      "Broad seasonal, online/free and local-service queries overlap existing guides; no additional useful trend-only page justified."
+    ],
+    "seasonality": "No calendar-seasonal candidate qualified; Spring refers to a color category, not evidence of a seasonal spike.",
+    "access_limits": [
+      "Displayed first-page related queries checked in both countries and both windows.",
+      "Exact growth-comparison boundaries not exposed in saved UI.",
+      "No growth claim in public content."
+    ]
+  },
+  "google_observations": [
+    {
+      "query": "casual office personal style without jeans",
+      "paa": [
+        "What can I wear for business casual without wearing jeans?",
+        "What is the 3-3-3 rule for business casual fashion?",
+        "What are some casual outfits I can wear without jeans?",
+        "What is the 3-3-3 rule for clothes?"
+      ]
+    },
+    {
+      "query": "postpartum bowel urgency after birth",
+      "paa": [
+        "Why am I pooping so much after giving birth?",
+        "How long does postpartum bowel incontinence last?",
+        "How long does it take for bowels to return to normal after birth?",
+        "What are the common symptoms of bowel incontinence after giving birth?"
+      ]
+    },
+    {
+      "query": "tight pelvic floor symptoms female",
+      "paa": [
+        "How do you loosen up a tight pelvic floor?",
+        "What causes a tight pelvic floor?",
+        "How long does it take to loosen a tight pelvic floor?",
+        "Can a tight pelvic floor go away on its own?"
+      ]
+    },
+    {
+      "query": "diy color analysis",
+      "observation": "Self-assessment and draping intent in actual Google results. No PAA observed in saved view; existing setup guide already serves intent."
+    }
+  ],
+  "quora_observations": [
+    {
+      "url": "https://www.quora.com/How-do-you-pick-out-the-right-color-nail-polish-for-your-skin-tone",
+      "question": "How do you pick out the right color nail polish for your skin tone?",
+      "observed": "2026-11-07T18:09:19.060Z",
+      "visible_related": 36,
+      "posted_at": null,
+      "votes": null,
+      "views": null,
+      "note": "Public question accessible. All related count is not a verified answer count. Google snippet says seven years; not fresh."
+    },
+    {
+      "url": "https://www.quora.com/Why-is-relaxation-so-important-for-pelvic-floor-dysfunction-and-persistent-pelvic-pain",
+      "question": "Why is relaxation so important for pelvic floor dysfunction and persistent pelvic pain?",
+      "observed": "2026-11-07T18:11:32.850Z",
+      "posted_at": null,
+      "votes": null,
+      "views": null,
+      "note": "Public question and All related (32) accessible; related count is not a verified answer count. Dates/votes/views unavailable; Google age snippet says two years.",
+      "visible_related": 32
+    }
+  ],
+  "access_limits": [
+    "Public Reddit snapshot votes/comments can change or be fuzzed. Originals were read without posting.",
+    "Quora public questions were accessible but dates, votes and views unavailable; All related is not an answer count. Google age/answer snippets are not current engagement verification.",
+    "Actual Google results are an English Dubai session, not US/Canada ranks. AI Overviews were not factual clinical evidence.",
+    "PMC botulinum-toxin paper access encountered a browser challenge. The individual procedure question was not selected and no procedure recommendation was published."
+  ],
+  "checked_sources": [
+    {
+      "url": "https://www.adobe.com/creativecloud/photography/technique/white-balance.html",
+      "checked": "2026-11-07",
+      "scope": "New article or added section; original page source-check dates retained."
+    },
+    {
+      "url": "https://theconceptwardrobe.com/colour-analysis-comprehensive-guides/true-summer-a-comprehensive-guide",
+      "checked": "2026-11-07",
+      "scope": "New article or added section; original page source-check dates retained."
+    },
+    {
+      "url": "https://www.nhsfife.org/services/all-services/patient-advice/overactive-pelvic-floor-muscles/",
+      "checked": "2026-11-07",
+      "scope": "New article or added section; original page source-check dates retained."
+    },
+    {
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/bowel-control-problems-fecal-incontinence/symptoms-causes",
+      "checked": "2026-11-07",
+      "scope": "New article or added section; original page source-check dates retained."
+    },
+    {
+      "url": "https://www.nhs.uk/conditions/bowel-incontinence/",
+      "checked": "2026-11-07",
+      "scope": "New article or added section; original page source-check dates retained."
+    },
+    {
+      "url": "https://www.rcog.org.uk/for-the-public/perineal-tears-and-episiotomies-in-childbirth/third-and-fourth-degree-tears-oasi/",
+      "checked": "2026-11-07",
+      "scope": "New article or added section; original page source-check dates retained."
+    },
+    {
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/bowel-control-problems-fecal-incontinence/treatment",
+      "checked": "2026-11-07",
+      "scope": "New article or added section; original page source-check dates retained."
+    },
+    {
+      "url": "https://www.nhs.uk/symptoms/pelvic-pain/",
+      "checked": "2026-11-07",
+      "scope": "New article or added section; original page source-check dates retained."
+    },
+    {
+      "url": "https://www.nhs.uk/conditions/interstitial-cystitis/",
+      "checked": "2026-11-07",
+      "scope": "New article or added section; original page source-check dates retained."
+    },
+    {
+      "url": "https://111.wales.nhs.uk/encyclopaedia/o/article/osteopathy?locale=en",
+      "checked": "2026-11-07",
+      "scope": "New article or added section; original page source-check dates retained."
+    }
+  ],
+  "illustrations": [
+    {
+      "slug": "personal-style-casual-office",
+      "prompt": "Use case: illustration-story. Editorial fashion illustration for an article about keeping personal style in a casual office. Landscape 3:2. Three distinct full outfits arranged in equal columns on an ivory background, no people: left navy wide-leg trousers, dusty blue soft collared shirt and loafers; center olive midi skirt, cream fine-knit top, burgundy cardigan and plain flats; right charcoal relaxed trousers, muted rose shirt, teal structured overshirt and simple sneakers. Neat flat-lay silhouettes, believable garment shapes, painterly paper texture and subtle shadows. The illustration is a practical outfit menu. No words, letters, logos, smartphone, watermark or decorative flowers. All items fit well within edges.",
+      "production_path": "stylist_ai/blog/assets/illustrations/personal-style-casual-office.webp",
+      "bytes": 79046,
+      "generator": "Built-in image_gen"
+    },
+    {
+      "slug": "comfortable-home-outfits-without-dresses",
+      "prompt": "Use case: illustration-story. Landscape 3:2 editorial wardrobe illustration. Three comfortable, androgynous home outfit formulas laid flat in separate columns: forest green elastic-waist straight-leg trousers with matching green roomy tee; navy loose cotton trousers with a dusty blue boxy tee and navy soft overshirt; terracotta roomy short-sleeve utility coveralls with a visible front opening and functional pockets. Each is paired with plain flat house shoes. Ivory paper background, clear clothing shapes, soft shadows, muted rich colors, tactile hand-painted textile detail. No bodies, words, logos, phone, watermark or unnecessary decoration. Leave margin around every outfit. Useful fashion guide, not a product advertisement.",
+      "production_path": "stylist_ai/blog/assets/illustrations/comfortable-home-outfits-without-dresses.webp",
+      "bytes": 80688,
+      "generator": "Built-in image_gen"
+    },
+    {
+      "slug": "choose-nude-nail-color",
+      "prompt": "Use case: illustration-story. Landscape 3:2 educational beauty editorial still life on warm ivory paper. Exactly three pairs of artificial nail sample sticks arranged as a tidy comparison board. Left pair: peach-beige versus rose-beige at similar lightness. Center pair: pale rosy beige versus medium rosy taupe. Right pair: translucent soft pink versus opaque soft pink. Show realistic nail-shaped sample tips and subtle finish differences, no real hand or body. A small neutral-gray sleeve fabric lies below, not covering samples. Soft studio light, refined painterly photoreal detail, generous white space, no labels, words, numerals, logos, watermarks or app UI.",
+      "production_path": "stylist_ai/blog/assets/illustrations/choose-nude-nail-color.webp",
+      "bytes": 45152,
+      "generator": "Built-in image_gen"
+    },
+    {
+      "slug": "postpartum-bowel-urgency",
+      "prompt": "Use case: illustration-story. Landscape 3:2 calm patient-education editorial illustration of a practical appointment preparation scene: an open notebook with three simple icon-only rows showing a small clock, a simple calendar and a work bag; beside it a pencil, a closed folder of care notes and a pair of keys. An understated baby blanket folded at the far edge suggests postpartum context. Warm cream and muted teal palette, clean restrained gouache style, clear hierarchy, generous margins. No written text, fake medical measurements, body anatomy, baby, exercises, pills, clinician endorsement, app screen, logos or watermarks. The image should communicate planning a medical conversation and return to work, not self-treatment.",
+      "production_path": "pelvic_gym/assets/illustrations/postpartum-bowel-urgency.webp",
+      "bytes": 74708,
+      "generator": "Built-in image_gen"
+    }
+  ],
+  "additional_changes": [
+    "Relevant contextual incoming links from four existing articles.",
+    "Regular topic hubs include the new Stylist guides.",
+    "Approved templates, official Apple badges, consent, city isolation and original publication dates preserved."
+  ],
+  "review_status": "No clinician engaged; no clinical review claimed. Original draft diary remains private.",
+  "measurement": "Read-only November 7 pilot checkpoint saved outside the publishing repository at seo-implementation/2026-10-31/checkpoints/2026-11-07.json. No index requests made; not a GA4 or install report.",
+  "validation": {
+    "status": "passed",
+    "automated": "Both builders/validators passed for 134 pages; analytics tests, JS syntax, 34 city checks, city duplication audit and git diff check passed.",
+    "protected_files_checked": 199,
+    "protected_changes": 0,
+    "capacity_before": {
+      "measurement": "Working files excluding Git/runtime/build caches; includes source and research files normally excluded by Jekyll, so this overestimates the static payload. Git object storage is measured separately.",
+      "working_file_bytes": 47391806,
+      "git_object_bytes": 77988864,
+      "published_site_limit_bytes": 1000000000,
+      "illustration_stop_threshold_bytes": 800000000,
+      "can_add_illustrations": true,
+      "remaining_to_site_limit_bytes": 952608194,
+      "reference": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
+    },
+    "layout": "All ten selected pages checked at desktop and 390px mobile; no horizontal overflow or broken images. New illustrations and postpartum table inspected; FAQ expanded successfully.",
+    "capacity_after_assets": {
+      "measurement": "Working files excluding Git/runtime/build caches; includes source and research files normally excluded by Jekyll, so this overestimates the static payload. Git object storage is measured separately.",
+      "working_file_bytes": 48020610,
+      "git_object_bytes": 77988864,
+      "published_site_limit_bytes": 1000000000,
+      "illustration_stop_threshold_bytes": 800000000,
+      "can_add_illustrations": true,
+      "remaining_to_site_limit_bytes": 951979390,
+      "reference": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
+    }
+  },
+  "deployment": {
+    "status": "pending_push"
+  },
+  "notification": {
+    "channel": "current_chat",
+    "telegram": "Destination PENDING; no Telegram sent."
+  }
+}
