@@ -1,7 +1,7 @@
 {
   "run_id": "2026-11-07-2200",
   "kind": "scheduled",
-  "status": "deployment_pending",
+  "status": "completed",
   "started_at": "2026-11-07T17:57:45.367Z",
   "timezone": "Asia/Dubai",
   "scheduled_local": "22:00",
@@ -1463,13 +1463,36 @@
       "can_add_illustrations": true,
       "remaining_to_site_limit_bytes": 951979390,
       "reference": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
+    },
+    "live": {
+      "checked": 324,
+      "passed": 324,
+      "failed": [],
+      "verified_at": "2026-11-07T18:22:38.527222+00:00"
+    },
+    "capacity_after_commit": {
+      "measurement": "Working files excluding Git/runtime/build caches; includes source and research files normally excluded by Jekyll, so this overestimates the static payload. Git object storage is measured separately.",
+      "working_file_bytes": 48022077,
+      "git_object_bytes": 79279104,
+      "published_site_limit_bytes": 1000000000,
+      "illustration_stop_threshold_bytes": 800000000,
+      "can_add_illustrations": true,
+      "remaining_to_site_limit_bytes": 951977923,
+      "reference": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
     }
   },
   "deployment": {
-    "status": "pending_push"
+    "status": "built_and_verified",
+    "commit": "a30e36abeaee57030a867ff69ebc7a03889406b3",
+    "pages_built_at": "2026-11-07T18:21:35Z",
+    "verified_at": "2026-11-07T18:22:38.527222+00:00",
+    "checked": 324,
+    "passed": 324
   },
   "notification": {
     "channel": "current_chat",
     "telegram": "Destination PENDING; no Telegram sent."
-  }
+  },
+  "published_commit": "a30e36abeaee57030a867ff69ebc7a03889406b3",
+  "verified_at": "2026-11-07T18:22:38.527222+00:00"
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "timezone": "Asia/Dubai",
   "schedule_local": "22:00 daily",
-  "last_successful_scan": "2026-11-06T17:58:08.400Z",
+  "last_successful_scan": "2026-11-07T17:57:45.367Z",
   "runs": {
     "2026-10-26-initial": "completed",
     "2026-10-26-stylist-expansion": "completed",
@@ -20,7 +20,7 @@
     "2026-11-04-2200": "completed",
     "2026-11-05-2200": "completed",
     "2026-11-06-2200": "completed",
-    "2026-11-07-2200": "deployment_pending"
+    "2026-11-07-2200": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -520,6 +520,41 @@
         "run_id": "2026-11-06-2200",
         "status": "updated",
         "verified_at": "2026-11-06T18:35:06.560035+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xpqlcn/masc_equivalent_of_a_house_dress/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/comfortable-home-outfits-without-dresses/",
+        "run_id": "2026-11-07-2200",
+        "status": "published",
+        "verified_at": "2026-11-07T18:22:38.527222+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xpjxrm/how_do_you_balance_personal_style_with_office/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/personal-style-casual-office/",
+        "run_id": "2026-11-07-2200",
+        "status": "published",
+        "verified_at": "2026-11-07T18:22:38.527222+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xpt28f/dose_this_colour_work_for_me_or_dose_it_not/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/choose-nude-nail-color/",
+        "run_id": "2026-11-07-2200",
+        "status": "published",
+        "verified_at": "2026-11-07T18:22:38.527222+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xppbjd/contrast_level_and_color_season/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/color-depth-vs-brightness/",
+        "run_id": "2026-11-07-2200",
+        "status": "updated",
+        "verified_at": "2026-11-07T18:22:38.527222+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xpqf7p/i_was_previously_typed_as_a_true_summer_but/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/light-summer-or-true-summer/",
+        "run_id": "2026-11-07-2200",
+        "status": "updated",
+        "verified_at": "2026-11-07T18:22:38.527222+00:00"
       }
     ],
     "pelvic_gym": [
@@ -949,6 +984,41 @@
         "run_id": "2026-11-06-2200",
         "status": "published",
         "verified_at": "2026-11-06T18:35:06.560035+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xpq3ok/anyone_deal_with_a_constant_clenchingtight/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-relaxation/",
+        "run_id": "2026-11-07-2200",
+        "status": "updated",
+        "verified_at": "2026-11-07T18:22:38.527222+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xq1sra/bowel_urgency_4_months_pp/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/postpartum-bowel-urgency/",
+        "run_id": "2026-11-07-2200",
+        "status": "published",
+        "verified_at": "2026-11-07T18:22:38.527222+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xps4um/can_severe_dehydration_cause_longterm_bladder_or/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/bladder-habits-water-caffeine/",
+        "run_id": "2026-11-07-2200",
+        "status": "updated",
+        "verified_at": "2026-11-07T18:22:38.527222+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xq4plq/experiences_with_osteopath_and_ic_and_pelvic/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/find-pelvic-floor-physiotherapy/",
+        "run_id": "2026-11-07-2200",
+        "status": "updated",
+        "verified_at": "2026-11-07T18:22:38.527222+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xpzc3h/urgencia_urinaria_que_no_se_va/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/urinary-urgency-in-women/",
+        "run_id": "2026-11-07-2200",
+        "status": "updated",
+        "verified_at": "2026-11-07T18:22:38.527222+00:00"
       }
     ]
   },
