@@ -2,7 +2,7 @@
   "schema_version": 1,
   "timezone": "Asia/Dubai",
   "schedule_local": "22:00 daily",
-  "last_successful_scan": "2026-11-07T17:57:45.367Z",
+  "last_successful_scan": "2026-11-08T18:03:07.805Z",
   "runs": {
     "2026-10-26-initial": "completed",
     "2026-10-26-stylist-expansion": "completed",
@@ -21,7 +21,7 @@
     "2026-11-05-2200": "completed",
     "2026-11-06-2200": "completed",
     "2026-11-07-2200": "completed",
-    "2026-11-08-2200": "deployment_pending"
+    "2026-11-08-2200": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -556,6 +556,41 @@
         "run_id": "2026-11-07-2200",
         "status": "updated",
         "verified_at": "2026-11-07T18:22:38.527222+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xr1gy0/what_do_you_wear_under_blouses_to_keep_them_clean/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/what-to-wear-under-blouses/",
+        "run_id": "2026-11-08-2200",
+        "status": "published",
+        "verified_at": "2026-11-08T18:21:45.299811+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xqgpbr/quick_styling_question_about_basics_proportions/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/petite-oversized-outfit-proportions/",
+        "run_id": "2026-11-08-2200",
+        "status": "published",
+        "verified_at": "2026-11-08T18:21:45.299811+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xqrdro/help_me_find_my_best_lipstick_colours/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/choose-lipstick-color/",
+        "run_id": "2026-11-08-2200",
+        "status": "published",
+        "verified_at": "2026-11-08T18:21:45.299811+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xqnasa/soft_autumn_or_soft_summer/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/color-analysis-photo-lighting/",
+        "run_id": "2026-11-08-2200",
+        "status": "updated",
+        "verified_at": "2026-11-08T18:21:45.299811+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xqnlz0/light_or_warm_spring/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/light-spring-or-light-summer/",
+        "run_id": "2026-11-08-2200",
+        "status": "updated",
+        "verified_at": "2026-11-08T18:21:45.299811+00:00"
       }
     ],
     "pelvic_gym": [
@@ -1020,6 +1055,41 @@
         "run_id": "2026-11-07-2200",
         "status": "updated",
         "verified_at": "2026-11-07T18:22:38.527222+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xr0r28/muscles_have_mostly_released_but_soreness_and/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-relaxation/",
+        "run_id": "2026-11-08-2200",
+        "status": "updated",
+        "verified_at": "2026-11-08T18:21:45.299811+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xqigma/incontinence/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/gas-leakage-pelvic-floor/",
+        "run_id": "2026-11-08-2200",
+        "status": "updated",
+        "verified_at": "2026-11-08T18:21:45.299811+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xqmors/painful_urine_tight_vagina/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/vulval-burning-after-urination/",
+        "run_id": "2026-11-08-2200",
+        "status": "updated",
+        "verified_at": "2026-11-08T18:21:45.299811+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xr1mae/you_call_that_external/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/",
+        "run_id": "2026-11-08-2200",
+        "status": "updated",
+        "verified_at": "2026-11-08T18:21:45.299811+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xr1a7l/acupuncture/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/painful-sex-and-pelvic-floor/",
+        "run_id": "2026-11-08-2200",
+        "status": "updated",
+        "verified_at": "2026-11-08T18:21:45.299811+00:00"
       }
     ]
   },

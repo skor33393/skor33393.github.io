@@ -1,7 +1,7 @@
 {
   "run_id": "2026-11-08-2200",
   "kind": "scheduled",
-  "status": "deployment_pending",
+  "status": "completed",
   "started_at": "2026-11-08T18:03:07.805Z",
   "timezone": "Asia/Dubai",
   "scheduled_local": "22:00",
@@ -1461,13 +1461,36 @@
       "reference": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
     },
     "layout": "All ten pages verified at actual desktop 1280x720, with loaded hero and related images, one H1, correct store links, no horizontal overflow. Mobile override did not take effect even in a fresh tab; mobile layout not verified today.",
-    "faq": "New blouse FAQ opened and answer verified in browser."
+    "faq": "New blouse FAQ opened and answer verified in browser.",
+    "live": {
+      "checked": 336,
+      "passed": 336,
+      "failed": [],
+      "verified_at": "2026-11-08T18:21:45.299811+00:00"
+    },
+    "capacity_after_commit": {
+      "measurement": "Working files excluding Git/runtime/build caches; includes source and research files normally excluded by Jekyll, so this overestimates the static payload. Git object storage is measured separately.",
+      "working_file_bytes": 48426649,
+      "git_object_bytes": 80454656,
+      "published_site_limit_bytes": 1000000000,
+      "illustration_stop_threshold_bytes": 800000000,
+      "can_add_illustrations": true,
+      "remaining_to_site_limit_bytes": 951573351,
+      "reference": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
+    }
   },
   "deployment": {
-    "status": "ready_to_push"
+    "status": "built_and_verified",
+    "commit": "82cd82db56e3a46789138e9307388afbabc96be4",
+    "pages_built_at": "2026-11-08T18:20:40Z",
+    "verified_at": "2026-11-08T18:21:45.299811+00:00",
+    "checked": 336,
+    "passed": 336
   },
   "notification": {
     "channel": "current_chat",
     "telegram": "Destination PENDING; no Telegram sent."
-  }
+  },
+  "published_commit": "82cd82db56e3a46789138e9307388afbabc96be4",
+  "verified_at": "2026-11-08T18:21:45.299811+00:00"
 }
