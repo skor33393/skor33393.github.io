@@ -5,7 +5,7 @@
   "description": "Get more useful color analysis photos with consistent light, simple fabric comparisons and a checklist for spotting camera color shifts before drawing conclusions.",
   "category": "Color analysis",
   "datePublished": "2026-10-26",
-  "dateModified": "2026-11-06",
+  "dateModified": "2026-11-08",
   "sourcesChecked": "2026-10-31",
   "excerpt": "If every photo seems to suggest a different season, check the setup before changing your wardrobe.",
   "quickAnswer": "Use one soft, even light source, keep your camera and background steady, and compare real fabrics without filters. Check whether the background changes color between shots. Consistency makes comparisons more useful, but a selfie still cannot guarantee a definitive seasonal label.",
@@ -49,6 +49,11 @@
       "id": "use-results",
       "title": "Turn the result into one clothing decision",
       "html": "<p>Write down the garments, the setup and which you would choose to wear. A useful note might be: “Blue and peach knits, same window, prefer blue with my usual jeans.” Repeat only if the decision still matters.</p><p>You can use Stylist AI to explore a suggested seasonal profile and compare clothing colors. The same photo limits apply to an app. Keep the suggestion alongside what you enjoy in person, and avoid replacing a whole wardrobe on the strength of one upload.</p>"
+    },
+    {
+      "id": "cloudy-day",
+      "title": "What if dark weather makes every drape photo look cool?",
+      "html": "<p>Cloudy weather does not automatically make a photo unusable, but a blue cast is a reason to pause a close warm-versus-cool judgment. <a href=\"https://www.adobe.com/creativecloud/photography/technique/white-balance.html\">White balance is the camera’s handling of the light’s color</a>; it is not evidence that your own coloring has changed. Do not decide between Soft Summer and Soft Autumn from a comparison in which the room changes color between frames.</p><p>Use a simple repeat check: photograph the same familiar neutral item beside the same two drapes, in the same position, without changing the light. Look at the neutral item across the images. If it shifts from cream to blue or gray, treat that set as inconclusive. This is a consistency check, not color calibration.</p><p>If there is too little light, try another daylight period rather than adding a different-colored room lamp halfway through. You can still use the existing photos to choose which fabrics to compare next. Save a note such as “repeat rose versus peach in steadier light” instead of trying to rescue every picture with different edits. One repeatable small set is more useful than many mismatched photos.</p>"
     }
   ],
   "faqs": [
@@ -73,7 +78,7 @@
   ],
   "sortOrder": 25,
   "keyword": "How to take better photos for color analysis",
-  "sourceNote": "The wardrobe comparisons and outfit ideas are our editorial suggestions, not validated personal diagnostic tests.",
+  "sourceNote": "The wardrobe comparisons and outfit ideas are our editorial suggestions, not validated personal diagnostic tests. The What if dark weather makes every drape photo look cool? section was checked against its linked sources on November 8, 2026; the worked resource is editorial guidance.",
   "ctaTitle": "Explore colors you want to wear.",
   "ctaText": "Use Stylist AI for a suggested seasonal palette, color combinations and camera-based color comparison. Bring your own preferences to every choice.",
   "illustration": {

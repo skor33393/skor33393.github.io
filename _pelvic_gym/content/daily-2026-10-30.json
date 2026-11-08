@@ -153,6 +153,11 @@
         "id": "physiotherapy",
         "title": "Where pelvic floor physiotherapy fits",
         "html": "<p><a href=\"https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2016/09/persistent-vulvar-pain\">ACOG’s persistent-vulvar-pain guidance</a> recommends assessing pelvic floor function and describes individualized care that may include physiotherapy. Muscular overactivity is one consideration. This is broader than a standard strengthening routine.</p><p>Ask what the therapist found and what each part of the plan is intended to change. If the goal is reducing tension or improving comfortable release, do not substitute repeated contractions because they are easier to count. Our <a href=\"/pelvic_gym/articles/tight-vs-weak-pelvic-floor/\">tight versus weak guide</a> explains that distinction.</p><p>Pelvic Gym is relevant when a clinician has recommended strengthening and its guided workouts match your plan. The app cannot investigate burning, diagnose vulvodynia or replace individualized pain treatment. For preparing a visit, see <a href=\"/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/\">our appointment guide</a>.</p>"
+      },
+      {
+        "id": "after-new-product",
+        "title": "What if burning starts after a new condom, lubricant or wash?",
+        "html": "<p>The timing is useful to report, but it cannot distinguish irritation from an infection or another cause. <a href=\"https://www.nhs.uk/conditions/vaginitis/\">NHS vaginitis guidance</a> describes both infection and irritation among possible causes and recommends assessment for first-time, unusual or persistent symptoms. Painful urination can also occur with a <a href=\"https://www.nhs.uk/conditions/urinary-tract-infections-utis/\">urinary tract infection</a>.</p><p>Save the product name or packaging for the appointment and note when you used it, when symptoms started and what changed. Avoid using the suspected product again while seeking advice; do not deliberately repeat exposure as a test. Describe urinary burning, skin soreness, discharge, bleeding and pressure separately instead of assigning them all to a muscle spasm.</p><p>Seek prompt medical advice rather than waiting for a guessed irritation-recovery deadline. With suspected UTI, fever or shivering, back pain under the ribs, blood in urine, possible pregnancy, rapid worsening or symptoms that do not improve within 48 hours of self-care or treatment need urgent advice under NHS guidance. Use local urgent-care services outside the UK. If symptoms followed sex with a new partner or include unusual discharge, a sexual-health service can advise about testing.</p><p>A temporary improvement after relaxation does not rule out infection. Pelvic Gym is not a treatment for a reaction or infection, and extra Kegels should not be used to test whether new burning is muscular.</p>"
       }
     ],
     "faqs": [
@@ -185,6 +190,10 @@
       {
         "title": "ACOG: Vulval pain, burning and itching",
         "url": "https://www.acog.org/womens-health/faqs/disorders-of-the-vulva-common-causes-of-vulvar-pain-burning-and-itching"
+      },
+      {
+        "title": "NHS: Vaginitis",
+        "url": "https://www.nhs.uk/conditions/vaginitis/"
       }
     ],
     "related": [
@@ -195,13 +204,14 @@
     "cta": "assessment",
     "researchNote": "Clinical source-led general assessment guidance. Does not extrapolate individual forum medication use or endorse hot-water treatment, self-diagnosis or strengthening for unexplained pain.",
     "datePublished": "2026-10-31",
-    "dateModified": "2026-10-31",
+    "dateModified": "2026-11-08",
     "sourcesChecked": "2026-10-31",
     "illustration": {
       "src": "/pelvic_gym/assets/illustrations/vulval-burning-after-urination.webp",
       "width": 1200,
       "height": 800,
       "alt": "A fully clothed woman discussing symptom notes with a clinician in a calm consultation room."
-    }
+    },
+    "sourceCheckNote": " The What if burning starts after a new condom, lubricant or wash? section was checked against its linked sources on November 8, 2026; the worked resource is editorial guidance."
   }
 ]

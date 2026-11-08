@@ -55,8 +55,8 @@
       },
       {
         "id": "external-start",
-        "title": "Can the first plan start without internal work?",
-        "html": "<p>Tell the service before the visit if you want to start with conversation and activities that keep you clothed. You can ask what information they can gather from your history, symptom diary, breathing and relevant movement, and which proposed steps would need separate consent. <a href=\"https://www.dynamichealth.nhs.uk/services/pelvic-health-services/your-pelvic-health-appointment/\">DynamicHealth’s NHS service</a> describes remote first appointments and individually tailored management; your own clinic can explain its options.</p><p>External treatment is not one standardized package, and no appointment guide can promise the same relief as every other approach. Ask the therapist to explain what they can assess now, what remains uncertain, and what would make them recommend further assessment. Declining an examination does not require replacing it with unsupervised internal work at home.</p><p>A useful opening sentence is: “I want help with these symptoms, and I am not consenting to an internal examination today. What can we begin with?” You can also request a chaperone or ask how a support person could attend.</p><p>The <a href=\"https://www.csp.org.uk/professional-clinical/professional-guidance/consent-physiotherapy-practice\">Chartered Society of Physiotherapy</a> describes informed consent as an ongoing process. Agree on a review point for the plan you choose; improvement is assessed against your goals, not your willingness to accept a particular examination.</p>"
+        "title": "What does external work mean, and can I stay clothed?",
+        "html": "<p>Ask what the clinician means by external before agreeing. It may refer to work outside a body opening; the word alone does not tell you which area will be exposed or touched. “No internal examination” and “I want to remain clothed” are different boundaries. State both if both matter to you.</p><p>The <a href=\"https://www.csp.org.uk/professional-clinical/professional-guidance/consent-physiotherapy-practice\">Chartered Society of Physiotherapy’s consent guidance</a> says consent must be informed, voluntary and ongoing. An earlier agreement is not a substitute for explaining a step you did not understand. You can ask to pause, decline a proposed step or withdraw consent.</p><table><thead><tr><th>Before a step</th><th>A question you can use</th></tr></thead><tbody><tr><td>Clothing and position</td><td>What would I remove, and how would I be covered?</td></tr><tr><td>Touch</td><td>Which area will you examine, and how?</td></tr><tr><td>Purpose</td><td>What are you trying to learn, and what are the alternatives?</td></tr><tr><td>Control</td><td>Can you explain each step and wait for my agreement before starting?</td></tr></tbody></table><p>For example: “Today I agree to talking and clothed movement only. Please ask separately before any exposure or intimate touch.” Ask about a chaperone and whether a support person can attend. The service should explain what can be assessed within those boundaries and what remains uncertain.</p><p>If something felt unexpected, you can request a conversation before another hands-on session, ask for the plan in writing or discuss a different clinician. You do not need to settle a debate about terminology before stating your limits. Pelvic Gym cannot replace an examination or decide which examination you need; declining one does not mean you should improvise internal treatment at home.</p>"
       },
       {
         "id": "home-plan",
@@ -137,8 +137,8 @@
     "keyword": "pelvic floor therapy what to expect",
     "researchNote": "Sources checked 2026-10-24. First-visit preparation and consent intent; local clinic processes clearly identified as examples, not universal service guarantees. New decision-support section checked 2026-10-27 against its linked primary sources; original publication and earlier source-check scope retained.",
     "datePublished": "2026-10-24",
-    "dateModified": "2026-11-05",
-    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026; the appointment decision sheet was checked October 26. The external-work and consent update was checked against DynamicHealth and CSP guidance October 27, 2026. The new What if symptoms flare after a session or home exercise section was checked against its linked clinical sources October 28, 2026. The new What if you are told stress is preventing progress? section was checked against its linked primary sources October 31, 2026. The revised home-plan handover section was checked October 31, 2026 against University Hospitals Sussex appointment guidance. It does not prescribe a session length or judge an individual provider. The What if the first appointment felt more intimate than you expected? section was checked against its linked sources on November 5, 2026. Its worked examples and question prompts are editorial resources."
+    "dateModified": "2026-11-08",
+    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026; the appointment decision sheet was checked October 26. The external-work and consent update was checked against DynamicHealth and CSP guidance October 27, 2026. The new What if symptoms flare after a session or home exercise section was checked against its linked clinical sources October 28, 2026. The new What if you are told stress is preventing progress? section was checked against its linked primary sources October 31, 2026. The revised home-plan handover section was checked October 31, 2026 against University Hospitals Sussex appointment guidance. It does not prescribe a session length or judge an individual provider. The What if the first appointment felt more intimate than you expected? section was checked against its linked sources on November 5, 2026. Its worked examples and question prompts are editorial resources. The What does external work mean, and can I stay clothed? section was checked against its linked sources on November 8, 2026; the worked resource is editorial guidance."
   },
   {
     "slug": "pelvic-floor-exercises-after-c-section",
@@ -536,6 +536,11 @@
         "id": "treatment",
         "title": "What might treatment involve?",
         "html": "<p>Treatment depends on the cause. The <a href=\"https://www.nhs.uk/conditions/vulvodynia/\">NHS describes care involving different specialists</a> for vulval pain, with options that may include medication, physiotherapy and psychological or psychosexual therapies. This does not mean the pain is imaginary; it means care may need to address several aspects of the experience.</p><p>Vaginal trainers or dilators may be used in some specialist plans, but they are not the same as strengthening weights. The <a href=\"https://www.nhs.uk/conditions/vaginismus/\">NHS vaginismus guidance</a> places their initial use under trained supervision. Ask what the tool is for, how to use it comfortably and when to stop.</p><p>Review progress using your own priorities, such as less discomfort with daily touch or greater comfort during an examination. There is no requirement to achieve a particular sexual activity by a deadline. If the plan increases pain or feels unmanageable, return for an adjustment.</p>"
+      },
+      {
+        "id": "acupuncture",
+        "title": "Does relief from acupuncture for another condition mean it will help painful penetration?",
+        "html": "<p>No such conclusion follows automatically. <a href=\"https://www.nccih.nih.gov/health/acupuncture-effectiveness-and-safety\">NCCIH summarizes acupuncture research by condition</a>, including some pain and headache conditions. Those results do not establish that acupuncture treats vaginismus or the cause of your own pain with penetration. A favorable experience with one symptom is worth reporting, but it is not evidence for a different treatment target.</p><p>Before paying for a course, ask four questions:</p><ol><li>What specific symptom are we trying to change?</li><li>What evidence applies to that condition, rather than pain in general?</li><li>What are the risks, total cost and review point?</li><li>Who will assess other causes if symptoms persist or change?</li></ol><p>NCCIH advises against using acupuncture to postpone medical care and discusses risks from improperly performed treatment. Check the practitioner’s relevant qualifications and local registration requirements. Do not assume that every technique called acupuncture has the same evidence.</p><p>If you are not ready for an examination, trainers or hands-on therapy, say so and ask which discussions and noninvasive options can begin within your boundaries. <a href=\"https://www.nhs.uk/conditions/vaginismus/\">NHS vaginismus guidance</a> describes specialist care that can include talking therapy and relaxation as well as other approaches. You can discuss options without agreeing to them all at once.</p><p>Pelvic Gym cannot assess vaginismus or substitute for individualized pain care. A generic strengthening program is not the next step simply because you are declining another treatment. Keep the goal focused on comfort and informed choice.</p>"
       }
     ],
     "faqs": [
@@ -580,6 +585,10 @@
       {
         "title": "NHS: Low sex drive",
         "url": "https://www.nhs.uk/symptoms/loss-of-libido/"
+      },
+      {
+        "title": "NCCIH: Acupuncture effectiveness and safety",
+        "url": "https://www.nccih.nih.gov/health/acupuncture-effectiveness-and-safety"
       }
     ],
     "related": [
@@ -590,9 +599,9 @@
     "cta": "assessment",
     "keyword": "painful sex and pelvic floor",
     "researchNote": "Sources checked 2026-10-24. Pain and care-navigation intent; no self-diagnosis, forced penetration, generalized strengthening or claim that all pain is muscular.",
-    "dateModified": "2026-11-04",
+    "dateModified": "2026-11-08",
     "datePublished": "2026-10-24",
-    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. The new Burning at the vaginal entrance: what to explain section was checked against its linked clinical sources October 28, 2026. The Delayed pain after sexual activity section was checked against its linked sources on November 1, 2026. The What if pain has changed your interest in sex or dating? section was checked against its linked sources on November 4, 2026."
+    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. The new Burning at the vaginal entrance: what to explain section was checked against its linked clinical sources October 28, 2026. The Delayed pain after sexual activity section was checked against its linked sources on November 1, 2026. The What if pain has changed your interest in sex or dating? section was checked against its linked sources on November 4, 2026. The Does relief from acupuncture for another condition mean it will help painful penetration? section was checked against its linked sources on November 8, 2026; the worked resource is editorial guidance."
   },
   {
     "slug": "kegel-weights-and-trainers",

@@ -479,6 +479,11 @@
         "id": "assessment",
         "title": "When breathing practice is not enough",
         "html": "<p>Pelvic pain has many potential causes, and NHS Fife advises checking with a doctor to rule out other explanations. Physiotherapy may include relaxation teaching and other individualized approaches. <a href=\"https://www.nhsfife.org/services/all-services/patient-advice/overactive-pelvic-floor-muscles/\">Read its guidance on overactive pelvic floor muscles.</a></p><p>Book an assessment for persistent pain, painful sex or difficulty emptying. Seek emergency medical care now for severe or worsening pelvic pain, fainting, or heavy vaginal bleeding. Pelvic pain with fever, blood in urine or difficulty passing urine needs urgent medical advice. <a href=\"https://www.nhs.uk/symptoms/pelvic-pain/\">NHS pelvic pain guidance explains warning signs.</a></p><p>This is a gentle educational practice, not a diagnosis or treatment promise. The right next step for painful symptoms is professional assessment, even if a few breaths temporarily make you feel more comfortable.</p>"
+      },
+      {
+        "id": "less-tight-still-sore",
+        "title": "What if I feel less tight but still sore?",
+        "html": "<p>Feeling less tense can be a useful observation, but it does not establish that muscle function is normal or explain remaining pain. <a href=\"https://www.nhsfife.org/services/all-services/patient-advice/overactive-pelvic-floor-muscles/\">NHS Fife advises checking other causes of pelvic pain with a doctor</a>. Persistent soreness is a reason to review the plan, not proof that you need a stronger release or more contractions.</p><p>Separate three kinds of change before the next appointment:</p><table><thead><tr><th>Track</th><th>A brief example</th></tr></thead><tbody><tr><td>Sensation</td><td>The constant clenched feeling is less noticeable.</td></tr><tr><td>Symptoms</td><td>An ache still occurs after an ordinary activity.</td></tr><tr><td>Function</td><td>Sitting is easier, but another part of the day remains uncomfortable.</td></tr></tbody></table><p>These examples are a way to describe progress, not a diagnostic scale. Note what is better alongside what still limits you, including whether discomfort begins during an activity or later. There is no need to repeatedly press on tissue or provoke symptoms to check whether it has released.</p><p>Ask the clinician: “Does this remaining pain need another assessment? Which parts of the home plan should continue, change or pause?” Avoid increasing manual work, stretching or app sessions while guessing at the answer. Pelvic Gym may support a strengthening routine only if that becomes appropriate in your care plan; it cannot verify a release or clear unexplained soreness.</p>"
       }
     ],
     "faqs": [
@@ -529,7 +534,7 @@
     "cta": "assessment",
     "keyword": "pelvic floor relaxation",
     "researchNote": "Researched 2026-10-24. Search intent: safe relaxation and breathing. Uses gentle release without bearing down, breath holding, self-internal treatment or forceful stretches. Assessment CTA for pain; source-derived paraphrases kept brief across the five-article set. New decision-support section checked 2026-10-27 against its linked primary sources; original publication and earlier source-check scope retained.",
-    "dateModified": "2026-11-07",
-    "sourceCheckNote": "The What if I feel clenched even when I am lying down? section was checked on November 7, 2026. Earlier source-check dates remain unchanged."
+    "dateModified": "2026-11-08",
+    "sourceCheckNote": "The What if I feel clenched even when I am lying down? section was checked on November 7, 2026. Earlier source-check dates remain unchanged. The What if I feel less tight but still sore? section was checked against its linked sources on November 8, 2026; the worked resource is editorial guidance."
   }
 ]

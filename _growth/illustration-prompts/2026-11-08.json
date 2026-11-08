@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "what-to-wear-under-blouses",
+    "prompt": "Use case: illustration-story. Landscape 3:2 editorial fashion illustration on warm ivory paper. A practical flat lay comparison of three blouse underlayers, arranged in three clear columns: left a beige short-sleeved scoop-neck undershirt, center a muted rose short-sleeved deep-V undershirt, right a cocoa camisole with thin straps. Above each sits the same cream blouse with an open V neck, slightly separated so the underlayer shapes remain clear. Precise believable garment outlines and soft textile texture, refined gouache fashion editorial style. Generous margins, no human bodies, no text, no labels, no logos, no phone or watermark. Make the sleeve versus sleeveless difference obvious.",
+    "generator": "Built-in image_gen",
+    "production_path": "stylist_ai/blog/assets/illustrations/what-to-wear-under-blouses.webp",
+    "bytes": 41138
+  },
+  {
+    "slug": "petite-oversized-outfit-proportions",
+    "prompt": "Use case: illustration-story. Landscape 3:2 practical editorial fashion illustration, warm ivory background. Three full-body stylized adult women of the same petite proportions, with simple non-identifiable faces, standing side by side at the same scale. All wear forest-green roomy shirts, navy wide trousers and flat loafers. Left: shirt untucked at upper hip; center: same shirt with a small front tuck exposing waistband; right: same shirt open over a fitted muted blue tee with sleeves casually rolled. Make all three looks attractive and equally valid, no before/after hierarchy, no body reshaping, no longer legs on one figure. Full feet visible, refined painterly paper texture. No labels, letters, arrows, phone, logos or watermark.",
+    "generator": "Built-in image_gen",
+    "production_path": "stylist_ai/blog/assets/illustrations/petite-oversized-outfit-proportions.webp",
+    "bytes": 66690
+  },
+  {
+    "slug": "choose-lipstick-color",
+    "prompt": "Use case: illustration-story. Landscape 3:2 beauty editorial still life comparison on warm ivory textured paper. Three pairs of creamy lipstick swatches with plain unbranded lipstick bullets beside them, clear equal columns. Left: peach rose versus cool rose, same medium lightness and cream finish. Center: pale rose versus deeper berry rose, same color family. Right: translucent sheer rose swipe versus opaque rose swipe in the same hue. Clean useful swatch comparisons, realistic cosmetic texture, soft studio shadows, no human lips or hands, no shade labels, text, numerals, phone, logos, watermark or decorative flowers. Leave generous margin.",
+    "generator": "Built-in image_gen",
+    "production_path": "stylist_ai/blog/assets/illustrations/choose-lipstick-color.webp",
+    "bytes": 44374
+  }
+]
