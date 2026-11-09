@@ -1,7 +1,7 @@
 {
   "run_id": "2026-11-09-2200",
   "kind": "scheduled",
-  "status": "prepared",
+  "status": "completed",
   "started_at": "2026-11-09T18:00:45.494Z",
   "timezone": "Asia/Dubai",
   "scheduled_local": "22:00",
@@ -1485,13 +1485,36 @@
     },
     "layout": "Native Chrome desktop: sneaker page and all five remaining updated sections inspected. 390px emulation confirmed in device toolbar; four new Stylist layouts and Pelvic symptom table inspected. Visible headings, tables, images and download badge fit the viewed regions. No programmatic full-page overflow measurement claimed.",
     "faq": "New denim FAQ clicked; answer opened and verified.",
-    "evidence_directory": "/Users/aleksandrkorenev/Documents/ChatGPT/Ads/seo-daily/2026-11-09"
+    "evidence_directory": "/Users/aleksandrkorenev/Documents/ChatGPT/Ads/seo-daily/2026-11-09",
+    "live": {
+      "checked": 352,
+      "passed": 352,
+      "failed": [],
+      "verified_at": "2026-11-09T18:37:10.748630+00:00"
+    },
+    "capacity_after_commit": {
+      "measurement": "Working files excluding Git/runtime/build caches; includes source and research files normally excluded by Jekyll, so this overestimates the static payload. Git object storage is measured separately.",
+      "working_file_bytes": 49256964,
+      "git_object_bytes": 82060288,
+      "published_site_limit_bytes": 1000000000,
+      "illustration_stop_threshold_bytes": 800000000,
+      "can_add_illustrations": true,
+      "remaining_to_site_limit_bytes": 950743036,
+      "reference": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
+    }
   },
   "deployment": {
-    "status": "not_pushed"
+    "status": "built_and_verified",
+    "commit": "8c1739df5f98df12387f60a91b062a0861b98471",
+    "pages_built_at": "2026-11-09T18:35:56Z",
+    "verified_at": "2026-11-09T18:37:10.748630+00:00",
+    "checked": 352,
+    "passed": 352
   },
   "notification": {
     "channel": "current_chat",
     "telegram": "Destination PENDING; no Telegram sent."
-  }
+  },
+  "published_commit": "8c1739df5f98df12387f60a91b062a0861b98471",
+  "verified_at": "2026-11-09T18:37:10.748630+00:00"
 }

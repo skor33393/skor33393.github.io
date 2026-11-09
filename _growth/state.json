@@ -2,7 +2,7 @@
   "schema_version": 1,
   "timezone": "Asia/Dubai",
   "schedule_local": "22:00 daily",
-  "last_successful_scan": "2026-11-08T18:03:07.805Z",
+  "last_successful_scan": "2026-11-09T18:00:45.494Z",
   "runs": {
     "2026-10-26-initial": "completed",
     "2026-10-26-stylist-expansion": "completed",
@@ -22,7 +22,7 @@
     "2026-11-06-2200": "completed",
     "2026-11-07-2200": "completed",
     "2026-11-08-2200": "completed",
-    "2026-11-09-2200": "prepared"
+    "2026-11-09-2200": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -592,6 +592,41 @@
         "run_id": "2026-11-08-2200",
         "status": "updated",
         "verified_at": "2026-11-08T18:21:45.299811+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xrv91l/casual_alternatives_to_sneakers_that_are_more/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/comfortable-alternatives-to-sneakers/",
+        "run_id": "2026-11-09-2200",
+        "status": "published",
+        "verified_at": "2026-11-09T18:37:10.748630+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xrm8z6/which_green_is_best_for_a_soft_summer/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/soft-summer-green/",
+        "run_id": "2026-11-09-2200",
+        "status": "published",
+        "verified_at": "2026-11-09T18:37:10.748630+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xrbtkr/bright_winter_one_and_done_eyeshadows/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/one-and-done-eyeshadow/",
+        "run_id": "2026-11-09-2200",
+        "status": "published",
+        "verified_at": "2026-11-09T18:37:10.748630+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xrwqaj/makeup_recommendations_for_soft_summer/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/choose-lipstick-color/",
+        "run_id": "2026-11-09-2200",
+        "status": "updated",
+        "verified_at": "2026-11-09T18:37:10.748630+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xpq8fg/how_to_keep_dark_wash_jeans_actually_dark/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/keep-dark-jeans-dark/",
+        "run_id": "2026-11-09-2200",
+        "status": "published",
+        "verified_at": "2026-11-09T18:37:10.748630+00:00"
       }
     ],
     "pelvic_gym": [
@@ -1091,6 +1126,41 @@
         "run_id": "2026-11-08-2200",
         "status": "updated",
         "verified_at": "2026-11-08T18:21:45.299811+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xraavo/root_of_my_problem/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/vulval-burning-after-urination/",
+        "run_id": "2026-11-09-2200",
+        "status": "updated",
+        "verified_at": "2026-11-09T18:37:10.748630+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xrvcte/psyllium_husk_amount_for_dd_and_tight_pelvic_floor/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-and-constipation/",
+        "run_id": "2026-11-09-2200",
+        "status": "updated",
+        "verified_at": "2026-11-09T18:37:10.748630+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xr8ff6/anyone_else_experiencing_burning_aroundnear_rectum/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-pain-after-bowel-movement/",
+        "run_id": "2026-11-09-2200",
+        "status": "updated",
+        "verified_at": "2026-11-09T18:37:10.748630+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xr8gvt/anyone_that_has_a_weak_pelvic_floor/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/tight-vs-weak-pelvic-floor/",
+        "run_id": "2026-11-09-2200",
+        "status": "updated",
+        "verified_at": "2026-11-09T18:37:10.748630+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xrwq29/postop_intimacy/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/painful-sex-and-pelvic-floor/",
+        "run_id": "2026-11-09-2200",
+        "status": "updated",
+        "verified_at": "2026-11-09T18:37:10.748630+00:00"
       }
     ]
   },
