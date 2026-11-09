@@ -231,8 +231,8 @@
       },
       {
         "id": "symptoms",
-        "title": "What symptoms might prompt a conversation?",
-        "html": "<p>A hypertonic pelvic floor may be associated with pelvic pain, painful sex, constipation, urinary frequency or difficulty starting a urine stream. These symptoms do not establish the diagnosis. <a href=\"https://my.clevelandclinic.org/health/diseases/22870-hypertonic-pelvic-floor\">Cleveland Clinic explains hypertonic pelvic floor symptoms.</a></p><p>Leaking during pressure-producing activities can occur with reduced support, while tension-related problems can also involve incontinence. That overlap is one reason a checklist cannot reliably separate “tight” from “weak.” <a href=\"https://www.royalberkshire.nhs.uk/media/yemfgc2z/physio-relaxing-your-pelvic-floor-muscles.pdf\">Royal Berkshire’s physiotherapy guidance describes overlapping symptoms.</a></p><p>Rather than scoring symptoms, write a sentence for each: where you feel it, what triggers it, how long it lasts and what it stops you doing. “Pain after sitting for an hour” gives your clinician something more useful than “I think I am too tight.”</p>"
+        "title": "Can symptoms tell me whether my pelvic floor is weak?",
+        "html": "<p>Symptoms can show that you need help, but they cannot reliably measure pelvic floor strength or resting tension. <a href=\"https://my.clevelandclinic.org/health/diseases/22870-hypertonic-pelvic-floor\">Cleveland Clinic describes pain, urinary frequency and emptying difficulties with hypertonic pelvic floor</a>. That does not mean everyone with those symptoms has the same condition.</p><table><thead><tr><th>What you notice</th><th>What to report</th><th>What not to conclude alone</th></tr></thead><tbody><tr><td>Leakage with coughing or movement</td><td>When it happens and whether urgency comes first</td><td>That more repetitions are automatically the right treatment</td></tr><tr><td>Difficulty emptying urine or stool</td><td>Hesitancy, straining and the feeling of incomplete emptying</td><td>That the problem is simply weak muscles</td></tr><tr><td>Pain, burning or a clenched feeling</td><td>Location, duration and activities that change it</td><td>That the sensation measures muscle strength or identifies a nerve problem</td></tr></tbody></table><p><a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems/diagnosis\">NIDDK explains that assessment for bladder-control problems uses history, examination and, when needed, tests</a>. Ask the clinician to explain what they found about contraction, relaxation and coordination, and which finding the plan addresses.</p><p>A useful request is: “Could you show me what you assessed and explain whether the first goal is better relaxation, strength, coordination or another treatment?” Do not repeatedly squeeze or interrupt urine flow to assign yourself a category. Pelvic Gym can support an agreed strengthening routine when appropriate; it cannot perform this assessment.</p>"
       },
       {
         "id": "different-assessments",
@@ -321,6 +321,10 @@
       {
         "title": "Cambridge University Hospitals: Female pelvic floor muscle exercises",
         "url": "https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/"
+      },
+      {
+        "title": "NIDDK: Diagnosis of bladder-control problems",
+        "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems/diagnosis"
       }
     ],
     "related": [
@@ -332,8 +336,8 @@
     "keyword": "tight vs weak pelvic floor",
     "researchNote": "Researched 2026-10-24. Search intent: differentiating muscle tension and weakness without self-diagnosis. Overlap and assessment emphasized; no internal self-exam, forceful stretch or strengthening CTA for pain.",
     "datePublished": "2026-10-24",
-    "dateModified": "2026-11-06",
-    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. The new Does burning prove that my pelvic floor is tight section was checked against its linked clinical sources October 28, 2026. The Different assessments and a written interim plan section was checked against its linked sources on November 1, 2026. The Standing posture and limits of self-assessment section was checked against its linked sources on November 2, 2026. The If muscles are tight and weak, which part do you work on first? section was checked on November 6, 2026. Its examples and appointment prompts are editorial resources."
+    "dateModified": "2026-11-09",
+    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. The new Does burning prove that my pelvic floor is tight section was checked against its linked clinical sources October 28, 2026. The Different assessments and a written interim plan section was checked against its linked sources on November 1, 2026. The Standing posture and limits of self-assessment section was checked against its linked sources on November 2, 2026. The If muscles are tight and weak, which part do you work on first? section was checked on November 6, 2026. Its examples and appointment prompts are editorial resources. The Can symptoms tell me whether my pelvic floor is weak? section was checked against its linked clinical sources on November 9, 2026. Its appointment questions are editorial resources; no independent clinical review is claimed."
   },
   {
     "slug": "pelvic-floor-exercises-menopause",

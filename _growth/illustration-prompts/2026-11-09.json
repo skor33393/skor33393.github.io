@@ -1,0 +1,43 @@
+[
+  {
+    "slug": "comfortable-alternatives-to-sneakers",
+    "prompt": "Use case: illustration-story. Create an original landscape 3:2 editorial illustration for a practical women's wardrobe guide about comfortable alternatives to sneakers. Warm ivory background, refined hand-painted fashion illustration, clean generous spacing. Three equal columns left to right show a navy trouser hem with a dark brown lace-up derby shoe, a navy trouser hem with a dark brown ankle boot with low broad heel, a navy trouser hem with a burgundy Mary Jane shoe with a secure instep strap. Show realistic generous rounded toe shapes, believable fastening, thick modest soles. Small simple color swatches below each column echo navy brown and burgundy. Shoes are illustrative candidates, no claims of fit or medical support, no logos, no text, no people above knee, no UI or decorative clutter. Elegant readable composition that works at small size.",
+    "tool": "built-in image_gen",
+    "asset": "stylist_ai/blog/assets/illustrations/comfortable-alternatives-to-sneakers.webp",
+    "width": 1200,
+    "height": 800,
+    "bytes": 47630,
+    "visual_inspection": "Generated artwork and 390px article layout inspected; desktop shared template checked. Production image and responsive variants validated."
+  },
+  {
+    "slug": "soft-summer-green",
+    "prompt": "Use case: illustration-story. Landscape 3:2 editorial fashion comparison on warm ivory paper, sophisticated soft painted textile illustration. Exactly three equal columns, each with two folded fabric samples. Left column: an olive yellow-green sample above a cool blue-green sample at similar medium depth. Middle column: a light gray sage sample above a deep muted teal sample. Right column: a vivid emerald sample above a softly grayed blue-green sample at similar medium depth. The fabric swatches should be large, flat-faced with subtle folds and realistic weave, separated clearly, consistent soft lighting. No lettering, no labels, no logos, no ranking, no color season assertions printed. This is a useful visual comparing warmth, depth and intensity of green fabrics for a Soft Summer styling article.",
+    "tool": "built-in image_gen",
+    "asset": "stylist_ai/blog/assets/illustrations/soft-summer-green.webp",
+    "width": 1200,
+    "height": 800,
+    "bytes": 196228,
+    "visual_inspection": "Generated artwork and 390px article layout inspected; desktop shared template checked. Production image and responsive variants validated."
+  },
+  {
+    "slug": "one-and-done-eyeshadow",
+    "prompt": "Use case: illustration-story. Original landscape 3:2 editorial illustration for a one-and-done eyeshadow selection guide. Warm ivory paper background, refined beauty still-life, exactly three equal vertical comparison columns. Each column has two large oval cosmetic powder swatches, top and bottom. Left column compares a pale neutral-cool taupe with a deeper smoky taupe, both satin. Middle column compares soft rosy taupe satin with equally light golden bronze satin. Right column compares the same light neutral rosy taupe in matte versus fine satin shimmer, with shimmer subtle and not glittery. A small clean makeup brush placed horizontally along bottom edge. Swatches visually clear; no face, no brand, no text, no logos, no product endorsements, no UI. Soft studio light, restrained mauve and taupe palette.",
+    "tool": "built-in image_gen",
+    "asset": "stylist_ai/blog/assets/illustrations/one-and-done-eyeshadow.webp",
+    "width": 1200,
+    "height": 800,
+    "bytes": 142560,
+    "visual_inspection": "Generated artwork and 390px article layout inspected; desktop shared template checked. Production image and responsive variants validated."
+  },
+  {
+    "slug": "keep-dark-jeans-dark",
+    "prompt": "Use case: illustration-story. Create landscape 3:2 practical editorial illustration, warm ivory paper, clear three-step visual sequence left to right, no text or arrows. Left: dark indigo jeans turned inside out, pockets visible and zip closed, folded next to a simple white care label. Center: a minimal unbranded washing-machine door with folded dark clothing nearby and a small blue water droplet symbol, no numbers. Right: inside-out dark jeans hanging straight from two clips on a drying rail indoors in shade. Consistent dark indigo denim color, realistic garment construction, airy clean spacing. No before-after color miracle, no brands, no UI, no people. Beautiful useful care-plan illustration rather than decorative cover.",
+    "tool": "built-in image_gen",
+    "asset": "stylist_ai/blog/assets/illustrations/keep-dark-jeans-dark.webp",
+    "width": 1200,
+    "height": 800,
+    "bytes": 57158,
+    "visual_inspection": "Generated artwork and 390px article layout inspected; desktop shared template checked. Production image and responsive variants validated.",
+    "edit_prompt": "Remove the care-label symbols, leave the tag blank, preserve all other details."
+  }
+]

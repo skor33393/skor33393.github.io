@@ -1,0 +1,74 @@
+{
+  "slug": "keep-dark-jeans-dark",
+  "title": "How can I keep dark-wash jeans dark for longer?",
+  "seoTitle": "How to Keep Dark Jeans Dark: Washing and Outfit Care",
+  "description": "Build a care plan for dark jeans, distinguish fading from dye transfer, and decide whether to restyle or recolor a pair you still like.",
+  "category": "Everyday style",
+  "datePublished": "2026-11-09",
+  "dateModified": "2026-11-09",
+  "sourcesChecked": "2026-11-09",
+  "sortOrder": -3,
+  "excerpt": "Build a care plan for dark jeans, distinguish fading from dye transfer, and decide whether to restyle or recolor a pair you still like.",
+  "quickAnswer": "Follow the care label, wash inside out on an appropriate cold, gentle cycle, and air dry when the garment’s instructions allow. These steps can help preserve the color; they cannot guarantee that dark denim never changes. Treat dye rubbing onto other items as a separate problem from the jeans becoming lighter.",
+  "related": [
+    "build-a-wardrobe-color-palette",
+    "buy-clothes-you-will-wear"
+  ],
+  "keyword": "How can I keep dark-wash jeans dark for longer?",
+  "sourceNote": "The comparisons and worked examples are original editorial resources, not measured product tests or endorsements.",
+  "ctaTitle": "Build an outfit around the denim you have.",
+  "ctaText": "Use Stylist AI to explore clothing color combinations with your current jeans. Follow the garment manufacturer’s instructions for washing and recoloring.",
+  "sections": [
+    {
+      "id": "two-problems",
+      "title": "Separate fading from color transfer",
+      "html": "<p>“My jeans are losing color” can describe a lighter-looking pair, blue marks on a bag, or both. Keep those observations separate because the next action differs. Compare the jeans when dry, in the same light, rather than comparing wet fabric with an old shopping photograph.</p><p>Make a small care note before changing products: the jeans’ fabric label, wash setting, detergent, drying method and where the change is most visible. This is a useful record for the manufacturer if the change seems unexpected; it is not a home test that identifies the dye chemistry.</p>"
+    },
+    {
+      "id": "routine",
+      "title": "Use one consistent care routine",
+      "html": "<p><a href=\"https://levihelp.levi.com/hc/en-ch/articles/17526810803345-How-to-Wash-and-Dry-Your-Denim\">Levi’s denim-care guidance</a> recommends washing inside out, closing the zip, using cold water and a gentle cycle, and air drying away from direct sunlight. Apply the instructions for your particular garment if they differ.</p><ol><li>Read the garment label before choosing the wash and drying settings.</li><li>Turn the jeans inside out and use the recommended detergent amount for your load and product.</li><li>Keep the cycle gentle when the care instructions permit it.</li><li>Allow the jeans to dry fully using an approved drying method.</li></ol><p>Do not add several laundry treatments at once. If something changes, you will not know which change mattered. The illustration shows the sequence of preparation, washing and drying; the blank tag stands for your own garment’s instructions.</p>"
+    },
+    {
+      "id": "transfer",
+      "title": "Protect the pieces that touch new denim",
+      "html": "<p><a href=\"https://help.levi.com/hc/en-us/articles/34797976189709-Dark-denim-and-dye-transfer\">Levi’s explains that excess dye from dark or raw denim can rub onto other fabrics and surfaces</a>. Its advice includes washing before the first wear, keeping dark items together in the wash and being cautious around light clothing, bags, shoes and upholstery, especially when the denim is wet.</p><p>For the first outfits, consider a darker bag and shoes rather than a pale bag that rests against the thigh. If transfer occurs, follow the affected item’s own cleaning instructions. A product suitable for the jeans may be unsuitable for leather, upholstery or another fabric.</p>"
+    },
+    {
+      "id": "recolor",
+      "title": "Before trying to dye the jeans again",
+      "html": "<p>Recoloring is a separate project from ordinary washing. First check the exact dye product’s compatibility instructions against the jeans’ fabric composition, trims and care label. If the information does not clearly cover your garment, ask the manufacturer rather than treating a different person’s result as a recipe.</p><p>Decide what outcome would still be acceptable: a slightly different blue, less visible contrast, or simply a usable casual pair. If you need an exact uniform dark finish for work, an uncertain recoloring result may not meet that need. Do not assume a care adjustment will restore color that has already changed.</p>"
+    },
+    {
+      "id": "restyle",
+      "title": "Give a lighter pair a deliberate outfit",
+      "html": "<p>You can keep a changed pair in rotation without pretending it is the same dark neutral. Try medium-blue jeans with a navy knit for a lower-contrast combination, or with a rose top and darker shoes for a clearer accent. Compare the whole outfit before deciding the jeans no longer work.</p><p>Keep a darker pair for occasions where you prefer that finish and use the lighter pair where it suits your day. Our <a href=\"/stylist_ai/blog/build-a-wardrobe-color-palette/\">wardrobe palette guide</a> helps give each piece a role. This makes care and shopping decisions more concrete than replacing an entire category of clothes.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Levi’s: How to wash and dry denim",
+      "url": "https://levihelp.levi.com/hc/en-ch/articles/17526810803345-How-to-Wash-and-Dry-Your-Denim"
+    },
+    {
+      "title": "Levi’s: Dark denim and dye transfer",
+      "url": "https://help.levi.com/hc/en-us/articles/34797976189709-Dark-denim-and-dye-transfer"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Will washing more carefully restore faded denim?",
+      "answer": "Care changes may help preserve the remaining color, but they do not restore a finish that has already changed. Recoloring is a separate decision that requires checking the dye and garment instructions."
+    },
+    {
+      "question": "Does dye transfer mean the jeans will stain every outfit?",
+      "answer": "Transfer can happen with dark or raw denim, but its extent varies. Follow the manufacturer’s instructions and be cautious with pale items that rub against the jeans, especially while the denim is wet."
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/illustrations/keep-dark-jeans-dark.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Inside-out jeans prepared for washing, a washing machine and jeans drying on a rail."
+  }
+}

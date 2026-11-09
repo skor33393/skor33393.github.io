@@ -16,8 +16,8 @@
     "sections": [
       {
         "id": "location",
-        "title": "First, describe what you mean by pelvic pain",
-        "html": "<p>“It hurts after I go to the toilet” can describe several experiences: a sharp sensation at the anal opening, burning afterward, a deeper ache in the pelvis, or pressure that lasts for some time. Try to separate the location from the timing. You do not need to know an anatomical name to describe where you feel it.</p><p>A simple account might be: “The bowel movement is comfortable, then a deeper ache starts several minutes later and lasts about half an hour.” Another might be: “The pain is at the opening while passing stool, and there is blood on the paper.” Those are different descriptions to bring to a clinician; neither is a diagnosis.</p><p>Avoid repeatedly pressing the painful area or trying a difficult bowel movement to reproduce it. Record what happens naturally. If symptoms are urgent, getting help comes before completing a diary.</p>"
+        "title": "Describe the location, including pain between bowel movements",
+        "html": "<p>“It hurts after the toilet” can mean pain at the anal opening, burning on nearby skin, a deeper pelvic ache or pressure. Describe where you feel it and whether it happens during a bowel movement, afterward or at unrelated times. You do not need the correct anatomical term to ask for help.</p><p>If burning spreads toward the anal area or changes from your usual pattern, tell a clinician about the new location. A familiar feeling of muscle tension does not establish the cause of new anal pain. <a href=\"https://www.nhs.uk/symptoms/anal-pain/\">NHS guidance lists several possible causes and advises against self-diagnosis</a>.</p><table><thead><tr><th>Observation</th><th>Useful wording</th></tr></thead><tbody><tr><td>Location</td><td>“At the opening,” “on the skin beside it,” or “deeper inside”</td></tr><tr><td>Timing</td><td>During stool passage, afterward, while sitting, or throughout the day</td></tr><tr><td>Change</td><td>New area, increasing intensity, bleeding, discharge or fever</td></tr></tbody></table><p>Record naturally occurring symptoms rather than pressing the area or repeating a painful stretch to test it. If an exercise causes or worsens pain, pause that exercise and ask the treating clinician how the plan should change. Do not force a release or add stronger contractions to investigate the cause.</p><p>Get medical advice if anal pain is severe, persists beyond a few days or includes bleeding. Severe anal pain with fever or shivering, or black or dark-red stool, needs urgent help. Heavy or nonstop bleeding needs emergency care. These signs take priority over completing an exercise routine.</p>"
       },
       {
         "id": "causes",
@@ -99,7 +99,7 @@
     "cta": "assessment",
     "researchNote": "General assessment and care-navigation information. No diagnosis from forum details, no exercise prescription for pain and no claim that the app treats bowel or gynecological disease.",
     "datePublished": "2026-10-31",
-    "dateModified": "2026-11-04",
+    "dateModified": "2026-11-09",
     "sourcesChecked": "2026-10-31",
     "illustration": {
       "src": "/pelvic_gym/assets/illustrations/pelvic-pain-after-bowel-movement.webp",
@@ -107,7 +107,7 @@
       "height": 800,
       "alt": "A woman making brief symptom notes in a notebook at home, with a glass of water beside her."
     },
-    "sourceCheckNote": "Existing sources retain their previously recorded check dates. The What if treatment has healed but the pain continues? section was checked against its linked sources on November 3, 2026. The What if fissure symptoms return during physiotherapy? section was checked against its linked sources on November 4, 2026."
+    "sourceCheckNote": "Existing sources retain their previously recorded check dates. The What if treatment has healed but the pain continues? section was checked against its linked sources on November 3, 2026. The What if fissure symptoms return during physiotherapy? section was checked against its linked sources on November 4, 2026. The Describe the location, including pain between bowel movements section was checked against its linked clinical sources on November 9, 2026. Its appointment questions are editorial resources; no independent clinical review is claimed."
   },
   {
     "slug": "vulval-burning-after-urination",
@@ -131,8 +131,8 @@
       },
       {
         "id": "infection",
-        "title": "Check new urinary symptoms rather than assuming a familiar cause",
-        "html": "<p><a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-infection-uti-in-adults/symptoms-causes\">NIDDK lists burning with urination, urgent or frequent urination, lower-abdominal discomfort and changes in urine among possible bladder-infection symptoms</a>. Contact a healthcare professional for suspected infection. Fever or chills, vomiting, or pain in the back or side can indicate kidney involvement and need prompt treatment.</p><p>Having had vulval pain before does not establish the cause of a new episode. Equally, discomfort around urination does not prove that every episode is a bladder infection. Tell the clinician what is different from your usual pattern and follow their advice about testing.</p><p>If you have a prior negative test, bring its name and date. Ask whether it covered the current symptoms and whether a change in the symptoms alters the next step. “Negative tests” is a useful starting point for a discussion, but it is not a complete follow-up plan.</p>"
+        "title": "What if burning continues after UTI treatment?",
+        "html": "<p>Burning around urination can have more than one explanation. A previous pelvic-pain diagnosis does not establish the cause of a new episode, and a history of a UTI does not prove that all later burning is infection. If symptoms persist after treatment, arrange follow-up. The <a href=\"https://www.nhs.uk/conditions/urinary-tract-infections-utis/\">NHS advises speaking to a clinician about continuing symptoms and asking about specialist referral</a>.</p><p>Bring the name and date of each test and the treatment start and finish dates. Describe separately what improved, what stayed the same and what is new. A useful message is: “The original urinary symptoms improved, but burning continues in a different area. What needs reassessing, and when should I contact you again?”</p><table><thead><tr><th>Bring to the review</th><th>Why it is useful</th></tr></thead><tbody><tr><td>Test names, dates and available results</td><td>Clarifies what was actually checked</td></tr><tr><td>Medicine and supplement list</td><td>Allows a clinician or pharmacist to review possible treatment-related concerns</td></tr><tr><td>Symptom locations and changes over time</td><td>Avoids treating several different sensations as one unchanged problem</td></tr></tbody></table><p>Symptoms starting after a medicine are a reason to report the timing, not proof that the medicine caused them. Do not use an exercise response to decide whether infection or nerve injury is present. Pelvic Gym cannot make that distinction.</p><p>Seek urgent medical advice for suspected UTI symptoms that worsen quickly or have not improved within 48 hours of starting treatment, or for fever or shivering, blood in urine, or pain in the lower abdomen or back under the ribs. Use your local urgent-care service; do not wait to finish a symptom record.</p>"
       },
       {
         "id": "persistent",
@@ -194,6 +194,10 @@
       {
         "title": "NHS: Vaginitis",
         "url": "https://www.nhs.uk/conditions/vaginitis/"
+      },
+      {
+        "title": "NHS: Urinary tract infections",
+        "url": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/"
       }
     ],
     "related": [
@@ -204,7 +208,7 @@
     "cta": "assessment",
     "researchNote": "Clinical source-led general assessment guidance. Does not extrapolate individual forum medication use or endorse hot-water treatment, self-diagnosis or strengthening for unexplained pain.",
     "datePublished": "2026-10-31",
-    "dateModified": "2026-11-08",
+    "dateModified": "2026-11-09",
     "sourcesChecked": "2026-10-31",
     "illustration": {
       "src": "/pelvic_gym/assets/illustrations/vulval-burning-after-urination.webp",
@@ -212,6 +216,6 @@
       "height": 800,
       "alt": "A fully clothed woman discussing symptom notes with a clinician in a calm consultation room."
     },
-    "sourceCheckNote": " The What if burning starts after a new condom, lubricant or wash? section was checked against its linked sources on November 8, 2026; the worked resource is editorial guidance."
+    "sourceCheckNote": " The What if burning starts after a new condom, lubricant or wash? section was checked against its linked sources on November 8, 2026; the worked resource is editorial guidance. The What if burning continues after UTI treatment? section was checked against its linked clinical sources on November 9, 2026. Its appointment questions are editorial resources; no independent clinical review is claimed."
   }
 ]

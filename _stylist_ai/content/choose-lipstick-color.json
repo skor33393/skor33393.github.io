@@ -5,7 +5,7 @@
   "description": "Compare lipstick warmth, depth and coverage separately. Use a three-pair swatch plan and a simple wear note to choose a color you want to use.",
   "category": "Everyday style",
   "datePublished": "2026-11-08",
-  "dateModified": "2026-11-08",
+  "dateModified": "2026-11-09",
   "sourcesChecked": "2026-11-08",
   "sortOrder": -2,
   "excerpt": "Compare lipstick warmth, depth and coverage separately. Use a three-pair swatch plan and a simple wear note to choose a color you want to use.",
@@ -30,6 +30,11 @@
       "id": "wear-note",
       "title": "Keep one useful wear note",
       "html": "<p>Try one candidate with the outfit it is meant for, then record three details: the color effect, the finish you enjoyed and whether you actually wanted to reapply it. For example: “The rose worked with navy; I liked the light coverage; the deeper version felt too formal for this job.” This identifies a practical preference without assigning a score to your appearance.</p><p>If you like the color only when applied lightly, compare a sheer formula before buying another full-coverage shade. If the shade looks right but feels uncomfortable, the next search may be for a different formula rather than a different season.</p>"
+    },
+    {
+      "id": "soft-summer",
+      "title": "How can a Soft Summer palette narrow the makeup shelf?",
+      "html": "<p>Start with two lip candidates in a softened rose or mauve direction, rather than buying a complete new set of makeup. Keep their depth and coverage similar enough to compare. If the result feels dull, test a clearer version at a similar depth; if it feels heavy, try a lighter or sheerer option before changing the whole color direction.</p><p>For example, compare a sheer muted rose with a similarly sheer mauve alongside your usual navy or gray top. Record which one you wanted to wear again. “Soft” does not require every product to be pale, and “Summer” does not settle a brand’s shade name.</p><p>Build the rest of the look around one chosen feature. A lip you enjoy can stay while you compare an everyday eye separately; our <a href=\"/stylist_ai/blog/one-and-done-eyeshadow/\">single-eyeshadow guide</a> explains how to separate depth, tone and finish. This avoids changing lip, blush and eye colors together and then losing track of what helped.</p>"
     },
     {
       "id": "palette",
@@ -66,5 +71,6 @@
     "width": 1200,
     "height": 800,
     "alt": "Three columns compare peach and cool rose, pale and deeper rose, and sheer and opaque lipstick swatches."
-  }
+  },
+  "sourceCheckNote": "The Soft Summer comparison was added November 9, 2026 as an original styling exercise; earlier factual sources retain their recorded check dates."
 }

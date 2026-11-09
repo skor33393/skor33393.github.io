@@ -18,6 +18,9 @@ TOPICS = [
          intro='Keep the clothes that work for your life. Choose one outfit problem, then use color to help solve that specific problem.',
          steps=[('Choose a small wardrobe palette', 'build-a-wardrobe-color-palette'),
                 ('Keep personal style at the office', 'personal-style-casual-office'),
+                ('Choose shoes for a walking commute', 'comfortable-alternatives-to-sneakers'),
+                ('Compare greens for a softer palette', 'soft-summer-green'),
+                ('Care for dark denim', 'keep-dark-jeans-dark'),
                 ('Choose a layer under a blouse', 'what-to-wear-under-blouses'),
                 ('Try relaxed petite proportions', 'petite-oversized-outfit-proportions'),
                 ('Build comfortable home outfits', 'comfortable-home-outfits-without-dresses'),
@@ -47,6 +50,7 @@ TOPICS = [
                 ('Compare shoes with a dress', 'choose-shoe-color-for-dress'),
                 ('Try Light Spring makeup colors', 'light-spring-makeup-colors'),
                 ('Choose Light Summer eyeshadow', 'light-summer-eyeshadow'),
+                ('Choose one everyday eyeshadow', 'one-and-done-eyeshadow'),
                 ('Compare glasses shape and color', 'choose-glasses-frame-color')])
 ]
 

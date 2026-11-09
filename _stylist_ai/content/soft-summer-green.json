@@ -1,0 +1,70 @@
+{
+  "slug": "soft-summer-green",
+  "title": "Which green should I try with a Soft Summer palette?",
+  "seoTitle": "Soft Summer Green: Compare Warmth, Depth and Intensity",
+  "description": "Compare olive, blue-green, sage and teal without treating a color name as a verdict. Use a three-pair fabric check and two everyday outfit examples.",
+  "category": "Everyday style",
+  "datePublished": "2026-11-09",
+  "dateModified": "2026-11-09",
+  "sourcesChecked": "2026-11-09",
+  "sortOrder": -3,
+  "excerpt": "Compare olive, blue-green, sage and teal without treating a color name as a verdict. Use a three-pair fabric check and two everyday outfit examples.",
+  "quickAnswer": "Try a softened blue-green or gray-green as a starting point, then compare actual garments. “Sage,” “teal” and “olive” cover many different colors. Separate warmth, depth and intensity so you can tell whether a green feels too yellow, too dark or simply more vivid than the look you want.",
+  "related": [
+    "soft-summer-or-soft-autumn",
+    "build-a-wardrobe-color-palette"
+  ],
+  "keyword": "Which green should I try with a Soft Summer palette?",
+  "sourceNote": "The comparisons and worked examples are original editorial resources, not measured product tests or endorsements.",
+  "ctaTitle": "Find a green you want to wear.",
+  "ctaText": "Explore your suggested seasonal palette in Stylist AI, then compare real green garments and build a combination with clothes you already own.",
+  "sections": [
+    {
+      "id": "name",
+      "title": "A green name is only a starting clue",
+      "html": "<p>A search for sage can return a pale gray-green, a distinctly yellow-green and a deeper dusty shade. Teal can be dark, bright or softened. Two sellers may use the same name for visibly different garments, so shopping by a label alone is frustrating.</p><p>Soft Summer is a styling framework for exploring softer, generally cooler color combinations. It does not establish one mandatory green or turn a product photograph into a reliable personal result. Start with the effect you want: a quiet everyday top, a darker outer layer or a noticeable accent.</p>"
+    },
+    {
+      "id": "board",
+      "title": "Read the fabric board one column at a time",
+      "html": "<table><thead><tr><th>Column</th><th>Comparison</th><th>Decision</th></tr></thead><tbody><tr><td>Left</td><td>Olive versus blue-green</td><td>Do you prefer a yellower or cooler-looking direction?</td></tr><tr><td>Middle</td><td>Pale gray sage versus deep muted teal</td><td>How much depth do you want in this outfit?</td></tr><tr><td>Right</td><td>Vivid emerald versus grayed green</td><td>Do you want the green to stand out or blend more quietly?</td></tr></tbody></table><p>This is an illustrated comparison plan, not a measured palette test. The useful result is a description such as “blue-green, softer, medium depth.” That description is easier to use in a shop than deciding that every green belongs to the wrong season.</p>"
+    },
+    {
+      "id": "real-garment",
+      "title": "Make the real garment comparison manageable",
+      "html": "<p>Keep one familiar top beside the candidates as your reference. Compare near your face in the same light, with the same hairstyle and makeup. If you use photographs, keep the camera setup consistent: <a href=\"https://www.adobe.com/creativecloud/photography/technique/white-balance.html\">white balance affects how photographic colors appear</a>.</p><p>Do not compare a shiny dark silk blouse with a pale matte knit and assume the difference is only undertone. Fabric, depth and finish have all changed. Where possible, compare a similar material and shape first; if that is impossible, write down the extra differences instead of forcing a precise conclusion.</p><p>Use our <a href=\"/stylist_ai/blog/color-analysis-photo-lighting/\">photo setup guide</a> if each image seems to tell a different story.</p>"
+    },
+    {
+      "id": "outfits",
+      "title": "Try two complete outfits before buying",
+      "html": "<p><strong>Quiet combination:</strong> a muted blue-green knit, charcoal trousers and a gray bag. The green is the main color; the other pieces keep the comparison simple.</p><p><strong>Deeper combination:</strong> a muted teal cardigan, a soft rose top and navy trousers. The lighter top changes the amount of dark color near the face without requiring you to discard the teal.</p><p>Use pieces you own to approximate these examples. The goal is to learn whether the garment works in your life, not to reproduce an exact set of swatches.</p>"
+    },
+    {
+      "id": "decision",
+      "title": "Keep the useful preference, even if the label stays uncertain",
+      "html": "<p>After wearing the combination, write one sentence: “I prefer the blue-green with charcoal, but the darkest teal feels better as an outer layer.” That is enough to guide a purchase. You do not have to settle every neighboring seasonal category first.</p><p>If the real uncertainty is whether you prefer cooler or warmer muted colors overall, the <a href=\"/stylist_ai/blog/soft-summer-or-soft-autumn/\">Soft Summer versus Soft Autumn guide</a> addresses that wider decision. Avoid turning one disappointing sweater into a reason to replace your whole wardrobe.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Adobe: White balance",
+      "url": "https://www.adobe.com/creativecloud/photography/technique/white-balance.html"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is every sage green a Soft Summer color?",
+      "answer": "A shade name is only a starting point. Compare the actual fabric for warmth, depth and intensity; two garments labeled sage can look different."
+    },
+    {
+      "question": "Do I have to replace a green top that is outside my palette?",
+      "answer": "No. Try it in a complete outfit you enjoy, or use that green farther from the face if you prefer. The palette is a shopping aid, not a rule that decides which clothes you can keep."
+    }
+  ],
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/illustrations/soft-summer-green.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Three columns of green fabrics compare olive with blue-green, pale sage with deep teal, and vivid emerald with muted green."
+  }
+}

@@ -132,8 +132,8 @@
       },
       {
         "id": "food-medicine",
-        "title": "Review food, fluids and medicines together",
-        "html": "<p>Some medicines and supplements can contribute to constipation. Ask a doctor or pharmacist to review them; do not stop prescribed treatment yourself. They can also advise whether a laxative is appropriate and which type fits your situation. <a href=\"https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/treatment\">NIDDK explains these treatment options</a>.</p><p>Bring the names of anything you take, including supplements, and describe the changes you have already tried. “More fiber did not help” is less useful than “I added a supplement, felt more bloated and still had difficulty emptying.” Avoid layering several products together without understanding the plan.</p><p>If you have been given fluid or dietary restrictions for another condition, ask how constipation advice should be adapted. The <a href=\"/pelvic_gym/articles/bladder-habits-water-caffeine/\">fluid-habits guide</a> explains why generic drink targets need context.</p>"
+        "title": "How much psyllium is right if emptying is still difficult?",
+        "html": "<p>There is no single spoonful amount that this article can prescribe for everyone with constipation or pelvic floor symptoms. Bring the exact product and its label to a pharmacist or clinician, together with the amount you take, other medicines, usual fiber intake and any fluid restrictions.</p><p><a href=\"https://www.nhs.uk/medicines/fybogel-ispaghula-husk/about-fybogel-ispaghula-husk/\">NHS information on ispaghula husk</a> explains that it works by absorbing fluid and adding bulk; wind and bloating can occur. Its preparation and fluid instructions matter. A household measure of one product should not be treated as interchangeable with another product’s sachet or scoop.</p><p>Separate two observations: stool consistency and the effort needed to empty. Softer stool does not by itself show that muscle coordination is working well. <a href=\"https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/treatment\">NIDDK describes both medicine options and clinician-directed biofeedback for problems with the muscles that control bowel movements</a>.</p><ul><li>What stool consistency are we aiming for in my situation?</li><li>Could my current product or amount be contributing to the symptoms I am reporting?</li><li>What change, if any, should I make, and when should we review it?</li><li>If stool is already soft but I still struggle to empty, what should be assessed next?</li></ul><p>Do not keep adding fiber products or change prescribed treatment based on someone else’s dose. Ask how to adapt the plan if another condition limits your fluids or diet. Our <a href=\"/pelvic_gym/articles/bladder-habits-water-caffeine/\">fluid-habits guide</a> explains why that context matters. An app workout is not a substitute for a bowel-care or coordination assessment.</p>"
       },
       {
         "id": "appointment",
@@ -208,6 +208,10 @@
       {
         "title": "NHS: Bowel incontinence",
         "url": "https://www.nhs.uk/conditions/bowel-incontinence/"
+      },
+      {
+        "title": "NHS: About ispaghula husk",
+        "url": "https://www.nhs.uk/medicines/fybogel-ispaghula-husk/about-fybogel-ispaghula-husk/"
       }
     ],
     "related": [
@@ -218,8 +222,8 @@
     "cta": "assessment",
     "keyword": "pelvic floor and constipation",
     "researchNote": "Researched 2026-10-24. Bowel-emptying and muscle-coordination intent. No laxative prescription, internal manipulation, forced bearing down or blanket strengthening recommendation. New decision-support section checked 2026-10-27 against its linked primary sources; original publication and earlier source-check scope retained.",
-    "dateModified": "2026-11-06",
-    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. Sources supporting the new decision-support section were checked October 27, 2026. The new What happens at biofeedback for difficult emptying section was checked against its linked clinical sources October 28, 2026. The new What if stool becomes narrow, flat or ribbon-like? section was checked against its linked sources October 29, 2026. The What if a bowel test was reassuring but symptoms continue? section was checked against its linked sources on November 5, 2026. Its worked examples and question prompts are editorial resources. The What if your bowel-care plan is too difficult to follow? section was checked on November 6, 2026. Its examples and appointment prompts are editorial resources.",
+    "dateModified": "2026-11-09",
+    "sourceCheckNote": "Original guidance sources were consulted October 24, 2026. Sources supporting the new decision-support section were checked October 27, 2026. The new What happens at biofeedback for difficult emptying section was checked against its linked clinical sources October 28, 2026. The new What if stool becomes narrow, flat or ribbon-like? section was checked against its linked sources October 29, 2026. The What if a bowel test was reassuring but symptoms continue? section was checked against its linked sources on November 5, 2026. Its worked examples and question prompts are editorial resources. The What if your bowel-care plan is too difficult to follow? section was checked on November 6, 2026. Its examples and appointment prompts are editorial resources. The How much psyllium is right if emptying is still difficult? section was checked against its linked clinical sources on November 9, 2026. Its appointment questions are editorial resources; no independent clinical review is claimed.",
     "datePublished": "2026-10-24"
   },
   {

@@ -5,7 +5,7 @@
   "description": "Build a small Light Summer eyeshadow edit with cool taupe, mauve and blue-gray ideas, a usable palette checklist and an outfit comparison before buying.",
   "category": "Color analysis",
   "datePublished": "2026-11-06",
-  "dateModified": "2026-11-06",
+  "dateModified": "2026-11-09",
   "sourcesChecked": "2026-11-06",
   "sortOrder": -1,
   "excerpt": "Choose a useful base, a definition shade and an optional accent instead of buying a palette for its seasonal name.",
@@ -39,7 +39,7 @@
     {
       "id": "app-role",
       "title": "Use your palette to finish the outfit",
-      "html": "<p>Stylist AI’s suggested seasonal palette and clothing combinations can give you a starting point for the top, scarf or knit you wear with the makeup. Choose one familiar outfit, test the cosmetic separately, then bring the colors together.</p><p>The app is not selecting a brand’s eyeshadow formula or checking eye safety. Its useful role here is keeping the clothing decision manageable while you find a makeup routine you enjoy.</p>"
+      "html": "<p>Stylist AI’s suggested seasonal palette and clothing combinations can give you a starting point for the top, scarf or knit you wear with the makeup. Choose one familiar outfit, test the cosmetic separately, then bring the colors together.</p><p>The app is not selecting a brand’s eyeshadow formula or checking eye safety. Its useful role here is keeping the clothing decision manageable while you find a makeup routine you enjoy.</p><p>For a single everyday product, the <a href=\"/stylist_ai/blog/one-and-done-eyeshadow/\">one-and-done eyeshadow guide</a> helps you separate shade depth from shimmer and warmth.</p>"
     }
   ],
   "faqs": [

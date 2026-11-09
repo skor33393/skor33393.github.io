@@ -5,7 +5,7 @@
   "description": "Conflicting color analysis results? Compare Soft Summer and Soft Autumn with a simple fabric test, better photos, and a practical way to choose your next outfit.",
   "category": "Color analysis",
   "datePublished": "2026-10-26",
-  "dateModified": "2026-11-05",
+  "dateModified": "2026-11-09",
   "excerpt": "One person says Summer. Another says Autumn. Here’s how to turn mixed opinions into a useful wardrobe decision.",
   "quickAnswer": "In the common 12-season framework, Soft Summer and Soft Autumn both emphasize muted colors; Soft Summer leans cooler and Soft Autumn warmer. If opinions disagree, compare similarly soft fabrics in the same light, keep the photo setup consistent, and look for a repeated preference across several colors. You do not need a unanimous season label to choose an outfit you enjoy.",
   "sections": [
@@ -42,7 +42,7 @@
     {
       "id": "next-outfit",
       "title": "What should you wear while you’re still unsure?",
-      "html": "<p>Choose one familiar outfit and change just the item you are deciding about. Keep the trousers, shoes and accessories you already enjoy. If a favorite color feels stronger than you want near your face, try it in a bag, shoe, or smaller detail and see whether you prefer that balance.</p><p>You can borrow a shade from another palette, wear a color because you love it, or decide that seasonal analysis is not useful for this purchase. A helpful system should support your choices.</p>"
+      "html": "<p>Choose one familiar outfit and change just the item you are deciding about. Keep the trousers, shoes and accessories you already enjoy. If a favorite color feels stronger than you want near your face, try it in a bag, shoe, or smaller detail and see whether you prefer that balance.</p><p>You can borrow a shade from another palette, wear a color because you love it, or decide that seasonal analysis is not useful for this purchase. A helpful system should support your choices.</p><p>If the immediate decision is a sweater, use the <a href=\"/stylist_ai/blog/soft-summer-green/\">three-pair green comparison</a> to separate warmth, depth and intensity.</p>"
     }
   ],
   "faqs": [
