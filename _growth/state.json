@@ -23,7 +23,7 @@
     "2026-11-07-2200": "completed",
     "2026-11-08-2200": "completed",
     "2026-11-09-2200": "completed",
-    "2026-11-10-2200": "publication_prepared"
+    "2026-11-10-2200": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -628,6 +628,13 @@
         "run_id": "2026-11-09-2200",
         "status": "published",
         "verified_at": "2026-11-09T18:37:10.748630+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xsg5nj/are_you_most_complimented_in_your_color_season/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/hate-your-color-season-palette/",
+        "run_id": "2026-11-10-2200",
+        "status": "updated",
+        "verified_at": "2026-11-10T18:14:40.584154+00:00"
       }
     ],
     "pelvic_gym": [
@@ -1162,6 +1169,13 @@
         "run_id": "2026-11-09-2200",
         "status": "updated",
         "verified_at": "2026-11-09T18:37:10.748630+00:00"
+      },
+      {
+        "question_url": "https://www8.farmersjournal.ie/comment/ask-miriam/dear-miriam-i-m-in-my-late-50s-and-wetting-myself-what-can-i-do-937261",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-exercises-menopause/",
+        "run_id": "2026-11-10-2200",
+        "status": "updated",
+        "verified_at": "2026-11-10T18:14:40.584154+00:00"
       }
     ]
   },

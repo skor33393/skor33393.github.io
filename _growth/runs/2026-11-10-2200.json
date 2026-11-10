@@ -1,7 +1,7 @@
 {
   "run_id": "2026-11-10-2200",
   "kind": "scheduled",
-  "status": "publication_prepared",
+  "status": "completed",
   "started_at": "2026-11-10T18:01:52.684Z",
   "timezone": "Asia/Dubai",
   "scheduled_local": "2026-11-10T22:00:00+04:00",
@@ -682,13 +682,27 @@
       "reference": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
     },
     "layout": "Unavailable: native Chrome input controls failed. Existing approved templates retained; generated HTML, links, anchors, metadata, source citations and CTAs checked. No new desktop/mobile visual inspection claimed.",
-    "live": "pending"
+    "live": {
+      "checked": 352,
+      "passed": 352,
+      "failed": [],
+      "verified_at": "2026-11-10T18:14:40.584154+00:00"
+    },
+    "live_retry": "One existing city-guide image initially returned HTTPError. A targeted retry returned HTTP 200 and matched source bytes; final result 352/352. Initial and retry records retained outside the publishing repository."
   },
   "deployment": {
-    "status": "pending"
+    "status": "built_and_verified",
+    "commit": "e4692e7a93ca7200ba51e2001065172bdc0ae7b2",
+    "pages_built_at": "2026-11-10T18:12:58Z",
+    "verified_at": "2026-11-10T18:14:40.584154+00:00",
+    "checked": 352,
+    "passed": 352
   },
   "notification": {
     "channel": "existing_chat",
     "telegram": "Destination remains pending; no Telegram message sent."
-  }
+  },
+  "completion": "published_with_shortfall",
+  "published_commit": "e4692e7a93ca7200ba51e2001065172bdc0ae7b2",
+  "verified_at": "2026-11-10T18:14:40.584154+00:00"
 }
