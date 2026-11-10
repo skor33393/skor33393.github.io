@@ -1,0 +1,694 @@
+{
+  "run_id": "2026-11-10-2200",
+  "kind": "scheduled",
+  "status": "publication_prepared",
+  "started_at": "2026-11-10T18:01:52.684Z",
+  "timezone": "Asia/Dubai",
+  "scheduled_local": "2026-11-10T22:00:00+04:00",
+  "research_finished_at": "2026-11-10T18:11:34.048681+00:00",
+  "scan_completed_at": null,
+  "scan_status": "partial_access_limited",
+  "next_scan_watermark": "2026-11-09T18:00:45.494Z",
+  "watermark_note": "Retain the November 9 watermark because the question scan was incomplete. Completed-run and article ledgers prevent duplicate publication when the missed window is reconsidered.",
+  "windows": {
+    "primary_start": "2026-11-09T18:00:45.494Z",
+    "primary_end": "2026-11-10T18:01:52.684Z",
+    "expanded": [
+      "Past 7 days",
+      "Past 30 days for Pelvic Gym fallback"
+    ],
+    "actual_evidence": "Fresh November 9–10 coloranalysis RSS; October 28 public advice question. Cached Reddit pages were not represented as current."
+  },
+  "selected": [
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Are you most complimented in your color season?",
+      "question_wording": "Observed complete RSS title, not an invented trend query.",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xsg5nj/are_you_most_complimented_in_your_color_season/",
+      "posted_at": "2026-11-10T06:53:00+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": false,
+      "evidence_scope": "Complete question in official RSS title only; no individual body or comments read.",
+      "slug": "hate-your-color-season-palette",
+      "section": "compliments",
+      "outcome": "updated",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/hate-your-color-season-palette/",
+      "reason": "Fresh since the previous watermark, and a concrete gap remains in an existing guide. Engagement could not be ranked; no most-popular claim.",
+      "brief": {
+        "reader_decision": "How much weight should compliments have when choosing whether to keep a palette or outfit?",
+        "overlap_decision": "Improve the palette-preference article; do not create a competing URL.",
+        "original_resource": "Three-question feedback table and coral-party versus blue-work outfit example.",
+        "app_role": "Use the suggested palette and combinations to select two outfit options; personal preference remains the decision."
+      }
+    },
+    {
+      "app": "pelvic_gym",
+      "platform": "Public reader-advice column; web-search fallback",
+      "question": "How can I ask for help with bladder leaks if I feel embarrassed or have never given birth?",
+      "question_wording": "Editorially phrased from the accessible reader question; intimate identifying details excluded.",
+      "question_url": "https://www8.farmersjournal.ie/comment/ask-miriam/dear-miriam-i-m-in-my-late-50s-and-wetting-myself-what-can-i-do-937261",
+      "posted_at": "2026-10-28",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": true,
+      "evidence_scope": "Original reader question text and October 28 publication date exposed in indexed search result. Canonical short URL open failed; accessible indexed article text supplied the question. This column is inspiration, never a clinical source.",
+      "slug": "pelvic-floor-exercises-menopause",
+      "section": "asking-for-help",
+      "outcome": "updated",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-exercises-menopause/",
+      "reason": "Expanded to 30 days after fresh sources were unavailable. Distinct care-seeking barrier is missing from the menopause guide. Visible attention unavailable; no engagement ranking claimed.",
+      "brief": {
+        "reader_decision": "How to begin a medical conversation about leaks without assuming childbirth or menopause explains them.",
+        "overlap_decision": "Improve existing menopause guide; retain the care-access guide for service/referral logistics.",
+        "original_resource": "Original appointment opening and four-item symptom preparation list, linked to existing consent guidance.",
+        "app_role": "Guided strengthening only when suitable for an assessed plan; cannot diagnose leakage or replace the initial medical conversation."
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "type me please and im not a minor",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xssb23/type_me_please_and_im_not_a_minor/",
+      "posted_at": "2026-11-10T17:02:53+00:00",
+      "updated_at": "2026-11-10T17:02:53+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": 1,
+      "comments": 2,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Personal typing or general metal comparison already covered; no useful independent gap established from the accessible title."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Please type me :)",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xsphmi/please_type_me/",
+      "posted_at": "2026-11-10T15:16:35+00:00",
+      "updated_at": "2026-11-10T15:16:35+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": 6,
+      "comments": 2,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Personal typing or general metal comparison already covered; no useful independent gap established from the accessible title."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Type me please! All 12 seasons included - I think I'm one of the cool toned seasons (?) but want to narrow it down :)",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xsp5sw/type_me_please_all_12_seasons_included_i_think_im/",
+      "posted_at": "2026-11-10T15:03:55+00:00",
+      "updated_at": "2026-11-10T15:03:55+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": 3,
+      "comments": 20,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Personal typing or general metal comparison already covered; no useful independent gap established from the accessible title."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "What's my season? Draped in all 12 — need help narrowing it down",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xslsu0/whats_my_season_draped_in_all_12_need_help/",
+      "posted_at": "2026-11-10T12:36:22+00:00",
+      "updated_at": "2026-11-10T12:36:22+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Personal typing or general metal comparison already covered; no useful independent gap established from the accessible title."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Gold or Silver?",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xsk96g/gold_or_silver/",
+      "posted_at": "2026-11-10T11:12:43+00:00",
+      "updated_at": "2026-11-10T11:12:43+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Personal typing or general metal comparison already covered; no useful independent gap established from the accessible title."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Are you most complimented in your color season?",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xsg5nj/are_you_most_complimented_in_your_color_season/",
+      "posted_at": "2026-11-10T06:53:00+00:00",
+      "updated_at": "2026-11-10T06:53:00+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Selected: complete question in RSS title reveals a specific feedback-interpretation gap in the existing palette-preference guide."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Gold or silver?",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xsarlz/gold_or_silver/",
+      "posted_at": "2026-11-10T02:05:14+00:00",
+      "updated_at": "2026-11-10T02:05:14+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Personal typing or general metal comparison already covered; no useful independent gap established from the accessible title."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Which colour season do you think I am? I have olive skin and am questioning my commitment to gold 🤔",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xsabir/which_colour_season_do_you_think_i_am_i_have/",
+      "posted_at": "2026-11-10T01:43:44+00:00",
+      "updated_at": "2026-11-10T01:43:44+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Personal typing or general metal comparison already covered; no useful independent gap established from the accessible title."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Type me please",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xs5vxl/type_me_please/",
+      "posted_at": "2026-11-09T22:29:42+00:00",
+      "updated_at": "2026-11-09T22:29:42+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Personal typing or general metal comparison already covered; no useful independent gap established from the accessible title."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Type me please!",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xs5cs0/type_me_please/",
+      "posted_at": "2026-11-09T22:08:22+00:00",
+      "updated_at": "2026-11-09T22:08:22+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Personal typing or general metal comparison already covered; no useful independent gap established from the accessible title."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Gold or rose gold?",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xs3dbr/gold_or_rose_gold/",
+      "posted_at": "2026-11-09T20:51:24+00:00",
+      "updated_at": "2026-11-09T20:51:24+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Rejected after reading jewelry guide: it already covers alloy color variation and comparisons of actual pieces; a rose-gold section would repeat the same decision method."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Type me please",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xs0kzm/type_me_please/",
+      "posted_at": "2026-11-09T19:07:38+00:00",
+      "updated_at": "2026-11-09T19:07:38+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Personal typing or general metal comparison already covered; no useful independent gap established from the accessible title."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Trying to figure out type and undertone",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xrztga/trying_to_figure_out_type_and_undertone/",
+      "posted_at": "2026-11-09T18:39:21+00:00",
+      "updated_at": "2026-11-09T18:39:21+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Personal typing or general metal comparison already covered; no useful independent gap established from the accessible title."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "What season suits me best?",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xrx9g1/what_season_suits_me_best/",
+      "posted_at": "2026-11-09T17:06:02+00:00",
+      "updated_at": "2026-11-09T17:06:02+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Personal typing or general metal comparison already covered; no useful independent gap established from the accessible title."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "makeup recommendations for soft summer",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xrwqaj/makeup_recommendations_for_soft_summer/",
+      "posted_at": "2026-11-09T16:47:00+00:00",
+      "updated_at": "2026-11-09T16:47:00+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Already used in the November 9 run."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Type me please!",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xrwkhd/type_me_please/",
+      "posted_at": "2026-11-09T16:41:13+00:00",
+      "updated_at": "2026-11-09T16:41:13+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Personal typing or general metal comparison already covered; no useful independent gap established from the accessible title."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "What Color season am i?",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xrufpk/what_color_season_am_i/",
+      "posted_at": "2026-11-09T15:21:58+00:00",
+      "updated_at": "2026-11-09T15:21:58+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Personal typing or general metal comparison already covered; no useful independent gap established from the accessible title."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Which lipstick is the most flattering on me?",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xrtm5y/which_lipstick_is_the_most_flattering_on_me/",
+      "posted_at": "2026-11-09T14:50:35+00:00",
+      "updated_at": "2026-11-09T14:50:35+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Lipstick comparison was materially updated November 9; no further distinct gap established."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Are these glasses terrible on me? (true winter with olive skin)",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xrth8o/are_these_glasses_terrible_on_me_true_winter_with/",
+      "posted_at": "2026-11-09T14:45:10+00:00",
+      "updated_at": "2026-11-09T14:45:10+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Existing frame-color guide covers separating color, shape and fit; no additional gap verified from the title."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "More photo",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xrs0g7/more_photo/",
+      "posted_at": "2026-11-09T13:44:35+00:00",
+      "updated_at": "2026-11-09T13:44:35+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Personal typing or general metal comparison already covered; no useful independent gap established from the accessible title."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Gold or silver?",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xrrtsq/gold_or_silver/",
+      "posted_at": "2026-11-09T13:36:19+00:00",
+      "updated_at": "2026-11-09T13:36:19+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Personal typing or general metal comparison already covered; no useful independent gap established from the accessible title."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Color analysis",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xrqteq/color_analysis/",
+      "posted_at": "2026-11-09T12:49:04+00:00",
+      "updated_at": "2026-11-09T12:49:04+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Personal typing or general metal comparison already covered; no useful independent gap established from the accessible title."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Which green is best for a soft summer?",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xrm8z6/which_green_is_best_for_a_soft_summer/",
+      "posted_at": "2026-11-09T08:19:24+00:00",
+      "updated_at": "2026-11-09T08:19:24+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Already used in the November 9 run."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Pls help",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xrm8iu/pls_help/",
+      "posted_at": "2026-11-09T08:18:35+00:00",
+      "updated_at": "2026-11-09T08:18:35+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Personal typing or general metal comparison already covered; no useful independent gap established from the accessible title."
+    },
+    {
+      "app": "stylist_ai",
+      "platform": "Reddit",
+      "question": "Gold or silver?",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xrgrnm/gold_or_silver/",
+      "posted_at": "2026-11-09T03:05:51+00:00",
+      "updated_at": "2026-11-09T03:05:51+00:00",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": false,
+      "evidence": "Official public RSS title and timestamp. First three candidates also visible on native Chrome feed; individual post bodies were not read.",
+      "decision": "Personal typing or general metal comparison already covered; no useful independent gap established from the accessible title."
+    },
+    {
+      "app": "pelvic_gym",
+      "platform": "Public reader-advice column; web-search fallback",
+      "question": "How can I ask for help with bladder leaks if I feel embarrassed or have never given birth?",
+      "question_wording": "Editorially phrased from the accessible reader question; intimate identifying details excluded.",
+      "question_url": "https://www8.farmersjournal.ie/comment/ask-miriam/dear-miriam-i-m-in-my-late-50s-and-wetting-myself-what-can-i-do-937261",
+      "posted_at": "2026-10-28",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "original_question_read": true,
+      "evidence_scope": "Original reader question text and October 28 publication date exposed in indexed search result. Canonical short URL open failed; accessible indexed article text supplied the question. This column is inspiration, never a clinical source.",
+      "outcome": "updated",
+      "reason": "Expanded to 30 days after fresh sources were unavailable. Distinct care-seeking barrier is missing from the menopause guide. Visible attention unavailable; no engagement ranking claimed."
+    }
+  ],
+  "outcomes": {
+    "stylist_ai": {
+      "target": 5,
+      "new": 0,
+      "updated": 1,
+      "shortfall": 4,
+      "reason": "Source access limits and existing intent overlap; no filler or speculative questions published."
+    },
+    "pelvic_gym": {
+      "target": 5,
+      "new": 0,
+      "updated": 1,
+      "shortfall": 4,
+      "reason": "Source access limits and existing intent overlap; no filler or speculative questions published."
+    }
+  },
+  "google_trends": [
+    {
+      "app": "stylist_ai",
+      "seed": "color analysis",
+      "seed_type": "search term",
+      "country": "US",
+      "category": "All categories",
+      "search_type": "Web Search",
+      "window": "Past 7 days requested",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "explore_url": "https://trends.google.com/trends/explore?date=now%207-d&geo=US&q=color%20analysis,pelvic%20floor&hl=en",
+      "status": "unavailable",
+      "rising_queries": null,
+      "top_queries": null,
+      "growth": null,
+      "data_sufficiency": "Unknown, not zero.",
+      "reason": "Official Explore URL was unavailable through the web tool; native Chrome interaction failed. No 30-day expansion or seasonal check possible through that interface. No unofficial endpoint or restriction bypass used."
+    },
+    {
+      "app": "pelvic_gym",
+      "seed": "pelvic floor",
+      "seed_type": "search term",
+      "country": "US",
+      "category": "All categories",
+      "search_type": "Web Search",
+      "window": "Past 7 days requested",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "explore_url": "https://trends.google.com/trends/explore?date=now%207-d&geo=US&q=color%20analysis,pelvic%20floor&hl=en",
+      "status": "unavailable",
+      "rising_queries": null,
+      "top_queries": null,
+      "growth": null,
+      "data_sufficiency": "Unknown, not zero.",
+      "reason": "Official Explore URL was unavailable through the web tool; native Chrome interaction failed. No 30-day expansion or seasonal check possible through that interface. No unofficial endpoint or restriction bypass used."
+    },
+    {
+      "app": "stylist_ai",
+      "seed": "color analysis",
+      "seed_type": "search term",
+      "country": "CA",
+      "category": "All categories",
+      "search_type": "Web Search",
+      "window": "Past 7 days requested",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "explore_url": "https://trends.google.com/trends/explore?date=now%207-d&geo=CA&q=color%20analysis,pelvic%20floor&hl=en",
+      "status": "unavailable",
+      "rising_queries": null,
+      "top_queries": null,
+      "growth": null,
+      "data_sufficiency": "Unknown, not zero.",
+      "reason": "Official Explore URL was unavailable through the web tool; native Chrome interaction failed. No 30-day expansion or seasonal check possible through that interface. No unofficial endpoint or restriction bypass used."
+    },
+    {
+      "app": "pelvic_gym",
+      "seed": "pelvic floor",
+      "seed_type": "search term",
+      "country": "CA",
+      "category": "All categories",
+      "search_type": "Web Search",
+      "window": "Past 7 days requested",
+      "observed_between": [
+        "2026-11-10T18:01:52.684Z",
+        "2026-11-10T18:11:34.048681+00:00"
+      ],
+      "explore_url": "https://trends.google.com/trends/explore?date=now%207-d&geo=CA&q=color%20analysis,pelvic%20floor&hl=en",
+      "status": "unavailable",
+      "rising_queries": null,
+      "top_queries": null,
+      "growth": null,
+      "data_sufficiency": "Unknown, not zero.",
+      "reason": "Official Explore URL was unavailable through the web tool; native Chrome interaction failed. No 30-day expansion or seasonal check possible through that interface. No unofficial endpoint or restriction bypass used."
+    }
+  ],
+  "google_observations": {
+    "status": "unavailable",
+    "attempted_urls": [
+      "https://www.google.com/search?q=color+analysis+questions&hl=en",
+      "https://www.google.com/search?q=pelvic+floor+exercise+questions&hl=en"
+    ],
+    "people_also_ask": null,
+    "fallback": "Ordinary web-search results, explicitly not direct Google/PAA evidence or measured demand."
+  },
+  "quora_observations": {
+    "status": "blocked_by_robots",
+    "queries": [
+      "site:quora.com \"color analysis\" \"colors\"",
+      "site:quora.com \"pelvic floor\" \"exercise\""
+    ],
+    "selected": 0,
+    "note": "No login, bypass or invented question metrics."
+  },
+  "access_limits": [
+    "Native Chrome initially showed three current coloranalysis feed cards. Subsequent input had no effect and scroll failed with Computer Use server error -10005: noWindowsAvailable. No cause such as a locked desktop was established.",
+    "Official coloranalysis RSS returned HTTP 200 with 25 titles/timestamps. The next femalefashionadvice RSS request returned HTTP 429. The request sequence stopped immediately; no subsequent Reddit endpoint, proxy or alternate-browser requests.",
+    "Web-tool Reddit feed results were cached roughly two weeks earlier; excluded from current attention comparisons.",
+    "Google/PAA and official Trends inaccessible; Quora robots restriction respected.",
+    "Selected Stylist question was title-only evidence with unknown engagement; Pelvic question was indexed original text with unknown engagement. Neither was claimed to be the most popular.",
+    "One temporary native Chrome Reddit research tab could not be closed after inputs stopped working. Existing user tabs were preserved."
+  ],
+  "checked_sources": [
+    {
+      "url": "https://www.nhs.uk/conditions/urinary-incontinence/",
+      "checked": "2026-11-10",
+      "scope": "New menopause article section only; current primary clinical page read through web tool."
+    },
+    {
+      "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems/symptoms-causes",
+      "checked": "2026-11-10",
+      "scope": "New menopause article section only; current primary clinical page read through web tool."
+    }
+  ],
+  "illustrations": [],
+  "illustration_decision": "No new article URLs or images. Existing relevant covers and responsive variants retained for both updates. Storage is not a blocker.",
+  "additional_changes": [
+    "Contextual incoming links from the season-neutrals and urinary-urgency articles; their dates were not bumped for link-only changes.",
+    "Menopause CTA changed to the existing assessment variant to match the new care-seeking section.",
+    "Both original publication dates retained; templates, badges, Smart App Banners, analytics consent and city exclusion preserved."
+  ],
+  "review_status": "No clinician engaged, no clinical review claimed, and original bladder diary remains private.",
+  "measurement": "November 7 cohort checkpoint already completed. Next due November 14; no duplicate checkpoint, ranking or visitor claim today.",
+  "validation": {
+    "status": "passed",
+    "automated": "141 public pages validated; both analytics suites, JavaScript syntax checks, 34 city-guide checks, city duplicate audit and diff whitespace check passed.",
+    "protected_files_checked": 199,
+    "protected_changes": 0,
+    "original_publication_dates_checked": 127,
+    "capacity": {
+      "measurement": "Working files excluding Git/runtime/build caches; includes source and research files normally excluded by Jekyll, so this overestimates the static payload. Git object storage is measured separately.",
+      "working_file_bytes": 49273760,
+      "git_object_bytes": 82105344,
+      "published_site_limit_bytes": 1000000000,
+      "illustration_stop_threshold_bytes": 800000000,
+      "can_add_illustrations": true,
+      "remaining_to_site_limit_bytes": 950726240,
+      "reference": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
+    },
+    "layout": "Unavailable: native Chrome input controls failed. Existing approved templates retained; generated HTML, links, anchors, metadata, source citations and CTAs checked. No new desktop/mobile visual inspection claimed.",
+    "live": "pending"
+  },
+  "deployment": {
+    "status": "pending"
+  },
+  "notification": {
+    "channel": "existing_chat",
+    "telegram": "Destination remains pending; no Telegram message sent."
+  }
+}

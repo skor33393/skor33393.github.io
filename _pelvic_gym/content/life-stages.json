@@ -364,6 +364,11 @@
         "html": "<p>Make three short headings in your notes: leakage, urgency or frequency, and discomfort or dryness. Add examples under each that applies. You can also record what you have tried and whether it helped. The point is to avoid squeezing several different concerns into one vague phrase such as “bladder weakness.”</p><p>Lower estrogen can contribute to urinary urgency and recurrent urinary tract infections, according to the <a href=\"https://womenshealth.gov/menopause/menopause-and-your-health\">U.S. Office on Women’s Health</a>. A clinician can help decide what needs investigation and what treatment fits. Ask whether more than one issue might be contributing, particularly if a single approach has not helped.</p>"
       },
       {
+        "id": "asking-for-help",
+        "title": "How can I ask for help if I feel embarrassed or have never given birth?",
+        "html": "<p>You can have bladder leaks without having been pregnant or given birth. Childbirth is one possible contributor, not a requirement: <a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems/symptoms-causes\">NIDDK describes several possible causes and contributing factors</a>, including infections, constipation, medicines and changes around menopause. This list cannot identify your cause. New leakage should not automatically be put down to age or a weak pelvic floor.</p><p><a href=\"https://www.nhs.uk/conditions/urinary-incontinence/\">The NHS recommends seeing a GP for any type of urinary incontinence</a>. You do not need to wait until you can explain it confidently or until an exercise routine has failed. If saying it aloud feels difficult, write a short note and hand it over at the appointment.</p><p>Here is an example you can adapt: “I have started leaking urine, and it is affecting my day. I feel embarrassed discussing it. Could we talk through possible causes and the next step?” Add these details if you know them:</p><ul><li>When the change began and whether it is becoming more frequent.</li><li>Whether leaks follow a sudden urge, coughing or movement, or happen without warning.</li><li>Any pain, burning, blood, difficulty emptying, constipation or recent medicine changes.</li><li>One activity you want to do more comfortably.</li></ul><p>If you would be more comfortable with a female clinician, ask the practice whether that is available when booking. You can also ask the clinician to explain any proposed examination before you decide about it. Our <a href=\"/pelvic_gym/articles/find-pelvic-floor-physiotherapy/#consent\">appointment-comfort guide</a> offers practical questions about consent and support.</p><p>Seek immediate care if you cannot pass urine, and prompt medical advice for blood in urine or painful urination; <a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems/symptoms-causes\">NIDDK advises seeking care promptly for these signs</a>. Pelvic Gym can support guided strengthening when that fits an assessed plan. It cannot establish why leakage began or replace the first medical conversation.</p>"
+      },
+      {
         "id": "training",
         "title": "Where pelvic floor training can fit",
         "html": "<p>The pelvic floor helps support the pelvic organs and maintain bladder closure during activities such as coughing. Menopause and aging can contribute to reduced muscle function. <a href=\"https://www.cuh.nhs.uk/patient-information/pelvic-floor-exercises-in-women-frequently-asked-questions/\">Cambridge University Hospitals describes the role of pelvic floor exercises.</a></p><p>If strengthening is recommended, focus on a clear contraction, normal breathing and a complete release. Avoid clenching the buttocks, squeezing the legs together or holding your breath. A physiotherapist can help you check technique. <a href=\"https://www.cuh.nhs.uk/patient-information/pelvic-floor-exercises-in-women-frequently-asked-questions/\">See the CUH technique guidance.</a></p><p>Our <a href=\"/pelvic_gym/articles/how-to-do-kegel-exercises/\">step-by-step Kegel guide</a> explains the movement, and the <a href=\"/pelvic_gym/articles/how-often-to-do-kegels/\">frequency guide</a> explains why a manageable plan matters. If the exercise is painful or hard to release, seek advice before increasing it.</p>"
@@ -414,6 +419,14 @@
       {
         "title": "NHS: Postmenopausal bleeding",
         "url": "https://www.nhs.uk/symptoms/post-menopausal-bleeding/"
+      },
+      {
+        "title": "NIDDK: Symptoms and causes of bladder control problems",
+        "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems/symptoms-causes"
+      },
+      {
+        "title": "NHS: Urinary incontinence and seeking help",
+        "url": "https://www.nhs.uk/conditions/urinary-incontinence/"
       }
     ],
     "related": [
@@ -421,9 +434,12 @@
       "urinary-urgency-in-women",
       "pelvic-floor-therapy-what-to-expect"
     ],
-    "cta": "routine",
+    "cta": "assessment",
     "keyword": "pelvic floor exercises menopause",
-    "researchNote": "Researched 2026-10-24. Search intent: menopause, leaks and exercises. Distinguishes muscle training from GSM treatment; no hormone prescription or universal training claim. NICE NG23 is distinct from reserved NG123/NG210 sources."
+    "researchNote": "Researched 2026-10-24. Search intent: menopause, leaks and exercises. Distinguishes muscle training from GSM treatment; no hormone prescription or universal training claim. NICE NG23 is distinct from reserved NG123/NG210 sources.",
+    "datePublished": "2026-10-24",
+    "dateModified": "2026-11-10",
+    "sourceCheckNote": "Original sources were checked October 24, 2026. The section on asking for help with bladder leaks was checked against its linked NHS and NIDDK sources on November 10, 2026. The appointment wording is an editorial example; no independent clinical review is claimed."
   },
   {
     "slug": "pelvic-floor-relaxation",
