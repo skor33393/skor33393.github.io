@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "what-is-color-analysis",
+    "app": "stylist_ai",
+    "prompt": "Use case: illustration-story. Asset: original landscape 3:2 fashion journal illustration. Show a beginner comparing two plain fabric drapes beside a simple mirror: warm coral and muted blue, with a small fan of varied color swatches and an open blank notebook. Elegant hand-painted editorial style on warm ivory, restrained ink lines and soft tactile gouache, natural everyday scene, inclusive adult woman, thoughtful and relaxed. Clear fabric shapes and colors, no before/after promise. No writing, logos, numbers, device screens, medical imagery or celebrity likeness. Full bleed, all key objects comfortably within edges.",
+    "tool": "built-in image_gen",
+    "asset": "stylist_ai/blog/assets/illustrations/what-is-color-analysis.webp",
+    "width": 1200,
+    "height": 800,
+    "bytes": 131736,
+    "visual_inspection": "Generated images inspected: coherent subjects, no clinical exercise demonstration or claimed results; outfit translation is an original example. Layout check follows."
+  },
+  {
+    "slug": "soft-summer-celebrity-inspiration",
+    "app": "stylist_ai",
+    "prompt": "Use case: illustration-story. Asset: original landscape 3:2 fashion journal illustration explaining how to translate an inspiration outfit into everyday clothes. Two separate flat-lay outfits side by side on warm ivory: left a flowing dusty-blue evening dress with pewter shoes and a dusty-rose small bag; right a dusty-blue knit top with charcoal trousers, pewter flats and a dusty-rose scarf. Make corresponding color roles visually obvious. Refined gouache editorial style with fabric texture, crisp silhouettes, airy composition. No people, photographs, celebrities, text, logos, labels or device UI. This is a conceptual outfit example, not an advertisement.",
+    "tool": "built-in image_gen",
+    "asset": "stylist_ai/blog/assets/illustrations/soft-summer-celebrity-inspiration.webp",
+    "width": 1200,
+    "height": 800,
+    "bytes": 84086,
+    "visual_inspection": "Generated images inspected: coherent subjects, no clinical exercise demonstration or claimed results; outfit translation is an original example. Layout check follows."
+  },
+  {
+    "slug": "pelvic-floor-chair-therapy",
+    "app": "pelvic_gym",
+    "prompt": "Use case: illustration-story. Asset: original landscape 3:2 patient-education journal illustration. An adult woman in everyday clothes having a calm consultation with a female clinician at a small table, a generic rounded upholstered treatment chair visible off to one side. The woman holds a blank checklist; clinician points to the paper, not to the woman's body. Warm ivory, muted coral and sage, sophisticated flat gouache, friendly clear forms. No anatomy, electrical waves, medical procedures, device brand, readable text, badges, cure imagery or before/after. Distinguish conversation chairs from treatment chair through design; treatment chair is background context only.",
+    "tool": "built-in image_gen",
+    "asset": "pelvic_gym/assets/illustrations/pelvic-floor-chair-therapy.webp",
+    "width": 1200,
+    "height": 800,
+    "bytes": 68394,
+    "visual_inspection": "Generated images inspected: coherent subjects, no clinical exercise demonstration or claimed results; outfit translation is an original example. Layout check follows."
+  },
+  {
+    "slug": "diastasis-recti-and-pelvic-floor",
+    "app": "pelvic_gym",
+    "prompt": "Use case: illustration-story. Asset: original landscape 3:2 postpartum recovery journal illustration. An adult postpartum woman fully dressed in comfortable loose clothing at a physiotherapy consultation, standing naturally beside a clinician and discussing a blank movement-plan sheet. A baby stroller is discreetly in the background, a folded exercise mat nearby. Warm ivory backdrop, sage, dusty coral and blue, polished hand-painted editorial gouache. Focus on an individual recovery conversation rather than body shape. No bare abdomen, anatomy diagram, measuring tape, exercise demonstration, text, branding, slimming or before/after. Spacious composition.",
+    "tool": "built-in image_gen",
+    "asset": "pelvic_gym/assets/illustrations/diastasis-recti-and-pelvic-floor.webp",
+    "width": 1200,
+    "height": 800,
+    "bytes": 107998,
+    "visual_inspection": "Generated images inspected: coherent subjects, no clinical exercise demonstration or claimed results; outfit translation is an original example. Layout check follows."
+  }
+]

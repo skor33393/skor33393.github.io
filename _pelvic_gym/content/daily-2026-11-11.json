@@ -1,0 +1,161 @@
+[
+  {
+    "slug": "pelvic-floor-chair-therapy",
+    "title": "Does pelvic floor chair therapy work for bladder leaks?",
+    "seoTitle": "Does pelvic floor chair therapy work for bladder leaks?",
+    "description": "Understand magnetic pelvic floor chair claims, how they differ from exercise and biofeedback, and what to ask before paying for treatment.",
+    "category": "Getting started",
+    "excerpt": "Check the diagnosis, treatment evidence and full plan before choosing a chair-treatment package.",
+    "quickAnswer": "A pelvic floor treatment chair is not an automatic substitute for assessment or supervised muscle training. Evidence depends on the device and the condition. European urology guidance recommends electromagnetic stimulation for stress urinary incontinence only within a regulated, closely monitored research study. Ask a clinician which treatment fits your symptoms before booking.",
+    "takeaways": [
+      "A magnetic chair, an electrical stimulator and a feedback sensor are different tools.",
+      "A count of induced contractions does not establish symptom relief.",
+      "Ask about evidence for your condition and the exact device before committing to a package."
+    ],
+    "sections": [
+      {
+        "id": "identify",
+        "title": "What kind of chair is being offered?",
+        "html": "<p>“Pelvic floor chair” is a marketing description, so ask for the device's name and how it works. <a href=\"https://uroweb.org/guidelines/non-neurogenic-female-luts/chapter/disease-management\">The European Association of Urology describes extracorporeal magnetic stimulation</a> as using a device to stimulate motor nerve fibers and produce repeated pelvic floor contraction and relaxation.</p><p>That differs from a sensor that displays a muscle-related signal while you exercise, and from electrical stimulation delivered through electrodes. A study about one approach does not automatically support another. Our <a href=\"/pelvic_gym/articles/kegel-weights-and-trainers/\">trainer comparison</a> explains these other categories.</p>"
+      },
+      {
+        "id": "evidence",
+        "title": "What does the evidence establish?",
+        "html": "<p>For <strong>stress urinary incontinence</strong>—leakage associated with effort, coughing or similar triggers—the <a href=\"https://uroweb.org/guidelines/non-neurogenic-female-luts/chapter/disease-management\">EAU guideline's electromagnetic-stimulation recommendation</a> limits treatment to a well-regulated, closely monitored research study. Its evidence summary reports no advantage over a sham procedure for the evidence considered. This is not a statement that every chair has been tested or that all bladder symptoms are the same.</p><p>A clinic's proposed treatment deserves an explanation of how it fits current guidance. Ask for research on the exact treatment and your diagnosed problem, including the comparison group, follow-up period and outcome measured. Testimonials and a claim about thousands of contractions do not answer those questions.</p>"
+      },
+      {
+        "id": "compare",
+        "title": "Compare complete care plans, not contraction counts",
+        "html": "<p><a href=\"https://www.nhs.uk/conditions/urinary-incontinence/treatment/\">NHS treatment guidance</a> describes supervised pelvic floor training for stress or mixed incontinence, commonly over at least three months, and bladder training for urgency-related problems. Assessment helps decide which approach is appropriate.</p><p>Before comparing prices, ask what you are buying besides time in a chair. Does the service assess the problem, explain alternatives, check suitability and arrange follow-up? What happens if symptoms persist? Do not substitute stronger contractions for assessment when you have pain, tension or difficulty emptying.</p><table><thead><tr><th>Ask the service</th><th>What to write down</th></tr></thead><tbody><tr><td>What condition are we treating?</td><td>The diagnosis and why this treatment is proposed.</td></tr><tr><td>What supports this device for that condition?</td><td>A study or guideline, and the provider's explanation of its limits.</td></tr><tr><td>What alternatives should I consider?</td><td>The assessment, supervised rehabilitation or other care offered.</td></tr><tr><td>What is the full cost?</td><td>Initial visits, sessions, reassessment and any proposed maintenance.</td></tr><tr><td>How will we decide whether it helped?</td><td>A symptom or daily activity to review, plus a review date.</td></tr></tbody></table>"
+      },
+      {
+        "id": "decision-example",
+        "title": "An example of a useful booking decision",
+        "html": "<p>Imagine that your goal is to walk to work without leaking. An advertisement emphasizes a high contraction count, but your question is whether the proposed care improves that daily problem and whether you are a suitable candidate.</p><p>You could ask: “Before I book the package, can we confirm the type of leakage and compare this with supervised rehabilitation? What change would you expect us to review, and what is the plan if I do not improve?” This question script is an editorial resource, not a treatment recommendation.</p><p>Ask the provider to review the exact device's restrictions against your history, including pregnancy, implanted devices and recent procedures. Do not infer suitability from the fact that treatment is advertised as non-invasive. If the answers remain unclear, seek an independent clinical assessment before paying.</p>"
+      },
+      {
+        "id": "app-role",
+        "title": "Where does a Kegel app fit?",
+        "html": "<p>Pelvic Gym provides guided strengthening workouts when strengthening fits an individual care plan. It does not stimulate or measure your muscles, diagnose the cause of leakage, or replace a supervised assessment.</p><p>If strengthening is recommended, use the app to support that routine rather than adding its workouts to every other treatment automatically. Discuss the combined plan with your clinician. Our <a href=\"/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/\">first physiotherapy appointment guide</a> can help you prepare.</p>"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is a magnetic chair the same as biofeedback?",
+        "answer": "No. Stimulation and feedback are different functions. Ask what the exact device does rather than relying on the broad label “pelvic floor trainer.”"
+      },
+      {
+        "question": "Does a higher number of contractions mean better results?",
+        "answer": "No. The meaningful question is whether an appropriately studied treatment improves your symptoms and activities. A contraction count does not establish that outcome."
+      }
+    ],
+    "sources": [
+      {
+        "title": "EAU: Female lower urinary tract symptoms, disease management",
+        "url": "https://uroweb.org/guidelines/non-neurogenic-female-luts/chapter/disease-management"
+      },
+      {
+        "title": "NHS: Treatment for urinary incontinence",
+        "url": "https://www.nhs.uk/conditions/urinary-incontinence/treatment/"
+      }
+    ],
+    "related": [
+      "kegel-weights-and-trainers",
+      "kegel-app-vs-biofeedback-trainer",
+      "pelvic-floor-therapy-what-to-expect"
+    ],
+    "cta": "assessment",
+    "keyword": "Does pelvic floor chair therapy work for bladder leaks?",
+    "datePublished": "2026-11-11",
+    "dateModified": "2026-11-11",
+    "sourcesChecked": "2026-11-11",
+    "illustration": {
+      "src": "/pelvic_gym/assets/illustrations/pelvic-floor-chair-therapy.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "Editorial illustration of a woman discussing a checklist with a clinician, with a generic treatment chair in the background."
+    }
+  },
+  {
+    "slug": "diastasis-recti-and-pelvic-floor",
+    "title": "Can pelvic floor exercises help diastasis recti?",
+    "seoTitle": "Can pelvic floor exercises help diastasis recti?",
+    "description": "Understand abdominal separation after pregnancy, the role of pelvic floor and abdominal exercises, and questions to take to a recovery assessment.",
+    "category": "Life stages",
+    "excerpt": "An abdominal gap and pelvic floor symptoms need a coordinated plan; a Kegel routine alone is not a complete recovery programme.",
+    "quickAnswer": "Pelvic floor exercises can be one part of recovery, but diastasis recti concerns the abdominal wall. The NHS describes pelvic floor and deep abdominal exercises together as potentially helpful. Get an individual assessment for an ongoing gap, pain or difficulty with daily tasks instead of assuming that more Kegels will solve the problem.",
+    "takeaways": [
+      "Abdominal separation and pelvic floor weakness are different findings.",
+      "Discuss how movement feels as well as the size of the gap.",
+      "A guided Kegel app cannot assess the abdominal wall or supply a full diastasis rehabilitation plan."
+    ],
+    "sections": [
+      {
+        "id": "different-muscles",
+        "title": "What is diastasis recti?",
+        "html": "<p>Diastasis recti is separation of the paired rectus abdominis muscles at the front of the abdomen. <a href=\"https://www.nhs.uk/baby/support-and-services/your-post-pregnancy-body/\">The NHS explains that this commonly develops during pregnancy</a> as the growing uterus stretches the abdominal area.</p><p>A pelvic floor exercise targets a different muscle group. Having an abdominal gap does not, by itself, tell you how well your pelvic floor contracts or relaxes. Tell your clinician about leakage, heaviness, pain or emptying difficulties separately rather than treating the gap as an explanation for every symptom.</p>"
+      },
+      {
+        "id": "exercise-role",
+        "title": "Why are both kinds of exercise discussed?",
+        "html": "<p><a href=\"https://www.nhs.uk/baby/support-and-services/your-post-pregnancy-body/\">NHS post-pregnancy guidance</a> includes pelvic floor and deep abdominal exercises as parts of recovery that may help reduce separation. That is broader than a programme consisting only of repeated Kegels.</p><p><a href=\"https://my.clevelandclinic.org/health/diseases/22346-diastasis-recti\">Cleveland Clinic recommends working with a physiotherapist experienced in diastasis recti</a> to choose movements, check technique and progress appropriately. A useful plan should explain the purpose of each exercise and how it relates to the activity you want to regain.</p><p>For example, ask which practice is intended for bladder control, which is intended for abdominal function, and how to coordinate them. If pelvic floor contractions are painful or you struggle to release, discuss that before adding strengthening.</p>"
+      },
+      {
+        "id": "assessment",
+        "title": "What should I take to the appointment?",
+        "html": "<p>Bring your birth and recovery history, current exercise instructions and one or two ordinary tasks that are difficult. You do not need a polished description or a particular gap measurement to ask for help.</p><table><thead><tr><th>Observation</th><th>Question to discuss</th></tr></thead><tbody><tr><td>Doming during a particular movement</td><td>Can you check how I do this movement and show an appropriate version?</td></tr><tr><td>Discomfort carrying a laundry basket</td><td>What should change in the task while we work on recovery?</td></tr><tr><td>Leaks or pelvic pressure alongside abdominal concerns</td><td>Do these symptoms need a separate assessment within the plan?</td></tr><tr><td>Several conflicting online routines</td><td>Which instructions should I follow now, and which should I set aside?</td></tr></tbody></table><p>This is a conversation checklist, not a diagnostic test. A photo, a finger-width estimate and an exercise app cannot replace an examination of what is happening during your own movement.</p>"
+      },
+      {
+        "id": "timing",
+        "title": "When should I ask for help?",
+        "html": "<p><a href=\"https://www.nhs.uk/baby/support-and-services/your-post-pregnancy-body/\">The NHS advises contacting a GP if an abdominal gap remains obvious eight weeks after birth</a>, and seeking help at any time for physical problems that bother you. Eight weeks is a prompt for review, not a deadline by which everyone must recover.</p><p>Do not assume persistent abdominal pain is caused by separation. Use the <a href=\"/pelvic_gym/articles/postpartum-pelvic-floor-recovery/#persistent-abdominal-pain\">postpartum guide's advice on recurrent pain</a> and its urgent warning signs. Seek care sooner for concerning symptoms rather than waiting for an exercise trial to end.</p><p>At a later stage, you can still ask for an assessment. Explain what remains difficult now instead of judging your situation against someone else's early postpartum photos.</p>"
+      },
+      {
+        "id": "progress",
+        "title": "Agree what progress means for you",
+        "html": "<p>A practical review might include carrying your usual shopping more comfortably or getting through a chosen daily activity with better control. Ask your clinician which observations and measurements are useful for your case, how often to review them and what should trigger an earlier call.</p><p>Keep a short record of the plan you actually followed and the task you wanted to improve. For instance: “I practiced the prescribed movement, but standing up while holding the baby still feels difficult.” That gives the clinician a specific problem to reassess. It is more useful than silently increasing repetitions because a mirror image looks unchanged.</p><p>Avoid turning recovery into a requirement to achieve a flat abdomen. The exercise decision should serve function, comfort and your own priorities.</p>"
+      },
+      {
+        "id": "app-role",
+        "title": "Can Pelvic Gym be part of the plan?",
+        "html": "<p>If your clinician includes pelvic floor strengthening, Pelvic Gym can support that part with guided workouts. Keep the abdominal exercises and any restrictions from your clinician alongside it. The app does not measure separation, assess doming or replace an individual abdominal rehabilitation programme.</p><p>For broader recovery questions, read our <a href=\"/pelvic_gym/articles/postpartum-pelvic-floor-recovery/\">postpartum guide</a>. For help finding a suitable service, use the <a href=\"/pelvic_gym/articles/find-pelvic-floor-physiotherapy/\">pelvic health physiotherapy checklist</a>.</p>"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are Kegels alone a complete diastasis recti programme?",
+        "answer": "No. A pelvic floor routine does not assess or train every part of abdominal recovery. Ask for a plan that addresses your abdominal function and any pelvic floor symptoms."
+      },
+      {
+        "question": "Do I need to wait eight weeks before asking for help?",
+        "answer": "No. Ask for help whenever a physical problem bothers you. The NHS eight-week advice is a reason to review a persistent gap, not a rule to delay care."
+      }
+    ],
+    "sources": [
+      {
+        "title": "NHS: Your post-pregnancy body",
+        "url": "https://www.nhs.uk/baby/support-and-services/your-post-pregnancy-body/"
+      },
+      {
+        "title": "Cleveland Clinic: Diastasis recti",
+        "url": "https://my.clevelandclinic.org/health/diseases/22346-diastasis-recti"
+      }
+    ],
+    "related": [
+      "postpartum-pelvic-floor-recovery",
+      "pelvic-floor-exercises-after-c-section",
+      "find-pelvic-floor-physiotherapy"
+    ],
+    "cta": "assessment",
+    "keyword": "Can pelvic floor exercises help diastasis recti?",
+    "datePublished": "2026-11-11",
+    "dateModified": "2026-11-11",
+    "sourcesChecked": "2026-11-11",
+    "illustration": {
+      "src": "/pelvic_gym/assets/illustrations/diastasis-recti-and-pelvic-floor.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "Editorial illustration of a fully dressed postpartum woman discussing a movement plan with a physiotherapist beside a stroller and folded mat."
+    }
+  }
+]

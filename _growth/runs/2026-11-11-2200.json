@@ -1,0 +1,1063 @@
+{
+  "run_id": "2026-11-11-2200",
+  "kind": "scheduled",
+  "status": "publication_prepared",
+  "started_at": "2026-11-11T17:58:28.689Z",
+  "timezone": "Asia/Dubai",
+  "scheduled_local": "2026-11-11T22:00:00+04:00",
+  "research_finished_at": "2026-11-11T18:21:19.866866+00:00",
+  "scan_completed_at": null,
+  "scan_status": "partial_access_limited",
+  "next_scan_watermark": "2026-11-09T18:00:45.494Z",
+  "watermark_note": "Retain November 9 question-scan watermark because Reddit/Quora access remained incomplete; daily ledgers prevent duplicate publication.",
+  "windows": {
+    "primary_start": "2026-11-09T18:00:45.494Z",
+    "primary_end": "2026-11-11T17:58:28.689Z",
+    "expanded": [
+      "Past 7 days official Trends US/CA",
+      "Past 30 days official Trends CA for sparse data"
+    ],
+    "question_dates": "Google PAA dates unknown; observed today, not described as newly posted."
+  },
+  "selected": [
+    {
+      "app": "stylist_ai",
+      "slug": "what-is-color-analysis",
+      "question": "How does a color analysis work?",
+      "question_url": "https://www.google.com/search?q=what+is+color+analysis&hl=en",
+      "platform": "Google search / People also ask",
+      "question_wording": "Exact observed People also ask question; article title expanded editorially.",
+      "posted_at": null,
+      "observed_between": [
+        "2026-11-11T17:58:28.689Z",
+        "2026-11-11T18:21:19.866866+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "views": null,
+      "outcome": "new",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/what-is-color-analysis/",
+      "section": null,
+      "reason": "US seven-day Top related query what is color analysis scored 100, with actual Google PAA corroboration. No general introduction currently exists. Top score is not search volume.",
+      "trend": null,
+      "brief": {
+        "reader_decision": "Choose a first color-comparison method and apply its result to one outfit.",
+        "overlap_decision": "Distinct beginner overview; detailed photo setup and paid-service comparison remain on their existing pages.",
+        "original_resource": "Three-term comparison table, method-choice table and charcoal-trousers/two-tops worked example.",
+        "app_role": "Suggested seasonal profile, palette and combinations applied to existing clothes."
+      }
+    },
+    {
+      "app": "stylist_ai",
+      "slug": "soft-summer-celebrity-inspiration",
+      "question": "Can Soft Summer celebrities help you choose your colors?",
+      "question_url": "https://www.google.com/search?q=soft+summer+celebrities&hl=en",
+      "platform": "Google search / People also ask",
+      "question_wording": "Editorial question from observed query and PAA Who are the famous soft summers? / Who looks good in soft Summer colors?.",
+      "posted_at": null,
+      "observed_between": [
+        "2026-11-11T17:58:28.689Z",
+        "2026-11-11T18:21:19.866866+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "views": null,
+      "outcome": "new",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/soft-summer-celebrity-inspiration/",
+      "section": null,
+      "reason": "US Past 7 days soft summer celebrities +200%, corroborated by actual Google lists and PAA. Useful distinct task beyond identifying personal season.",
+      "trend": {
+        "query": "soft summer celebrities",
+        "country": "US",
+        "window": "Past 7 days",
+        "growth": "+200%",
+        "qualification": "Useful recent rising-query lead corroborated by actual Google intent; no absolute volume measured."
+      },
+      "brief": {
+        "reader_decision": "Decide what to borrow from a celebrity outfit without treating an unverified label as a personal test.",
+        "overlap_decision": "Existing seasonal comparison pages do not address celebrity-label provenance and translating an inspiration outfit.",
+        "original_resource": "Original illustration and table translating a dusty-blue evening outfit into weekday clothes.",
+        "app_role": "Use suggested combinations for the reader’s own wardrobe; no celebrity-season verification."
+      }
+    },
+    {
+      "app": "pelvic_gym",
+      "slug": "pelvic-floor-chair-therapy",
+      "question": "Does a pelvic floor chair work?",
+      "question_url": "https://www.google.com/search?q=pelvic+floor+chair+therapy&hl=en",
+      "platform": "Google search / People also ask",
+      "question_wording": "Exact observed People also ask question; title narrowed to bladder leakage.",
+      "posted_at": null,
+      "observed_between": [
+        "2026-11-11T17:58:28.689Z",
+        "2026-11-11T18:21:19.866866+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "views": null,
+      "outcome": "new",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-chair-therapy/",
+      "section": null,
+      "reason": "Canada seven-day chair query had Breakout, but sparse-data concerns prevent treating it as a qualified demand surge. Actual Google PAA independently establishes the question.",
+      "trend": {
+        "query": "pelvic floor chair therapy near me",
+        "country": "CA",
+        "window": "Past 7 days",
+        "growth": "Breakout",
+        "qualification": "Discovery only; insufficient regional data to claim a meaningful recent rise. Selected on corroborated question and distinct reader value."
+      },
+      "brief": {
+        "reader_decision": "Ask informed questions before paying for magnetic chair therapy for leaks.",
+        "overlap_decision": "Existing home weights and biofeedback guide does not explain chair-based electromagnetic evidence; create distinct treatment-booking guide with cross-link.",
+        "original_resource": "Five-question booking checklist and walking-to-work goal example, supported by current EAU guidance.",
+        "app_role": "Guided strengthening only within a suitable assessed plan; app is not stimulation, biofeedback or diagnosis."
+      }
+    },
+    {
+      "app": "pelvic_gym",
+      "slug": "diastasis-recti-and-pelvic-floor",
+      "question": "Do pelvic floor exercises work for diastasis recti?",
+      "question_url": "https://www.google.com/search?q=diastasis+recti+pelvic+floor&hl=en",
+      "platform": "Google search / People also ask",
+      "question_wording": "Exact observed People also ask question; article title paraphrased.",
+      "posted_at": null,
+      "observed_between": [
+        "2026-11-11T17:58:28.689Z",
+        "2026-11-11T18:21:19.866866+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "views": null,
+      "outcome": "new",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/diastasis-recti-and-pelvic-floor/",
+      "section": null,
+      "reason": "Canada 30-day related query diastasis recti had Breakout, with sparse/noisy regional data. Actual Google PAA corroborates a distinct recovery decision.",
+      "trend": {
+        "query": "diastasis recti",
+        "country": "CA",
+        "window": "Past 30 days",
+        "growth": "Breakout",
+        "qualification": "Discovery only, not a verified meaningful recent surge; regional data limitations."
+      },
+      "brief": {
+        "reader_decision": "Understand why an abdominal recovery plan is broader than Kegels and prepare for assessment.",
+        "overlap_decision": "Postpartum guide covers persistent pain but not abdominal separation and coordinated abdominal/pelvic rehabilitation.",
+        "original_resource": "Four-row appointment checklist and a daily-task progress example.",
+        "app_role": "Supports an assessed strengthening component only; cannot assess or treat abdominal separation as a complete programme."
+      }
+    },
+    {
+      "app": "pelvic_gym",
+      "slug": "pelvic-floor-exercises-during-pregnancy",
+      "question": "Is perineal massage the same as pelvic floor exercise?",
+      "question_url": "https://www.google.com/search?q=perineal+massage+pelvic+floor+exercises&hl=en",
+      "platform": "Google search / People also ask",
+      "question_wording": "Editorially phrased from observed related-query topic and PAA Is 37 weeks too late for a perineal massage? / Can perineal massage help with a tight pelvic floor?.",
+      "posted_at": null,
+      "observed_between": [
+        "2026-11-11T17:58:28.689Z",
+        "2026-11-11T18:21:19.866866+00:00"
+      ],
+      "votes": null,
+      "comments": null,
+      "views": null,
+      "outcome": "updated",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-exercises-during-pregnancy/",
+      "section": "perineal-massage",
+      "reason": "Google questions expose confusion between birth preparation and muscle training. Extend existing pregnancy guide instead of a competing page.",
+      "trend": {
+        "query": "perineal massage",
+        "country": "CA",
+        "window": "Past 30 days",
+        "growth": "Breakout",
+        "qualification": "Discovery only; insufficient regional data to characterize a useful recent rise."
+      },
+      "brief": {
+        "reader_decision": "Clarify purpose, timing and suitability with the maternity team.",
+        "overlap_decision": "Substantive pregnancy-guide section; original publication date retained.",
+        "original_resource": "Four-situation maternity question table and a conversation opener.",
+        "app_role": "Strengthening only if suitable; app does not teach perineal massage."
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "query": "How does a color analysis work?",
+      "decision": "new",
+      "reason": "US seven-day Top related query what is color analysis scored 100, with actual Google PAA corroboration. No general introduction currently exists. Top score is not search volume.",
+      "destination": "https://bestme.mobi/stylist_ai/blog/what-is-color-analysis/"
+    },
+    {
+      "query": "Can Soft Summer celebrities help you choose your colors?",
+      "decision": "new",
+      "reason": "US Past 7 days soft summer celebrities +200%, corroborated by actual Google lists and PAA. Useful distinct task beyond identifying personal season.",
+      "destination": "https://bestme.mobi/stylist_ai/blog/soft-summer-celebrity-inspiration/"
+    },
+    {
+      "query": "Does a pelvic floor chair work?",
+      "decision": "new",
+      "reason": "Canada seven-day chair query had Breakout, but sparse-data concerns prevent treating it as a qualified demand surge. Actual Google PAA independently establishes the question.",
+      "destination": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-chair-therapy/"
+    },
+    {
+      "query": "Do pelvic floor exercises work for diastasis recti?",
+      "decision": "new",
+      "reason": "Canada 30-day related query diastasis recti had Breakout, with sparse/noisy regional data. Actual Google PAA corroborates a distinct recovery decision.",
+      "destination": "https://bestme.mobi/pelvic_gym/articles/diastasis-recti-and-pelvic-floor/"
+    },
+    {
+      "query": "Is perineal massage the same as pelvic floor exercise?",
+      "decision": "updated",
+      "reason": "Google questions expose confusion between birth preparation and muscle training. Extend existing pregnancy guide instead of a competing page.",
+      "destination": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-exercises-during-pregnancy/"
+    },
+    {
+      "query": "diy color analysis",
+      "destination": "color-analysis-photo-lighting",
+      "decision": "skip",
+      "reason": "Existing guide already covers household drapes, controlled repeats, cosmetics and digital comparisons; no material new gap.",
+      "posted_at": null,
+      "votes": null,
+      "comments": null
+    },
+    {
+      "query": "Is it worth getting a color analysis?",
+      "destination": "is-professional-color-analysis-worth-it",
+      "decision": "skip",
+      "reason": "Existing comprehensive service comparison and booking worksheet; no current new evidence requiring an update.",
+      "posted_at": null,
+      "votes": null,
+      "comments": null
+    },
+    {
+      "query": "Is there a free way to analyze my color palette?",
+      "destination": "color-analysis-photo-lighting",
+      "decision": "skip",
+      "reason": "Existing low-cost household-fabric method; first-step explanation also covered in today’s introduction.",
+      "posted_at": null,
+      "votes": null,
+      "comments": null
+    },
+    {
+      "query": "soft summer color palette",
+      "destination": "soft-summer-or-soft-autumn",
+      "decision": "skip",
+      "reason": "Existing seasonal comparison, green and palette-preference articles cover the practical decisions; avoid thin additional season page.",
+      "posted_at": null,
+      "votes": null,
+      "comments": null
+    },
+    {
+      "query": "deep autumn color palette",
+      "destination": "deep-autumn-outfit-ideas",
+      "decision": "skip",
+      "reason": "Existing worked outfit guide covers the task.",
+      "posted_at": null,
+      "votes": null,
+      "comments": null
+    },
+    {
+      "query": "in person color analysis near me / nashville / vancouver",
+      "destination": null,
+      "decision": "skip",
+      "reason": "Local-service navigation; city work is separate from daily questions, no new verified local decision selected.",
+      "posted_at": null,
+      "votes": null,
+      "comments": null
+    },
+    {
+      "query": "carol brailey color analysis / color analysis pro",
+      "destination": null,
+      "decision": "skip",
+      "reason": "Provider/competitor navigation, no independent useful gap.",
+      "posted_at": null,
+      "votes": null,
+      "comments": null
+    },
+    {
+      "query": "How can a woman strengthen her pelvic floor fast?",
+      "destination": "how-long-do-kegels-take-to-work",
+      "decision": "skip",
+      "reason": "Existing timeline, progress and no-improvement guidance; do not invent fast-result promise.",
+      "posted_at": null,
+      "votes": null,
+      "comments": null
+    },
+    {
+      "query": "How do you tell if your pelvic floor is weak?",
+      "destination": "tight-vs-weak-pelvic-floor",
+      "decision": "skip",
+      "reason": "Existing guide already explains assessment and symptoms not establishing a diagnosis.",
+      "posted_at": null,
+      "votes": null,
+      "comments": null
+    },
+    {
+      "query": "Does squeezing buttocks help the pelvic floor?",
+      "destination": "kegel-exercise-mistakes",
+      "decision": "skip",
+      "reason": "Existing other-muscles section covers the technique error.",
+      "posted_at": null,
+      "votes": null,
+      "comments": null
+    },
+    {
+      "query": "what does pelvic floor therapy entail",
+      "destination": "pelvic-floor-therapy-what-to-expect",
+      "decision": "skip",
+      "reason": "Existing extensive first-appointment, consent, external assessment and home-plan sections.",
+      "posted_at": null,
+      "votes": null,
+      "comments": null
+    },
+    {
+      "query": "heds",
+      "destination": "yoga-pilates-and-pelvic-floor",
+      "decision": "skip",
+      "reason": "Ambiguous broad medical association; existing hypermobility section, no fresh distinct question verified.",
+      "posted_at": null,
+      "votes": null,
+      "comments": null
+    },
+    {
+      "query": "pelvic inflammatory disease",
+      "destination": null,
+      "decision": "skip",
+      "reason": "Not interchangeable with a pelvic floor muscle disorder; reject association.",
+      "posted_at": null,
+      "votes": null,
+      "comments": null
+    },
+    {
+      "query": "best time to visit maldives / instant pot / Gen Z favorite color",
+      "destination": null,
+      "decision": "skip",
+      "reason": "Off-topic or no relevant app-specific reader decision.",
+      "posted_at": null,
+      "votes": null,
+      "comments": null
+    }
+  ],
+  "outcomes": {
+    "stylist_ai": {
+      "target": 5,
+      "new": 2,
+      "updated": 0,
+      "shortfall": 3
+    },
+    "pelvic_gym": {
+      "target": 5,
+      "new": 2,
+      "updated": 1,
+      "shortfall": 2
+    }
+  },
+  "shortfall_reason": "Remaining observed questions substantially overlap existing useful answers. Reddit remained blocked after the preceding rate-limit stop and Quora was robots-restricted; no filler, invented attention or near-duplicates.",
+  "google_trends": [
+    {
+      "app": "stylist_ai",
+      "seed": "color analysis",
+      "seed_type": "search term",
+      "country": "US",
+      "category": "All categories",
+      "search_type": "Web Search",
+      "window": "Past 7 days",
+      "comparison_window": null,
+      "observed_between": [
+        "2026-11-11T17:58:28.689Z",
+        "2026-11-11T18:21:19.866866+00:00"
+      ],
+      "explore_url": "https://trends.google.com/trends/explore?date=now%207-d&geo=US&q=color%20analysis,pelvic%20floor&hl=en",
+      "status": "observed",
+      "rising_queries": [
+        {
+          "query": "in person color analysis near me",
+          "growth": "+350%"
+        },
+        {
+          "query": "color analysis nashville",
+          "growth": "+300%"
+        },
+        {
+          "query": "soft summer celebrities",
+          "growth": "+200%"
+        },
+        {
+          "query": "diy color analysis",
+          "growth": "+160%"
+        },
+        {
+          "query": "carol brailey color analysis",
+          "growth": "+150%"
+        }
+      ],
+      "top_queries": [
+        {
+          "query": "what is color analysis",
+          "score": 100
+        },
+        {
+          "query": "color analysis palette",
+          "score": 72
+        },
+        {
+          "query": "color palette",
+          "score": 72
+        },
+        {
+          "query": "color analysis near me",
+          "score": 64
+        },
+        {
+          "query": "color season analysis",
+          "score": 44
+        }
+      ],
+      "visible_rows": "First five rows in each panel",
+      "total_rows_reported": {
+        "rising": 13,
+        "top": 25
+      },
+      "data_sufficiency": "Most hourly points nonzero, with intermittent zeros. No absolute volume available."
+    },
+    {
+      "app": "pelvic_gym",
+      "seed": "pelvic floor",
+      "seed_type": "search term",
+      "country": "US",
+      "category": "All categories",
+      "search_type": "Web Search",
+      "window": "Past 7 days",
+      "comparison_window": null,
+      "observed_between": [
+        "2026-11-11T17:58:28.689Z",
+        "2026-11-11T18:21:19.866866+00:00"
+      ],
+      "explore_url": "https://trends.google.com/trends/explore?date=now%207-d&geo=US&q=color%20analysis,pelvic%20floor&hl=en",
+      "status": "observed",
+      "rising_queries": [
+        {
+          "query": "how to strengthen pelvic floor female",
+          "growth": "+120%"
+        },
+        {
+          "query": "heds",
+          "growth": "+100%"
+        },
+        {
+          "query": "best time to visit maldives",
+          "growth": "+100%"
+        },
+        {
+          "query": "how to tell if pelvic floor is tight or weak",
+          "growth": "+70%"
+        },
+        {
+          "query": "what does pelvic floor therapy entail",
+          "growth": "+70%"
+        }
+      ],
+      "top_queries": [
+        {
+          "query": "pelvic floor therapy",
+          "score": 100
+        },
+        {
+          "query": "pelvic floor exercises",
+          "score": 52
+        },
+        {
+          "query": "physical therapy pelvic floor",
+          "score": 36
+        },
+        {
+          "query": "pelvic floor dysfunction",
+          "score": 34
+        },
+        {
+          "query": "pelvic pain",
+          "score": 28
+        }
+      ],
+      "visible_rows": "First five rows in each panel",
+      "total_rows_reported": {
+        "rising": 12,
+        "top": 25
+      },
+      "data_sufficiency": "Nonzero interest observed. Off-topic association rejected; remaining high-relevance rising intents already covered."
+    },
+    {
+      "app": "stylist_ai",
+      "seed": "color analysis",
+      "seed_type": "search term",
+      "country": "CA",
+      "category": "All categories",
+      "search_type": "Web Search",
+      "window": "Past 7 days",
+      "comparison_window": null,
+      "observed_between": [
+        "2026-11-11T17:58:28.689Z",
+        "2026-11-11T18:21:19.866866+00:00"
+      ],
+      "explore_url": "https://trends.google.com/trends/explore?date=now%207-d&geo=CA&q=color%20analysis,pelvic%20floor&hl=en",
+      "status": "observed",
+      "rising_queries": [
+        {
+          "query": "color analysis vancouver",
+          "growth": "+250%"
+        },
+        {
+          "query": "soft summer color palette",
+          "growth": "+180%"
+        },
+        {
+          "query": "deep autumn color palette",
+          "growth": "+130%"
+        },
+        {
+          "query": "color analysis test free",
+          "growth": "+110%"
+        },
+        {
+          "query": "color analysis near me",
+          "growth": "+100%"
+        }
+      ],
+      "top_queries": [
+        {
+          "query": "color palette analysis",
+          "score": 100
+        },
+        {
+          "query": "colour analysis",
+          "score": 77
+        },
+        {
+          "query": "color analysis near me",
+          "score": 40
+        },
+        {
+          "query": "color analysis vancouver",
+          "score": 29
+        },
+        {
+          "query": "seasonal color analysis",
+          "score": 25
+        }
+      ],
+      "visible_rows": "First five rows in each panel",
+      "total_rows_reported": {
+        "rising": 7,
+        "top": 13
+      },
+      "data_sufficiency": "Hourly series mostly zeros; insufficient data to establish strong growth. Expanded to 30 days."
+    },
+    {
+      "app": "pelvic_gym",
+      "seed": "pelvic floor",
+      "seed_type": "search term",
+      "country": "CA",
+      "category": "All categories",
+      "search_type": "Web Search",
+      "window": "Past 7 days",
+      "comparison_window": null,
+      "observed_between": [
+        "2026-11-11T17:58:28.689Z",
+        "2026-11-11T18:21:19.866866+00:00"
+      ],
+      "explore_url": "https://trends.google.com/trends/explore?date=now%207-d&geo=CA&q=color%20analysis,pelvic%20floor&hl=en",
+      "status": "observed",
+      "rising_queries": [
+        {
+          "query": "tight pelvic floor symptoms female",
+          "growth": "Breakout"
+        },
+        {
+          "query": "pelvic floor chair therapy near me",
+          "growth": "Breakout"
+        },
+        {
+          "query": "symptoms of weak pelvic floor",
+          "growth": "+200%"
+        },
+        {
+          "query": "pelvic inflammatory disease",
+          "growth": "+120%"
+        },
+        {
+          "query": "kegel exercises",
+          "growth": "+120%"
+        }
+      ],
+      "top_queries": [
+        {
+          "query": "pelvic floor physiotherapy",
+          "score": 100
+        },
+        {
+          "query": "pelvic physiotherapy",
+          "score": 99
+        },
+        {
+          "query": "pelvic floor exercises",
+          "score": 52
+        },
+        {
+          "query": "pelvic floor therapy",
+          "score": 45
+        },
+        {
+          "query": "pelvic floor physio",
+          "score": 40
+        }
+      ],
+      "visible_rows": "First five rows in each panel",
+      "total_rows_reported": {
+        "rising": 14,
+        "top": 25
+      },
+      "data_sufficiency": "Intermittent zeros and questionable associations. Chair topic corroborated by Google but growth treated as insufficient-data discovery."
+    },
+    {
+      "app": "stylist_ai",
+      "seed": "color analysis",
+      "seed_type": "search term",
+      "country": "CA",
+      "category": "All categories",
+      "search_type": "Web Search",
+      "window": "Past 30 days",
+      "comparison_window": null,
+      "observed_between": [
+        "2026-11-11T17:58:28.689Z",
+        "2026-11-11T18:21:19.866866+00:00"
+      ],
+      "explore_url": "https://trends.google.com/trends/explore?date=today%201-m&geo=CA&q=color%20analysis,pelvic%20floor&hl=en",
+      "status": "observed",
+      "rising_queries": [
+        {
+          "query": "what season am i color analysis",
+          "growth": "Breakout"
+        },
+        {
+          "query": "color analysis pro",
+          "growth": "Breakout"
+        },
+        {
+          "query": "color analysis test",
+          "growth": "Breakout"
+        },
+        {
+          "query": "free colour analysis",
+          "growth": "Breakout"
+        },
+        {
+          "query": "color analysis drapes",
+          "growth": "Breakout"
+        }
+      ],
+      "top_queries": [
+        {
+          "query": "free color analysis",
+          "score": 100
+        },
+        {
+          "query": "what season am i color analysis",
+          "score": 98
+        },
+        {
+          "query": "color analysis pro",
+          "score": 95
+        },
+        {
+          "query": "color palette analysis",
+          "score": 95
+        },
+        {
+          "query": "color analysis test",
+          "score": 80
+        }
+      ],
+      "visible_rows": "First five rows in each panel",
+      "total_rows_reported": {
+        "rising": 18,
+        "top": 25
+      },
+      "data_sufficiency": "Widespread Breakout and sparse regional evidence; no useful verified recent rise selected. Competitor navigation and duplicate intents rejected."
+    },
+    {
+      "app": "pelvic_gym",
+      "seed": "pelvic floor",
+      "seed_type": "search term",
+      "country": "CA",
+      "category": "All categories",
+      "search_type": "Web Search",
+      "window": "Past 30 days",
+      "comparison_window": null,
+      "observed_between": [
+        "2026-11-11T17:58:28.689Z",
+        "2026-11-11T18:21:19.866866+00:00"
+      ],
+      "explore_url": "https://trends.google.com/trends/explore?date=today%201-m&geo=CA&q=color%20analysis,pelvic%20floor&hl=en",
+      "status": "observed",
+      "rising_queries": [
+        {
+          "query": "pelvic floor strengthening",
+          "growth": "Breakout"
+        },
+        {
+          "query": "diastasis recti",
+          "growth": "Breakout"
+        },
+        {
+          "query": "pelvic floor strengthening exercises",
+          "growth": "Breakout"
+        },
+        {
+          "query": "instant pot",
+          "growth": "Breakout"
+        },
+        {
+          "query": "perineal massage",
+          "growth": "Breakout"
+        }
+      ],
+      "top_queries": [
+        {
+          "query": "pelvic floor physiotherapy",
+          "score": 100
+        },
+        {
+          "query": "pelvic physiotherapy",
+          "score": 99
+        },
+        {
+          "query": "pelvic floor exercises",
+          "score": 57
+        },
+        {
+          "query": "pelvic floor therapy",
+          "score": 50
+        },
+        {
+          "query": "pelvic floor physio",
+          "score": 42
+        }
+      ],
+      "visible_rows": "First five rows in each panel",
+      "total_rows_reported": {
+        "rising": 20,
+        "top": 25
+      },
+      "data_sufficiency": "Widespread Breakout and irrelevant association instant pot; do not interpret as strong demand. Diastasis/perineal questions selected through actual Google corroboration and useful content gap, not a volume claim."
+    }
+  ],
+  "trend_outcome": {
+    "stylist_ai": "One qualified recent rising-query topic: US soft summer celebrities +200%, Past 7 days.",
+    "pelvic_gym": "No qualified recent rising topic with sufficient data and distinct intent. CA leads used only as discovery and independently corroborated with Google PAA; US rising intents overlap."
+  },
+  "seasonality": "No seasonal event term selected; 12-month seasonality check not applicable.",
+  "google_observations": [
+    {
+      "query": "diy color analysis",
+      "url": "https://www.google.com/search?q=diy+color+analysis&hl=en",
+      "observed_between": [
+        "2026-11-11T17:58:28.689Z",
+        "2026-11-11T18:21:19.866866+00:00"
+      ],
+      "people_also_ask": null,
+      "related_searches": [
+        "Diy color analysis free",
+        "DIY color analysis kit",
+        "Color analysis test photo"
+      ],
+      "result_notes": [
+        "Quora listing: How can you do your own color analysis? — 30+ answers, 11 years ago; indexed listing only, not an original-page read.",
+        "How to Do a DIY Color Analysis at Home (Using AI!), Expecting and Empowered, July 15 2026."
+      ],
+      "locale": "English; personalised results in Dubai, United Arab Emirates",
+      "scope": "Native Chrome actual search results. PAA expansion answers not used as factual sources. No ranking measurement or search volume."
+    },
+    {
+      "query": "soft summer celebrities",
+      "url": "https://www.google.com/search?q=soft+summer+celebrities&hl=en",
+      "observed_between": [
+        "2026-11-11T17:58:28.689Z",
+        "2026-11-11T18:21:19.866866+00:00"
+      ],
+      "people_also_ask": [
+        "Who looks good in soft Summer colors?",
+        "Who are the famous soft summers?",
+        "What to avoid as a soft Summer?",
+        "What skin undertone is a soft Summer?"
+      ],
+      "related_searches": [
+        "Soft summer celebrities kpop",
+        "Soft summer celebrities with dark hair"
+      ],
+      "result_notes": [
+        "Spicemarket Colour possible Soft Summer gallery.",
+        "Tone & Fit result displayed 4 days ago; publication date not independently verified."
+      ],
+      "locale": "English; personalised results in Dubai, United Arab Emirates",
+      "scope": "Native Chrome actual search results. PAA expansion answers not used as factual sources. No ranking measurement or search volume."
+    },
+    {
+      "query": "what is color analysis",
+      "url": "https://www.google.com/search?q=what+is+color+analysis&hl=en",
+      "observed_between": [
+        "2026-11-11T17:58:28.689Z",
+        "2026-11-11T18:21:19.866866+00:00"
+      ],
+      "people_also_ask": [
+        "How does a color analysis work?",
+        "What is Gen Z's favorite color?",
+        "Can ChatGPT do your color analysis?",
+        "Is it worth getting a color analysis?"
+      ],
+      "related_searches": [],
+      "result_notes": [
+        "House of Colour process page, October 8 2025."
+      ],
+      "locale": "English; personalised results in Dubai, United Arab Emirates",
+      "scope": "Native Chrome actual search results. PAA expansion answers not used as factual sources. No ranking measurement or search volume."
+    },
+    {
+      "query": "color analysis palette",
+      "url": "https://www.google.com/search?q=color+analysis+palette&hl=en",
+      "observed_between": [
+        "2026-11-11T17:58:28.689Z",
+        "2026-11-11T18:21:19.866866+00:00"
+      ],
+      "people_also_ask": [
+        "Is there a free way to analyze my color palette?",
+        "Can ChatGPT tell me my color palette?",
+        "What is Gen Z's favorite color?",
+        "How do I analyse my color palette?"
+      ],
+      "related_searches": [],
+      "result_notes": [
+        "Colorwise, Kettlewell and International Image Institute results."
+      ],
+      "locale": "English; personalised results in Dubai, United Arab Emirates",
+      "scope": "Native Chrome actual search results. PAA expansion answers not used as factual sources. No ranking measurement or search volume."
+    },
+    {
+      "query": "pelvic floor chair therapy",
+      "url": "https://www.google.com/search?q=pelvic+floor+chair+therapy&hl=en",
+      "observed_between": [
+        "2026-11-11T17:58:28.689Z",
+        "2026-11-11T18:21:19.866866+00:00"
+      ],
+      "people_also_ask": [
+        "Does a pelvic floor chair work?",
+        "What is the downside to Emsella?",
+        "Does the Emsella chair make you tighter?",
+        "How much does a Kegel chair treatment cost?"
+      ],
+      "related_searches": [],
+      "result_notes": [
+        "Local service pages and a chair-based magnetic stimulation review. Commercial snippets not used as clinical proof."
+      ],
+      "locale": "English; personalised results in Dubai, United Arab Emirates",
+      "scope": "Native Chrome actual search results. PAA expansion answers not used as factual sources. No ranking measurement or search volume."
+    },
+    {
+      "query": "diastasis recti pelvic floor",
+      "url": "https://www.google.com/search?q=diastasis+recti+pelvic+floor&hl=en",
+      "observed_between": [
+        "2026-11-11T17:58:28.689Z",
+        "2026-11-11T18:21:19.866866+00:00"
+      ],
+      "people_also_ask": [
+        "Does diastasis recti cause pelvic floor issues?",
+        "Do pelvic floor exercises work for diastasis recti?",
+        "What is the fastest way to fix diastasis recti?",
+        "What happens if diastasis recti is left untreated?"
+      ],
+      "related_searches": [],
+      "result_notes": [
+        "Cleveland Clinic and primary research results."
+      ],
+      "locale": "English; personalised results in Dubai, United Arab Emirates",
+      "scope": "Native Chrome actual search results. PAA expansion answers not used as factual sources. No ranking measurement or search volume."
+    },
+    {
+      "query": "perineal massage pelvic floor exercises",
+      "url": "https://www.google.com/search?q=perineal+massage+pelvic+floor+exercises&hl=en",
+      "observed_between": [
+        "2026-11-11T17:58:28.689Z",
+        "2026-11-11T18:21:19.866866+00:00"
+      ],
+      "people_also_ask": [
+        "Can perineal massage help with a tight pelvic floor?",
+        "Is 37 weeks too late for a perineal massage?",
+        "What are the 3 best exercises for strengthening the pelvic floor?",
+        "How do I know if I'm doing perineal massage correctly?"
+      ],
+      "related_searches": [],
+      "result_notes": [
+        "Kingston and Richmond NHS, Royal Berkshire NHS and Northern Trust patient resources."
+      ],
+      "locale": "English; personalised results in Dubai, United Arab Emirates",
+      "scope": "Native Chrome actual search results. PAA expansion answers not used as factual sources. No ranking measurement or search volume."
+    },
+    {
+      "query": "how to strengthen pelvic floor female",
+      "url": "https://www.google.com/search?q=how+to+strengthen+pelvic+floor+female&hl=en",
+      "observed_between": [
+        "2026-11-11T17:58:28.689Z",
+        "2026-11-11T18:21:19.866866+00:00"
+      ],
+      "people_also_ask": [
+        "How can a woman strengthen her pelvic floor fast?",
+        "How do you tell if your pelvic floor is weak?",
+        "How long does it take to strengthen your pelvic floor muscles?",
+        "Does squeezing buttocks help the pelvic floor?"
+      ],
+      "related_searches": [],
+      "result_notes": [
+        "NHS inform, Mayo Clinic, Continence Health Australia and Health New Zealand."
+      ],
+      "locale": "English; personalised results in Dubai, United Arab Emirates",
+      "scope": "Native Chrome actual search results. PAA expansion answers not used as factual sources. No ranking measurement or search volume."
+    }
+  ],
+  "quora_observations": {
+    "status": "robots_restricted",
+    "original_pages_read": 0,
+    "indexed_question": {
+      "question": "How can you do your own color analysis?",
+      "url": "https://www.quora.com/How-can-you-do-your-own-color-analysis",
+      "answers_displayed": "30+",
+      "age_displayed": "11 years ago",
+      "scope": "Actual Google listing only; unknown current engagement and original date; not selected."
+    }
+  },
+  "access_limits": [
+    "Automatic approval review rejected Reddit navigation because the preceding run hit HTTP 429 and required stopping requests. No Reddit endpoint was accessed after rejection; no proxy, RSS or other route used to bypass the block.",
+    "One initial ordinary web search for recent Reddit questions returned stale or irrelevant results before rejection; none selected.",
+    "Quora robots restriction respected.",
+    "Google results were personalised in Dubai; not US/Canada ranking measurements. PAA is observed question evidence, not volume or a publication date.",
+    "Trends only first five rows of each Rising/Top panel recorded; not an exhaustive ranking. Unknown volume remains unknown.",
+    "NICE direct page returned 403; chair article relies on readable EAU and NHS sources instead."
+  ],
+  "checked_sources": [
+    {
+      "url": "https://www.adobe.com/creativecloud/photography/technique/white-balance.html",
+      "checked": "2026-11-11"
+    },
+    {
+      "url": "https://www.houseofcolour.com/blog/what-is-a-color-analysis-and-why-do-you-need-one",
+      "checked": "2026-11-11"
+    },
+    {
+      "url": "https://www.spicemarketcolour.com.au/soft-summer-celebrities",
+      "checked": "2026-11-11"
+    },
+    {
+      "url": "https://uroweb.org/guidelines/non-neurogenic-female-luts/chapter/disease-management",
+      "checked": "2026-11-11"
+    },
+    {
+      "url": "https://www.nhs.uk/conditions/urinary-incontinence/treatment/",
+      "checked": "2026-11-11"
+    },
+    {
+      "url": "https://www.nhs.uk/baby/support-and-services/your-post-pregnancy-body/",
+      "checked": "2026-11-11"
+    },
+    {
+      "url": "https://my.clevelandclinic.org/health/diseases/22346-diastasis-recti",
+      "checked": "2026-11-11"
+    },
+    {
+      "url": "https://www.rcog.org.uk/for-the-public/perineal-tears-and-episiotomies-in-childbirth/reducing-your-risk-of-perineal-tears/",
+      "checked": "2026-11-11"
+    }
+  ],
+  "illustrations": [
+    {
+      "slug": "what-is-color-analysis",
+      "app": "stylist_ai",
+      "prompt": "Use case: illustration-story. Asset: original landscape 3:2 fashion journal illustration. Show a beginner comparing two plain fabric drapes beside a simple mirror: warm coral and muted blue, with a small fan of varied color swatches and an open blank notebook. Elegant hand-painted editorial style on warm ivory, restrained ink lines and soft tactile gouache, natural everyday scene, inclusive adult woman, thoughtful and relaxed. Clear fabric shapes and colors, no before/after promise. No writing, logos, numbers, device screens, medical imagery or celebrity likeness. Full bleed, all key objects comfortably within edges.",
+      "tool": "built-in image_gen",
+      "asset": "stylist_ai/blog/assets/illustrations/what-is-color-analysis.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 131736,
+      "visual_inspection": "Generated images inspected: coherent subjects, no clinical exercise demonstration or claimed results; outfit translation is an original example. Layout check follows."
+    },
+    {
+      "slug": "soft-summer-celebrity-inspiration",
+      "app": "stylist_ai",
+      "prompt": "Use case: illustration-story. Asset: original landscape 3:2 fashion journal illustration explaining how to translate an inspiration outfit into everyday clothes. Two separate flat-lay outfits side by side on warm ivory: left a flowing dusty-blue evening dress with pewter shoes and a dusty-rose small bag; right a dusty-blue knit top with charcoal trousers, pewter flats and a dusty-rose scarf. Make corresponding color roles visually obvious. Refined gouache editorial style with fabric texture, crisp silhouettes, airy composition. No people, photographs, celebrities, text, logos, labels or device UI. This is a conceptual outfit example, not an advertisement.",
+      "tool": "built-in image_gen",
+      "asset": "stylist_ai/blog/assets/illustrations/soft-summer-celebrity-inspiration.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 84086,
+      "visual_inspection": "Generated images inspected: coherent subjects, no clinical exercise demonstration or claimed results; outfit translation is an original example. Layout check follows."
+    },
+    {
+      "slug": "pelvic-floor-chair-therapy",
+      "app": "pelvic_gym",
+      "prompt": "Use case: illustration-story. Asset: original landscape 3:2 patient-education journal illustration. An adult woman in everyday clothes having a calm consultation with a female clinician at a small table, a generic rounded upholstered treatment chair visible off to one side. The woman holds a blank checklist; clinician points to the paper, not to the woman's body. Warm ivory, muted coral and sage, sophisticated flat gouache, friendly clear forms. No anatomy, electrical waves, medical procedures, device brand, readable text, badges, cure imagery or before/after. Distinguish conversation chairs from treatment chair through design; treatment chair is background context only.",
+      "tool": "built-in image_gen",
+      "asset": "pelvic_gym/assets/illustrations/pelvic-floor-chair-therapy.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 68394,
+      "visual_inspection": "Generated images inspected: coherent subjects, no clinical exercise demonstration or claimed results; outfit translation is an original example. Layout check follows."
+    },
+    {
+      "slug": "diastasis-recti-and-pelvic-floor",
+      "app": "pelvic_gym",
+      "prompt": "Use case: illustration-story. Asset: original landscape 3:2 postpartum recovery journal illustration. An adult postpartum woman fully dressed in comfortable loose clothing at a physiotherapy consultation, standing naturally beside a clinician and discussing a blank movement-plan sheet. A baby stroller is discreetly in the background, a folded exercise mat nearby. Warm ivory backdrop, sage, dusty coral and blue, polished hand-painted editorial gouache. Focus on an individual recovery conversation rather than body shape. No bare abdomen, anatomy diagram, measuring tape, exercise demonstration, text, branding, slimming or before/after. Spacious composition.",
+      "tool": "built-in image_gen",
+      "asset": "pelvic_gym/assets/illustrations/diastasis-recti-and-pelvic-floor.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 107998,
+      "visual_inspection": "Generated images inspected: coherent subjects, no clinical exercise demonstration or claimed results; outfit translation is an original example. Layout check follows."
+    }
+  ],
+  "illustration_decision": "Four relevant built-in generated images, compressed at 68–132 KB plus responsive400/800 variants; masters outside publishing repository.",
+  "additional_changes": [
+    "Contextual incoming links from six existing articles; their dates unchanged for link-only edits.",
+    "Stylist regular photo/color-analysis topic hub includes both new guides; Pelvic categories auto-maintained.",
+    "Official badges, Safari metadata, consent behavior and city exclusion preserved."
+  ],
+  "review_status": "No clinician engaged; no independent clinical review claimed; original draft bladder diary remains private.",
+  "measurement": "Nov7 checkpoint completed previously; next due Nov14. No duplicate checkpoint or new visitor/ranking claim.",
+  "validation": {
+    "status": "passed",
+    "automated": "145 public pages; both app validators, both analytics suites, JS syntax,34city checks,city duplication audit and whitespace check passed.",
+    "protected_files_checked": 199,
+    "protected_changes": 0,
+    "original_publication_dates_checked": 127,
+    "capacity_before": {
+      "working_file_bytes": 49310118,
+      "git_object_bytes": 82478080,
+      "can_add_illustrations": true
+    },
+    "capacity_after": {
+      "measurement": "Working files excluding Git/runtime/build caches; includes source and research files normally excluded by Jekyll, so this overestimates the static payload. Git object storage is measured separately.",
+      "working_file_bytes": 50079826,
+      "git_object_bytes": 82478080,
+      "published_site_limit_bytes": 1000000000,
+      "illustration_stop_threshold_bytes": 800000000,
+      "can_add_illustrations": true,
+      "remaining_to_site_limit_bytes": 949920174,
+      "reference": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
+    },
+    "layout": "Representative native Chrome desktop and 390px responsive views inspected: Stylist headline/illustration/official badge; Pelvic content and table wrapping. Existing templates retained.",
+    "live": "pending"
+  },
+  "deployment": {
+    "status": "pending"
+  },
+  "notification": {
+    "channel": "existing_chat",
+    "telegram": "Destination pending; no message sent."
+  }
+}

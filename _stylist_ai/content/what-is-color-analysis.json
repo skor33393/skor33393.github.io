@@ -1,0 +1,83 @@
+{
+  "slug": "what-is-color-analysis",
+  "title": "What is color analysis, and how does it work?",
+  "seoTitle": "What is color analysis, and how does it work? | Stylist AI",
+  "description": "Understand seasonal color analysis, what a palette can help you choose, and how to turn your first result into one useful outfit experiment.",
+  "category": "Color analysis",
+  "datePublished": "2026-11-11",
+  "dateModified": "2026-11-11",
+  "sourcesChecked": "2026-11-11",
+  "excerpt": "Start with the purpose of a palette, then decide which kind of help fits your next clothing choice.",
+  "quickAnswer": "Color analysis is a styling method for comparing how colors look alongside your coloring and organizing suggestions into a palette. Seasonal systems use names such as Spring, Summer, Autumn and Winter. A useful result helps you choose and combine clothes; it does not require you to replace your wardrobe or stop wearing colors you enjoy.",
+  "sections": [
+    {
+      "id": "purpose",
+      "title": "What question does color analysis answer?",
+      "html": "<p>Think of it as a way to narrow a clothing choice. Instead of looking at every blue shirt in a shop, you might compare a pale blue, a muted medium blue and a vivid blue, then decide which effect you prefer. A palette gives that exploration a starting point.</p><p><a href=\"https://www.houseofcolour.com/blog/what-is-a-color-analysis-and-why-do-you-need-one\">House of Colour describes its process</a> as comparing colored fabrics near the face and considering warmth, depth and clarity within a seasonal framework. That is a provider's description of its service, not proof that everyone needs an appointment or that its approach is the only useful one.</p><p>Before choosing a method, finish this sentence: “I want help choosing ___.” A work blouse, a lipstick direction and a whole wardrobe are different tasks. A result becomes more valuable when it helps with the task you actually have.</p>"
+    },
+    {
+      "id": "vocabulary",
+      "title": "What do the color terms mean?",
+      "html": "<table><thead><tr><th>Term</th><th>A practical comparison</th><th>What to avoid assuming</th></tr></thead><tbody><tr><td>Warm versus cool</td><td>A yellow-leaning red beside a blue-leaning red</td><td>That every red belongs to the same palette.</td></tr><tr><td>Light versus deep</td><td>A pale blue beside a dark navy</td><td>That a darker color is always more vivid.</td></tr><tr><td>Clear versus muted</td><td>A saturated blue beside a grayer blue of similar depth</td><td>That muted means colorless.</td></tr></tbody></table><p>These are descriptions to help you notice differences. You do not need to master every sub-season before choosing a sweater. Our <a href=\"/stylist_ai/blog/color-depth-vs-brightness/\">depth and brightness guide</a> takes the comparison further.</p><p>A season name is shorthand within a particular framework. If an app and an analyst use the same name, compare their actual palettes before assuming the recommendations are identical. Our <a href=\"/stylist_ai/blog/is-professional-color-analysis-worth-it/#season-count\">guide to 12 versus 16 seasons</a> explains what to ask about the system.</p>"
+    },
+    {
+      "id": "methods",
+      "title": "Which kind of analysis fits your question?",
+      "html": "<table><thead><tr><th>Starting point</th><th>Useful when</th><th>Check first</th></tr></thead><tbody><tr><td>A small comparison with clothes you own</td><td>You want to choose between two real items.</td><td>Can you compare them under consistent conditions?</td></tr><tr><td>A photo-based app</td><td>You want a suggested palette and combinations to explore.</td><td>What does the app provide, what does it cost, and how is the photo handled?</td></tr><tr><td>A consultation</td><td>You want someone to explain comparisons and help apply them.</td><td>Does the appointment include the wardrobe decision you need help with?</td></tr></tbody></table><p>These routes can serve different purposes. Do not judge a consultation solely by how many palette labels it offers, or an app solely by how confidently it names a season. Ask what you can do with the result afterward.</p>"
+    },
+    {
+      "id": "first-outfit",
+      "title": "Try this first: one outfit, two options",
+      "html": "<p>Imagine you own charcoal trousers and are choosing a top for work. You have a muted blue knit and a coral blouse. Keep the trousers, shoes and usual hairstyle the same, then try each top.</p><ol><li>Write the effect you want: quiet, lively, coordinated or deliberately contrasting.</li><li>Look at both complete outfits in the same place and light.</li><li>Note color separately from fit and fabric. You might like the coral but dislike that particular blouse's neckline.</li><li>Choose an outfit to wear for an ordinary day before buying anything else.</li></ol><p>A useful note might be: “The blue knit is easy with my charcoal trousers; I want to try coral in a simpler shape.” That gives you a next step without needing a definitive season label. The cover illustration shows the idea of comparing fabrics, not a scored analysis.</p><p>If you want to build a small collection around the result, use our <a href=\"/stylist_ai/blog/build-a-wardrobe-color-palette/\">wardrobe palette exercise</a>.</p>"
+    },
+    {
+      "id": "photos",
+      "title": "Why can two photos produce different impressions?",
+      "html": "<p>A photograph includes the lighting and camera's treatment of color. <a href=\"https://www.adobe.com/creativecloud/photography/technique/white-balance.html\">Adobe explains how white balance changes an image's color balance</a>. Photos taken in different rooms, at different times or with different editing are therefore poor evidence for a direct comparison.</p><p>Use our <a href=\"/stylist_ai/blog/color-analysis-photo-lighting/\">photo setup guide</a> before trying several new labels. Keep the useful conclusion narrow: preferring one top in a repeatable comparison does not establish every color you will ever enjoy.</p>"
+    },
+    {
+      "id": "app-role",
+      "title": "How Stylist AI can help you begin",
+      "html": "<p>Stylist AI offers a suggested seasonal profile, a palette, color combinations and camera-based color comparison. Start with one question, explore the suggestions, then try a combination with something you already own.</p><p>For the work-outfit example, use the palette to find a blue or coral direction to compare with your trousers. The goal is a workable outfit, not a new wardrobe ordered to match a label. We develop Stylist AI, so this is an explanation of its role rather than an independent recommendation.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do I have to wear only my season?",
+      "answer": "No. Use a palette as a source of ideas. Your preferences, existing wardrobe, occasion and desired effect still matter."
+    },
+    {
+      "question": "Is color analysis a dress code?",
+      "answer": "No. It offers styling suggestions. You can use one useful combination and leave the rest undecided."
+    },
+    {
+      "question": "Can I begin without buying a draping kit?",
+      "answer": "Yes. Begin with two or three plain fabrics you already own and one clothing decision. That is a limited comparison, not a complete professional analysis."
+    }
+  ],
+  "sources": [
+    {
+      "title": "House of Colour: Its color-analysis process",
+      "url": "https://www.houseofcolour.com/blog/what-is-a-color-analysis-and-why-do-you-need-one"
+    },
+    {
+      "title": "Adobe: White balance in photographs",
+      "url": "https://www.adobe.com/creativecloud/photography/technique/white-balance.html"
+    }
+  ],
+  "sourceNote": "Styling exercises and outfit examples are editorial suggestions. They are not measured tests of attractiveness or independent evaluations of the app.",
+  "ctaTitle": "Turn color ideas into an outfit.",
+  "ctaText": "Explore a suggested seasonal profile, palette and color combinations in Stylist AI, then try one idea with clothes you already own.",
+  "keyword": "What is color analysis, and how does it work?",
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/illustrations/what-is-color-analysis.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Editorial illustration of a woman comparing coral and blue fabrics in a mirror beside a small swatch fan."
+  },
+  "related": [
+    "color-analysis-photo-lighting",
+    "build-a-wardrobe-color-palette",
+    "is-professional-color-analysis-worth-it"
+  ]
+}
