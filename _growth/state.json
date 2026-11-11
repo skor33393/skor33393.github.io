@@ -24,7 +24,7 @@
     "2026-11-08-2200": "completed",
     "2026-11-09-2200": "completed",
     "2026-11-10-2200": "completed",
-    "2026-11-11-2200": "publication_prepared"
+    "2026-11-11-2200": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -636,6 +636,20 @@
         "run_id": "2026-11-10-2200",
         "status": "updated",
         "verified_at": "2026-11-10T18:14:40.584154+00:00"
+      },
+      {
+        "question_url": "https://www.google.com/search?q=what+is+color+analysis&hl=en",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/what-is-color-analysis/",
+        "run_id": "2026-11-11-2200",
+        "status": "new",
+        "verified_at": "2026-11-11T18:24:14.048000+00:00"
+      },
+      {
+        "question_url": "https://www.google.com/search?q=soft+summer+celebrities&hl=en",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/soft-summer-celebrity-inspiration/",
+        "run_id": "2026-11-11-2200",
+        "status": "new",
+        "verified_at": "2026-11-11T18:24:14.048000+00:00"
       }
     ],
     "pelvic_gym": [
@@ -1177,6 +1191,27 @@
         "run_id": "2026-11-10-2200",
         "status": "updated",
         "verified_at": "2026-11-10T18:14:40.584154+00:00"
+      },
+      {
+        "question_url": "https://www.google.com/search?q=pelvic+floor+chair+therapy&hl=en",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-chair-therapy/",
+        "run_id": "2026-11-11-2200",
+        "status": "new",
+        "verified_at": "2026-11-11T18:24:14.048000+00:00"
+      },
+      {
+        "question_url": "https://www.google.com/search?q=diastasis+recti+pelvic+floor&hl=en",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/diastasis-recti-and-pelvic-floor/",
+        "run_id": "2026-11-11-2200",
+        "status": "new",
+        "verified_at": "2026-11-11T18:24:14.048000+00:00"
+      },
+      {
+        "question_url": "https://www.google.com/search?q=perineal+massage+pelvic+floor+exercises&hl=en",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-exercises-during-pregnancy/",
+        "run_id": "2026-11-11-2200",
+        "status": "updated",
+        "verified_at": "2026-11-11T18:24:14.048000+00:00"
       }
     ]
   },

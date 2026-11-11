@@ -1,7 +1,7 @@
 {
   "run_id": "2026-11-11-2200",
   "kind": "scheduled",
-  "status": "publication_prepared",
+  "status": "completed",
   "started_at": "2026-11-11T17:58:28.689Z",
   "timezone": "Asia/Dubai",
   "scheduled_local": "2026-11-11T22:00:00+04:00",
@@ -1051,13 +1051,26 @@
       "reference": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
     },
     "layout": "Representative native Chrome desktop and 390px responsive views inspected: Stylist headline/illustration/official badge; Pelvic content and table wrapping. Existing templates retained.",
-    "live": "pending"
+    "live": {
+      "checked": 368,
+      "passed": 368,
+      "failed": [],
+      "verified_at": "2026-11-11T18:24:14.048000+00:00"
+    }
   },
   "deployment": {
-    "status": "pending"
+    "status": "built_and_verified",
+    "commit": "1fdaa11683b80966f23a7dfb0dee6c309a49d233",
+    "pages_built_at": "2026-11-11T18:23:19Z",
+    "verified_at": "2026-11-11T18:24:14.048000+00:00",
+    "checked": 368,
+    "passed": 368
   },
   "notification": {
     "channel": "existing_chat",
     "telegram": "Destination pending; no message sent."
-  }
+  },
+  "completion": "published_with_shortfall",
+  "published_commit": "1fdaa11683b80966f23a7dfb0dee6c309a49d233",
+  "verified_at": "2026-11-11T18:24:14.048000+00:00"
 }
