@@ -31,3 +31,8 @@ Before adding assets, run check_capacity.py; preserve the 800 MB stop threshold.
 Run the existing build, validators, analytics tests and relevant city checks. Inspect representative mobile/desktop layouts where available; report unavailable checks honestly. Verify deployed pages and new assets, not just a push. Sitemaps/HTTP 200 do not prove indexing.
 
 Maintain page cohorts and compare equal reported periods. Separate discovered/crawled/indexed states, non-brand impressions/clicks, consented reading and store clicks. Do not infer a trend from tiny samples or invent performance scores when measurement fails. Review a small pilot before expanding a tactic. No promised ranking position, fake keyword volumes, paid-link scheme or automated forum promotion.
+
+
+## Measurement follow-through (2026-11-12)
+
+Every content batch and daily scan includes the private Google statistics snapshot, charts and insights specified in `_growth/MEASUREMENT.md`. Use actual query/page performance to prioritize useful improvements without treating tiny samples as proof. Link the batch's published/updated URLs in its private snapshot. Collect through isolated Playwright only, never the user's regular browser session.
