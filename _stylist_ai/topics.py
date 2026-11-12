@@ -19,6 +19,8 @@ TOPICS = [
          description='Build a wearable wardrobe palette, try color combinations with clothes you own, and make a practical decision before buying another garment.',
          intro='Keep the clothes that work for your life. Choose one outfit problem, then use color to help solve that specific problem.',
          steps=[('Choose a small wardrobe palette', 'build-a-wardrobe-color-palette'),
+                ('Compare winter coat colors', 'choose-winter-coat-color'),
+                ('Choose tights for a dress', 'choose-tights-color'),
                 ('Keep personal style at the office', 'personal-style-casual-office'),
                 ('Choose shoes for a walking commute', 'comfortable-alternatives-to-sneakers'),
                 ('Compare greens for a softer palette', 'soft-summer-green'),
@@ -53,6 +55,7 @@ TOPICS = [
                 ('Try Light Spring makeup colors', 'light-spring-makeup-colors'),
                 ('Choose Light Summer eyeshadow', 'light-summer-eyeshadow'),
                 ('Choose one everyday eyeshadow', 'one-and-done-eyeshadow'),
+                ('Compare brown and black mascara', 'brown-or-black-mascara'),
                 ('Compare glasses shape and color', 'choose-glasses-frame-color')])
 ]
 

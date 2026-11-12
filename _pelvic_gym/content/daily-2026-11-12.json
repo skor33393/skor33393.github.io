@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "pelvic-floor-exercises-with-pessary",
+    "title": "Can I do pelvic floor exercises with a pessary?",
+    "seoTitle": "Pelvic floor exercises with a pessary: what to discuss",
+    "description": "Learn how a support pessary and pelvic floor training can fit together, what to confirm with your clinician, and which symptoms need review.",
+    "category": "Bladder & symptoms",
+    "excerpt": "A fitted support pessary and an individual exercise plan can have different, complementary roles.",
+    "quickAnswer": "Pelvic floor exercises can be performed with a support pessary in place. Whittington Health NHS guidance explicitly includes this option. Confirm the plan with the clinician who fitted your device and the professional guiding your exercises, especially if you have pain, emptying problems or recent surgery.",
+    "takeaways": [
+      "A support pessary is not a Kegel weight or a feedback sensor.",
+      "Confirm exercise, device care and follow-up as separate parts of your plan.",
+      "Pain or new bladder-emptying difficulty is a reason for review, not harder contractions."
+    ],
+    "sections": [
+      {
+        "id": "different-jobs",
+        "title": "What does the pessary do that an exercise does not?",
+        "html": "<p><a href=\"https://www.rcog.org.uk/for-the-public/browse-our-patient-information/pelvic-organ-prolapse/\">RCOG describes a vaginal support pessary</a> as a plastic or silicone device that helps support the pelvic organs. A clinician selects a suitable type and size; finding a comfortable fit can take more than one attempt.</p><p>A muscle-training plan has a different purpose. You practise an action selected for your needs, while a pessary provides support while it is in place. Do not treat the device as a weight to squeeze harder around, or use its presence as proof that your contraction technique is correct.</p><p>Our <a href=\"/pelvic_gym/articles/kegel-weights-and-trainers/\">guide to pelvic floor devices</a> explains why support, resistance, stimulation and feedback should not be treated as interchangeable.</p>"
+      },
+      {
+        "id": "exercise-in-place",
+        "title": "Must I remove it for every exercise session?",
+        "html": "<p>Not automatically. <a href=\"https://www.whittington.nhs.uk/mini-apps/leaflet/?id=602\">Whittington Health’s prolapse leaflet says pelvic floor exercises can be done with a pessary in place</a>. Follow the instructions for your own device and care plan rather than creating a new removal routine because you are about to exercise.</p><p>If a physiotherapist prescribed exercises before you were fitted, tell them about the pessary and ask whether any instructions need changing. If you received the pessary without an exercise assessment, ask whether training is suitable for you and who can check your technique.</p><p>The permission to exercise with a device in place does not establish the number of repetitions, the strength of the effort or which other activities are suitable for you. Those are separate decisions.</p>"
+      },
+      {
+        "id": "appointment-checklist",
+        "title": "Leave the appointment with three clear instructions",
+        "html": "<p>Use this checklist to separate questions that can otherwise blur together. It is a way to organize a conversation, not a self-prescribed treatment plan.</p><table><thead><tr><th>Part of the plan</th><th>Question to ask</th><th>What to keep</th></tr></thead><tbody><tr><td>Exercises</td><td>Which exercises should I do with this pessary, and what should make me stop and contact you?</td><td>The individual routine and a contact for concerns.</td></tr><tr><td>Device care</td><td>Who removes and cleans it, and what schedule applies to this type?</td><td>The instructions from the fitting service, including whether self-management has been taught.</td></tr><tr><td>Follow-up</td><td>When will the fit and my symptoms be reviewed?</td><td>The appointment date and how to arrange an earlier review.</td></tr></tbody></table><p>For example, you might leave with an exercise sheet from physiotherapy but no clear device-care contact. Resolve that gap with the fitting service. An app reminder to train cannot fill in missing pessary-care instructions.</p>"
+      },
+      {
+        "id": "symptom-review",
+        "title": "What if it becomes uncomfortable?",
+        "html": "<p><a href=\"https://www.rcog.org.uk/for-the-public/browse-our-patient-information/pelvic-organ-prolapse/\">RCOG notes that pessaries need ongoing care and can sometimes cause discharge, infection, bleeding or ulceration</a>. Contact the fitting service about new pain, bleeding, unusual discharge, a device that keeps coming out or concerns about its position. Do not try to compensate by increasing the force or number of contractions.</p><p>If you develop difficulty emptying your bladder, seek clinical advice. <a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes\">NIDDK advises immediate medical attention if you cannot urinate or have severe abdominal pain</a>. Do not wait for the next scheduled device check in that situation.</p><p>Keep a brief factual note for the appointment: what changed, whether it happened at rest or during a particular activity, and when it began. You do not have to decide whether the cause is the pessary, the muscles or something else before asking for help.</p>"
+      },
+      {
+        "id": "app-role",
+        "title": "Can Pelvic Gym help with this routine?",
+        "html": "<p>If strengthening is part of your agreed plan, Pelvic Gym can support practice with guided workouts. Check that the routine fits the instructions you were given; do not add a second full programme simply because an app is available.</p><p>The app cannot fit a pessary, inspect vaginal tissue, check whether you are emptying your bladder or determine whether a contraction is appropriate. Keep device care and clinical follow-up alongside any exercise support.</p><p>For broader movement decisions, read the <a href=\"/pelvic_gym/articles/pelvic-organ-prolapse-exercise/\">prolapse and exercise guide</a>. If you need someone to assess your routine, the <a href=\"/pelvic_gym/articles/find-pelvic-floor-physiotherapy/\">physiotherapy checklist</a> can help you find a suitable service.</p>"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is a prolapse pessary the same as a Kegel weight?",
+        "answer": "No. A support pessary is fitted to support the pelvic organs. Do not treat it as resistance equipment or assume it measures your muscle activity."
+      },
+      {
+        "question": "Can I skip pessary reviews if my symptoms improve?",
+        "answer": "Keep the care and follow-up schedule agreed with your fitting service. Feeling better does not replace device care or a review of its fit."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Whittington Health NHS: Pelvic organ prolapse",
+        "url": "https://www.whittington.nhs.uk/mini-apps/leaflet/?id=602"
+      },
+      {
+        "title": "RCOG: Pelvic organ prolapse",
+        "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/pelvic-organ-prolapse/"
+      },
+      {
+        "title": "NIDDK: Symptoms and causes of urinary retention",
+        "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes"
+      }
+    ],
+    "related": [
+      "pelvic-organ-prolapse-exercise",
+      "kegel-weights-and-trainers",
+      "find-pelvic-floor-physiotherapy"
+    ],
+    "cta": "assessment",
+    "keyword": "Can I do pelvic floor exercises with a pessary?",
+    "datePublished": "2026-11-12",
+    "dateModified": "2026-11-12",
+    "sourcesChecked": "2026-11-12",
+    "illustration": {
+      "src": "/pelvic_gym/assets/illustrations/pelvic-floor-exercises-with-pessary.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "A woman discussing a calendar and care plan with a clinician, with a simple ring pessary on a tray."
+    }
+  }
+]

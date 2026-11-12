@@ -1,0 +1,373 @@
+{
+  "run_id": "2026-11-12-2200",
+  "status": "deployment_pending",
+  "started_at": "2026-11-12T18:01:05.877Z",
+  "timezone": "Asia/Dubai",
+  "schedule_local": "22:00",
+  "question_scan_watermark_before": "2026-11-09T18:00:45.494Z",
+  "question_scan_watermark_after": "2026-11-09T18:00:45.494Z",
+  "scan_status": "access_limited_watermark_preserved",
+  "selection_method": "No fresh original forum engagement was accessible. All votes, comments, views and search volumes are unknown. Selection uses relevance, distinct intent and available corroboration, not a claim of highest popularity.",
+  "research_windows": {
+    "question_start": "2026-11-09T18:00:45.494Z",
+    "fallbacks": [
+      "7 days",
+      "30 days",
+      "evergreen primary clinical FAQs for useful updates"
+    ]
+  },
+  "selected": [
+    {
+      "app": "stylist_ai",
+      "question": "Brown or black mascara: which effect do you want?",
+      "question_type": "editorially phrased from recent search-discovered topic coverage",
+      "discovery_url": "https://everlyspark.com/blog/20261110-01-brown-vs-black-mascara-color-then-formula-en/",
+      "displayed_publication_date": "2026-11-10",
+      "observed_at": "2026-11-12",
+      "votes": null,
+      "comments": null,
+      "decision": "Choose the desired lash definition separately from formula wear.",
+      "overlap": "Existing one-and-done-eyeshadow and light-spring-makeup-colors cover other decisions; no dedicated mascara comparison.",
+      "resource": "Original definition checklist and familiar taupe-shadow/rose-lip/navy-top example; brown/black illustration.",
+      "app_role": "Palette and clothing color-combination suggestions; no mascara try-on or formula claims.",
+      "outcome": "new",
+      "slug": "brown-or-black-mascara",
+      "selection_reason": "Recent coverage within since-watermark window, discrete everyday purchase decision, primary manufacturer and FDA sources available.",
+      "observed_between": [
+        "2026-11-12T18:01:05.877Z",
+        "2026-11-12T18:20:51Z"
+      ],
+      "article_url": "https://bestme.mobi/stylist_ai/blog/brown-or-black-mascara/"
+    },
+    {
+      "app": "stylist_ai",
+      "question": "What color tights should I wear with my dress?",
+      "question_type": "editorially phrased",
+      "discovery_url": "https://www.whowhatwear.com/fashion/winter/winter-tights-trends-2026",
+      "displayed_publication_date": "2 days ago",
+      "exact_publication_date": null,
+      "observed_at": "2026-11-12",
+      "votes": null,
+      "comments": null,
+      "decision": "Choose tights with actual footwear and dress, including coverage.",
+      "overlap": "Existing dress/shoe and navy skirt guides do not answer hosiery color and coverage.",
+      "resource": "Original navy-dress illustration comparing black, charcoal and burgundy tights; hem/knee/shoe checklist.",
+      "app_role": "Shortlist a neutral and an accent with palette/color-combination ideas.",
+      "outcome": "new",
+      "slug": "choose-tights-color",
+      "selection_reason": "Recent clothing coverage and distinct practical task; no assertion of trending search volume.",
+      "observed_between": [
+        "2026-11-12T18:01:05.877Z",
+        "2026-11-12T18:20:51Z"
+      ],
+      "article_url": "https://bestme.mobi/stylist_ai/blog/choose-tights-color/"
+    },
+    {
+      "app": "stylist_ai",
+      "question": "What winter coat color will work with my wardrobe?",
+      "question_type": "editorially phrased",
+      "discovery_url": "https://www.thedailybeast.com/winter-jacket-trends-stylish-people-are-already-wearing",
+      "displayed_publication_date": "2026-11-11T21:43:00Z",
+      "observed_at": "2026-11-12",
+      "votes": null,
+      "comments": null,
+      "decision": "Choose one outerwear color that serves existing weekly outfits and care constraints.",
+      "overlap": "Black-wardrobe alternatives is general; this page addresses the larger outerwear purchase, neckline and maintenance decision.",
+      "resource": "Original five-outfit readiness audit and navy/camel/burgundy coat comparison.",
+      "app_role": "Palette and camera-based color comparison for shortlisted garments.",
+      "outcome": "new",
+      "slug": "choose-winter-coat-color",
+      "selection_reason": "Fresh winter outerwear coverage; durable purchase worksheet more useful than repeating trend lists.",
+      "observed_between": [
+        "2026-11-12T18:01:05.877Z",
+        "2026-11-12T18:20:51Z"
+      ],
+      "article_url": "https://bestme.mobi/stylist_ai/blog/choose-winter-coat-color/"
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Can I do pelvic floor exercises with a pessary?",
+      "question_type": "editorially phrased from a primary patient-information statement",
+      "discovery_url": "https://www.whittington.nhs.uk/mini-apps/leaflet/?id=602",
+      "publication_date": "2026-06-17",
+      "observed_at": "2026-11-12",
+      "votes": null,
+      "comments": null,
+      "decision": "Understand how fitted support and individual muscle training fit together.",
+      "overlap": "Prolapse guide mentions pessaries but does not explain exercise-in-place or separate device-care and training instructions.",
+      "resource": "Original three-part appointment checklist and fitting-service handover example.",
+      "app_role": "Guided strengthening only when appropriate to the agreed plan; no fitting or diagnosis.",
+      "outcome": "new",
+      "slug": "pelvic-floor-exercises-with-pessary",
+      "selection_reason": "Useful distinct evergreen question with directly readable primary support; no fresh-demand claim.",
+      "observed_between": [
+        "2026-11-12T18:01:05.877Z",
+        "2026-11-12T18:20:51Z"
+      ],
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-exercises-with-pessary/"
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Does walking replace pelvic floor exercises?",
+      "question_type": "editorially phrased",
+      "discovery_url": "https://www.nice.org.uk/guidance/ng210/chapter/Recommendations",
+      "publication_date": null,
+      "observed_at": "2026-11-12",
+      "votes": null,
+      "comments": null,
+      "decision": "Distinguish ordinary walking from a prescribed pelvic-floor routine.",
+      "overlap": "Existing prolapse/exercise URL is best destination; no new walking URL.",
+      "resource": "Original walk-to-shops scenario, task/load/symptom review prompt.",
+      "app_role": "Supports the appropriate exercise component, not activity clearance or treatment of heaviness.",
+      "outcome": "updated",
+      "slug": "pelvic-organ-prolapse-exercise",
+      "selection_reason": "Clarifies a gap in an existing guide with limited indexed primary guideline text; access limitation recorded.",
+      "observed_between": [
+        "2026-11-12T18:01:05.877Z",
+        "2026-11-12T18:20:51Z"
+      ],
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-organ-prolapse-exercise/"
+    },
+    {
+      "app": "pelvic_gym",
+      "question": "Will I need to continue the exercises for ever?",
+      "question_type": "observed exact primary clinical FAQ",
+      "discovery_url": "https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/",
+      "publication_date": null,
+      "source_approved_date": "2024-07-16",
+      "observed_at": "2026-11-12",
+      "votes": null,
+      "comments": null,
+      "decision": "Ask for a maintenance plan after improvement instead of stopping or escalating automatically.",
+      "overlap": "Existing frequency article already owns routine/dose intent; add a dedicated maintenance section.",
+      "resource": "Original Keep/Schedule/Review handover and walking-without-leakage example.",
+      "app_role": "Guided appropriate practice alongside revised instructions.",
+      "outcome": "updated",
+      "slug": "how-often-to-do-kegels",
+      "selection_reason": "Direct readable clinical FAQ supports a useful missing stage in existing guide; no claim of recent posting.",
+      "observed_between": [
+        "2026-11-12T18:01:05.877Z",
+        "2026-11-12T18:20:51Z"
+      ],
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/how-often-to-do-kegels/"
+    }
+  ],
+  "rejected_candidates": [
+    {
+      "intent": "How do I find my color season?",
+      "reason": "Nov11 what-is-color-analysis plus photo setup already answer this; no distinct new resource today."
+    },
+    {
+      "intent": "Brown or cream cardigan?",
+      "reason": "Already published; coat article is broader outerwear purchase decision rather than cardigan duplicate."
+    },
+    {
+      "intent": "Soft Summer celebrities",
+      "reason": "Covered Nov11; no new qualifying evidence."
+    },
+    {
+      "intent": "Do Kegels fix diastasis recti?",
+      "reason": "New guide Nov11; do not repeat."
+    },
+    {
+      "intent": "Does pelvic floor chair treatment work?",
+      "reason": "Covered Nov11 with current guideline comparison."
+    },
+    {
+      "intent": "How fast do Kegels work?",
+      "reason": "Existing duration guide; no distinct new question evidence or needed correction."
+    },
+    {
+      "intent": "Old incidental Reddit snippets from broad web searches",
+      "reason": "Outside usable freshness window, live engagement inaccessible; not selected."
+    }
+  ],
+  "access_limits": [
+    "Reddit requests remain stopped after the Nov10 HTTP429 and Nov11 automatic approval rejection; no direct request or alternative endpoint used this run. Stale incidental ordinary search snippets were not selected or opened.",
+    "Quora ordinary search returned robots.txt non-retryable restriction and irrelevant results. No original question read.",
+    "Actual Google search in fresh headless Playwright returned automated-traffic challenge. Stopped without attempting challenge; no PAA read. Ordinary web search was the labeled fallback.",
+    "First official Trends Explore US 7-day request returned HTTP429. Stopped all Trends requests. Canada, 30 days, Rising/Top rows and seasonality were not accessed; no verified rising query selected.",
+    "NICE full-page retrieval returned403; the already retrieved indexed official recommendation text supplied the limited walking statement. No protected endpoint retry. PMC pessary guideline returned CAPTCHA and was not used as a clinical source."
+  ],
+  "trends": {
+    "explore_url": "https://trends.google.com/trends/explore?date=now%207-d&geo=US&q=color%20analysis,pelvic%20floor&hl=en",
+    "seed_type": "search terms",
+    "seeds": [
+      "color analysis",
+      "pelvic floor"
+    ],
+    "country": "US",
+    "window": "past7days",
+    "status": "rate_limited",
+    "growth": null,
+    "breakout": null,
+    "data_sufficiency": "not assessable",
+    "evidence": "evidence/trends-us-7d-rising.json",
+    "observation_evidence": {
+      "url": "https://trends.google.com/trends/explore?date=now%207-d&geo=US&q=color%20analysis,pelvic%20floor&hl=en",
+      "observed_at": "2026-11-12T18:03:43.982Z"
+    }
+  },
+  "google": {
+    "url": "https://www.google.com/search?q=color+analysis+questions&hl=en",
+    "status": "automated_traffic_challenge",
+    "people_also_ask": null,
+    "evidence": "evidence/google-color-analysis.json",
+    "observation_evidence": {
+      "url": "https://www.google.com/sorry/",
+      "observed_at": "2026-11-12T18:04:04.113Z",
+      "redaction": "Challenge query parameters removed"
+    }
+  },
+  "shortfall": {
+    "stylist_ai": {
+      "target": 5,
+      "new": 3,
+      "updated": 0,
+      "unfilled": 2
+    },
+    "pelvic_gym": {
+      "target": 5,
+      "new": 1,
+      "updated": 2,
+      "unfilled": 2
+    },
+    "reason": "Fresh forum/Google/Trends access unavailable; publish six useful distinct question treatments and avoid quota filler. Evergreen clinical selections are explicitly labeled, not fresh public questions."
+  },
+  "illustrations": [
+    {
+      "slug": "brown-or-black-mascara",
+      "app": "stylist_ai",
+      "prompt": "Use case: illustration-story. Create a landscape 3:2 original beauty journal illustration: two unbranded mascara wands and open tubes on warm ivory paper, one clearly dark brown and one black, beside a small mirror and brown and black pigment brush strokes. Restrained editorial gouache with delicate realistic bristle detail, soft tactile shadows, generous negative space. Clearly distinguish the two pigment colors. No writing, logos, faces, before/after, extra products or phone UI.",
+      "tool": "built-in image_gen",
+      "visual_inspection": "Inspected generated image: coherent objects, relevant editorial comparison or consultation, no fabricated UI or exercise instructions.",
+      "asset": "stylist_ai/blog/assets/illustrations/brown-or-black-mascara.webp",
+      "bytes": 85976,
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "slug": "choose-tights-color",
+      "app": "stylist_ai",
+      "prompt": "Use case: illustration-story. Landscape 3:2 original fashion editorial gouache illustration on warm ivory. Three evenly spaced stylized flat-lay outfit arrangements: the same simple navy knee-length dress in each, paired left with opaque black tights and black Mary Jane shoes, middle with charcoal tights and black Mary Jane shoes, right with burgundy tights and burgundy Mary Jane shoes. Each pair of tights has two anatomically coherent legs ending inside shoes. No people, no text, no logos or devices. Distinct leg colors, identical dress silhouettes, airy comparison composition. This illustrates outfit choices, not before/after.",
+      "tool": "built-in image_gen",
+      "visual_inspection": "Inspected generated image: coherent objects, relevant editorial comparison or consultation, no fabricated UI or exercise instructions.",
+      "asset": "stylist_ai/blog/assets/illustrations/choose-tights-color.webp",
+      "bytes": 31640,
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "slug": "choose-winter-coat-color",
+      "app": "stylist_ai",
+      "prompt": "Use case: illustration-story. Landscape 3:2 original fashion journal illustration. An airy wardrobe decision flat lay on warm ivory: three separate wool winter coats, one dark navy, one camel, one burgundy, arranged in three columns. Beneath each coat repeat the same charcoal trousers, cream knit and black ankle boots, smaller in scale but clearly recognizable. Sophisticated textured gouache, neat clothing silhouettes, muted natural light, editorial rather than sales image. No people, text, logos, phone UI or decorative unrelated objects.",
+      "tool": "built-in image_gen",
+      "visual_inspection": "Inspected generated image: coherent objects, relevant editorial comparison or consultation, no fabricated UI or exercise instructions.",
+      "asset": "stylist_ai/blog/assets/illustrations/choose-winter-coat-color.webp",
+      "bytes": 65938,
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "slug": "pelvic-floor-exercises-with-pessary",
+      "app": "pelvic_gym",
+      "prompt": "Use case: illustration-story. Landscape 3:2 original health journal editorial illustration: a middle-aged woman in ordinary fully covering clothes seated comfortably at a consultation desk, discussing a simple unlabelled paper calendar and notebook with a clinician. A modest silicone ring pessary on a small clinical tray on desk, shown only as a simple cream ring, no internal anatomy or insertion illustration. Warm ivory, sage and dusty peach gouache, calm respectful mood, natural hands, clear generous composition. No exercise demonstration, phone UI, writing, brand, certification, before/after or cure imagery.",
+      "tool": "built-in image_gen",
+      "visual_inspection": "Inspected generated image: coherent objects, relevant editorial comparison or consultation, no fabricated UI or exercise instructions.",
+      "asset": "pelvic_gym/assets/illustrations/pelvic-floor-exercises-with-pessary.webp",
+      "bytes": 115530,
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "review_status": "No clinician engaged. No independent review claimed; draft bladder diary remains private.",
+  "measurement": {
+    "status": "authentication_required",
+    "private_snapshot": "../seo-analytics/snapshots/2026-11-12-2200/snapshot.json",
+    "private_report": "../seo-analytics/snapshots/2026-11-12-2200/report.html",
+    "method": "Isolated persistent headless Playwright; regular browser not used",
+    "sign_in": "Deferred by user earlier on2026-11-12; no duplicate request",
+    "checkpoint": "Nov7 completed previously; next Nov14"
+  },
+  "validation": {
+    "status": "passed",
+    "automated": "Both builds, both journal validators, both analytics suites, JS syntax,34city tests and duplicate-content audit passed;149public pages.",
+    "protected_files_checked": 199,
+    "protected_changes": 0,
+    "original_publication_dates_checked": 131,
+    "capacity_before": {
+      "working_file_bytes": 50131506,
+      "git_object_bytes": 83670016
+    },
+    "capacity_after": {
+      "working_file_bytes": 50728354,
+      "git_object_bytes": 83670016,
+      "can_add_illustrations": true
+    },
+    "layout": "All six new/updated pages checked in isolated headless Playwright at1440px and390px: no overflow, all images load, correct Safari app metadata and official badges. Mobile tables and desktop report visually inspected."
+  },
+  "deployment": {
+    "status": "awaiting_push"
+  },
+  "notification": {
+    "channel": "existing_chat",
+    "telegram": "Destination pending; no message sent."
+  },
+  "checked_sources": [
+    {
+      "url": "https://www.lorealparisusa.com/beauty-magazine/makeup/eye-makeup/black-mascara-vs-brown-mascara",
+      "checked": "2026-11-12",
+      "access": "readable primary page"
+    },
+    {
+      "url": "https://www.fda.gov/cosmetics/cosmetic-products/eye-cosmetic-safety",
+      "checked": "2026-11-12",
+      "access": "readable primary page"
+    },
+    {
+      "url": "https://www.wolford.com/en-gb/our-tights-guide",
+      "checked": "2026-11-12",
+      "access": "readable primary page"
+    },
+    {
+      "url": "https://www.ftc.gov/business-guidance/industry/clothing-and-textiles",
+      "checked": "2026-11-12",
+      "access": "readable primary page"
+    },
+    {
+      "url": "https://www.adobe.com/creativecloud/photography/technique/white-balance.html",
+      "checked": "2026-11-12",
+      "access": "readable primary page"
+    },
+    {
+      "url": "https://www.whittington.nhs.uk/mini-apps/leaflet/?id=602",
+      "checked": "2026-11-12",
+      "access": "readable primary page"
+    },
+    {
+      "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/pelvic-organ-prolapse/",
+      "checked": "2026-11-12",
+      "access": "readable primary page"
+    },
+    {
+      "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes",
+      "checked": "2026-11-12",
+      "access": "readable primary page"
+    },
+    {
+      "url": "https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/",
+      "checked": "2026-11-12",
+      "access": "readable primary page"
+    },
+    {
+      "url": "https://www.nice.org.uk/guidance/ng210/chapter/Recommendations",
+      "checked": "2026-11-12",
+      "access": "indexed primary text only; full page403"
+    }
+  ],
+  "additional_changes": [
+    "Four contextual incoming links; link-only edits preserve dates.",
+    "Two regular Stylist topic hubs updated; Pelvic categories generated automatically.",
+    "Four original illustrations with8responsive variants; full-resolution masters private."
+  ]
+}

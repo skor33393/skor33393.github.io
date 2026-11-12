@@ -1,0 +1,74 @@
+{
+  "slug": "choose-winter-coat-color",
+  "title": "What winter coat color will work with my wardrobe?",
+  "seoTitle": "What winter coat color will work with my wardrobe? | Stylist AI",
+  "description": "Choose a winter coat color using five outfits you already wear, your usual boots and a realistic care check. Compare navy, camel and burgundy before buying.",
+  "category": "Everyday style",
+  "datePublished": "2026-11-12",
+  "dateModified": "2026-11-12",
+  "sourcesChecked": "2026-11-12",
+  "excerpt": "Choose a winter coat color using five outfits you already wear, your usual boots and a realistic care check. Compare navy, camel and burgundy before buying.",
+  "quickAnswer": "Choose the coat color that works with the outfits, boots and layers you use most. Test a dark neutral, a lighter neutral and an accent against five real outfits. The most useful choice is the one you will wear comfortably without needing to replace the rest of your wardrobe.",
+  "sections": [
+    {
+      "id": "coat-job",
+      "title": "Write the coat’s job before choosing its shade",
+      "html": "<p>A daily commuting coat has a different job from an occasional evening coat. Write down where you will wear it, the layers it must fit over and whether it will spend much of the day open or fastened. These decisions affect how much of the outfit is visible beside it.</p><p>Choose a practical silhouette and level of warmth first. A color you love will not compensate for sleeves that restrict your movement or a coat that cannot accommodate your usual sweater. Compare colors within the kind of coat you actually need.</p>"
+    },
+    {
+      "id": "five-outfits",
+      "title": "Build a five-outfit coat shortlist",
+      "html": "<p>Pull together five combinations from your own week: a work outfit, a casual outfit, something for wet weather, an evening option and your most repeated everyday look. Use substitutes that reflect your life; this is a small wardrobe sample, not a new shopping list.</p><p>For each candidate coat, mark every outfit <strong>ready to wear</strong>, <strong>works with an existing accessory</strong> or <strong>would need a purchase</strong>. Do not turn these marks into a scientific compatibility score. Their purpose is to reveal which choice depends on imaginary clothes you do not own.</p><table><thead><tr><th>Example outfit</th><th>Navy coat</th><th>Camel coat</th><th>Burgundy coat</th></tr></thead><tbody><tr><td>Charcoal trousers, cream knit, black boots</td><td>Compare a dark frame around the lighter knit.</td><td>Try a warm, lighter outer layer.</td><td>Let the coat supply the main color accent.</td></tr><tr><td>Blue jeans, gray sweater, brown boots</td><td>Check whether you enjoy the different blues together.</td><td>Compare the coat with the existing brown boots.</td><td>Keep the rest simple and inspect the red-blue combination.</td></tr></tbody></table><p>The cover illustrates the first outfit with all three coat colors. None is the winner for every wardrobe. Your remaining outfits are what make the comparison personal.</p>"
+    },
+    {
+      "id": "near-face",
+      "title": "Try the collar with your usual scarf",
+      "html": "<p>A coat can occupy a large area near your face, especially when fastened. Wear the scarf, glasses and knitwear you expect to use with it. Check the open and closed versions rather than judging a small fabric square on its own.</p><p>If you like the coat but want a different color at the neckline, test a scarf you already own. Keep the coat if the full combination works for you; you do not need every garment to sit inside one seasonal palette. Our <a href=\"/stylist_ai/blog/season-neutrals-do-not-suit-me/\">guide to choosing your own neutrals</a> can help if the expected choices feel wrong.</p>"
+    },
+    {
+      "id": "care-and-photo",
+      "title": "Check the unglamorous details before deciding",
+      "html": "<p>Ask to see the care label and factor in the maintenance you are willing to do. The <a href=\"https://www.ftc.gov/business-guidance/industry/clothing-and-textiles\">FTC’s clothing guidance</a> explains the role of care instructions and fiber labels. The useful shopping question is simple: can you look after this particular coat as instructed, at a cost and effort that fit your routine?</p><p>If shopping online, inspect several product views and the return terms. <a href=\"https://www.adobe.com/creativecloud/photography/technique/white-balance.html\">Adobe explains that lighting and white balance affect photographic colors</a>, so a screen image is a starting reference. Do not buy replacement shoes solely because an online coat photo seems a slightly different brown.</p>"
+    },
+    {
+      "id": "decision",
+      "title": "Use the tie-breaker that matters to you",
+      "html": "<p>If two colors work equally well, choose the one you are more excited to put on. If one requires three new accessories, include those purchases in the decision. If neither works over your usual clothes, reconsider the coat itself before expanding the shopping list.</p><p>For example: “Navy works with all five outfits, but I keep reaching for burgundy, and it works with four without buying anything.” That is a reasonable choice of an accent coat. You do not have to maximize the number of matches at the expense of enjoying what you wear.</p><p>Stylist AI can suggest palette directions and color combinations for your shortlist. Use its camera-based color comparison when exploring a real garment, then return to the five outfits, fit and care requirements to make the purchase decision. The <a href=\"/stylist_ai/blog/buy-clothes-you-will-wear/\">wear-before-you-buy checklist</a> helps with the final check.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is black always the most versatile winter coat color?",
+      "answer": "No single color is most versatile for every wardrobe. Compare black or another dark neutral with the shoes, trousers and layers you already repeat."
+    },
+    {
+      "question": "Can a colorful coat be my everyday coat?",
+      "answer": "Yes, if you enjoy repeating it and it works with your ordinary outfits. Check several real combinations instead of assuming that an everyday coat must be neutral."
+    }
+  ],
+  "sources": [
+    {
+      "title": "FTC: Clothing and textiles",
+      "url": "https://www.ftc.gov/business-guidance/industry/clothing-and-textiles"
+    },
+    {
+      "title": "Adobe: White balance",
+      "url": "https://www.adobe.com/creativecloud/photography/technique/white-balance.html"
+    }
+  ],
+  "related": [
+    "black-wardrobe-alternatives",
+    "buy-clothes-you-will-wear",
+    "season-neutrals-do-not-suit-me"
+  ],
+  "keyword": "What winter coat color will work with my wardrobe?",
+  "sourceNote": "The comparisons and outfit examples are original editorial suggestions. Choose the effect you enjoy and use the cited sources for product-care, photography or safety facts.",
+  "ctaTitle": "Explore a coat color you will keep wearing.",
+  "ctaText": "Try Stylist AI’s palette and color-combination ideas with the clothes already in your wardrobe.",
+  "illustration": {
+    "src": "/stylist_ai/blog/assets/illustrations/choose-winter-coat-color.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Navy, camel and burgundy coats each compared with charcoal trousers, a cream knit and black ankle boots."
+  }
+}

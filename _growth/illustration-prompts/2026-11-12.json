@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "brown-or-black-mascara",
+    "app": "stylist_ai",
+    "prompt": "Use case: illustration-story. Create a landscape 3:2 original beauty journal illustration: two unbranded mascara wands and open tubes on warm ivory paper, one clearly dark brown and one black, beside a small mirror and brown and black pigment brush strokes. Restrained editorial gouache with delicate realistic bristle detail, soft tactile shadows, generous negative space. Clearly distinguish the two pigment colors. No writing, logos, faces, before/after, extra products or phone UI.",
+    "tool": "built-in image_gen",
+    "visual_inspection": "Inspected generated image: coherent objects, relevant editorial comparison or consultation, no fabricated UI or exercise instructions.",
+    "asset": "stylist_ai/blog/assets/illustrations/brown-or-black-mascara.webp",
+    "bytes": 85976,
+    "width": 1200,
+    "height": 800
+  },
+  {
+    "slug": "choose-tights-color",
+    "app": "stylist_ai",
+    "prompt": "Use case: illustration-story. Landscape 3:2 original fashion editorial gouache illustration on warm ivory. Three evenly spaced stylized flat-lay outfit arrangements: the same simple navy knee-length dress in each, paired left with opaque black tights and black Mary Jane shoes, middle with charcoal tights and black Mary Jane shoes, right with burgundy tights and burgundy Mary Jane shoes. Each pair of tights has two anatomically coherent legs ending inside shoes. No people, no text, no logos or devices. Distinct leg colors, identical dress silhouettes, airy comparison composition. This illustrates outfit choices, not before/after.",
+    "tool": "built-in image_gen",
+    "visual_inspection": "Inspected generated image: coherent objects, relevant editorial comparison or consultation, no fabricated UI or exercise instructions.",
+    "asset": "stylist_ai/blog/assets/illustrations/choose-tights-color.webp",
+    "bytes": 31640,
+    "width": 1200,
+    "height": 800
+  },
+  {
+    "slug": "choose-winter-coat-color",
+    "app": "stylist_ai",
+    "prompt": "Use case: illustration-story. Landscape 3:2 original fashion journal illustration. An airy wardrobe decision flat lay on warm ivory: three separate wool winter coats, one dark navy, one camel, one burgundy, arranged in three columns. Beneath each coat repeat the same charcoal trousers, cream knit and black ankle boots, smaller in scale but clearly recognizable. Sophisticated textured gouache, neat clothing silhouettes, muted natural light, editorial rather than sales image. No people, text, logos, phone UI or decorative unrelated objects.",
+    "tool": "built-in image_gen",
+    "visual_inspection": "Inspected generated image: coherent objects, relevant editorial comparison or consultation, no fabricated UI or exercise instructions.",
+    "asset": "stylist_ai/blog/assets/illustrations/choose-winter-coat-color.webp",
+    "bytes": 65938,
+    "width": 1200,
+    "height": 800
+  },
+  {
+    "slug": "pelvic-floor-exercises-with-pessary",
+    "app": "pelvic_gym",
+    "prompt": "Use case: illustration-story. Landscape 3:2 original health journal editorial illustration: a middle-aged woman in ordinary fully covering clothes seated comfortably at a consultation desk, discussing a simple unlabelled paper calendar and notebook with a clinician. A modest silicone ring pessary on a small clinical tray on desk, shown only as a simple cream ring, no internal anatomy or insertion illustration. Warm ivory, sage and dusty peach gouache, calm respectful mood, natural hands, clear generous composition. No exercise demonstration, phone UI, writing, brand, certification, before/after or cure imagery.",
+    "tool": "built-in image_gen",
+    "visual_inspection": "Inspected generated image: coherent objects, relevant editorial comparison or consultation, no fabricated UI or exercise instructions.",
+    "asset": "pelvic_gym/assets/illustrations/pelvic-floor-exercises-with-pessary.webp",
+    "bytes": 115530,
+    "width": 1200,
+    "height": 800
+  }
+]

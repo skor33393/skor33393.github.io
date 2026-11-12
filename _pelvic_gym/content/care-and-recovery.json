@@ -435,6 +435,11 @@
         "html": "<p>The NHS advises avoiding activities that put substantial strain on the pelvic floor, including heavy lifting and high-impact exercise. <a href=\"https://www.royalberkshire.nhs.uk/media/pnynkf5w/exercising-with-a-pelvic-organ-prolapse.pdf\">Royal Berkshire's exercise leaflet</a> lists options such as swimming, walking, water-based classes and seated cycling. These are starting points for discussion, not a guarantee that every version suits every person.</p><p>Instead of asking only “Is this exercise safe?”, give your clinician the details: the class length, whether it includes jumping, the load you lift and what you feel during and afterward. A short gentle session and a demanding class can share the same activity name.</p><p>Agree which variable to adjust first. You might discuss duration, impact or load rather than changing everything simultaneously. If symptoms are noticeably worse, reduce the provoking activity and arrange advice rather than pushing through to test your limits.</p>"
       },
       {
+        "id": "walking-and-training",
+        "title": "Does walking replace pelvic floor exercises?",
+        "html": "<p>Walking and a prescribed pelvic floor programme are different activities. <a href=\"https://www.nice.org.uk/guidance/ng210/chapter/Recommendations#managing-pelvic-floor-dysfunction\">NICE guideline NG210, recommendation 1.6.12</a>, says there is no evidence that unsupervised activity such as walking or swimming improves or worsens pelvic floor dysfunction symptoms. This is an evidence gap; it is not proof that walking cures prolapse, or that everyone must avoid it.</p><p>If you have been given a muscle-training plan, do not count a walk as its replacement without discussing that change. Equally, you do not need to turn a walk into a continuous series of squeezes.</p><p>Bring a specific walking task to your review: “I want to walk to the shops, but I notice heaviness before I get home.” Note the route, carrying load and when symptoms start. Ask whether the task, your support options or the exercise plan should change. Adjustments can then address a real activity instead of an arbitrary step target.</p><p>If you use a support device, our <a href=\"/pelvic_gym/articles/pelvic-floor-exercises-with-pessary/\">pessary and exercise guide</a> separates the questions about training, device care and follow-up.</p>"
+      },
+      {
         "id": "record",
         "title": "Use a simple activity record",
         "html": "<p>A short record can make an exercise discussion more specific. For a few typical activities, note:</p><table><thead><tr><th>What you did</th><th>What to record</th></tr></thead><tbody><tr><td>Walk or class</td><td>Duration, impact and how symptoms behaved.</td></tr><tr><td>Home or work task</td><td>The object, repeated lifts or time spent standing.</td></tr><tr><td>Afterward</td><td>Whether discomfort settled or affected the rest of the day.</td></tr></tbody></table><p>This is not a way to assign yourself a stage or declare an activity harmless. It gives your clinician something concrete to work with. Include activities you enjoy and need to keep doing, so the plan can address real priorities rather than simply shrinking your life.</p>"
@@ -453,6 +458,10 @@
       {
         "question": "Is a pessary the same as a vaginal weight?",
         "answer": "No. A pessary supports a prolapse and is fitted for that purpose. A vaginal weight is used in some exercise programmes. Do not substitute one for the other."
+      },
+      {
+        "question": "Can walking replace my pelvic floor routine?",
+        "answer": "Do not assume so. Walking and prescribed pelvic floor training are different activities. Discuss any replacement or change with the professional guiding your care."
       }
     ],
     "sources": [
@@ -479,6 +488,10 @@
       {
         "title": "NHS: Pelvic pain and warning signs",
         "url": "https://www.nhs.uk/symptoms/pelvic-pain/"
+      },
+      {
+        "title": "NICE NG210: Pelvic floor dysfunction recommendations",
+        "url": "https://www.nice.org.uk/guidance/ng210/chapter/Recommendations"
       }
     ],
     "related": [
@@ -489,9 +502,9 @@
     "cta": "assessment",
     "keyword": "pelvic organ prolapse exercise",
     "researchNote": "Sources checked 2026-10-24. Activity planning and treatment-options intent. Avoids promises of anatomical cure and universal exercise clearance; symptom-led review does not replace examination.",
-    "dateModified": "2026-11-01",
+    "dateModified": "2026-11-12",
     "datePublished": "2026-10-24",
-    "sourceCheckNote": "Existing article sources retain their previously recorded check dates. The New postpartum symptoms before the routine check section was checked against its linked sources on November 1, 2026."
+    "sourceCheckNote": "Existing article sources retain their previously recorded check dates. The New postpartum symptoms before the routine check section was checked against its linked sources on November 1, 2026. Walking section checked against the indexed official text of NICE NG210 recommendation 1.6.12 on November 12, 2026; earlier source-check dates remain applicable to the other sections."
   },
   {
     "slug": "painful-sex-and-pelvic-floor",
@@ -664,7 +677,7 @@
       {
         "id": "checklist",
         "title": "A practical checklist before spending money",
-        "html": "<p>Make sure you can answer these questions in plain language:</p><ul><li>What specific problem is this intended to help me address?</li><li>Who has checked that I can use it appropriately?</li><li>What does it measure or do, and what can it not tell me?</li><li>What are the instructions for cleaning, storage, use and stopping?</li><li>Can I review the instructions and return policy before purchase?</li><li>Does the connected app collect intimate health information, and can I control or delete it?</li></ul><p>If a device is recommended, keep one agreed programme and confirm when it will be reviewed. Do not combine its routine with extra sets from other sources simply to accelerate progress. If the purpose remains unclear, a <a href=\"/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/\">technique assessment</a> is a more useful next step than choosing the most elaborate model.</p>"
+        "html": "<p>Make sure you can answer these questions in plain language:</p><ul><li>What specific problem is this intended to help me address?</li><li>Who has checked that I can use it appropriately?</li><li>What does it measure or do, and what can it not tell me?</li><li>What are the instructions for cleaning, storage, use and stopping?</li><li>Can I review the instructions and return policy before purchase?</li><li>Does the connected app collect intimate health information, and can I control or delete it?</li></ul><p>If a device is recommended, keep one agreed programme and confirm when it will be reviewed. Do not combine its routine with extra sets from other sources simply to accelerate progress. If the purpose remains unclear, a <a href=\"/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/\">technique assessment</a> is a more useful next step than choosing the most elaborate model.</p><p>If you have a fitted support pessary, read <a href=\"/pelvic_gym/articles/pelvic-floor-exercises-with-pessary/\">how to discuss pelvic floor exercises with a pessary in place</a>. Its care and review instructions are separate from an exercise-device routine.</p>"
       }
     ],
     "faqs": [

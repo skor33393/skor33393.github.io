@@ -229,6 +229,11 @@
         "id": "rest-and-progression",
         "title": "Rest is part of the exercise",
         "html": "<p>The <a href=\"https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pelvic-floor\">Victorian Government's Better Health Channel</a> emphasizes being able to release the muscles fully between contractions. “More often” should not mean holding tension all day. Practice has a beginning and an end.</p><p>When the routine feels easier, make a note for your next review. Ask which part should change, if any: the position, hold, repetitions or maintenance schedule. Changing several things at once makes it harder to explain what you actually practiced. Our guide to <a href=\"/pelvic_gym/articles/how-long-do-kegels-take-to-work/\">how long Kegels take to work</a> can help you track progress beyond a streak.</p>"
+      },
+      {
+        "id": "maintenance",
+        "title": "Do I need to keep doing Kegels after I improve?",
+        "html": "<p>Improvement is a reason to review the plan, not to assume that all exercise should stop. <a href=\"https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/\">Cambridge University Hospitals recommends ongoing pelvic floor exercise</a> because muscles can weaken when they are not used. That does not mean everyone should keep the same rehabilitation dose indefinitely.</p><p>At your review, ask for a maintenance plan you can describe in a few lines:</p><ul><li><strong>Keep:</strong> which exercises remain useful for my goals?</li><li><strong>Schedule:</strong> how often should I practise now, with what rest?</li><li><strong>Review:</strong> what changes in symptoms or daily activities should prompt another appointment?</li></ul><p>For example: “I can now get through my usual walk without the previous leakage. Should my routine change, and when should we review it?” This gives your clinician a concrete outcome to consider. A streak of completed sessions alone does not show whether the programme is still the right fit.</p><p>If pain, difficulty releasing or trouble emptying develops, do not respond by restoring a harder routine on your own. Seek advice about the new symptoms. If guided strengthening remains appropriate, use Pelvic Gym alongside the revised instructions rather than stacking a new app workout on top of them.</p>"
       }
     ],
     "faqs": [
@@ -243,6 +248,10 @@
       {
         "question": "Will an app tell me whether I am doing them correctly?",
         "answer": "A timer or reminder can organize a routine, but it cannot confirm an internal lift and release. If technique is uncertain, arrange an assessment."
+      },
+      {
+        "question": "Can I stop pelvic floor exercises once leakage improves?",
+        "answer": "Ask for a maintenance review. Ongoing exercise is commonly recommended, but the routine and review triggers should fit your needs rather than staying at an unchanged rehabilitation dose forever."
       }
     ],
     "sources": [
@@ -278,7 +287,9 @@
     ],
     "cta": "routine",
     "keyword": "how often to do kegels",
-    "researchNote": "Frequency and adherence intent. Common clinical schedules are contextualized, not prescribed universally. Original habit-planning framework; sources checked 2026-10-24."
+    "researchNote": "Frequency and adherence intent. Common clinical schedules are contextualized, not prescribed universally. Original habit-planning framework; sources checked 2026-10-24.",
+    "dateModified": "2026-11-12",
+    "sourceCheckNote": "Maintenance section checked against Cambridge University Hospitals patient guidance on November 12, 2026; this update does not imply a new check of every earlier source."
   },
   {
     "slug": "how-long-do-kegels-take-to-work",
