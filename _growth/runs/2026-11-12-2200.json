@@ -1,6 +1,6 @@
 {
   "run_id": "2026-11-12-2200",
-  "status": "deployment_pending",
+  "status": "completed",
   "started_at": "2026-11-12T18:01:05.877Z",
   "timezone": "Asia/Dubai",
   "schedule_local": "22:00",
@@ -304,10 +304,21 @@
       "git_object_bytes": 83670016,
       "can_add_illustrations": true
     },
-    "layout": "All six new/updated pages checked in isolated headless Playwright at1440px and390px: no overflow, all images load, correct Safari app metadata and official badges. Mobile tables and desktop report visually inspected."
+    "layout": "All six new/updated pages checked in isolated headless Playwright at1440px and390px: no overflow, all images load, correct Safari app metadata and official badges. Mobile tables and desktop report visually inspected.",
+    "live": {
+      "checked": 384,
+      "passed": 384,
+      "failed": [],
+      "verified_at": "2026-11-12T18:25:42.756006+00:00"
+    }
   },
   "deployment": {
-    "status": "awaiting_push"
+    "status": "built_and_verified",
+    "commit": "07048474b4382b3a23f63ae0f814bf6d9f563173",
+    "pages_built_at": "2026-11-12T18:24:55Z",
+    "verified_at": "2026-11-12T18:25:42.756006+00:00",
+    "checked": 384,
+    "passed": 384
   },
   "notification": {
     "channel": "existing_chat",
@@ -369,5 +380,9 @@
     "Four contextual incoming links; link-only edits preserve dates.",
     "Two regular Stylist topic hubs updated; Pelvic categories generated automatically.",
     "Four original illustrations with8responsive variants; full-resolution masters private."
-  ]
+  ],
+  "completion": "published_with_shortfall",
+  "verified_at": "2026-11-12T18:25:42.756006+00:00",
+  "completed_at": "2026-11-12T18:25:42.756006+00:00",
+  "published_commit": "07048474b4382b3a23f63ae0f814bf6d9f563173"
 }

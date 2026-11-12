@@ -25,7 +25,7 @@
     "2026-11-09-2200": "completed",
     "2026-11-10-2200": "completed",
     "2026-11-11-2200": "completed",
-    "2026-11-12-2200": "deployment_pending"
+    "2026-11-12-2200": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -651,6 +651,27 @@
         "run_id": "2026-11-11-2200",
         "status": "new",
         "verified_at": "2026-11-11T18:24:14.048000+00:00"
+      },
+      {
+        "question_url": "https://everlyspark.com/blog/20261110-01-brown-vs-black-mascara-color-then-formula-en/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/brown-or-black-mascara/",
+        "run_id": "2026-11-12-2200",
+        "status": "new",
+        "verified_at": "2026-11-12T18:25:42.756006+00:00"
+      },
+      {
+        "question_url": "https://www.whowhatwear.com/fashion/winter/winter-tights-trends-2026",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/choose-tights-color/",
+        "run_id": "2026-11-12-2200",
+        "status": "new",
+        "verified_at": "2026-11-12T18:25:42.756006+00:00"
+      },
+      {
+        "question_url": "https://www.thedailybeast.com/winter-jacket-trends-stylish-people-are-already-wearing",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/choose-winter-coat-color/",
+        "run_id": "2026-11-12-2200",
+        "status": "new",
+        "verified_at": "2026-11-12T18:25:42.756006+00:00"
       }
     ],
     "pelvic_gym": [
@@ -1213,6 +1234,27 @@
         "run_id": "2026-11-11-2200",
         "status": "updated",
         "verified_at": "2026-11-11T18:24:14.048000+00:00"
+      },
+      {
+        "question_url": "https://www.whittington.nhs.uk/mini-apps/leaflet/?id=602",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-exercises-with-pessary/",
+        "run_id": "2026-11-12-2200",
+        "status": "new",
+        "verified_at": "2026-11-12T18:25:42.756006+00:00"
+      },
+      {
+        "question_url": "https://www.nice.org.uk/guidance/ng210/chapter/Recommendations",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-organ-prolapse-exercise/",
+        "run_id": "2026-11-12-2200",
+        "status": "updated",
+        "verified_at": "2026-11-12T18:25:42.756006+00:00"
+      },
+      {
+        "question_url": "https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/how-often-to-do-kegels/",
+        "run_id": "2026-11-12-2200",
+        "status": "updated",
+        "verified_at": "2026-11-12T18:25:42.756006+00:00"
       }
     ]
   },
