@@ -1,6 +1,6 @@
 {
   "run_id": "2026-11-13-2200",
-  "status": "pending_deployment",
+  "status": "completed",
   "started_at": "2026-11-13T18:03:44.465Z",
   "timezone": "Asia/Dubai",
   "selected": [
@@ -486,22 +486,36 @@
     },
     "capacity_after": {
       "measurement": "Working files excluding Git/runtime/build caches; includes source and research files normally excluded by Jekyll, so this overestimates the static payload. Git object storage is measured separately.",
-      "working_file_bytes": 51328147,
-      "git_object_bytes": 84702208,
+      "working_file_bytes": 51336254,
+      "git_object_bytes": 86254592,
       "published_site_limit_bytes": 1000000000,
       "illustration_stop_threshold_bytes": 800000000,
       "can_add_illustrations": true,
-      "remaining_to_site_limit_bytes": 948671853,
+      "remaining_to_site_limit_bytes": 948663746,
       "reference": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
+    },
+    "live": {
+      "checked": 396,
+      "passed": 396,
+      "failed": [],
+      "verified_at": "2026-11-13T18:24:49.876956+00:00"
     }
   },
   "deployment": {
-    "status": "pending",
-    "commit": null
+    "status": "built_and_verified",
+    "commit": "e2863de240fb01b39126cc8a4ffe65888240f19f",
+    "pages_built_at": "2026-11-13T18:23:13Z",
+    "verified_at": "2026-11-13T18:24:49.876956+00:00",
+    "checked": 396,
+    "passed": 396
   },
   "additional_changes": [
     "Three contextual incoming links preserve editorial dates.",
     "Three regular topic-hub routes added; city exclusion preserved.",
     "Three compressed covers plus6responsive variants; masters kept private."
-  ]
+  ],
+  "completion": "published",
+  "completed_at": "2026-11-13T18:24:49.876956+00:00",
+  "verified_at": "2026-11-13T18:24:49.876956+00:00",
+  "published_commit": "e2863de240fb01b39126cc8a4ffe65888240f19f"
 }

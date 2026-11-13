@@ -26,7 +26,7 @@
     "2026-11-10-2200": "completed",
     "2026-11-11-2200": "completed",
     "2026-11-12-2200": "completed",
-    "2026-11-13-2200": "pending_deployment"
+    "2026-11-13-2200": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -673,6 +673,41 @@
         "run_id": "2026-11-12-2200",
         "status": "new",
         "verified_at": "2026-11-12T18:25:42.756006+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xvd1jw/autumn_vs_summer_will_lipstick_help_with_typing/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/choose-lipstick-color/",
+        "run_id": "2026-11-13-2200",
+        "status": "updated",
+        "verified_at": "2026-11-13T18:24:49.876956+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xuifgg/help_type_me/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/choose-yarn-color-for-sweater/",
+        "run_id": "2026-11-13-2200",
+        "status": "new",
+        "verified_at": "2026-11-13T18:24:49.876956+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xrlxz3/daily_questions_thread_november_09_2026/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/hot-weather-date-night-outfits/",
+        "run_id": "2026-11-13-2200",
+        "status": "new",
+        "verified_at": "2026-11-13T18:24:49.876956+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xrlxz3/daily_questions_thread_november_09_2026/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/buy-clothes-you-will-wear/",
+        "run_id": "2026-11-13-2200",
+        "status": "updated",
+        "verified_at": "2026-11-13T18:24:49.876956+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xod28l/daily_questions_thread_november_05_2026/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/coordinate-outfit-colors-for-photos/",
+        "run_id": "2026-11-13-2200",
+        "status": "new",
+        "verified_at": "2026-11-13T18:24:49.876956+00:00"
       }
     ],
     "pelvic_gym": [
@@ -1256,6 +1291,41 @@
         "run_id": "2026-11-12-2200",
         "status": "updated",
         "verified_at": "2026-11-12T18:25:42.756006+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/Perimenopause/comments/1xufstf/frequent_nighttime_pee_trips_are_killing_me/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/peeing-at-night-women/",
+        "run_id": "2026-11-13-2200",
+        "status": "updated",
+        "verified_at": "2026-11-13T18:24:49.876956+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicOrganProlapse/comments/1xsy2hr/9months_pp/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/postpartum-pelvic-floor-recovery/",
+        "run_id": "2026-11-13-2200",
+        "status": "updated",
+        "verified_at": "2026-11-13T18:24:49.876956+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xui8gd/hypertonic_pelvic_floor_pt_does_my_treatment/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/find-pelvic-floor-physiotherapy/",
+        "run_id": "2026-11-13-2200",
+        "status": "updated",
+        "verified_at": "2026-11-13T18:24:49.876956+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xok55a/pelvic_floor/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-and-constipation/",
+        "run_id": "2026-11-13-2200",
+        "status": "updated",
+        "verified_at": "2026-11-13T18:24:49.876956+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/Incontinence/comments/1xodism/feeling_hopeless_can_pelvic_floor_therapy_be/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/",
+        "run_id": "2026-11-13-2200",
+        "status": "updated",
+        "verified_at": "2026-11-13T18:24:49.876956+00:00"
       }
     ]
   },
