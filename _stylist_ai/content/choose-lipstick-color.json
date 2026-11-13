@@ -5,7 +5,7 @@
   "description": "Compare lipstick warmth, depth and coverage separately. Use a three-pair swatch plan and a simple wear note to choose a color you want to use.",
   "category": "Everyday style",
   "datePublished": "2026-11-08",
-  "dateModified": "2026-11-09",
+  "dateModified": "2026-11-13",
   "sourcesChecked": "2026-11-08",
   "sortOrder": -2,
   "excerpt": "Compare lipstick warmth, depth and coverage separately. Use a three-pair swatch plan and a simple wear note to choose a color you want to use.",
@@ -25,6 +25,11 @@
       "id": "photos",
       "title": "When photos disagree, simplify the comparison",
       "html": "<p>Use the same room, light and camera setup for the two candidates. Keep the rest of the makeup and clothing similar, and avoid filters that change the appearance of your skin or lips. <a href=\"https://www.adobe.com/creativecloud/photography/technique/white-balance.html\">Adobe explains how white balance changes photographic color</a>; a warm indoor lamp and a cool window can make the same shade look quite different.</p><p>Check the original photo as well as any shared copy. If a posted picture looks grayer than the original, do not use that change to settle a fine warm-versus-cool choice. Our <a href=\"/stylist_ai/blog/color-analysis-photo-lighting/\">photo setup guide</a> helps make a repeat comparison more useful.</p><p>A hand swatch can help compare products, but it does not reproduce the whole effect on your face. If you try a store product, use the store’s hygienic sampling procedure; do not put a shared tester directly on your lips.</p>"
+    },
+    {
+      "id": "lipstick-typing",
+      "title": "Can lipstick decide whether you are Autumn or Summer?",
+      "html": "<p>A lipstick comparison can tell you which lip effect you prefer. It does not isolate a seasonal palette when the two products also differ in depth, coverage or finish. Buying several shades solely to settle the label may leave you with more products and the same uncertainty.</p><p>Use a comparison you already have and write an observation before a conclusion:</p><table><thead><tr><th>What you notice</th><th>A useful next comparison</th></tr></thead><tbody><tr><td>The matte shade feels too heavy</td><td>Try similar color with less coverage before rejecting its color family.</td></tr><tr><td>The deeper shade becomes the whole focus</td><td>Compare a lighter version before calling the warmth wrong.</td></tr><tr><td>The photos change more than the mirror view</td><td>Repeat in one setup before interpreting a subtle difference.</td></tr></tbody></table><p><a href=\"https://www.adobe.com/creativecloud/photography/technique/white-balance.html\">White balance changes photographic color</a>, so two differently lit pictures cannot provide a clean warm-versus-cool comparison. For the clothing question, use the <a href=\"/stylist_ai/blog/soft-summer-or-soft-autumn/\">Soft Summer versus Soft Autumn fabric exercise</a>. Keep the lipstick you enjoy even if the season remains unresolved.</p>"
     },
     {
       "id": "wear-note",
@@ -72,5 +77,5 @@
     "height": 800,
     "alt": "Three columns compare peach and cool rose, pale and deeper rose, and sheer and opaque lipstick swatches."
   },
-  "sourceCheckNote": "The Soft Summer comparison was added November 9, 2026 as an original styling exercise; earlier factual sources retain their recorded check dates."
+  "sourceCheckNote": "The Soft Summer comparison was added November 9, 2026 as an original styling exercise; earlier factual sources retain their recorded check dates. Added the lipstick-as-typing-test comparison using the linked photographic source and original styling examples. Checked November 13, 2026; this does not imply a new review of every earlier section."
 }

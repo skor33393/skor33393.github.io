@@ -27,6 +27,11 @@
       "html": "<p>Scarcity can make an unresolved fit problem feel like an opportunity you must not miss. Before buying a vintage or discontinued garment, separate the fact that you found it from the question of whether this particular example can work.</p><p>Ask for measurements taken with the fastening closed, clear interior photos and any known alteration history. Compare them with a similar garment you already wear comfortably. Do not assume a size label, a side zip or a fiber description tells you how much room can be added.</p><p>If alteration is essential, show the details to a qualified alterations professional before paying. Ask whether the proposed change is feasible, what it would look like, its likely cost and whether they need to inspect the garment in person. An unverified plan to let it out is still a risk, especially when returns are unavailable.</p><table><thead><tr><th>What you know</th><th>Decision</th></tr></thead><tbody><tr><td>It fits comfortably as measured and tried</td><td>Continue the normal condition, care and price checks.</td></tr><tr><td>It needs an alteration that has been assessed</td><td>Include the quote, timing and remaining uncertainty in the total decision.</td></tr><tr><td>It only works if an unknown amount can be added</td><td>Wait for an answer or leave it; rarity does not resolve the fit.</td></tr></tbody></table><p>Write a stopping rule before the search: “I will not buy a nonreturnable dress that depends on an unconfirmed bust alteration.” Choose the limit relevant to you. You do not need to make your body fit a scarce garment. The <a href=\"/stylist_ai/blog/find-discontinued-clothes/\">discontinued-clothing search guide</a> can help keep a search open for a better match.</p><p>Use Stylist AI for color and outfit ideas once those practical questions are answered. A palette match cannot make an uncomfortable garment worth keeping.</p>"
     },
     {
+      "id": "size-chart",
+      "title": "Why does the size chart disagree with what fits?",
+      "html": "<p>First check what the chart measures. Body dimensions and finished-garment measurements answer different questions. A flat chest width is also different from a full circumference. Follow the seller’s measuring diagram before comparing numbers.</p><p>As one retailer example, <a href=\"https://faq-uk.uniqlo.com/articles/en_US/Knowledge/How-to-choose-your-size\">UNIQLO explains that its product measurements describe the finished garment and recommends comparison with a similar item you own</a>. It also distinguishes regular, slim, relaxed and oversized fits. Do not assume another shop uses the same chart conventions.</p><p>Suppose a woven shirt you enjoy measures 54 cm across the chest when laid flat. A new shirt listed as 50 cm across at the same point is narrower on that measurement, even if both labels say M. That comparison is useful only when the method and garment type are comparable; it does not guarantee fit through the shoulders, arms or waist.</p><ul><li>Confirm whether the chart gives body or garment measurements and which units it uses.</li><li>Compare the important points with a similar comfortable garment, following the same method.</li><li>Check intended fit, stretch information, length and returns before ordering.</li></ul><p>Ask: “Does this chart show finished-garment dimensions? Could you confirm the chest width and length for this exact style and size, using your measurement diagram?” Choose the piece that fits your needs rather than chasing a consistent letter across brands. Stylist AI can help with the color choice; it does not determine garment size.</p>"
+    },
+    {
       "id": "movement",
       "title": "Try the ordinary movements that reveal friction",
       "html": "<p>A fitting-room pose answers a narrower question than a normal day. Within the shop’s rules, sit, reach, walk and put on your usual outer layer. Check the pocket opening, neckline, sleeve movement and waistband in those positions. If you are shopping online, repeat this indoors while preserving the item’s return condition.</p><table><thead><tr><th>Your day includes</th><th>Try before keeping it</th></tr></thead><tbody><tr><td>Desk work</td><td>Sitting, reaching forward and wearing your usual layer</td></tr><tr><td>Walking or commuting</td><td>A normal stride with the intended shoes and bag</td></tr><tr><td>Frequent temperature changes</td><td>Putting on and removing the layers you already carry</td></tr><tr><td>An event</td><td>The full outfit, including sitting and any required underlayers</td></tr></tbody></table><p>Separate a fix you will arrange from a fix you merely imagine. If tailoring is essential, obtain a realistic quote and timing before treating it as solved. “I can probably make this comfortable” is a different decision from “it is comfortable now.”</p>"
@@ -88,6 +93,10 @@
     {
       "title": "Adobe: White balance",
       "url": "https://www.adobe.com/creativecloud/photography/technique/white-balance.html"
+    },
+    {
+      "title": "UNIQLO UK: How to choose your size",
+      "url": "https://faq-uk.uniqlo.com/articles/en_US/Knowledge/How-to-choose-your-size"
     }
   ],
   "related": [
@@ -99,7 +108,7 @@
   "ctaTitle": "Check the color part of your next purchase.",
   "ctaText": "Use Stylist AI to explore a suggested palette, outfit color combinations and camera-based color comparison. Bring those ideas back to your real wardrobe before deciding.",
   "datePublished": "2026-10-31",
-  "dateModified": "2026-11-05",
+  "dateModified": "2026-11-13",
   "sourcesChecked": "2026-10-31",
   "sortOrder": -1,
   "seoTitle": "Will you actually wear it? A better clothing purchase checklist | Stylist AI",
@@ -110,5 +119,5 @@
     "height": 800,
     "alt": "A woman comparing a plum cardigan with an existing cream shirt, jeans and teal skirt at home."
   },
-  "sourceCheckNote": "Earlier source checks retain their recorded dates. The What if the rare piece is only available in the wrong size? section was checked on November 4, 2026. The Can an online photo settle whether a jacket fits your palette? section was checked against its linked sources on November 5, 2026. Its worked examples and question prompts are editorial resources."
+  "sourceCheckNote": "Earlier source checks retain their recorded dates. The What if the rare piece is only available in the wrong size? section was checked on November 4, 2026. The Can an online photo settle whether a jacket fits your palette? section was checked against its linked sources on November 5, 2026. Its worked examples and question prompts are editorial resources. Added body-versus-garment measurement guidance and an original flat-width example. Checked November 13, 2026; this does not imply a new review of every earlier section."
 }

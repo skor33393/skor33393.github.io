@@ -1,0 +1,507 @@
+{
+  "run_id": "2026-11-13-2200",
+  "status": "pending_deployment",
+  "started_at": "2026-11-13T18:03:44.465Z",
+  "timezone": "Asia/Dubai",
+  "selected": [
+    {
+      "app": "stylist_ai",
+      "slug": "choose-lipstick-color",
+      "outcome": "updated",
+      "question": "Can lipstick comparisons determine my color season?",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xvd1jw/autumn_vs_summer_will_lipstick_help_with_typing/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-13",
+      "votes": 20,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Ordinary web-search indexed text displayed votes and dates; original Reddit not opened; current totals unknown.",
+      "question_form": "Generalized editorial wording; no sensitive anecdote retained.",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/choose-lipstick-color/",
+      "brief": {
+        "reader_decision": "Decide whether to buy lipstick as a typing test.",
+        "overlap_decision": "Existing lipstick guide owns the comparison; add a specific test-limit and decision example.",
+        "original_resource": "Three observations that distinguish finish, depth and color preference.",
+        "app_role": "Suggested palette narrows real products; app does not certify a season from lipstick."
+      },
+      "selection_reason": "Highest-attention usable newly posted generalizable makeup question; older personal shade-rating threads have more votes but duplicate the same intent.",
+      "recorded_at": "2026-11-13T18:15:00.725763+00:00",
+      "observed_between": [
+        "2026-11-13T18:03:44.465Z",
+        "2026-11-13T18:15:00.725763+00:00"
+      ]
+    },
+    {
+      "app": "stylist_ai",
+      "slug": "choose-yarn-color-for-sweater",
+      "outcome": "new",
+      "question": "How do I choose a color for my first knitted sweater?",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1xuifgg/help_type_me/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-12",
+      "votes": 3,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Ordinary web-search indexed text displayed votes and dates; original Reddit not opened; current totals unknown.",
+      "question_form": "Generalized editorial wording; no sensitive anecdote retained.",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/choose-yarn-color-for-sweater/",
+      "brief": {
+        "reader_decision": "Choose yarn before committing time to a sweater.",
+        "overlap_decision": "New task: swatch, garment compatibility and project choice; existing ready-made shopping guide is different.",
+        "original_resource": "Three yarn swatches against two existing outfits, with a keep/change decision note.",
+        "app_role": "Explore seasonal palette and combinations before checking actual yarn."
+      },
+      "selection_reason": "Recent explicit project decision; more popular typing threads lack a distinct uncovered task.",
+      "recorded_at": "2026-11-13T18:15:00.725763+00:00",
+      "observed_between": [
+        "2026-11-13T18:03:44.465Z",
+        "2026-11-13T18:15:00.725763+00:00"
+      ]
+    },
+    {
+      "app": "stylist_ai",
+      "slug": "hot-weather-date-night-outfits",
+      "outcome": "new",
+      "question": "What can I wear for a date in hot weather besides dresses or long trousers?",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xrlxz3/daily_questions_thread_november_09_2026/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-09",
+      "votes": 1,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Ordinary web-search indexed text displayed votes and dates; original Reddit not opened; current totals unknown.",
+      "question_form": "Generalized editorial wording; no sensitive anecdote retained.",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/hot-weather-date-night-outfits/",
+      "brief": {
+        "reader_decision": "Assemble an occasion outfit from separates for heat and comfort.",
+        "overlap_decision": "New occasion and garment constraints; office, home and wedding guides do not solve it.",
+        "original_resource": "Three illustrated separates outfits, seated try-on and a color swap.",
+        "app_role": "Color combinations for existing pieces, after comfort and venue checks."
+      },
+      "selection_reason": "Fresh question with two indexed replies (+2 and +3); other same-thread higher-score requests are brand lists, clinical footwear or already covered party intent.",
+      "recorded_at": "2026-11-13T18:15:00.725763+00:00",
+      "observed_between": [
+        "2026-11-13T18:03:44.465Z",
+        "2026-11-13T18:15:00.725763+00:00"
+      ]
+    },
+    {
+      "app": "stylist_ai",
+      "slug": "buy-clothes-you-will-wear",
+      "outcome": "updated",
+      "question": "Why does a size chart disagree with the clothes that fit me?",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xrlxz3/daily_questions_thread_november_09_2026/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-09",
+      "votes": 1,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Ordinary web-search indexed text displayed votes and dates; original Reddit not opened; current totals unknown.",
+      "question_form": "Generalized editorial wording; no sensitive anecdote retained.",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/buy-clothes-you-will-wear/",
+      "brief": {
+        "reader_decision": "Interpret body versus garment measurements before ordering.",
+        "overlap_decision": "Improve existing purchase checklist rather than another general shopping URL.",
+        "original_resource": "A worked flat-width comparison and exact message to a seller.",
+        "app_role": "Color selection after fit; no app sizing claim."
+      },
+      "selection_reason": "Distinct fresh purchase barrier within the same thread; no invented comment permalink or current vote count.",
+      "recorded_at": "2026-11-13T18:15:00.725763+00:00",
+      "observed_between": [
+        "2026-11-13T18:03:44.465Z",
+        "2026-11-13T18:15:00.725763+00:00"
+      ]
+    },
+    {
+      "app": "stylist_ai",
+      "slug": "coordinate-outfit-colors-for-photos",
+      "outcome": "new",
+      "question": "How can people coordinate outfit colors for a photo session without matching exactly?",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xod28l/daily_questions_thread_november_05_2026/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-06",
+      "votes": 1,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Ordinary web-search indexed text displayed votes and dates; original Reddit not opened; current totals unknown.",
+      "question_form": "Generalized editorial wording; no sensitive anecdote retained.",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/coordinate-outfit-colors-for-photos/",
+      "brief": {
+        "reader_decision": "Choose compatible outfits for a shared photograph.",
+        "overlap_decision": "New group-photo task; general wardrobe palette and color-analysis capture guides are adjacent.",
+        "original_resource": "Original three-person outfit board and backdrop/rehearsal checklist.",
+        "app_role": "Each person can use their palette; combine actual garments without forcing a shared season."
+      },
+      "selection_reason": "Expanded 30-day window after current typing questions duplicated coverage; indexed question has multiple replies. Thread posted Nov5, selected comment Nov6.",
+      "recorded_at": "2026-11-13T18:15:00.725763+00:00",
+      "observed_between": [
+        "2026-11-13T18:03:44.465Z",
+        "2026-11-13T18:15:00.725763+00:00"
+      ]
+    },
+    {
+      "app": "pelvic_gym",
+      "slug": "peeing-at-night-women",
+      "outcome": "updated",
+      "question": "What should I discuss if nighttime urination continues during perimenopause?",
+      "question_url": "https://www.reddit.com/r/Perimenopause/comments/1xufstf/frequent_nighttime_pee_trips_are_killing_me/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-12",
+      "votes": 39,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Ordinary web-search indexed text displayed votes and dates; original Reddit not opened; current totals unknown.",
+      "question_form": "Generalized editorial wording; no sensitive anecdote retained.",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/peeing-at-night-women/",
+      "brief": {
+        "reader_decision": "Prepare a review when reducing evening drinks has not solved waking.",
+        "overlap_decision": "Existing nocturia page; add perimenopause-specific review prompts without diagnosing hormones.",
+        "original_resource": "Separate waking, bladder symptoms and local discomfort in a short appointment note.",
+        "app_role": "Strengthening only if assessed as useful; not a sleep or hormone treatment."
+      },
+      "selection_reason": "Highest-attention relevant recent bladder question found; corroborating Nov12 +5 and Nov11 +1 questions share this intent.",
+      "recorded_at": "2026-11-13T18:15:00.725763+00:00",
+      "observed_between": [
+        "2026-11-13T18:03:44.465Z",
+        "2026-11-13T18:15:00.725763+00:00"
+      ]
+    },
+    {
+      "app": "pelvic_gym",
+      "slug": "postpartum-pelvic-floor-recovery",
+      "outcome": "updated",
+      "question": "What if new leakage and pelvic pain appear months after an earlier postpartum assessment?",
+      "question_url": "https://www.reddit.com/r/PelvicOrganProlapse/comments/1xsy2hr/9months_pp/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-10",
+      "votes": 6,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Ordinary web-search indexed text displayed votes and dates; original Reddit not opened; current totals unknown.",
+      "question_form": "Generalized editorial wording; no sensitive anecdote retained.",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/postpartum-pelvic-floor-recovery/",
+      "brief": {
+        "reader_decision": "Request reassessment without assuming missed exercises caused new symptoms.",
+        "overlap_decision": "Improve the existing persistent-leak section, preserving the previous abdominal-pain discussion.",
+        "original_resource": "Then/now/change handover and practical appointment-access request.",
+        "app_role": "Use only a suitable revised strengthening plan, not catch-up repetitions for pain."
+      },
+      "selection_reason": "Recent changed-symptom question with continuing discussion; no personal clinical details retained.",
+      "recorded_at": "2026-11-13T18:15:00.725763+00:00",
+      "observed_between": [
+        "2026-11-13T18:03:44.465Z",
+        "2026-11-13T18:15:00.725763+00:00"
+      ]
+    },
+    {
+      "app": "pelvic_gym",
+      "slug": "find-pelvic-floor-physiotherapy",
+      "outcome": "updated",
+      "question": "How can I review a strengthening-heavy treatment plan when I was told my pelvic floor is overactive?",
+      "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xui8gd/hypertonic_pelvic_floor_pt_does_my_treatment/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-12",
+      "votes": 4,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Ordinary web-search indexed text displayed votes and dates; original Reddit not opened; current totals unknown.",
+      "question_form": "Generalized editorial wording; no sensitive anecdote retained.",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/find-pelvic-floor-physiotherapy/",
+      "brief": {
+        "reader_decision": "Choose clarification or another qualified opinion with a clear handover.",
+        "overlap_decision": "Existing service-selection page; add a specific contraction/relaxation review decision, not another general therapy page.",
+        "original_resource": "Three questions for current clinician and a second-opinion transfer note.",
+        "app_role": "App cannot judge treatment suitability; exercise only when agreed after assessment."
+      },
+      "selection_reason": "Recent concrete service decision; avoid adopting unverified treatment recommendations from replies.",
+      "recorded_at": "2026-11-13T18:15:00.725763+00:00",
+      "observed_between": [
+        "2026-11-13T18:03:44.465Z",
+        "2026-11-13T18:15:00.725763+00:00"
+      ]
+    },
+    {
+      "app": "pelvic_gym",
+      "slug": "pelvic-floor-and-constipation",
+      "outcome": "updated",
+      "question": "What should I ask when pelvic floor therapy has not improved constipation yet?",
+      "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1xok55a/pelvic_floor/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-05",
+      "votes": 5,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Ordinary web-search indexed text displayed votes and dates; original Reddit not opened; current totals unknown.",
+      "question_form": "Generalized editorial wording; no sensitive anecdote retained.",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-and-constipation/",
+      "brief": {
+        "reader_decision": "Distinguish learning a skill from improvement in bowel function and arrange review.",
+        "overlap_decision": "Existing constipation page already covers biofeedback; rewrite usable-plan section to include goal/timepoint/response rather than append a redundant article.",
+        "original_resource": "Baseline versus current function comparison and a review-date prompt; no promised recovery time.",
+        "app_role": "Not constipation treatment or clinical biofeedback."
+      },
+      "selection_reason": "Expanded 30-day window. Previously considered and skipped Nov5; now selected only for the specific missing progress-review resource. Indexed +5 is not a live update of old +3.",
+      "recorded_at": "2026-11-13T18:15:00.725763+00:00",
+      "observed_between": [
+        "2026-11-13T18:03:44.465Z",
+        "2026-11-13T18:15:00.725763+00:00"
+      ]
+    },
+    {
+      "app": "pelvic_gym",
+      "slug": "pelvic-floor-therapy-what-to-expect",
+      "outcome": "updated",
+      "question": "How do I prepare for pelvic physiotherapy if I wear pads and worry about leaking during the visit?",
+      "question_url": "https://www.reddit.com/r/Incontinence/comments/1xodism/feeling_hopeless_can_pelvic_floor_therapy_be/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-06",
+      "votes": 1,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Ordinary web-search indexed text displayed votes and dates; original Reddit not opened; current totals unknown.",
+      "question_form": "Generalized editorial wording; no sensitive anecdote retained.",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/",
+      "brief": {
+        "reader_decision": "Ask the clinic about practical arrangements before attending.",
+        "overlap_decision": "Improve first-appointment guide; do not duplicate consent guidance.",
+        "original_resource": "Short booking message and personal packing list without asserting clinic policies.",
+        "app_role": "Preparation does not require self-started app training; suitable home plan can follow assessment."
+      },
+      "selection_reason": "Expanded 30-day window: specific Nov6 follow-up to Nov5 +3 thread, indexed replies +2. General first-visit question already covered; selected narrow practical preparation gap.",
+      "recorded_at": "2026-11-13T18:15:00.725763+00:00",
+      "observed_between": [
+        "2026-11-13T18:03:44.465Z",
+        "2026-11-13T18:15:00.725763+00:00"
+      ]
+    }
+  ],
+  "scan": {
+    "watermark_before": "2026-11-09T18:00:45.494Z",
+    "windows": [
+      "since watermark",
+      "past7days",
+      "past30days"
+    ],
+    "complete": false,
+    "watermark_advanced": false
+  },
+  "access_limits": [
+    "No direct Reddit requests: Nov10 rate limit and Nov11 automatic approval restriction remain respected. Ordinary web-search indexed excerpts only; dates and votes may be stale.",
+    "Quora ordinary search returned robots restriction; no accessible original question.",
+    "Actual Google search in fresh headless Playwright returned automated-traffic challenge; stopped. No PAA inspected.",
+    "First official Google Trends US 7-day Explore request returned429; stopped. Canada,30-day,Top/Rising rows and seasonality were not accessible. No verified trend selected.",
+    "Craft Yarn Council pages could not be retrieved; not cited. Brooklyn Tweed primary swatching guidance supplied the limited technical knitting facts."
+  ],
+  "trends": {
+    "explore_url": "https://trends.google.com/trends/explore?date=now%207-d&geo=US&q=color%20analysis,pelvic%20floor&hl=en",
+    "seeds": [
+      "color analysis",
+      "pelvic floor"
+    ],
+    "seed_type": "search terms",
+    "country": "US",
+    "window": "past7days",
+    "observed_at": "2026-11-13T18:06:22.354Z",
+    "status": "rate_limited",
+    "growth": null,
+    "breakout": null,
+    "data_sufficiency": "unknown",
+    "unattempted_after_stop": [
+      "Canada",
+      "30 days",
+      "seasonality"
+    ]
+  },
+  "google": {
+    "url": "https://www.google.com/search?q=color+analysis+questions&hl=en",
+    "status": "automated_traffic_challenge",
+    "observed_at": "2026-11-13T18:06:23.009Z",
+    "people_also_ask": null
+  },
+  "rejected_candidates": [
+    {
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xtgb95/color_season_typing/",
+      "date": "2026-11-11",
+      "votes": 34,
+      "reason": "Personal typing with no distinct task beyond existing warm palette comparisons."
+    },
+    {
+      "url": "https://www.reddit.com/r/coloranalysis/comments/1xun590/drapes_of_my_current_wardrobe_are_these_my_colors/",
+      "date": "2026-11-12",
+      "votes": 12,
+      "reason": "Existing dislike-palette and photo-lighting guides already cover the generalizable concern."
+    },
+    {
+      "url": "https://www.reddit.com/r/MakeupAddiction/comments/1xr8iut/does_this_lipstick_work_on_me_it_feels_off_to_me/",
+      "date": "2026-11-08",
+      "votes": 115,
+      "reason": "Older personal shade evaluation; same broad lipstick comparison destination, not a second treatment."
+    },
+    {
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xp43ed/no_more_pelvic_pain/",
+      "date": "2026-11-06",
+      "votes": 7,
+      "reason": "Recurring stress clenching already covered by daily-awareness/constant-clench/returning-flare; no useful distinct addition."
+    },
+    {
+      "url": "https://www.reddit.com/r/Constipation/comments/1xuy8s7/pelvic_floor_tight_or_loose_sphincter_worse_in/",
+      "date": "2026-11-13",
+      "votes": 0,
+      "reason": "Personal diagnosis and acute changes; existing assessment and warning-sign sections cover useful general advice."
+    },
+    {
+      "url": "https://www.reddit.com/r/MtF/comments/1xux32t/anybody_else_constantly_pissing_themself/",
+      "date": "2026-11-13",
+      "votes": 151,
+      "reason": "Treatment context outside verified app/clinical scope; not repurposed into a generic article despite attention."
+    },
+    {
+      "url": "https://www.reddit.com/r/PelvicFloor/comments/1xtmvfv/21f_with_severe_hypertonic_pelvic_floor/",
+      "date": "2026-11-11",
+      "votes": 2,
+      "reason": "Severe personal case and recovery-story request; no app treatment claim or fabricated recovery testimony."
+    }
+  ],
+  "measurement": {
+    "status": "authentication_required",
+    "private_snapshot": "../seo-analytics/snapshots/2026-11-13-2200/snapshot.json",
+    "private_report": "../seo-analytics/snapshots/2026-11-13-2200/report.html",
+    "method": "Isolated persistent headless Playwright; no regular browser access",
+    "checkpoint": "Nov7 completed; Nov14 not yet due"
+  },
+  "review_status": "No clinician engaged; no independent medical review claimed. Draft diary remains private.",
+  "notification": {
+    "channel": "existing_chat",
+    "telegram": "Destination pending; not sent."
+  },
+  "shortfall": {
+    "stylist_ai": {
+      "target": 5,
+      "new": 3,
+      "updated": 2,
+      "unfilled": 0
+    },
+    "pelvic_gym": {
+      "target": 5,
+      "new": 0,
+      "updated": 5,
+      "unfilled": 0
+    },
+    "note": "Five distinct question treatments per app; seven existing URLs improved to avoid near-duplicates. These are not ten new articles."
+  },
+  "illustrations": [
+    {
+      "slug": "coordinate-outfit-colors-for-photos",
+      "asset": "stylist_ai/blog/assets/illustrations/coordinate-outfit-colors-for-photos.webp",
+      "bytes": 66208,
+      "width": 1200,
+      "height": 800,
+      "inspection": "Generated image inspected: coherent garment/yarn layout, relevant original comparison, no text or invented product UI.",
+      "tool": "built-in image_gen",
+      "prompt": "Use case: illustration-story. Original landscape 3:2 editorial fashion illustration, textured gouache on warm ivory paper. Show three distinct adult flat-lay outfits arranged side by side as a coordinated photo-session group: left a cream shirt with dark indigo trousers and brown loafers; center a muted sage midi dress with tan flat sandals; right a dusty rose blouse with charcoal trousers and brown loafers. No bodies, no people, no camera or devices. Complete neat clothing silhouettes with enough space between outfits. Small fabric swatches in indigo, sage and dusty rose at bottom. Purpose: show related but different colors, not identical matching outfits. No text, labels, logos, border or decorative flowers."
+    },
+    {
+      "slug": "choose-yarn-color-for-sweater",
+      "asset": "stylist_ai/blog/assets/illustrations/choose-yarn-color-for-sweater.webp",
+      "bytes": 142228,
+      "width": 1200,
+      "height": 800,
+      "inspection": "Generated image inspected: coherent garment/yarn layout, relevant original comparison, no text or invented product UI.",
+      "tool": "built-in image_gen",
+      "prompt": "Use case: illustration-story. Original landscape 3:2 editorial knitting illustration, sophisticated textured gouache on warm ivory paper. Three large clearly visible rectangular knitted swatches side by side, dusty rose, muted teal, rich plum; each paired with its same-colored yarn ball. Behind them a neatly folded cream shirt and dark indigo jeans, smaller and quieter. Two wooden knitting needles beside the yarn, physically coherent knit texture, soft daylight shadows, airy balanced composition. Purpose: choosing a sweater yarn color against clothes already owned. No finished sweater, no person, no text, no labels, no logo, no phone."
+    },
+    {
+      "slug": "hot-weather-date-night-outfits",
+      "asset": "stylist_ai/blog/assets/illustrations/hot-weather-date-night-outfits.webp",
+      "bytes": 78866,
+      "width": 1200,
+      "height": 800,
+      "inspection": "Generated image inspected: coherent garment/yarn layout, relevant original comparison, no text or invented product UI.",
+      "tool": "built-in image_gen",
+      "prompt": "Use case: illustration-story. Original landscape 3:2 fashion journal gouache illustration on warm ivory. Three distinct complete adult outfit flat lays arranged evenly in columns: left a muted coral short-sleeved blouse with deep plum midi skirt and tan flat sandals; middle an ivory sleeveless shell with teal tailored knee-length shorts and tan flat sandals; right a muted sage short-sleeved shirt with cream midi skirt and tan flat sandals. No trousers, no jeans, no dresses, no people, no text or labels. Accurate simple clothing silhouettes, visible separate tops and bottoms, soft warm shadows, elegant tactile fabric detail. Show practical warm-weather date outfits without body-shaping claims."
+    }
+  ],
+  "checked_sources": [
+    {
+      "url": "https://www.adobe.com/creativecloud/photography/technique/white-balance.html",
+      "checked": "2026-11-13",
+      "access": "readable primary page"
+    },
+    {
+      "url": "https://brooklyntweed.com/pages/swatching-101",
+      "checked": "2026-11-13",
+      "access": "indexed primary tutorial text"
+    },
+    {
+      "url": "https://faq-uk.uniqlo.com/articles/en_US/Knowledge/How-to-choose-your-size",
+      "checked": "2026-11-13",
+      "access": "readable primary page"
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/vaginal-oestrogen/about-vaginal-oestrogen/",
+      "checked": "2026-11-13",
+      "access": "readable primary page"
+    },
+    {
+      "url": "https://www.guysandstthomas.nhs.uk/health-information/nocturia-getting-night-pee",
+      "checked": "2026-11-13",
+      "access": "readable primary page"
+    },
+    {
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/treatment",
+      "checked": "2026-11-13",
+      "access": "readable primary page"
+    },
+    {
+      "url": "https://www.uhsussex.nhs.uk/resources/your-pelvic-health-physiotherapy-appointment/",
+      "checked": "2026-11-13",
+      "access": "readable primary page"
+    },
+    {
+      "url": "https://www.nhs.uk/baby/support-and-services/your-post-pregnancy-body/",
+      "checked": "2026-11-13",
+      "access": "readable primary page"
+    },
+    {
+      "url": "https://www.nhs.uk/symptoms/pelvic-pain/",
+      "checked": "2026-11-13",
+      "access": "readable primary page"
+    },
+    {
+      "url": "https://www.nice.org.uk/guidance/ng210/chapter/Recommendations",
+      "checked": "2026-11-13",
+      "access": "indexed official recommendations1.3.15–1.3.16; no full-page access claim"
+    }
+  ],
+  "validation": {
+    "status": "passed",
+    "automated": "Both builders and validators, both analytics consent suites, JS syntax,34city tests and city duplication audit passed;152public pages.",
+    "protected_files_checked": 199,
+    "protected_changes": 0,
+    "original_publication_dates_checked": 135,
+    "layout": "20page/viewport combinations in isolated headless Playwright at1440/390px; no overflow, all images loaded, official badges and Safari metadata present. Mobile image/table layouts and private report/charts inspected.",
+    "capacity_before": {
+      "working_file_bytes": 50750490,
+      "git_object_bytes": 84702208
+    },
+    "capacity_after": {
+      "measurement": "Working files excluding Git/runtime/build caches; includes source and research files normally excluded by Jekyll, so this overestimates the static payload. Git object storage is measured separately.",
+      "working_file_bytes": 51328147,
+      "git_object_bytes": 84702208,
+      "published_site_limit_bytes": 1000000000,
+      "illustration_stop_threshold_bytes": 800000000,
+      "can_add_illustrations": true,
+      "remaining_to_site_limit_bytes": 948671853,
+      "reference": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
+    }
+  },
+  "deployment": {
+    "status": "pending",
+    "commit": null
+  },
+  "additional_changes": [
+    "Three contextual incoming links preserve editorial dates.",
+    "Three regular topic-hub routes added; city exclusion preserved.",
+    "Three compressed covers plus6responsive variants; masters kept private."
+  ]
+}
