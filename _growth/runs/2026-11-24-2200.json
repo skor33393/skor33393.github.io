@@ -1,0 +1,365 @@
+{
+  "run_id": "2026-11-24-2200",
+  "status": "deployment_pending",
+  "started_at": "2026-11-24T18:01:03.769Z",
+  "timezone": "Asia/Dubai",
+  "selected": [
+    {
+      "app": "stylist_ai",
+      "slug": "winter-hat-and-coat-colors",
+      "outcome": "new",
+      "question": "How can I choose a warm winter hat that works with my coat?",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xzm2hd/what_are_people_doing_for_warm_winter_hats/",
+      "platform": "Reddit",
+      "posted_date": null,
+      "observed_at": "2026-11-24T18:13:26.872329+00:00",
+      "votes": null,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Web-open cached original question, crawl reported 5 days ago; relative 12h label cannot establish exact publication date. Current vote and comment totals not visible.",
+      "question_form": "Generalized editorial wording, not a quotation or reuse of personal health history.",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/winter-hat-and-coat-colors/",
+      "brief": {
+        "reader_decision": "Choose headwear coverage and fit, then coordinate with an existing coat.",
+        "overlap_decision": "Distinct headwear task; existing coat guide does not answer practical hat selection.",
+        "original_resource": "Original three-combination clothing illustration, try-on checklist and comparison table.",
+        "app_role": "Palette and garment color comparison after functional requirements are met."
+      },
+      "selection_reason": "Recent usable clothing decision with visible discussion, unlike repetitive personal typing requests. Unknown attention is not ranked above known scores."
+    },
+    {
+      "app": "stylist_ai",
+      "slug": "personal-style-casual-office",
+      "outcome": "updated",
+      "question": "How can I keep color in workwear if I dislike blazers?",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1y10mnq/general_discussion_november_20_2026/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-20",
+      "observed_at": "2026-11-24T18:13:26.872329+00:00",
+      "votes": null,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Indexed thread +7; selected Nov20 question comment +1, reply +4. These are different units; no current totals.",
+      "question_form": "Generalized editorial wording, not a quotation or reuse of personal health history.",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/personal-style-casual-office/",
+      "brief": {
+        "reader_decision": "Separate required formality from desired color.",
+        "overlap_decision": "Existing office guide; replace expressive-element section rather than a second office page.",
+        "original_resource": "Three colorful separates outfits plus a jacket-required decision.",
+        "app_role": "Suggest color combinations; no workplace-policy or fit claim."
+      },
+      "selection_reason": "Concrete recent workwear constraint; more general fashion or color requests duplicate existing coverage."
+    },
+    {
+      "app": "stylist_ai",
+      "slug": "summer-or-winter-color-season",
+      "outcome": "updated",
+      "question": "Do dark hair or a deeper skin tone automatically mean Winter?",
+      "question_url": "https://www.reddit.com/r/coloranalysis/comments/1y3typa/type_me_please/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-23",
+      "observed_at": "2026-11-24T18:13:26.872329+00:00",
+      "votes": 8,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Indexed original +8 and replies +11/+9/+7; current votes and total comments unknown.",
+      "question_form": "Generalized editorial wording, not a quotation or reuse of personal health history.",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/summer-or-winter-color-season/",
+      "brief": {
+        "reader_decision": "Choose a useful comparison when personal typing advice conflicts.",
+        "overlap_decision": "Improve feature-checklist section of Summer/Winter guide.",
+        "original_resource": "Separate garment brightness, feature depth and outfit contrast with a two-step clothing comparison.",
+        "app_role": "Palette directions to test, not diagnosis from physical features."
+      },
+      "selection_reason": "Most recent selected color question with visible indexed discussion; another muted-palette typing question duplicates covered intent."
+    },
+    {
+      "app": "stylist_ai",
+      "slug": "petite-oversized-outfit-proportions",
+      "outcome": "updated",
+      "question": "Where can I find wide-trouser outfit ideas without cropped or tight tops?",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xyfw6f/where_do_you_find_inspiration_for_wide_pants_looks/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-17",
+      "observed_at": "2026-11-24T18:13:26.872329+00:00",
+      "votes": null,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Cached original open reported 6-day crawl; feed identifies Nov17. Third-party engagement estimates excluded because not verified on Reddit.",
+      "question_form": "Generalized editorial wording, not a quotation or reuse of personal health history.",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/petite-oversized-outfit-proportions/",
+      "brief": {
+        "reader_decision": "Find and translate references into outfits using relaxed tops.",
+        "overlap_decision": "Existing loose-proportion guide owns intent; replace short outfit-note section.",
+        "original_resource": "Search-term recipe and reference-to-owned-clothes table.",
+        "app_role": "Color connection for existing loose pieces, not fit prediction."
+      },
+      "selection_reason": "Recent concrete unanswered discovery step; avoids another broad oversized-outfit page."
+    },
+    {
+      "app": "stylist_ai",
+      "slug": "work-holiday-party-no-dress-code",
+      "outcome": "updated",
+      "question": "Can I wear sequins to a work holiday party without rebuilding my outfit?",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xyylpf/what_are_yall_wearing_to_your_work_christmas/",
+      "platform": "Reddit",
+      "posted_date": null,
+      "observed_at": "2026-11-24T18:13:26.872329+00:00",
+      "votes": null,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Cached original open reported 6-day crawl; exact date and engagement not exposed. Relative/feed ordering not converted to a date.",
+      "question_form": "Generalized editorial wording, not a quotation or reuse of personal health history.",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/work-holiday-party-no-dress-code/",
+      "brief": {
+        "reader_decision": "Choose the size of an office-to-party outfit change.",
+        "overlap_decision": "Existing party guide; replace generic one-color section.",
+        "original_resource": "Two starting outfits with small and more noticeable changes plus a seated rehearsal.",
+        "app_role": "Explore accent colors; event organizer determines dress requirements."
+      },
+      "selection_reason": "Timely seasonal question in freshest usable cached window; not a verified Google Trends rising query."
+    },
+    {
+      "app": "pelvic_gym",
+      "slug": "pelvic-floor-exercises-during-pregnancy",
+      "outcome": "updated",
+      "question": "What would make pelvic physiotherapy during pregnancy worth attending?",
+      "question_url": "https://www.reddit.com/r/pregnant/comments/1y1y8a2/women_who_didare_doing_pelvic_floor_pt_during/",
+      "platform": "Reddit",
+      "posted_date": null,
+      "observed_at": "2026-11-24T18:13:26.872329+00:00",
+      "votes": null,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Indexed discussion has Nov21 reply +64. This is a comment score, not original question score. Original web open cache miss; exact post date/current totals unknown.",
+      "question_form": "Generalized editorial wording, not a quotation or reuse of personal health history.",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-exercises-during-pregnancy/",
+      "brief": {
+        "reader_decision": "Define a useful assessment and follow-up question before booking.",
+        "overlap_decision": "Replace routine section in pregnancy guide; no duplicate pregnancy article.",
+        "original_resource": "Before-booking/before-leaving agenda and release-check example.",
+        "app_role": "Only support suitable agreed strengthening; not birth preparation guarantees or assessment."
+      },
+      "selection_reason": "Strongest visible reply attention among usable recent pregnancy questions; dates and vote units kept separate."
+    },
+    {
+      "app": "pelvic_gym",
+      "slug": "postpartum-pelvic-floor-recovery",
+      "outcome": "updated",
+      "question": "How do I plan a return to lifting or work when postpartum heaviness persists?",
+      "question_url": "https://www.reddit.com/r/PelvicOrganProlapse/comments/1xzdp4x/please_tell_me_this_gets_better/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-18",
+      "observed_at": "2026-11-24T18:13:26.872329+00:00",
+      "votes": 6,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Indexed original +6 and replies +8/+5. Exact current totals unknown. No individual diagnosis, intimate detail or treatment anecdote retained.",
+      "question_form": "Generalized editorial wording, not a quotation or reuse of personal health history.",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/postpartum-pelvic-floor-recovery/",
+      "brief": {
+        "reader_decision": "Request an assessment and work-task plan rather than rely on a recovery deadline.",
+        "overlap_decision": "Existing postpartum guide; add functional lifting/work resource.",
+        "original_resource": "Three job-demand descriptions with corresponding care-team questions.",
+        "app_role": "Not prolapse staging or return-to-work clearance; suitable exercise only after assessment."
+      },
+      "selection_reason": "Recent generalizable recovery concern with visible attention; duplicate postpartum pacing question not counted twice."
+    },
+    {
+      "app": "pelvic_gym",
+      "slug": "tight-vs-weak-pelvic-floor",
+      "outcome": "updated",
+      "question": "How do I review a stalled plan when relaxation and strengthening both seem difficult?",
+      "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1y1k87b/chicken_or_the_egg_for_pelvic_floor_tightness/",
+      "platform": "Reddit",
+      "posted_date": null,
+      "observed_at": "2026-11-24T18:13:26.872329+00:00",
+      "votes": null,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Original web open cache miss. Question text accessible in cached public new-feed, crawled 3 days ago. Publication date and engagement unknown.",
+      "question_form": "Generalized editorial wording, not a quotation or reuse of personal health history.",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/tight-vs-weak-pelvic-floor/",
+      "brief": {
+        "reader_decision": "Get explicit pause, release-check, priority and progression decisions.",
+        "overlap_decision": "Rewrite existing treatment-order section instead of another tight/weak page.",
+        "original_resource": "Four-row stalled-plan discussion table and a concise symptom-response note.",
+        "app_role": "Cannot judge readiness or classify pain as training response."
+      },
+      "selection_reason": "Specific actionable gap in an already covered intent; body verified from feed, no inferred treatment from replies."
+    },
+    {
+      "app": "pelvic_gym",
+      "slug": "pelvic-floor-therapy-what-to-expect",
+      "outcome": "updated",
+      "question": "How can I take a first step toward physiotherapy when I am anxious about intimate examination?",
+      "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1y1od04/need_help_building_courage/",
+      "platform": "Reddit",
+      "posted_date": null,
+      "observed_at": "2026-11-24T18:13:26.872329+00:00",
+      "votes": null,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Original web open cache miss. Question text accessible in cached public new-feed, crawled 3 days ago. Publication date/votes/comment count unknown.",
+      "question_form": "Generalized editorial wording, not a quotation or reuse of personal health history.",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/",
+      "brief": {
+        "reader_decision": "Ask about visit format and boundaries before booking.",
+        "overlap_decision": "Rewrite opening to lead with a staged access resource; keep existing consent detail rather than duplicate it.",
+        "original_resource": "Original booking message, three-stage visit plan and precise internal link to external-assessment boundaries.",
+        "app_role": "Not an examination substitute; no self-started training prerequisite."
+      },
+      "selection_reason": "Recent usable care-access question; concrete preparation improves navigation of existing consent advice."
+    },
+    {
+      "app": "pelvic_gym",
+      "slug": "pelvic-pain-after-bowel-movement",
+      "outcome": "updated",
+      "question": "Who should review pain that continues after fissure treatment?",
+      "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1y11lc3/anal_fissure_and_pelvic_floor_help/",
+      "platform": "Reddit",
+      "posted_date": null,
+      "observed_at": "2026-11-24T18:13:26.872329+00:00",
+      "votes": null,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Cached original web open, crawled 3 days ago, relative 9h label only. No exact date or totals exposed.",
+      "question_form": "Generalized editorial wording, not a quotation or reuse of personal health history.",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-pain-after-bowel-movement/",
+      "brief": {
+        "reader_decision": "Separate healing confirmation from assessment of continuing symptoms.",
+        "overlap_decision": "Rewrite after-treatment section; no duplicate pain article.",
+        "original_resource": "Three follow-up situations and care-team questions plus handover message.",
+        "app_role": "No wound evaluation or postoperative clearance; suitable exercise only when agreed."
+      },
+      "selection_reason": "Distinct recent treatment-follow-up concern; excludes anecdotes recommending self-directed release or procedures."
+    }
+  ],
+  "scan": {
+    "watermark_before": "2026-11-09T18:00:45.494Z",
+    "windows": [
+      "since previous successful scan",
+      "freshest usable cached and indexed questions, principally Nov17–23; some exact dates unknown"
+    ],
+    "complete": false,
+    "watermark_advanced": false
+  },
+  "access_limits": [
+    "Original Reddit cached web extracts available for some candidates; others available only in indexed text or cached feed. No live votes or complete new-question coverage.",
+    "Quora searches inaccessible; no original accessible question or engagement.",
+    "Actual Google Playwright request encountered unusual-traffic challenge; stopped. No People also ask inspection. Ordinary web-search used only as fallback discovery.",
+    "Official Trends initial US 7-day combined-seed request returned429; stopped. Canada,30-day,Top/Rising and seasonality unavailable. No verified trend selected."
+  ],
+  "trends": {
+    "explore_url": "https://trends.google.com/trends/explore?date=now%207-d&geo=US&q=color%20analysis,pelvic%20floor&hl=en",
+    "seeds": [
+      "color analysis",
+      "pelvic floor"
+    ],
+    "seed_type": "search terms",
+    "country": "US",
+    "window": "past7days",
+    "observed_at": "2026-11-24T18:02:59.317Z",
+    "status": "rate_limited",
+    "growth": null,
+    "breakout": null,
+    "data_sufficiency": "unknown",
+    "unattempted_after_stop": [
+      "Canada",
+      "30 days",
+      "seasonality"
+    ]
+  },
+  "google": {
+    "url": "https://www.google.com/search?q=color+analysis+questions&hl=en",
+    "observed_at": "2026-11-24T18:03:00.445Z",
+    "status": "automated_traffic_challenge",
+    "people_also_ask": null
+  },
+  "rejected_candidates": [
+    {
+      "topic": "Another Nov23 Soft Summer/Autumn personal typing question",
+      "votes": 4,
+      "reason": "Same covered muted-palette comparison; not a second selected question."
+    },
+    {
+      "topic": "High-attention older typing thread",
+      "votes": 290,
+      "reason": "Original publication Nov13 2025, despite recent comments; not a fresh question."
+    },
+    {
+      "topic": "Postpartum pacing discussion Nov20",
+      "votes": null,
+      "reason": "Duplicates selected postpartum recovery task."
+    },
+    {
+      "topic": "Procedure selection and male-specific clinical cases",
+      "votes": null,
+      "reason": "Outside verified app scope and not appropriate for app-led treatment advice."
+    },
+    {
+      "topic": "Nov20 promotional exercise video",
+      "votes": 1,
+      "reason": "Not a genuine reader question; no clinical evidence."
+    },
+    {
+      "topic": "Older recovery testimonial with recent comments",
+      "votes": 53,
+      "reason": "Not a new question; unverified regimens and intimate case history excluded."
+    }
+  ],
+  "measurement": {
+    "status": "authentication_required",
+    "private_snapshot": "../seo-analytics/snapshots/2026-11-24-2200/snapshot.json",
+    "private_report": "../seo-analytics/snapshots/2026-11-24-2200/report.html",
+    "method": "Isolated persistent headless Playwright; no regular browser access",
+    "checkpoint": "Nov7 completed; Nov14 due checkpoint deferred for unavailable authenticated access, attempt saved privately."
+  },
+  "review_status": "No clinician engaged; no independent medical review claimed; diary remains private.",
+  "notification": {
+    "channel": "existing_chat",
+    "telegram": "Destination pending; not sent."
+  },
+  "shortfall": {
+    "stylist_ai": {
+      "target": 5,
+      "new": 1,
+      "updated": 4,
+      "unfilled": 0
+    },
+    "pelvic_gym": {
+      "target": 5,
+      "new": 0,
+      "updated": 5,
+      "unfilled": 0
+    },
+    "note": "Ten question treatments: one new URL and nine substantive updates. Supporting coat link not counted toward quota."
+  },
+  "validation": {
+    "builds": "Both passed:43 Pelvic articles,96 Stylist articles including34 city guides",
+    "content": "Both journal validators passed, titles/canonicals/links/anchors/structured data/sitemaps/app destinations",
+    "analytics": "Both consent lifecycle tests and JavaScript syntax checks passed",
+    "city_guides": "34 passed; no duplicate authored paragraphs or long sentences",
+    "layout": "20 headless Playwright checks passed:10 selected pages at1440px/390px, images loaded, no horizontal overflow, official badges and Smart App Banner metadata present",
+    "protected_files": {
+      "checked": 199,
+      "changed": 0
+    },
+    "original_publication_dates": {
+      "checked": 138,
+      "changed": 0
+    },
+    "private_charts": "Rendered and inspected; stale history labeled, current authentication limit prominent",
+    "public_discussions": "No Reddit/Quora text or links in selected public HTML",
+    "diff_check": "passed"
+  },
+  "capacity": {
+    "working_file_bytes": 51532416,
+    "git_object_bytes": 86295552,
+    "threshold_bytes": 800000000,
+    "can_add_illustrations": true,
+    "new_cover_bytes": 93814,
+    "responsive_variants": 2
+  },
+  "prepared_at": "2026-11-24T18:15:35.616645+00:00"
+}

@@ -54,6 +54,7 @@ TOPICS = [
                 ('Compare nude nail colors', 'choose-nude-nail-color'),
                 ('Compare lipstick color and coverage', 'choose-lipstick-color'),
                 ('Choose a practical hair accessory', 'choose-hair-accessories'),
+                ('Coordinate a winter hat and coat', 'winter-hat-and-coat-colors'),
                 ('Compare shoes with a dress', 'choose-shoe-color-for-dress'),
                 ('Try Light Spring makeup colors', 'light-spring-makeup-colors'),
                 ('Choose Light Summer eyeshadow', 'light-summer-eyeshadow'),
