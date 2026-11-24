@@ -1,6 +1,6 @@
 {
   "run_id": "2026-11-24-2200",
-  "status": "deployment_pending",
+  "status": "completed",
   "started_at": "2026-11-24T18:01:03.769Z",
   "timezone": "Asia/Dubai",
   "selected": [
@@ -361,5 +361,15 @@
     "new_cover_bytes": 93814,
     "responsive_variants": 2
   },
-  "prepared_at": "2026-11-24T18:15:35.616645+00:00"
+  "prepared_at": "2026-11-24T18:15:35.616645+00:00",
+  "completed_at": "2026-11-24T18:19:08.530377+00:00",
+  "deployment": {
+    "status": "built_and_verified",
+    "commit": "1343aed7e9f4aab87564b61be8adfbd157145909",
+    "workflow_run_id": 45457619783,
+    "pages_built_at": "2026-11-24T18:16:41Z",
+    "verified_at": "2026-11-24T18:19:08.530377+00:00",
+    "checked": 400,
+    "passed": 400
+  }
 }

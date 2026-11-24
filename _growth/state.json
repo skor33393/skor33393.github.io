@@ -26,7 +26,8 @@
     "2026-11-10-2200": "completed",
     "2026-11-11-2200": "completed",
     "2026-11-12-2200": "completed",
-    "2026-11-13-2200": "completed"
+    "2026-11-13-2200": "completed",
+    "2026-11-24-2200": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -708,6 +709,41 @@
         "run_id": "2026-11-13-2200",
         "status": "new",
         "verified_at": "2026-11-13T18:24:49.876956+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xzm2hd/what_are_people_doing_for_warm_winter_hats/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/winter-hat-and-coat-colors/",
+        "run_id": "2026-11-24-2200",
+        "status": "new",
+        "verified_at": "2026-11-24T18:19:08.530377+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1y10mnq/general_discussion_november_20_2026/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/personal-style-casual-office/",
+        "run_id": "2026-11-24-2200",
+        "status": "updated",
+        "verified_at": "2026-11-24T18:19:08.530377+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/coloranalysis/comments/1y3typa/type_me_please/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/summer-or-winter-color-season/",
+        "run_id": "2026-11-24-2200",
+        "status": "updated",
+        "verified_at": "2026-11-24T18:19:08.530377+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xyfw6f/where_do_you_find_inspiration_for_wide_pants_looks/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/petite-oversized-outfit-proportions/",
+        "run_id": "2026-11-24-2200",
+        "status": "updated",
+        "verified_at": "2026-11-24T18:19:08.530377+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xyylpf/what_are_yall_wearing_to_your_work_christmas/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/work-holiday-party-no-dress-code/",
+        "run_id": "2026-11-24-2200",
+        "status": "updated",
+        "verified_at": "2026-11-24T18:19:08.530377+00:00"
       }
     ],
     "pelvic_gym": [
@@ -1326,6 +1362,41 @@
         "run_id": "2026-11-13-2200",
         "status": "updated",
         "verified_at": "2026-11-13T18:24:49.876956+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/pregnant/comments/1y1y8a2/women_who_didare_doing_pelvic_floor_pt_during/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-exercises-during-pregnancy/",
+        "run_id": "2026-11-24-2200",
+        "status": "updated",
+        "verified_at": "2026-11-24T18:19:08.530377+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicOrganProlapse/comments/1xzdp4x/please_tell_me_this_gets_better/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/postpartum-pelvic-floor-recovery/",
+        "run_id": "2026-11-24-2200",
+        "status": "updated",
+        "verified_at": "2026-11-24T18:19:08.530377+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1y1k87b/chicken_or_the_egg_for_pelvic_floor_tightness/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/tight-vs-weak-pelvic-floor/",
+        "run_id": "2026-11-24-2200",
+        "status": "updated",
+        "verified_at": "2026-11-24T18:19:08.530377+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1y1od04/need_help_building_courage/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/",
+        "run_id": "2026-11-24-2200",
+        "status": "updated",
+        "verified_at": "2026-11-24T18:19:08.530377+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicFloor/comments/1y11lc3/anal_fissure_and_pelvic_floor_help/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-pain-after-bowel-movement/",
+        "run_id": "2026-11-24-2200",
+        "status": "updated",
+        "verified_at": "2026-11-24T18:19:08.530377+00:00"
       }
     ]
   },
