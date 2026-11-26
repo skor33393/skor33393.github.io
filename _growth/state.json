@@ -27,7 +27,8 @@
     "2026-11-11-2200": "completed",
     "2026-11-12-2200": "completed",
     "2026-11-13-2200": "completed",
-    "2026-11-24-2200": "completed"
+    "2026-11-24-2200": "completed",
+    "2026-11-26-2200": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -744,6 +745,41 @@
         "run_id": "2026-11-24-2200",
         "status": "updated",
         "verified_at": "2026-11-24T18:19:08.530377+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xxjqlz/daily_questions_thread_november_16_2026/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/sweater-over-dress/",
+        "run_id": "2026-11-26-2200",
+        "status": "new",
+        "verified_at": "2026-11-26T18:18:06.976250+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xx6x74/favorite_style_quiz/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/build-a-wardrobe-color-palette/",
+        "run_id": "2026-11-26-2200",
+        "status": "updated",
+        "verified_at": "2026-11-26T18:18:06.976250+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xz9n3t/daily_questions_thread_november_18_2026/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/buy-clothes-you-will-wear/",
+        "run_id": "2026-11-26-2200",
+        "status": "updated",
+        "verified_at": "2026-11-26T18:18:06.976250+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xwpx9e/daily_questions_thread_november_15_2026/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/choose-shoe-color-for-dress/",
+        "run_id": "2026-11-26-2200",
+        "status": "updated",
+        "verified_at": "2026-11-26T18:18:06.976250+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xxjqlz/daily_questions_thread_november_16_2026/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/choose-winter-coat-color/",
+        "run_id": "2026-11-26-2200",
+        "status": "updated",
+        "verified_at": "2026-11-26T18:18:06.976250+00:00"
       }
     ],
     "pelvic_gym": [
@@ -1397,6 +1433,27 @@
         "run_id": "2026-11-24-2200",
         "status": "updated",
         "verified_at": "2026-11-24T18:19:08.530377+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicOrganProlapse/comments/1y453ql/grade_2_cystocele_diagnosis_9_weeks_postpartum/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-exercises-with-pessary/",
+        "run_id": "2026-11-26-2200",
+        "status": "updated",
+        "verified_at": "2026-11-26T18:18:06.976250+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicOrganProlapse/comments/1y283zu/a_little_bit_of_hope/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-relaxation/",
+        "run_id": "2026-11-26-2200",
+        "status": "updated",
+        "verified_at": "2026-11-26T18:18:06.976250+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicOrganProlapse/comments/1xt2ifa/how_to_support_my_mum/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/support-someone-with-pelvic-organ-prolapse/",
+        "run_id": "2026-11-26-2200",
+        "status": "new",
+        "verified_at": "2026-11-26T18:18:06.976250+00:00"
       }
     ]
   },
