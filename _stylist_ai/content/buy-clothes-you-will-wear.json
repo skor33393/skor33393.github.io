@@ -8,8 +8,8 @@
   "sections": [
     {
       "id": "history",
-      "title": "Study your last five wears before your next five purchases",
-      "html": "<p>Think of the clothes you wore most recently, not the outfit saved on your inspiration board. What did they make easy? Perhaps the trousers fit under your coat, the shirt needed no special bra, or the cardigan worked at both your desk and dinner. These small conveniences are clues to what earns repeat wear in your life.</p><p>Now choose one neglected item. Finish “I would wear this more if…” without blaming yourself. The answer might be a missing layer, an uncomfortable waistband, an inconvenient cleaning routine or simply nowhere suitable to wear it. A beautiful color will not solve every one of those problems.</p><p>Keep two short notes on your phone: what your favorites do well and what tends to stop you wearing things. Consult those notes before the product description. They are evidence from your own wardrobe, while a retailer is showing an ideal presentation.</p>"
+      "title": "Refresh the wardrobe in the order you will use it",
+      "html": "<p>If you can buy only a few pieces, begin with the last five outfits you wore. Note what worked and what stopped you wearing another outfit you wanted to use. The gap may be a worn-out pair of shoes, a missing warm layer or an uncomfortable waistband. A new color cannot solve all three.</p><table><thead><tr><th>Priority</th><th>Example</th><th>Before buying</th></tr></thead><tbody><tr><td>Replace a daily obstacle</td><td>A comfortable shoe for the journeys you already make.</td><td>Check the new pair with two existing outfits and your normal walking needs.</td></tr><tr><td>Connect clothes you own</td><td>A cardigan that lets two dresses work in your current weather.</td><td>Try the actual layers together; check sleeves, coat room and care.</td></tr><tr><td>Add a change you enjoy</td><td>One bright knit with trousers you already wear.</td><td>Name two complete outfits without adding another purchase.</td></tr></tbody></table><p>You might end up buying one item rather than five. Try the first purchase in normal life before spending the rest of the budget; its usefulness may change what you need next. Set aside any likely alteration or care costs when deciding what is affordable.</p><p>For a concrete example, if you own three good pairs of jeans and several unworn tops because you lack a comfortable layer, another pair of jeans does little to solve the gap. Start with the layer. Our <a href=\"/stylist_ai/blog/sweater-over-dress/\">sweater-over-dress guide</a> shows how to test a similar layering purchase.</p>"
     },
     {
       "id": "complete-outfit",
@@ -108,7 +108,7 @@
   "ctaTitle": "Check the color part of your next purchase.",
   "ctaText": "Use Stylist AI to explore a suggested palette, outfit color combinations and camera-based color comparison. Bring those ideas back to your real wardrobe before deciding.",
   "datePublished": "2026-10-31",
-  "dateModified": "2026-11-13",
+  "dateModified": "2026-11-26",
   "sourcesChecked": "2026-10-31",
   "sortOrder": -1,
   "seoTitle": "Will you actually wear it? A better clothing purchase checklist | Stylist AI",

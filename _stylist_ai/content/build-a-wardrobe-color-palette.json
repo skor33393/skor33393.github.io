@@ -5,15 +5,15 @@
   "description": "Build a wardrobe color palette from clothes you already wear. Find useful base colors, add favorite accents, and check new purchases without rigid color rules.",
   "category": "Wardrobe colors",
   "datePublished": "2026-10-26",
-  "dateModified": "2026-11-09",
+  "dateModified": "2026-11-26",
   "sortOrder": 5,
   "excerpt": "Start with your worn outfits, not an empty shopping list. Your palette should make those outfits easier to repeat.",
   "quickAnswer": "Choose a wardrobe palette by looking at complete outfits you already enjoy. Identify recurring base colors, then add a few favorites that connect to those clothes. Test combinations with your actual shoes and outerwear. Keep the palette flexible enough for an occasional special piece and for shades you can realistically find.",
   "sections": [
     {
       "id": "audit",
-      "title": "Start with five outfits you actually wear",
-      "html": "<p>Take out five outfits from normal life: work, errands, social plans or whatever fills your week. Include shoes, layers and bags. If they are all from one occasion, add an outfit from another part of your routine before drawing conclusions.</p><p>Write the colors of the large pieces and the smaller details separately. You may discover that denim and navy already support most outfits, while pink appears repeatedly in tops. That is a useful starting palette, even if it looks nothing like the wardrobe you saved on a mood board.</p>"
+      "title": "Turn a style label into an outfit you can try",
+      "html": "<p>A style quiz can give you a word to explore, but the useful next step is a clothing decision. Pick one aspect of the result you genuinely like: the colors, the amount of detail or the shape. You do not need to adopt every outfit attached to that label.</p><table><thead><tr><th>A word you liked</th><th>Try with clothes you own</th><th>Notice afterward</th></tr></thead><tbody><tr><td>Romantic</td><td>Put a soft-colored top beside your usual trousers; add a patterned piece only if you want it.</td><td>Did you enjoy the color, the detail, or both?</td></tr><tr><td>Minimal</td><td>Repeat two familiar colors across the outfit. They can be navy and pink rather than beige.</td><td>Did the smaller number of colors make dressing easier?</td></tr><tr><td>Bold</td><td>Keep a familiar outfit and add one stronger color through a top, shoe or accessory.</td><td>Would you wear that amount of contrast on an ordinary day?</td></tr></tbody></table><p>Then take out five outfits you actually wear, including shoes and layers. Write down the colors of large pieces and small details separately. If navy appears in three outfits and pink in two, those colors already have a job in your wardrobe. Compare that evidence with the trial you enjoyed.</p><p>Keep a result only if it helps you choose something concrete. “I want one brighter top that works with my navy trousers” gives you a useful shopping brief. A style label alone does not tell you which garment will fit, feel comfortable or suit your week.</p>"
     },
     {
       "id": "roles",

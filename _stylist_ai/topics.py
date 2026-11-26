@@ -38,6 +38,7 @@ TOPICS = [
                 ('Plan a sun-protective outfit', 'sun-protective-outfits'),
                 ('Create an ethereal look with rich colors', 'ethereal-style-dark-color-palette'),
                 ('Choose a light or dark cardigan', 'brown-or-cream-cardigan'),
+                ('Layer a sweater over a dress', 'sweater-over-dress'),
                 ('Find petite trousers with usable pockets', 'petite-trousers-real-pockets'),
                 ('Track down a discontinued garment', 'find-discontinued-clothes'),
                 ('Build an outfit around a navy skirt', 'navy-pleated-skirt-outfits'),

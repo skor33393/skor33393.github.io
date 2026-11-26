@@ -1,0 +1,323 @@
+{
+  "run_id": "2026-11-26-2200",
+  "status": "deployment_pending",
+  "started_at": "2026-11-26T18:02:31.901Z",
+  "timezone": "Asia/Dubai",
+  "selected": [
+    {
+      "app": "stylist_ai",
+      "slug": "sweater-over-dress",
+      "outcome": "new",
+      "question": "What sweater can I wear over a shirt dress?",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xxjqlz/daily_questions_thread_november_16_2026/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-16",
+      "observed_at": "2026-11-26T18:08:02.021190+00:00",
+      "votes": null,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Cached original question inspected November26. Indexed thread +4; selected comment score and live totals unknown.",
+      "question_form": "Editorially generalized question; no personal health anecdote reused.",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/sweater-over-dress/",
+      "brief": {
+        "reader_decision": "Choose knit shape, neckline and color for an existing dress.",
+        "overlap_decision": "Distinct garment-layering task beyond cardigan shade comparison.",
+        "original_resource": "Original three-layer illustration, movement checklist and outfit table.",
+        "app_role": "Palette and garment color comparison after fit and bulk checks."
+      },
+      "selection_reason": "Distinct actionable gap in the freshest usable indexed/cached window; known scores prioritized only among relevant comparable questions. Newer repeated or already-treated intents excluded."
+    },
+    {
+      "app": "stylist_ai",
+      "slug": "build-a-wardrobe-color-palette",
+      "outcome": "updated",
+      "question": "How can I turn a style-quiz result into clothes I will wear?",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xx6x74/favorite_style_quiz/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-15",
+      "observed_at": "2026-11-26T18:08:02.021190+00:00",
+      "votes": 17,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Indexed original question +17, crawled three days ago; current totals unknown.",
+      "question_form": "Editorially generalized question; no personal health anecdote reused.",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/build-a-wardrobe-color-palette/",
+      "brief": {
+        "reader_decision": "Translate an abstract style label into a small clothing trial.",
+        "overlap_decision": "Improve existing palette audit instead of another style-discovery page.",
+        "original_resource": "Three style-label-to-outfit trials using owned clothes.",
+        "app_role": "Color combinations; not a personality assessment or fit judgment."
+      },
+      "selection_reason": "Distinct actionable gap in the freshest usable indexed/cached window; known scores prioritized only among relevant comparable questions. Newer repeated or already-treated intents excluded."
+    },
+    {
+      "app": "stylist_ai",
+      "slug": "buy-clothes-you-will-wear",
+      "outcome": "updated",
+      "question": "Which few pieces should I buy to refresh my winter wardrobe?",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xz9n3t/daily_questions_thread_november_18_2026/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-18",
+      "observed_at": "2026-11-26T18:08:02.021190+00:00",
+      "votes": null,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Cached original question inspected; no selected-comment score exposed. Exact date from thread heading.",
+      "question_form": "Editorially generalized question; no personal health anecdote reused.",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/buy-clothes-you-will-wear/",
+      "brief": {
+        "reader_decision": "Prioritize a limited shopping budget.",
+        "overlap_decision": "Replace existing recent-wears opening with purchase-order resource.",
+        "original_resource": "Three-priority shopping plan and two-outfit acceptance check.",
+        "app_role": "Find an accent among colors that already work with owned garments."
+      },
+      "selection_reason": "Distinct actionable gap in the freshest usable indexed/cached window; known scores prioritized only among relevant comparable questions. Newer repeated or already-treated intents excluded."
+    },
+    {
+      "app": "stylist_ai",
+      "slug": "choose-shoe-color-for-dress",
+      "outcome": "updated",
+      "question": "How can I build more outfits around patterned shoes?",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xwpx9e/daily_questions_thread_november_15_2026/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-15",
+      "observed_at": "2026-11-26T18:08:02.021190+00:00",
+      "votes": null,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Cached original question about shoes with navy detail inspected; selected score and current totals unknown.",
+      "question_form": "Editorially generalized question; no personal health anecdote reused.",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/choose-shoe-color-for-dress/",
+      "brief": {
+        "reader_decision": "Choose a dress starting with shoes already owned.",
+        "overlap_decision": "Extend existing shoe/dress guide with reverse planning, not a duplicate page.",
+        "original_resource": "Three dress choices for the same patterned shoe.",
+        "app_role": "Explore a repeated color or a contrasting direction."
+      },
+      "selection_reason": "Distinct actionable gap in the freshest usable indexed/cached window; known scores prioritized only among relevant comparable questions. Newer repeated or already-treated intents excluded."
+    },
+    {
+      "app": "stylist_ai",
+      "slug": "choose-winter-coat-color",
+      "outcome": "updated",
+      "question": "How can I inspect a wool coat before spending my budget?",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xxjqlz/daily_questions_thread_november_16_2026/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-16",
+      "observed_at": "2026-11-26T18:08:02.021190+00:00",
+      "votes": null,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Cached original construction/fabric question inspected; thread +4 is not the comment score.",
+      "question_form": "Editorially generalized question; no personal health anecdote reused.",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/choose-winter-coat-color/",
+      "brief": {
+        "reader_decision": "Assess a coat in person before letting its color decide.",
+        "overlap_decision": "Replace short care section in existing coat guide.",
+        "original_resource": "Construction, movement and maintenance inspection checklist.",
+        "app_role": "Compare color only among coats that pass practical checks."
+      },
+      "selection_reason": "Distinct actionable gap in the freshest usable indexed/cached window; known scores prioritized only among relevant comparable questions. Newer repeated or already-treated intents excluded."
+    },
+    {
+      "app": "pelvic_gym",
+      "slug": "pelvic-floor-exercises-with-pessary",
+      "outcome": "updated",
+      "question": "What should my follow-up plan cover after a pessary fitting?",
+      "question_url": "https://www.reddit.com/r/PelvicOrganProlapse/comments/1y453ql/grade_2_cystocele_diagnosis_9_weeks_postpartum/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-24",
+      "observed_at": "2026-11-26T18:08:02.021190+00:00",
+      "votes": 8,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Indexed original +8, crawled today; current vote/comment totals unknown. Personal case details excluded.",
+      "question_form": "Editorially generalized question; no personal health anecdote reused.",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-exercises-with-pessary/",
+      "brief": {
+        "reader_decision": "Clarify symptom goals, device care, exercise and review options.",
+        "overlap_decision": "Replace existing appointment checklist with a goal-based follow-up resource.",
+        "original_resource": "One ordinary activity goal plus four-part review checklist.",
+        "app_role": "Suitable agreed strengthening only; no fitting or treatment selection."
+      },
+      "selection_reason": "Distinct actionable gap in the freshest usable indexed/cached window; known scores prioritized only among relevant comparable questions. Newer repeated or already-treated intents excluded."
+    },
+    {
+      "app": "pelvic_gym",
+      "slug": "pelvic-floor-relaxation",
+      "outcome": "updated",
+      "question": "Should I do more relaxation if heaviness returns after a workout?",
+      "question_url": "https://www.reddit.com/r/PelvicOrganProlapse/comments/1y283zu/a_little_bit_of_hope/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-22",
+      "observed_at": "2026-11-26T18:08:02.021190+00:00",
+      "votes": 1,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Question is a November22 comment asking relaxation type/duration; indexed +1 observed November25, cached original comments re-inspected November26. Thread November21 +14 is testimonial attention, not selected-question score.",
+      "question_form": "Editorially generalized question; no personal health anecdote reused.",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-relaxation/",
+      "brief": {
+        "reader_decision": "Know what to ask about a cooldown and delayed symptoms.",
+        "overlap_decision": "Add a bounded post-workout section to existing relaxation guide.",
+        "original_resource": "Same-day/next-morning activity-response note and three precise review questions.",
+        "app_role": "Cannot assess readiness or treat heaviness with more contractions."
+      },
+      "selection_reason": "Distinct actionable gap in the freshest usable indexed/cached window; known scores prioritized only among relevant comparable questions. Newer repeated or already-treated intents excluded."
+    },
+    {
+      "app": "pelvic_gym",
+      "slug": "support-someone-with-pelvic-organ-prolapse",
+      "outcome": "new",
+      "question": "How can I support someone with pelvic organ prolapse?",
+      "question_url": "https://www.reddit.com/r/PelvicOrganProlapse/comments/1xt2ifa/how_to_support_my_mum/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-10",
+      "observed_at": "2026-11-26T18:08:02.021190+00:00",
+      "votes": 5,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Indexed title and question snippet +5 observed November25; original and current search refresh unavailable November26. Selected on retained discovery evidence, not a live original or current attention claim. Personal details and treatment replies excluded.",
+      "question_form": "Editorially generalized question; no personal health anecdote reused.",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/support-someone-with-pelvic-organ-prolapse/",
+      "brief": {
+        "reader_decision": "Offer useful practical help while preserving the person’s choices.",
+        "overlap_decision": "Distinct family/supporter reader task; not covered by patient exercise pages.",
+        "original_resource": "Permission-based help menu, appointment notes and two original example conversations.",
+        "app_role": "Only an optional practice tool when the person wants it and a clinician has agreed strengthening."
+      },
+      "selection_reason": "Distinct actionable gap in the freshest usable indexed/cached window; known scores prioritized only among relevant comparable questions. Newer repeated or already-treated intents excluded."
+    }
+  ],
+  "scan": {
+    "watermark_before": "2026-11-09T18:00:45.494Z",
+    "windows": [
+      "since previous successful scan",
+      "past7days",
+      "past30days; selected Nov10–24 questions or comments, some evidence cached"
+    ],
+    "complete": false,
+    "watermark_advanced": false
+  },
+  "access_limits": [
+    "Live Reddit engagement and complete fresh feed unavailable; cached originals or indexed evidence only.",
+    "Quora search pages inaccessible.",
+    "Official Google search encountered traffic challenge; stopped, no People also ask available. Ordinary web search used only as fallback discovery.",
+    "Official Trends US past7day request returned429; stopped; no Canada/30day/Top/Rising/seasonality data and no qualified trend."
+  ],
+  "rejected_candidates": [
+    {
+      "topic": "Nov23 personal Summer/Winter typing +10",
+      "reason": "Already addressed in November24 update; more votes do not create a new intent."
+    },
+    {
+      "topic": "Nov23 Summer/Autumn drapes +5",
+      "reason": "Covered comparison; no distinct useful gap found."
+    },
+    {
+      "topic": "Nov18 postpartum recovery +6",
+      "reason": "Already treated November24; not counted twice."
+    },
+    {
+      "topic": "Oct31 urge-incontinence crossposts +7/+5",
+      "reason": "Same question across communities; existing urgency review and bladder-training guides already cover the decision."
+    },
+    {
+      "topic": "Nov21 recovery testimonial +14",
+      "reason": "Not clinical evidence or a new question; only a distinct subsequent reader question selected."
+    },
+    {
+      "topic": "May2026 treatment technology and January2026 workout-leak discussions",
+      "reason": "Outside freshest usable 30day window; recent comments do not make the original question fresh."
+    },
+    {
+      "topic": "Male-specific prostatitis and promotional exercise posts",
+      "reason": "Outside verified app scope or not a reader question."
+    }
+  ],
+  "trends": {
+    "explore_url": "https://trends.google.com/trends/explore?date=now%207-d&geo=US&q=color%20analysis,pelvic%20floor&hl=en",
+    "seeds": [
+      "color analysis",
+      "pelvic floor"
+    ],
+    "seed_type": "search terms",
+    "country": "US",
+    "window": "past7days",
+    "category": "All",
+    "search_type": "Web Search",
+    "observed_at": "2026-11-26T18:03:44.287Z",
+    "status": "rate_limited",
+    "growth": null,
+    "breakout": null,
+    "data_sufficiency": "unknown",
+    "unattempted_after_stop": [
+      "Canada",
+      "30days",
+      "seasonality"
+    ]
+  },
+  "google": {
+    "url": "https://www.google.com/search?q=color+analysis+questions&hl=en",
+    "observed_at": "2026-11-26T18:03:56.720Z",
+    "status": "automated_traffic_challenge",
+    "people_also_ask": null
+  },
+  "measurement": {
+    "status": "authentication_required",
+    "private_snapshot": "../seo-analytics/snapshots/2026-11-26-2200/snapshot.json",
+    "private_report": "../seo-analytics/snapshots/2026-11-26-2200/report.html",
+    "method": "Isolated persistent headless Playwright"
+  },
+  "shortfall": {
+    "stylist_ai": {
+      "target": 5,
+      "new": 1,
+      "updated": 4,
+      "unfilled": 0
+    },
+    "pelvic_gym": {
+      "target": 5,
+      "new": 1,
+      "updated": 2,
+      "unfilled": 2
+    },
+    "note": "Two health slots unfilled: remaining accessible recent questions already covered, duplicated previous batches, outside app scope or insufficiently accessible. No filler created."
+  },
+  "review_status": "No clinician engaged; no independent review claimed; draft diary remains private.",
+  "notification": {
+    "channel": "existing_chat",
+    "telegram": "Destination pending; not sent."
+  },
+  "validation": {
+    "builds": "Passed:44 Pelvic articles and97 Stylist records including34 city guides.",
+    "content": "Both journal validators passed, metadata, links, anchors, structured data, sitemap and app destinations.",
+    "analytics": "Both consent lifecycle tests and JavaScript syntax checks passed.",
+    "city_guides": "34 passed; no duplicate authored paragraphs or long sentences.",
+    "layout": "16 headless Playwright page checks passed at1440px and390px; all images loaded, no horizontal overflow, official Apple badges and Smart App Banner metadata present. Representative screenshots visually inspected.",
+    "protected_files": {
+      "checked": 199,
+      "changed": 0
+    },
+    "original_publication_dates": {
+      "checked": 139,
+      "changed": 0
+    },
+    "private_charts": "Rendered and inspected; current authentication limit and stale figures explicit.",
+    "public_discussions": "No Reddit/Quora links or text in selected public HTML.",
+    "app_destinations": "Apple public lookup confirms IDs6739435502 and6478076577.",
+    "diff_check": "passed"
+  },
+  "capacity": {
+    "working_file_bytes": 52113910,
+    "git_object_bytes": 86967296,
+    "threshold_bytes": 800000000,
+    "can_add_illustrations": true,
+    "new_cover_bytes": [
+      115748,
+      181040
+    ],
+    "responsive_variants": 4
+  },
+  "prepared_at": "2026-11-26T18:14:42.298639+00:00"
+}

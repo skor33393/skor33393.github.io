@@ -25,8 +25,8 @@
       },
       {
         "id": "appointment-checklist",
-        "title": "Leave the appointment with three clear instructions",
-        "html": "<p>Use this checklist to separate questions that can otherwise blur together. It is a way to organize a conversation, not a self-prescribed treatment plan.</p><table><thead><tr><th>Part of the plan</th><th>Question to ask</th><th>What to keep</th></tr></thead><tbody><tr><td>Exercises</td><td>Which exercises should I do with this pessary, and what should make me stop and contact you?</td><td>The individual routine and a contact for concerns.</td></tr><tr><td>Device care</td><td>Who removes and cleans it, and what schedule applies to this type?</td><td>The instructions from the fitting service, including whether self-management has been taught.</td></tr><tr><td>Follow-up</td><td>When will the fit and my symptoms be reviewed?</td><td>The appointment date and how to arrange an earlier review.</td></tr></tbody></table><p>For example, you might leave with an exercise sheet from physiotherapy but no clear device-care contact. Resolve that gap with the fitting service. An app reminder to train cannot fill in missing pessary-care instructions.</p>"
+        "title": "Make the follow-up about your everyday goals",
+        "html": "<p>A pessary fitting should leave you with a plan for both the device and the symptoms that brought you there. <a href=\"https://www.rcog.org.uk/for-the-public/browse-our-patient-information/pelvic-organ-prolapse/\">RCOG explains that treatment choices depend on symptoms and individual circumstances</a>. Using a pessary does not prevent a later discussion of other options. Ask when your response will be reviewed rather than assuming the fitting settles every question.</p><table><thead><tr><th>Part of the plan</th><th>Question to ask</th><th>What to keep</th></tr></thead><tbody><tr><td>Everyday goal</td><td>Which activity are we trying to make more comfortable, and what changes should I report?</td><td>One personally meaningful goal, such as completing a usual walk.</td></tr><tr><td>Exercises</td><td>Which routine is appropriate with this device, and what should make me pause it?</td><td>Individual instructions, including the release and a contact for concerns.</td></tr><tr><td>Device care</td><td>Who removes and cleans it, and what schedule applies to this type?</td><td>The fitting service’s instructions; whether self-management has been taught.</td></tr><tr><td>Review</td><td>When will we check fit and symptoms, and what happens if the plan is not helping?</td><td>A review date and a route to earlier advice.</td></tr></tbody></table><p>For example: “The device feels comfortable at rest, but I still get pressure during my usual walk. Should we review the fit, the activity plan or both?” You do not need to decide the cause yourself. Describe the task and timing so the care team can assess it.</p><p>If you received an exercise sheet without a device-care contact, resolve that gap with the fitting service. An app reminder cannot supply missing pessary instructions or decide whether another treatment is suitable.</p>"
       },
       {
         "id": "symptom-review",
@@ -71,13 +71,14 @@
     "cta": "assessment",
     "keyword": "Can I do pelvic floor exercises with a pessary?",
     "datePublished": "2026-11-12",
-    "dateModified": "2026-11-12",
+    "dateModified": "2026-11-26",
     "sourcesChecked": "2026-11-12",
     "illustration": {
       "src": "/pelvic_gym/assets/illustrations/pelvic-floor-exercises-with-pessary.webp",
       "width": 1200,
       "height": 800,
       "alt": "A woman discussing a calendar and care plan with a clinician, with a simple ring pessary on a tray."
-    }
+    },
+    "sourceCheckNote": " The goal-based follow-up section was checked against RCOG on November 26, 2026. Its appointment example is original editorial preparation; earlier source-check scope is unchanged."
   }
 ]

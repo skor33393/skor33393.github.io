@@ -5,8 +5,8 @@
   "description": "Choose a winter coat color using five outfits you already wear, your usual boots and a realistic care check. Compare navy, camel and burgundy before buying.",
   "category": "Everyday style",
   "datePublished": "2026-11-12",
-  "dateModified": "2026-11-24",
-  "sourcesChecked": "2026-11-12",
+  "dateModified": "2026-11-26",
+  "sourcesChecked": "2026-11-26",
   "excerpt": "Choose a winter coat color using five outfits you already wear, your usual boots and a realistic care check. Compare navy, camel and burgundy before buying.",
   "quickAnswer": "Choose the coat color that works with the outfits, boots and layers you use most. Test a dark neutral, a lighter neutral and an accent against five real outfits. The most useful choice is the one you will wear comfortably without needing to replace the rest of your wardrobe.",
   "sections": [
@@ -27,8 +27,8 @@
     },
     {
       "id": "care-and-photo",
-      "title": "Check the unglamorous details before deciding",
-      "html": "<p>Ask to see the care label and factor in the maintenance you are willing to do. The <a href=\"https://www.ftc.gov/business-guidance/industry/clothing-and-textiles\">FTC’s clothing guidance</a> explains the role of care instructions and fiber labels. The useful shopping question is simple: can you look after this particular coat as instructed, at a cost and effort that fit your routine?</p><p>If shopping online, inspect several product views and the return terms. <a href=\"https://www.adobe.com/creativecloud/photography/technique/white-balance.html\">Adobe explains that lighting and white balance affect photographic colors</a>, so a screen image is a starting reference. Do not buy replacement shoes solely because an online coat photo seems a slightly different brown.</p>"
+      "title": "Inspect the coat before the color wins you over",
+      "html": "<p>Bring the knit you normally wear under a coat. Fasten the coat, reach forward and sit down. Check whether the shoulders pull, the sleeves catch on your knit or the front opens awkwardly when you move. A coat that works only over a thin shop try-on top may not suit your daily layers.</p><ul><li><strong>Seams and edges:</strong> look for loose stitching, uneven joins or areas already coming apart.</li><li><strong>Buttons and closures:</strong> fasten each one. Check whether it feels secure and whether the fabric pulls around it.</li><li><strong>Lining and pockets:</strong> check for tears, twisting or pockets that are uncomfortable to use with the coat closed.</li><li><strong>Label and seller details:</strong> read the stated fiber content, care instructions and return terms. The fiber percentage alone is not a promise of durability or sufficient warmth.</li></ul><p>The <a href=\"https://www.ftc.gov/business-guidance/resources/clothes-captioning-complying-care-labeling-rule\">FTC explains the role of garment care instructions</a>. Price the care routine you would actually follow, alongside any alteration, rather than using the purchase price as the entire budget. You can choose a coat because you like it without treating a brand name as evidence that it will last a particular number of years.</p><p>For online shopping, ask for the missing label or construction view before committing. <a href=\"https://www.adobe.com/creativecloud/photography/technique/white-balance.html\">Lighting and white balance affect photographic color</a>, so compare the coat with your clothes in person when possible. Use the same five-outfit test above after the practical checks pass.</p>"
     },
     {
       "id": "decision",
@@ -48,8 +48,8 @@
   ],
   "sources": [
     {
-      "title": "FTC: Clothing and textiles",
-      "url": "https://www.ftc.gov/business-guidance/industry/clothing-and-textiles"
+      "title": "FTC: Clothing care labels",
+      "url": "https://www.ftc.gov/business-guidance/resources/clothes-captioning-complying-care-labeling-rule"
     },
     {
       "title": "Adobe: White balance",
