@@ -5,7 +5,7 @@
   "description": "Decide whether a pale dress fits the invitation, keep the silhouette you love and compare clearer color alternatives without buying a whole new look.",
   "category": "Wardrobe & shopping",
   "datePublished": "2026-11-04",
-  "dateModified": "2026-11-04",
+  "dateModified": "2026-11-27",
   "sourcesChecked": "2026-11-04",
   "sortOrder": -10,
   "excerpt": "Decide whether a pale dress fits the invitation, keep the silhouette you love and compare clearer color alternatives without buying a whole new look.",
@@ -30,6 +30,11 @@
       "id": "keep-the-shape",
       "title": "Keep the silhouette and change one ingredient",
       "html": "<p>Imagine a pale full-skirt midi dress that you enjoy because of its movement. Our illustration keeps that basic silhouette while exploring rose, medium blue and plum. None is a product recommendation; the example shows how a color change can preserve the outfit's main appeal.</p><ul><li><strong>If you want softness:</strong> try a clearly colored rose or blue rather than an almost-white pastel.</li><li><strong>If you want a stronger evening look:</strong> try a deeper version of a color you already wear, provided the event's dress code fits.</li><li><strong>If volume is the concern:</strong> compare the skirt with less fullness before also changing its color, neckline and accessories.</li></ul><p>Use one pair of shoes and one bag for the comparison. Changing every accessory makes it harder to identify which dress works. You may be able to borrow or rewear a suitable option; the exercise does not require a new purchase.</p>"
+    },
+    {
+      "id": "changing-fit",
+      "title": "What if your usual occasion clothes no longer fit?",
+      "html": "<p>Choose for the body and event you have now. You do not need to predict a future size to deserve an outfit that feels good today. If this purchase may have a short useful life, set a total budget that includes alterations, delivery, return costs and any missing underlayers.</p><table><thead><tr><th>Route</th><th>Check before committing</th></tr></thead><tbody><tr><td>Borrow</td><td>Try the complete outfit early, agree on cleaning, and ask before making even a small alteration.</td></tr><tr><td>Rent</td><td>Check the actual garment measurements, delivery buffer, backup-size arrangements and what happens if neither size fits. Terms vary by service.</td></tr><tr><td>Buy for current fit</td><td>Prioritize comfortable sitting, arm movement and a neckline you do not need to keep adjusting. Get an alteration quote before removing return tags.</td></tr></tbody></table><p>For two upcoming events, start by trying one suitable outfit with two accessory combinations. A blue dress with familiar shoes could be worn once with a light wrap and once with darker jewelry. Repeating it is an option; buying a second dress is not a requirement. If a dress does not work, ask whether tailored separates or a jumpsuit fit the hosts’ expectations.</p><p>An adjustable waist or stretch panel may be worth trying, but it does not guarantee fit or determine formality. Judge the complete garment against the invitation. <a href=\"https://emilypost.com/advice/wedding-guest-attire\">Emily Post’s guidance considers the event and its stated requirements</a>; one fabric characteristic cannot supply the whole answer.</p><p>Before ordering, write: “I need this by this date, it must work while sitting, and my complete-outfit budget is this amount.” Use Stylist AI to narrow the color choices that also work with your existing shoes and layers. Keep fit, access needs and the return decision grounded in the actual garment.</p>"
     },
     {
       "id": "whole-day",

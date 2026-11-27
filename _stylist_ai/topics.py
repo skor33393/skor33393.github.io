@@ -30,6 +30,7 @@ TOPICS = [
                 ('Care for dark denim', 'keep-dark-jeans-dark'),
                 ('Choose a layer under a blouse', 'what-to-wear-under-blouses'),
                 ('Try relaxed petite proportions', 'petite-oversized-outfit-proportions'),
+                ('Decide whether to alter a vintage skirt', 'should-you-alter-a-vintage-skirt'),
                 ('Build comfortable home outfits', 'comfortable-home-outfits-without-dresses'),
                 ('Try combinations beyond the obvious', 'unexpected-outfit-color-combinations'),
                 ('Use deeper colors in everyday outfits', 'deep-autumn-outfit-ideas'),

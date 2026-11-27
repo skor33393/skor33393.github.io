@@ -1,0 +1,254 @@
+{
+  "run_id": "2026-11-27-2200",
+  "status": "ready_to_publish",
+  "started_at": "2026-11-27T17:57:44.827Z",
+  "timezone": "Asia/Dubai",
+  "selected": [
+    {
+      "app": "stylist_ai",
+      "slug": "wedding-guest-dress-color",
+      "outcome": "updated",
+      "question": "How can I choose wedding-guest clothes when my usual clothes no longer fit?",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xwpx9e/daily_questions_thread_november_15_2026/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-15",
+      "observed_at": "2026-11-27T18:08:14.403127+00:00",
+      "votes": null,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Original comment visible in cached November15 thread, lines166–167. Comment score and live totals not exposed.",
+      "question_form": "Editorially generalized question; no personal medical anecdote reused.",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/wedding-guest-dress-color/",
+      "brief": {
+        "reader_decision": "Choose borrow/rent/buy for current fit and a limited occasion budget.",
+        "overlap_decision": "Extend existing event-outfit guide; no separate postpartum shopping article.",
+        "original_resource": "Three-route cost/fit comparison and one-outfit two-event example.",
+        "app_role": "Explore suitable colors that work with existing shoes and layers."
+      },
+      "selection_reason": "Useful uncovered decision after excluding repeated recent intents; selection uses accessible cached evidence, not a claim of highest live popularity."
+    },
+    {
+      "app": "stylist_ai",
+      "slug": "should-you-alter-a-vintage-skirt",
+      "outcome": "new",
+      "question": "Should I shorten a vintage skirt or preserve its original shape?",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xwpx9e/daily_questions_thread_november_15_2026/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-15",
+      "observed_at": "2026-11-27T18:08:14.403127+00:00",
+      "votes": null,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Original comment visible in cached November15 thread, lines251–252. Comment score and live totals not exposed.",
+      "question_form": "Editorially generalized question; no personal medical anecdote reused.",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/should-you-alter-a-vintage-skirt/",
+      "brief": {
+        "reader_decision": "Decide whether a permanent alteration solves the actual outfit problem.",
+        "overlap_decision": "Distinct alteration decision; oversized proportions alone does not cover the tailoring tradeoff.",
+        "original_resource": "Original three-look illustration with the same skirt, tailor brief and keep/alter/pass-on choices.",
+        "app_role": "Try palette and color combinations before changing the garment."
+      },
+      "selection_reason": "Useful uncovered decision after excluding repeated recent intents; selection uses accessible cached evidence, not a claim of highest live popularity."
+    },
+    {
+      "app": "stylist_ai",
+      "slug": "choose-winter-coat-color",
+      "outcome": "updated",
+      "question": "Does a coat need to be longer than the skirt?",
+      "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xwpx9e/daily_questions_thread_november_15_2026/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-15",
+      "observed_at": "2026-11-27T18:08:14.403127+00:00",
+      "votes": null,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Original coat-comparison comment and follow-ups visible in cached November15 thread. At least three reply perspectives visible, not a verified total. Exact comment score unknown; unseen photos not interpreted.",
+      "question_form": "Editorially generalized question; no personal medical anecdote reused.",
+      "article_url": "https://bestme.mobi/stylist_ai/blog/choose-winter-coat-color/",
+      "brief": {
+        "reader_decision": "Choose a comfortable coat without assuming a mandatory hem relationship.",
+        "overlap_decision": "Add length comparison to existing coat guide, separate from November26 construction inspection.",
+        "original_resource": "Three hem relationships and a controlled try-on using one skirt.",
+        "app_role": "Compare coat and visible skirt colors after comfort and shape checks."
+      },
+      "selection_reason": "Useful uncovered decision after excluding repeated recent intents; selection uses accessible cached evidence, not a claim of highest live popularity."
+    },
+    {
+      "app": "pelvic_gym",
+      "slug": "pelvic-floor-exercises-with-pessary",
+      "outcome": "updated",
+      "question": "Can a pessary stay in during sex?",
+      "question_url": "https://www.reddit.com/r/PelvicOrganProlapse/comments/1xz3x73/can_i_have_sex_with_a_pessary/",
+      "platform": "Reddit",
+      "posted_date": null,
+      "observed_at": "2026-11-27T18:08:14.403127+00:00",
+      "votes": null,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Cached original says 3d ago; crawl says 6days ago. Absolute date not verified; do not convert cache-relative age into a new post date. Multiple replies visible; total and scores unavailable.",
+      "question_form": "Editorially generalized question; no personal medical anecdote reused.",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-exercises-with-pessary/",
+      "brief": {
+        "reader_decision": "Clarify instructions for the actual fitted device before intimacy or self-removal.",
+        "overlap_decision": "Existing pessary guide is the useful destination; add device-specific question and clinic message.",
+        "original_resource": "Plain-language message requesting type, intimacy instructions and taught self-management.",
+        "app_role": "Cannot fit or position a device; only clinician-agreed strengthening when suitable."
+      },
+      "selection_reason": "Useful uncovered decision after excluding repeated recent intents; selection uses accessible cached evidence, not a claim of highest live popularity."
+    },
+    {
+      "app": "pelvic_gym",
+      "slug": "pelvic-organ-prolapse-exercise",
+      "outcome": "updated",
+      "question": "Does prolapse surgery always need repeating after five years?",
+      "question_url": "https://www.reddit.com/r/PelvicOrganProlapse/comments/1xl8y2p/prolapse_surgery_why_did_i_wait_so_long/",
+      "platform": "Reddit",
+      "posted_date": "2026-11-03",
+      "observed_at": "2026-11-27T18:08:14.403127+00:00",
+      "votes": 1,
+      "comments": null,
+      "live_votes": null,
+      "engagement_provenance": "Indexed November3 question comment +1 inside November1 thread +99. Parent attention is not the selected-comment score. Current votes and total comments unavailable.",
+      "question_form": "Editorially generalized question; no personal medical anecdote reused.",
+      "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-organ-prolapse-exercise/",
+      "brief": {
+        "reader_decision": "Understand recurrence as a risk rather than a fixed replacement timetable.",
+        "overlap_decision": "Extend existing treatment-options section rather than create an app-promotional surgery page.",
+        "original_resource": "Four questions separating recurrence definitions, alternatives, outcomes and recovery.",
+        "app_role": "Exercise app cannot guarantee avoidance of surgery or recurrence; agree any postoperative routine with team."
+      },
+      "selection_reason": "Useful uncovered decision after excluding repeated recent intents; selection uses accessible cached evidence, not a claim of highest live popularity."
+    }
+  ],
+  "scan": {
+    "watermark_before": "2026-11-09T18:00:45.494Z",
+    "windows": [
+      "since previous successful scan",
+      "past7days",
+      "past30days; verified selected dates Nov3–15, one cache-relative date unknown"
+    ],
+    "complete": false,
+    "watermark_advanced": false
+  },
+  "access_limits": [
+    "Reddit evidence is cached or indexed; complete fresh feeds and current vote/comment totals unavailable. Three style decisions come from the freshest accessible thread with remaining uncovered gaps.",
+    "Quora public search pages inaccessible.",
+    "Actual Google search returned automated-traffic challenge; stopped. No People also ask observed; ordinary web search used only as fallback discovery.",
+    "Official Trends US past7day request returned429; stopped. Canada,30day,Top/Rising and seasonality unavailable; no qualified trend."
+  ],
+  "rejected_candidates": [
+    {
+      "topic": "Nov24 pessary follow-up question +9 indexed",
+      "reason": "Already treated November26; current device-intimacy question is a separate practical gap."
+    },
+    {
+      "topic": "Nov23 Summer/Autumn drapes +5 indexed",
+      "reason": "Existing seasonal comparison covers the intent; no new useful gap."
+    },
+    {
+      "topic": "Nov20 colorful office clothing comment +1 / parent +7",
+      "reason": "Already covered by November24 casual-office update."
+    },
+    {
+      "topic": "Need help building courage; cached5d ago",
+      "reason": "Existing first-appointment guide already addresses consent, remaining clothed and external work; no new page or counted update."
+    },
+    {
+      "topic": "Nov15 ambiguous formal-black dress code",
+      "reason": "Existing party guide already explains asking for concrete examples; repetition avoided."
+    },
+    {
+      "topic": "Nov15 patterned shoes",
+      "reason": "Treated November26; not counted again."
+    },
+    {
+      "topic": "Photo-session coordination and blouse underlayers",
+      "reason": "Existing original comparisons and movement checks already cover the accessible questions."
+    },
+    {
+      "topic": "PelvicFloor new-feed specialized surgery questions and male-specific symptoms",
+      "reason": "Outside verified app audience or unsuitable scope for a useful app role."
+    },
+    {
+      "topic": "Oct22 painful-period discussion with Nov4 comments",
+      "reason": "Original outside30day window and existing painful-period guide covers it."
+    },
+    {
+      "topic": "Prolapse recurrence feed question without accessible original date",
+      "reason": "Insufficient freshness evidence plus existing heaviness/assessment guidance; no further update."
+    },
+    {
+      "topic": "Older2023 tight-floor recovery thread and Reddit developer/advertiser pages",
+      "reason": "Outdated or irrelevant search results; not current reader demand."
+    }
+  ],
+  "trends": {
+    "explore_url": "https://trends.google.com/trends/explore?date=now%207-d&geo=US&q=color%20analysis,pelvic%20floor&hl=en",
+    "seeds": [
+      "color analysis",
+      "pelvic floor"
+    ],
+    "seed_type": "search terms",
+    "country": "US",
+    "window": "past7days",
+    "category": "All",
+    "search_type": "Web Search",
+    "observed_at": "2026-11-27T17:58:43.736Z",
+    "status": "rate_limited",
+    "growth": null,
+    "breakout": null,
+    "data_sufficiency": "unknown",
+    "unattempted_after_stop": [
+      "Canada",
+      "30days",
+      "seasonality"
+    ]
+  },
+  "google": {
+    "url": "https://www.google.com/search?q=color+analysis+questions&hl=en",
+    "observed_at": "2026-11-27T17:58:45.005Z",
+    "status": "automated_traffic_challenge",
+    "people_also_ask": null
+  },
+  "measurement": {
+    "status": "authentication_required",
+    "private_snapshot": "../seo-analytics/snapshots/2026-11-27-2200/snapshot.json",
+    "private_report": "../seo-analytics/snapshots/2026-11-27-2200/report.html",
+    "method": "Isolated persistent headless Playwright"
+  },
+  "shortfall": {
+    "stylist_ai": {
+      "target": 5,
+      "new": 1,
+      "updated": 2,
+      "unfilled": 2
+    },
+    "pelvic_gym": {
+      "target": 5,
+      "new": 0,
+      "updated": 2,
+      "unfilled": 3
+    },
+    "note": "Five slots unfilled: remaining accessible questions repeat existing treatments, lack usable evidence or sit outside suitable app scope. No filler created."
+  },
+  "review_status": "No clinician engaged; no independent review claimed; original draft diary remains private.",
+  "notification": {
+    "channel": "existing_chat",
+    "telegram": "Destination pending; not sent."
+  },
+  "validation": {
+    "builds": "passed",
+    "validators": "passed",
+    "analytics_consent_tests": "passed",
+    "city_checks": "passed",
+    "desktop_mobile_layouts": 10,
+    "layout_status": "passed",
+    "protected_files_unchanged": 199,
+    "original_publication_dates_unchanged": 141,
+    "public_forum_mentions": 0,
+    "new_illustration_bytes": 73600,
+    "working_file_bytes": 52291263,
+    "git_object_bytes": 87958528,
+    "private_evidence": "../seo-daily/2026-11-27/"
+  }
+}

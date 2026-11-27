@@ -453,6 +453,11 @@
         "id": "options",
         "title": "Where do pessaries and other care fit?",
         "html": "<p>A vaginal pessary is a fitted support device, not a training weight. <a href=\"https://www.rcog.org.uk/for-the-public/browse-our-patient-information/pelvic-organ-prolapse/\">RCOG describes physiotherapy, pessaries and surgery</a> as options chosen according to symptoms and preferences. Not everyone with prolapse needs an operation.</p><p>If symptoms limit activity, ask whether a pessary might be appropriate and what fitting, removal and follow-up would involve. Also discuss constipation and a persistent cough; <a href=\"https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/pelvic-organ-prolapse/\">Gloucestershire's guidance</a> includes addressing these repeated sources of strain.</p><p>Report changing bladder emptying, new pain or unexpected bleeding rather than attributing everything to an established diagnosis. Sudden inability to pass urine needs immediate medical care; see <a href=\"https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes\">NIDDK’s urinary retention guidance</a>. For ongoing questions, our <a href=\"/pelvic_gym/articles/pelvic-floor-therapy-what-to-expect/\">physiotherapy appointment guide</a> can help you prepare. A useful plan makes room for review and more than one treatment option.</p><p>For a specific activity decision, read <a href=\"/pelvic_gym/articles/cycling-with-pelvic-organ-prolapse/\">cycling with prolapse</a>. If you are trying to describe a new sensation, our <a href=\"/pelvic_gym/articles/pelvic-heaviness-pressure/\">pelvic heaviness guide</a> helps prepare that conversation.</p>"
+      },
+      {
+        "id": "recurrence-and-choices",
+        "title": "Does prolapse surgery have to be repeated every five years?",
+        "html": "<p>There is no universal five-year replacement schedule for prolapse surgery. Recurrence is a risk to discuss for the proposed operation, not a promise that everyone will need another procedure on a particular date. <a href=\"https://www.rcog.org.uk/for-the-public/browse-our-patient-information/pelvic-organ-prolapse/\">RCOG explains that prolapse can return after surgery and that further treatment may sometimes be needed</a>. That is different from an automatic timetable for repeat surgery.</p><p>Ask what a quoted outcome actually measures. A finding on examination, symptoms that affect daily life and having another operation are different outcomes. A percentage is hard to interpret without knowing the procedure, the people studied, the follow-up period and which outcome was counted.</p><table><thead><tr><th>Ask the specialist</th><th>What you need to understand</th></tr></thead><tbody><tr><td>What result is this operation intended to improve?</td><td>The symptom or activity goal in your case.</td></tr><tr><td>What does recurrence mean in the figures you are quoting?</td><td>Whether the figures describe examination findings, symptoms or repeat treatment, and over what period.</td></tr><tr><td>What are my alternatives?</td><td>What continuing or changing nonsurgical care would involve.</td></tr><tr><td>What would recovery and later review look like?</td><td>The practical support you would need and how new symptoms would be assessed.</td></tr></tbody></table><p><a href=\"https://www.nice.org.uk/guidance/ng123/resources/surgery-for-uterine-prolapse-user-guide-pdf-6725286113\">NICE’s decision-aid guidance</a> calls for discussion of treatment alternatives, benefits and harms, recurrence and uncertainty. If symptoms have not improved with nonsurgical care, or you do not want that care, a surgical discussion is a reasonable part of reviewing options. It does not commit you to an operation or establish that one procedure is best for you.</p><p>Bring the goals that remain unmet and the treatments you have actually tried. Exercise progress is one part of that discussion. More repetitions in Pelvic Gym cannot guarantee that surgery will be avoided, prevent every recurrence or decide when another treatment is needed. If an operation is planned, ask the treating team when and whether your exercise routine should restart.</p>"
       }
     ],
     "faqs": [
@@ -497,6 +502,10 @@
       {
         "title": "NICE NG210: Pelvic floor dysfunction recommendations",
         "url": "https://www.nice.org.uk/guidance/ng210/chapter/Recommendations"
+      },
+      {
+        "title": "NICE: Surgery for uterine prolapse, decision-aid user guide",
+        "url": "https://www.nice.org.uk/guidance/ng123/resources/surgery-for-uterine-prolapse-user-guide-pdf-6725286113"
       }
     ],
     "related": [
@@ -507,9 +516,9 @@
     "cta": "assessment",
     "keyword": "pelvic organ prolapse exercise",
     "researchNote": "Sources checked 2026-10-24. Activity planning and treatment-options intent. Avoids promises of anatomical cure and universal exercise clearance; symptom-led review does not replace examination.",
-    "dateModified": "2026-11-12",
+    "dateModified": "2026-11-27",
     "datePublished": "2026-10-24",
-    "sourceCheckNote": "Existing article sources retain their previously recorded check dates. The New postpartum symptoms before the routine check section was checked against its linked sources on November 1, 2026. Walking section checked against the indexed official text of NICE NG210 recommendation 1.6.12 on November 12, 2026; earlier source-check dates remain applicable to the other sections."
+    "sourceCheckNote": "Existing article sources retain their previously recorded check dates. The New postpartum symptoms before the routine check section was checked against its linked sources on November 1, 2026. Walking section checked against the indexed official text of NICE NG210 recommendation 1.6.12 on November 12, 2026; earlier source-check dates remain applicable to the other sections. Recurrence and choices section checked against RCOG and NICE decision-aid guidance on November 27, 2026; no independent clinical review claimed."
   },
   {
     "slug": "painful-sex-and-pelvic-floor",
