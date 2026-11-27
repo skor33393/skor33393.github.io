@@ -1,6 +1,6 @@
 {
   "run_id": "2026-11-27-2200",
-  "status": "ready_to_publish",
+  "status": "completed",
   "started_at": "2026-11-27T17:57:44.827Z",
   "timezone": "Asia/Dubai",
   "selected": [
@@ -250,5 +250,15 @@
     "working_file_bytes": 52291263,
     "git_object_bytes": 87958528,
     "private_evidence": "../seo-daily/2026-11-27/"
+  },
+  "completed_at": "2026-11-27T18:19:40.086650+00:00",
+  "deployment": {
+    "status": "built_and_verified",
+    "commit": "ce851f87fd298a4969aa1df3cfa328972325b76d",
+    "workflow_run_id": 46048215125,
+    "pages_built_at": "2026-11-27T18:17:12Z",
+    "verified_at": "2026-11-27T18:19:40.086650+00:00",
+    "checked": 412,
+    "passed": 412
   }
 }

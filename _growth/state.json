@@ -28,7 +28,8 @@
     "2026-11-12-2200": "completed",
     "2026-11-13-2200": "completed",
     "2026-11-24-2200": "completed",
-    "2026-11-26-2200": "completed"
+    "2026-11-26-2200": "completed",
+    "2026-11-27-2200": "completed"
   },
   "articles": {
     "stylist_ai": [
@@ -780,6 +781,27 @@
         "run_id": "2026-11-26-2200",
         "status": "updated",
         "verified_at": "2026-11-26T18:18:06.976250+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xwpx9e/daily_questions_thread_november_15_2026/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/wedding-guest-dress-color/",
+        "run_id": "2026-11-27-2200",
+        "status": "updated",
+        "verified_at": "2026-11-27T18:19:40.086650+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xwpx9e/daily_questions_thread_november_15_2026/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/should-you-alter-a-vintage-skirt/",
+        "run_id": "2026-11-27-2200",
+        "status": "new",
+        "verified_at": "2026-11-27T18:19:40.086650+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/femalefashionadvice/comments/1xwpx9e/daily_questions_thread_november_15_2026/",
+        "article_url": "https://bestme.mobi/stylist_ai/blog/choose-winter-coat-color/",
+        "run_id": "2026-11-27-2200",
+        "status": "updated",
+        "verified_at": "2026-11-27T18:19:40.086650+00:00"
       }
     ],
     "pelvic_gym": [
@@ -1454,6 +1476,20 @@
         "run_id": "2026-11-26-2200",
         "status": "new",
         "verified_at": "2026-11-26T18:18:06.976250+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicOrganProlapse/comments/1xz3x73/can_i_have_sex_with_a_pessary/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-floor-exercises-with-pessary/",
+        "run_id": "2026-11-27-2200",
+        "status": "updated",
+        "verified_at": "2026-11-27T18:19:40.086650+00:00"
+      },
+      {
+        "question_url": "https://www.reddit.com/r/PelvicOrganProlapse/comments/1xl8y2p/prolapse_surgery_why_did_i_wait_so_long/",
+        "article_url": "https://bestme.mobi/pelvic_gym/articles/pelvic-organ-prolapse-exercise/",
+        "run_id": "2026-11-27-2200",
+        "status": "updated",
+        "verified_at": "2026-11-27T18:19:40.086650+00:00"
       }
     ]
   },
